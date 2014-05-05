@@ -1,0 +1,142 @@
+Report for Institution Code ROM, Resource birdspass
+Usage stats for April, 2014, generated on 2014/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 56
+Number of records retrieved in searches: 1415
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 10
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 35
+	Country: Unknown ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-01 ; Times: 6
+	Date: 2014-04-04 ; Times: 1
+	Date: 2014-04-05 ; Times: 4
+	Date: 2014-04-06 ; Times: 1
+	Date: 2014-04-07 ; Times: 2
+	Date: 2014-04-08 ; Times: 3
+	Date: 2014-04-09 ; Times: 2
+	Date: 2014-04-10 ; Times: 5
+	Date: 2014-04-15 ; Times: 2
+	Date: 2014-04-16 ; Times: 4
+	Date: 2014-04-17 ; Times: 4
+	Date: 2014-04-18 ; Times: 1
+	Date: 2014-04-22 ; Times: 1
+	Date: 2014-04-23 ; Times: 2
+	Date: 2014-04-24 ; Times: 2
+	Date: 2014-04-26 ; Times: 2
+	Date: 2014-04-27 ; Times: 4
+	Date: 2014-04-28 ; Times: 2
+	Date: 2014-04-29 ; Times: 4
+	Date: 2014-04-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "malurus alboscapulatus" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.37872085343753,-119.14535522460938))<3240" ; Times: 1
+	Query: "aves verrill" ; Times: 1
+	Query: ""moa"" ; Times: 1
+	Query: "Navajo Canyon stateprovince:"California" mappable:1" ; Times: 1
+	Query: "1265" ; Times: 1
+	Query: "specificepithet:coronata. year >= 1892 year <= 1892" ; Times: 1
+	Query: "Perisoreus canadensis type:specimen institutioncode:ROM" ; Times: 1
+	Query: "parotia wahnesi" ; Times: 2
+	Query: "dendroica institutioncode:ROM" ; Times: 1
+	Query: "3270" ; Times: 1
+	Query: "molothrus ater wyoming" ; Times: 1
+	Query: "Cowan" ; Times: 1
+	Query: "kirtlandii" ; Times: 1
+	Query: "type:specimen specificepithet:chrysogaster genus:basileuterus" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "ocreatus" ; Times: 2
+	Query: "Icterus cucullatus riverside" ; Times: 1
+	Query: "carolina parakeet" ; Times: 3
+	Query: "verrill dominica" ; Times: 1
+	Query: "class:Aves hastypestatus:1" ; Times: 1
+	Query: "country:"Bulgaria" institutioncode:ROM" ; Times: 2
+	Query: "Golden Eagle" ; Times: 1
+	Query: "formicivora grisea" ; Times: 1
+	Query: "passenger pigeon" ; Times: 2
+	Query: "institutioncode:ROM" ; Times: 1
+	Query: "Great auk" ; Times: 1
+	Query: "batanta" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.37872085343753,-119.14535522460938))<2421" ; Times: 1
+	Query: "dendroica virens institutioncode:ROM" ; Times: 2
+	Query: "Cabinda" ; Times: 1
+	Query: "Vireo olivaceus type:specimen institutioncode:MVZ OR FMNH OR UMMZ OR CAS OR UWBM OR PSM" ; Times: 1
+	Query: "Cistothorus palustris institutioncode:ROM" ; Times: 1
+	Query: "institutioncode:rom" ; Times: 1
+	Query: "zonotrichia capensis country:"Peru"" ; Times: 2
+	Query: "specificepithet:montanus genus:Passer institutioncode:ROM mappable:1" ; Times: 1
+	Query: "stateprovince:"prince edward island"" ; Times: 3
+	Query: "Pachycephala pectoralis" ; Times: 1
+	Query: "Aves: Dendroica virens" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.37872085343753,-119.14535522460938))<1285.7473834491175" ; Times: 1
+	Query: "Cuando Cubango" ; Times: 2
+	Query: "polar bear" ; Times: 1
+	Query: "gulgula" ; Times: 1
+	Query: "pickle" ; Times: 1
+	Query: "Aves: Dendroica discolor" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 433 download events in this period)
+Total number of records downloaded: 4386 (out of 2276166 records downloaded for all resources in this period)
+Total number of unique records downloaded: 4319
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: United States ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-01 ; Times: 1
+	Date: 2014-04-06 ; Times: 1
+	Date: 2014-04-07 ; Times: 4
+	Date: 2014-04-09 ; Times: 1
+	Date: 2014-04-10 ; Times: 1
+	Date: 2014-04-17 ; Times: 1
+	Date: 2014-04-23 ; Times: 2
+	Date: 2014-04-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "amphispiza belli" ; Times: 1
+	Query: "amphispiza nevadensis" ; Times: 1
+	Query: "Perisoreus canadensis type:specimen institutioncode:MVZ OR FMNH OR UMMZ OR CAS OR UWBM OR PSM" ; Times: 1
+	Query: "catalognumber:50000" ; Times: 1
+	Query: "Perisoreus canadensis type:specimen institutioncode:ROM" ; Times: 1
+	Query: "stateprovince:"prince edward island"" ; Times: 1
+	Query: "class:Aves hastypestatus:1" ; Times: 1
+	Query: "country:"Colombia" mappable:1" ; Times: 1
+	Query: "Tachycineta bicolor institutioncode:FMNH OR CAS OR MVZ OR UMMZ" ; Times: 1
+	Query: "male : 3232 recordnumber sex" ; Times: 1
+	Query: "Vireo olivaceus type:specimen institutioncode:MVZ OR FMNH OR UMMZ OR CAS OR UWBM OR PSM" ; Times: 1
+	Query: "Tachycineta bicolor type:specimen institutioncode:MVZ OR FMNH OR UMMZ OR CAS" ; Times: 1
+	Query: "country:"Bulgaria" institutioncode:ROM" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 56
+Total number of records retrieved from searches: 1415
+Number of download events that retrieved data from the resource: 13
+Total number of records downloaded: 4386
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 56
+Total number of records retrieved from searches: 1415
+Number of download events that retrieved data from the resource: 13
+Total number of records downloaded: 4386
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
