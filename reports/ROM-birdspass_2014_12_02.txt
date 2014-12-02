@@ -1,0 +1,129 @@
+Report for Institution Code ROM, Resource birdspass
+Usage stats for November, 2014, generated on 2014/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 86
+Number of records retrieved in searches: 1982
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Austria ; Times: 1
+	Country: Canada ; Times: 33
+	Country: Denmark ; Times: 4
+	Country: Germany ; Times: 17
+	Country: Italy ; Times: 2
+	Country: Panama ; Times: 1
+	Country: Sweden ; Times: 4
+	Country: United States ; Times: 24
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-01 ; Times: 1
+	Date: 2014-11-02 ; Times: 1
+	Date: 2014-11-03 ; Times: 3
+	Date: 2014-11-04 ; Times: 4
+	Date: 2014-11-07 ; Times: 6
+	Date: 2014-11-12 ; Times: 4
+	Date: 2014-11-13 ; Times: 2
+	Date: 2014-11-14 ; Times: 1
+	Date: 2014-11-17 ; Times: 5
+	Date: 2014-11-19 ; Times: 2
+	Date: 2014-11-20 ; Times: 5
+	Date: 2014-11-21 ; Times: 2
+	Date: 2014-11-22 ; Times: 4
+	Date: 2014-11-23 ; Times: 1
+	Date: 2014-11-24 ; Times: 7
+	Date: 2014-11-25 ; Times: 11
+	Date: 2014-11-26 ; Times: 19
+	Date: 2014-11-27 ; Times: 7
+	Date: 2014-11-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "burma" ; Times: 1
+	Query: "Cyanocorax maya (tissue)" ; Times: 1
+	Query: "Molothrus ater artemisiae year <= 1909" ; Times: 1
+	Query: "type:specimen specificepithet:melanocephalus X ludovicianus genus:Pheucticus institutioncode:ROM" ; Times: 1
+	Query: "Ptilorrhoa castanonota saturata" ; Times: 1
+	Query: "pipra filicauda" ; Times: 1
+	Query: "parula tissue" ; Times: 1
+	Query: "Sittasomus griseicapillus sylvioides" ; Times: 1
+	Query: "Molothrus aeneus loyei year <= 1937" ; Times: 1
+	Query: "specificepithet:melanocephalus genus:Pheucticus (ludovicianus)" ; Times: 1
+	Query: "Poospiza garleppi" ; Times: 1
+	Query: "type:specimen specificepithet:ludovicianus genus:Pheucticus institutioncode:ROM (melanocephalus)" ; Times: 4
+	Query: "Malimbus malimbicus" ; Times: 2
+	Query: "labradorius" ; Times: 1
+	Query: "catalognumber:51727 institutioncode:ROM" ; Times: 1
+	Query: "type:specimen county:"Elgin County" recordedby:Johnson institutioncode:ROM" ; Times: 3
+	Query: "parotia" ; Times: 1
+	Query: "specificepithet:galbula genus:Icterus institutioncode:ROM (bullockii)" ; Times: 2
+	Query: "Cardinalis cardinalis hastypestatus:1" ; Times: 1
+	Query: "type:specimen specificepithet:melanocephalus genus:Pheucticus institutioncode:ROM" ; Times: 2
+	Query: "gymnopithys rufigula" ; Times: 3
+	Query: "Dendroica petechia oraria" ; Times: 1
+	Query: "country:"ireland"" ; Times: 1
+	Query: "Geothlypis tolmiei" ; Times: 2
+	Query: "type:specimen specificepithet:ludovicianus genus:Pheucticus institutioncode:ROM" ; Times: 5
+	Query: "elaenia chiriquensis" ; Times: 1
+	Query: ""great auk"" ; Times: 2
+	Query: "specificepithet:ludovicianus genus:Pheucticus institutioncode:ROM" ; Times: 2
+	Query: "Cardinalis cardinalis year >= 1800 year <= 1900 hastypestatus:1" ; Times: 1
+	Query: "country:"Sweden"" ; Times: 4
+	Query: "aegithalos" ; Times: 2
+	Query: "blue jay" ; Times: 1
+	Query: "myrmeciza exsul" ; Times: 1
+	Query: "elaenia flavogaster guyana" ; Times: 1
+	Query: "elaenia ruficeps" ; Times: 1
+	Query: ""credit river"" ; Times: 1
+	Query: "Molothrus aeneus loyei year <= 1934" ; Times: 1
+	Query: "specificepithet:melanocephalus genus:Pheucticus institutioncode:ROM" ; Times: 1
+	Query: "Artamus humei" ; Times: 4
+	Query: "cyanocorax maya" ; Times: 1
+	Query: "specificepithet:galbula X bullockii genus:Icterus institutioncode:ROM (bullockii)" ; Times: 1
+	Query: "grallaria flavotincta" ; Times: 1
+	Query: "USNM 776" ; Times: 1
+	Query: "Loxia curvirostra stateprovince:"michigan" country:"USA"" ; Times: 1
+	Query: "type:specimen specificepithet:melanocephalus genus:Pheucticus (ludovicianus)" ; Times: 2
+	Query: "stateprovince:"Alaska" specificepithet:borealis genus:Phylloscopus class:Aves" ; Times: 2
+	Query: "type:specimen specificepithet:melanocephalus genus:Pheucticus institutioncode:ROM (ludovicianus)" ; Times: 3
+	Query: "Loxia curvirostra stateprovince:"New York" country:"USA"" ; Times: 1
+	Query: "great auk" ; Times: 2
+	Query: "grallaria hypoleuca" ; Times: 1
+	Query: "Alcippe morrisonia" ; Times: 1
+	Query: "Artamus leucorhynchus humei" ; Times: 2
+	Query: "Pipra iris" ; Times: 1
+	Query: "specificepithet:galbula X bullockii genus:Icterus institutioncode:ROM" ; Times: 1
+	Query: "year <= 1800" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 686
+Total number of records retrieved from searches: 10818
+Number of download events that retrieved data from the resource: 105
+Total number of records downloaded: 27991
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 686
+Total number of records retrieved from searches: 10818
+Number of download events that retrieved data from the resource: 105
+Total number of records downloaded: 27991
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
