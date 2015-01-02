@@ -1,0 +1,184 @@
+Report for Institution Code ROM, Resource birdspass
+Usage stats for December, 2014, generated on 2015/01/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 123
+Number of records retrieved in searches: 2379
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 20
+	Country: France ; Times: 1
+	Country: Germany ; Times: 7
+	Country: Mexico ; Times: 2
+	Country: Netherlands ; Times: 2
+	Country: Portugal ; Times: 2
+	Country: Singapore ; Times: 4
+	Country: Sweden ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 53
+	Country: Unknown ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-12-01 ; Times: 19
+	Date: 2014-12-02 ; Times: 13
+	Date: 2014-12-03 ; Times: 4
+	Date: 2014-12-04 ; Times: 13
+	Date: 2014-12-05 ; Times: 6
+	Date: 2014-12-06 ; Times: 2
+	Date: 2014-12-08 ; Times: 11
+	Date: 2014-12-09 ; Times: 2
+	Date: 2014-12-12 ; Times: 4
+	Date: 2014-12-14 ; Times: 2
+	Date: 2014-12-15 ; Times: 4
+	Date: 2014-12-16 ; Times: 9
+	Date: 2014-12-17 ; Times: 6
+	Date: 2014-12-18 ; Times: 2
+	Date: 2014-12-19 ; Times: 7
+	Date: 2014-12-20 ; Times: 10
+	Date: 2014-12-22 ; Times: 3
+	Date: 2014-12-23 ; Times: 3
+	Date: 2014-12-26 ; Times: 1
+	Date: 2014-12-29 ; Times: 1
+	Date: 2014-12-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: ""Vireo huttoni" year >= 1960 year <= 1970" ; Times: 2
+	Query: "Sittasomus griseicapillus sylvioides year <= 1901" ; Times: 1
+	Query: "country:"Angola"" ; Times: 1
+	Query: "Moho bishopi" ; Times: 2
+	Query: "distance(location,geopoint(37.34941777989473,-121.94686889648438))<2275" ; Times: 1
+	Query: "specificepithet:huttoni genus:Vireo year >= 1968 year <= 1968" ; Times: 1
+	Query: ""Puerto Rico" specificepithet:Dominicensis genus:Icterus AND (NOT prosthemelas) year >= 1954 year <= 2014" ; Times: 1
+	Query: "year >= 1866 year <= 1866 AND (NOT Jamaica)" ; Times: 11
+	Query: "urocissa" ; Times: 1
+	Query: "ruwenzorii" ; Times: 1
+	Query: "chamaeza" ; Times: 2
+	Query: "specificepithet:melanocephalus genus:Pheucticus (ludovicianus)" ; Times: 2
+	Query: "catalognumber:104264 institutioncode:ROM" ; Times: 3
+	Query: "stateprovince:"Nunavut"" ; Times: 1
+	Query: "stateprovince:"Nunavut" class:Aves" ; Times: 3
+	Query: "muskrat" ; Times: 1
+	Query: "Tissue specificepithet:Dominicensis genus:Icterus" ; Times: 1
+	Query: "oenanthe leucura" ; Times: 1
+	Query: "ESCUINAPA" ; Times: 2
+	Query: "7323 Birds (skeleton OR skull)" ; Times: 1
+	Query: "Phlegopsis nigromaculata" ; Times: 1
+	Query: "magpie" ; Times: 1
+	Query: "catalognumber:104234 institutioncode:ROM" ; Times: 3
+	Query: "specificepithet:bonana genus:ICTERUS year >= 1964 year <= 2014" ; Times: 1
+	Query: "distance(location,geopoint(37.36360851770409,-121.9478988647461))<2274.9392071535494" ; Times: 1
+	Query: "type:specimen country:"nicaragua" (passeriformes)" ; Times: 1
+	Query: "Serinus canaria" ; Times: 3
+	Query: "Mimodes graysoni" ; Times: 2
+	Query: "sublegatus modestus" ; Times: 2
+	Query: "specificepithet:LAUDABILIS genus:ICTERUS" ; Times: 1
+	Query: "Sittasomus griseicapillus sylvioides" ; Times: 1
+	Query: "specificepithet:LAUDABILIS genus:ICTERUS year >= 1964 year <= 2014" ; Times: 1
+	Query: ""Puerto Rico" specificepithet:Dominicensis genus:Icterus AND (NOT prosthemelas)" ; Times: 2
+	Query: "Tissue specificepithet:Dominicensis genus:Icterus AND (NOT prosthemelas)" ; Times: 2
+	Query: "manis javanica type:specimen" ; Times: 2
+	Query: "institutioncode:ROM" ; Times: 1
+	Query: "country:"Sweden"" ; Times: 4
+	Query: "passerina rositae" ; Times: 1
+	Query: "specificepithet:melanocephalus genus:Pheucticus (ludovicianus) mappable:1" ; Times: 1
+	Query: "Serinus canaria distance(location,geopoint(28.110748760633534,-15.44677734375))<149619" ; Times: 1
+	Query: "manis type:specimen country:"Singapore"" ; Times: 2
+	Query: "distance(location,geopoint(37.38120676237962,-121.95768356323242))<983.9556608450865" ; Times: 1
+	Query: "colombia "manacus"" ; Times: 1
+	Query: "emigrans" ; Times: 1
+	Query: "specificepithet:galbula genus:Icterus institutioncode:ROM (bullockii) mappable:1" ; Times: 6
+	Query: "ummz vireo" ; Times: 1
+	Query: "specificepithet:galbula genus:Icterus institutioncode:ROM (bullockii) AND (galbula) mappable:1" ; Times: 1
+	Query: "stateprovince:"Ontario" specificepithet:sandwichensis genus:ammodramus institutioncode:ROM" ; Times: 5
+	Query: "ummz burleigh" ; Times: 3
+	Query: "specificepithet:melanocephalus genus:Pheucticus institutioncode:ROM (ludovicianus)" ; Times: 1
+	Query: "aphelocoma coerulescens" ; Times: 6
+	Query: "canary" ; Times: 1
+	Query: "pitohui kirhocephalus" ; Times: 4
+	Query: "Aves type:specimen (ou) AND (NOT OMNH)" ; Times: 1
+	Query: "institutioncode:rom" ; Times: 1
+	Query: "genus:ICTERUS year >= 1964 year <= 2014 distance(location,geopoint(21.94304553343818,-70.224609375))<778053" ; Times: 1
+	Query: "Empidonax difficilis from New Mexico" ; Times: 1
+	Query: ""Vireo huttoni"" ; Times: 1
+	Query: "Tissue specificepithet:Dominicensis genus:Icterus (Tissue) AND (NOT prosthemelas)" ; Times: 1
+	Query: "genus:Turdus merula" ; Times: 1
+	Query: "catalognumber:104368 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:105930 institutioncode:ROM" ; Times: 1
+	Query: "sicalis flaveola" ; Times: 1
+	Query: "elaenia frantzii" ; Times: 1
+	Query: "recordedby:maynard" ; Times: 1
+	Query: "nectariniidae (alcohol)" ; Times: 3
+	Query: "Choiseul Pigeon" ; Times: 1
+	Query: "country:"bahamas" recordedby:maynard" ; Times: 2
+	Query: "Cyanocitta stelleri carbonacea year <= 1900" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 238 download events in this period)
+Total number of records downloaded: 3986 (out of 1054698 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3923
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 2
+	Country: United States ; Times: 15
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-12-04 ; Times: 2
+	Date: 2014-12-05 ; Times: 1
+	Date: 2014-12-08 ; Times: 3
+	Date: 2014-12-10 ; Times: 3
+	Date: 2014-12-12 ; Times: 1
+	Date: 2014-12-16 ; Times: 2
+	Date: 2014-12-20 ; Times: 1
+	Date: 2014-12-21 ; Times: 2
+	Date: 2014-12-24 ; Times: 3
+	Date: 2014-12-25 ; Times: 1
+	Date: 2014-12-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen country:"Guatemala" (Passeriformes)" ; Times: 1
+	Query: "type:specimen country:"el salvador" (passeriformes)" ; Times: 1
+	Query: "county:"Socorro" stateprovince:"New Mexico"" ; Times: 1
+	Query: "bombycilla garrulus type:specimen year >= 1800 year <= 1900" ; Times: 2
+	Query: "stateprovince:"Ohio" class:Aves" ; Times: 1
+	Query: "wyoming" ; Times: 1
+	Query: "aphelocoma coerulescens stateprovince:"Florida"" ; Times: 1
+	Query: "Phlegopsis nigromaculata" ; Times: 1
+	Query: "county:"Apache" stateprovince:"Arizona"" ; Times: 1
+	Query: "type:specimen country:"costa rica" (passeriformes)" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "county:"Coconino" stateprovince:"Arizona"" ; Times: 1
+	Query: "lynx" ; Times: 2
+	Query: "elaenia frantzii" ; Times: 1
+	Query: "nectariniidae (alcohol)" ; Times: 1
+	Query: "type:specimen country:"panama" (passeriformes)" ; Times: 1
+	Query: "stateprovince:"Chiapas" country:"Mexico" class:Aves mappable:1" ; Times: 1
+	Query: "stateprovince:"Chiapas" country:"Mexico" class:Aves" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 809
+Total number of records retrieved from searches: 13197
+Number of download events that retrieved data from the resource: 132
+Total number of records downloaded: 45643
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 809
+Total number of records retrieved from searches: 13197
+Number of download events that retrieved data from the resource: 132
+Total number of records downloaded: 45643
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
