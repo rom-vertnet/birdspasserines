@@ -1,0 +1,334 @@
+Report for Institution Code ROM, Resource birdspass
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 250
+Number of records retrieved in searches: 2947
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 19
+	Country: Chile ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: Cyprus ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 3
+	Country: French Guiana ; Times: 1
+	Country: Germany ; Times: 17
+	Country: Lithuania ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Netherlands ; Times: 6
+	Country: Peru ; Times: 1
+	Country: Poland ; Times: 4
+	Country: South Africa ; Times: 3
+	Country: Sweden ; Times: 7
+	Country: U.S. Virgin Islands ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 109
+	Country: Unknown ; Times: 49
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-01 ; Times: 3
+	Date: 2015-01-02 ; Times: 1
+	Date: 2015-01-04 ; Times: 2
+	Date: 2015-01-05 ; Times: 1
+	Date: 2015-01-06 ; Times: 10
+	Date: 2015-01-07 ; Times: 14
+	Date: 2015-01-08 ; Times: 1
+	Date: 2015-01-09 ; Times: 16
+	Date: 2015-01-10 ; Times: 1
+	Date: 2015-01-11 ; Times: 1
+	Date: 2015-01-12 ; Times: 34
+	Date: 2015-01-13 ; Times: 29
+	Date: 2015-01-14 ; Times: 5
+	Date: 2015-01-15 ; Times: 6
+	Date: 2015-01-16 ; Times: 10
+	Date: 2015-01-17 ; Times: 1
+	Date: 2015-01-18 ; Times: 3
+	Date: 2015-01-19 ; Times: 16
+	Date: 2015-01-20 ; Times: 9
+	Date: 2015-01-21 ; Times: 13
+	Date: 2015-01-22 ; Times: 6
+	Date: 2015-01-23 ; Times: 3
+	Date: 2015-01-24 ; Times: 5
+	Date: 2015-01-25 ; Times: 5
+	Date: 2015-01-26 ; Times: 10
+	Date: 2015-01-27 ; Times: 3
+	Date: 2015-01-28 ; Times: 17
+	Date: 2015-01-29 ; Times: 7
+	Date: 2015-01-30 ; Times: 16
+	Date: 2015-01-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Thamnophilus doliatus" ; Times: 2
+	Query: "eremophila alpestris actia county:"kern" year >= 1900 year <= 2015" ; Times: 2
+	Query: "Lithuania" ; Times: 1
+	Query: "Liocichla mappable:1" ; Times: 1
+	Query: "Hypsipetes flavala" ; Times: 1
+	Query: "vanga" ; Times: 1
+	Query: "Turdus albicollis phaeopygus" ; Times: 1
+	Query: ""labrador duck"" ; Times: 1
+	Query: "nesillas type:specimen" ; Times: 1
+	Query: "distance(location,geopoint(6.140554782450307,-74.970703125))<100000" ; Times: 1
+	Query: "specificepithet:rhipidurus genus:corvus AND (NOT film)" ; Times: 2
+	Query: "type:specimen genus:Chamaeza" ; Times: 1
+	Query: "MZFC country:"Mexico"" ; Times: 1
+	Query: "Pycnonotus jocosus" ; Times: 1
+	Query: "Vestiaria coccinea" ; Times: 1
+	Query: "Indonesia (Kai OR Kei)" ; Times: 1
+	Query: "calyptomena viridis" ; Times: 1
+	Query: "Ammodramus bairdii" ; Times: 1
+	Query: "Hypsipetes olivaceus" ; Times: 1
+	Query: "spixii class:aves" ; Times: 2
+	Query: "Dendronanthus" ; Times: 1
+	Query: "Hypsipetes amaurotis" ; Times: 1
+	Query: "yellow warblers" ; Times: 1
+	Query: "genus:Synallaxis institutioncode:ROM" ; Times: 1
+	Query: "Ferminia cerverai" ; Times: 2
+	Query: "county:"catron" stateprovince:"new mexico" genus:contopus" ; Times: 1
+	Query: "ochraceus (alophoixus OR criniger)" ; Times: 1
+	Query: "country:"Turkey"" ; Times: 1
+	Query: "Ilicura" ; Times: 1
+	Query: "Nicobar Aves" ; Times: 2
+	Query: "Myiobius sulphureipygius" ; Times: 2
+	Query: "Estrilda melpoda" ; Times: 4
+	Query: "county:"san luis obispo county" stateprovince:"California" specificepithet:caudacutus genus:ammodramus mappable:1" ; Times: 1
+	Query: "aves "ou" AND (NOT OMNH NOT Hawaii)" ; Times: 1
+	Query: "distance(location,geopoint(51.30772636664025,-87.099609375))<100000" ; Times: 1
+	Query: "Cinclodes palliatus" ; Times: 1
+	Query: "Entomodestes coracinus" ; Times: 2
+	Query: "country:"st vincent" class:aves" ; Times: 1
+	Query: "Myiarchus stolidus dominicensis" ; Times: 1
+	Query: "zoothera institutioncode:rom" ; Times: 1
+	Query: "type:specimen stateprovince:"Washington" specificepithet:traillii genus:Empidonax" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:turner year >= 1870 year <= 1890" ; Times: 1
+	Query: "stateprovince:"new mexico" specificepithet:fumigatus genus:contopus" ; Times: 1
+	Query: "molothrus bonariensis" ; Times: 1
+	Query: "aru" ; Times: 1
+	Query: "Dendroica cerulea Dendroica cerulea type:specimen" ; Times: 1
+	Query: "type:specimen stateprovince:"Florida" genus:Sitta class:Aves" ; Times: 1
+	Query: "campylorhynchus yucatanicus" ; Times: 2
+	Query: "type:specimen stateprovince:"Oregon" specificepithet:traillii genus:Empidonax" ; Times: 1
+	Query: "Royal Saskatchewan Museum" ; Times: 1
+	Query: "eremophila alpestris actia county:"kern" stateprovince:"california" year >= 1900 year <= 2015" ; Times: 1
+	Query: "Kai Indonesia" ; Times: 1
+	Query: "Empidonax traillii stateprovince:"Washington"" ; Times: 1
+	Query: "JAM 75" ; Times: 1
+	Query: "pyrrhula" ; Times: 1
+	Query: "Andaman institutioncode:ROM" ; Times: 1
+	Query: "British Museum 1906-6-1" ; Times: 1
+	Query: "Garrulax cineraceus" ; Times: 4
+	Query: "type:specimen county:"San luis obispo county" genus:Chamaea mappable:1" ; Times: 1
+	Query: "Aves Osmaston institutioncode:ROM" ; Times: 1
+	Query: "turdus rufitorques country:"Guatemala"" ; Times: 1
+	Query: "Garrulax rufogularis" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:sandwichensis genus:ammodramus mappable:1" ; Times: 1
+	Query: "Myadestes obscurus" ; Times: 1
+	Query: "Garrulax calvus" ; Times: 1
+	Query: "smithornis" ; Times: 2
+	Query: "emigrans" ; Times: 2
+	Query: "Garrulax gularis" ; Times: 1
+	Query: "genus:Pseudotriccus institutioncode:ROM" ; Times: 1
+	Query: "royal ontario museum" ; Times: 2
+	Query: "monachus monachus" ; Times: 1
+	Query: "type:specimen specificepithet:melanocephalus genus:Pheucticus institutioncode:ROM (ludovicianus)" ; Times: 1
+	Query: "Piprites" ; Times: 1
+	Query: "Cyanocitta cristata semplei year <= 1928" ; Times: 1
+	Query: "stateprovince:"Kansas" specificepithet:flaviventris genus:Empidonax" ; Times: 1
+	Query: "specificepithet:rhipidurus genus:corvus mappable:1" ; Times: 1
+	Query: "Myiobius atricaudus portovelae" ; Times: 1
+	Query: "stateprovince:"Kansas" specificepithet:sordidulus genus:Contopus" ; Times: 1
+	Query: "Pipilo maculatus Santa Cruz" ; Times: 1
+	Query: ""monachus monachus"" ; Times: 2
+	Query: "Xiphorhynchus flavigaster" ; Times: 5
+	Query: "parotia wahnesi" ; Times: 1
+	Query: "country:"saint vincent" class:aves" ; Times: 1
+	Query: "Aves Nicobar institutioncode:ROM" ; Times: 1
+	Query: "Liocichla phoenicea mappable:1" ; Times: 1
+	Query: "stateprovince:"nunavut" class:aves year >= 1850 year <= 2014 mappable:1" ; Times: 2
+	Query: "sturnella militaris" ; Times: 4
+	Query: "stateprovince:"alaska" recordedby:turner year >= 1870 year <= 1890" ; Times: 1
+	Query: "dicrurus leucophaeus type:specimen AND (NOT film NOT egg)" ; Times: 1
+	Query: "rhinomyias gularis type:specimen country:"malaysia"" ; Times: 1
+	Query: "chrysothlypis salmoni" ; Times: 1
+	Query: "Sabah" ; Times: 1
+	Query: "georgia southern" ; Times: 1
+	Query: "Royal Ontario Museum type:specimen" ; Times: 2
+	Query: "rhinomyias" ; Times: 1
+	Query: "specificepithet:rhipidurus genus:corvus" ; Times: 4
+	Query: "Myiobius atricaudus" ; Times: 1
+	Query: "institutioncode:ROM" ; Times: 2
+	Query: "dicrurus leucophaeus" ; Times: 1
+	Query: "garrulax type:specimen country:"malaysia"" ; Times: 1
+	Query: "psalidoprocne" ; Times: 1
+	Query: "country:"colombia" specificepithet:minimus genus:catharus class:aves" ; Times: 1
+	Query: "Cyanocorax yncas vividus year <= 1900" ; Times: 1
+	Query: "labrador duck" ; Times: 1
+	Query: "Cyanocorax yncas vividus" ; Times: 1
+	Query: "Myiobius villosus" ; Times: 7
+	Query: "psalidoprocne petiti" ; Times: 2
+	Query: "Chlorothraupis stolzmanni" ; Times: 21
+	Query: ""Dasypus" mappable:1" ; Times: 1
+	Query: "dicrurus leucophaeus type:specimen" ; Times: 1
+	Query: "American badger" ; Times: 1
+	Query: "Conopophagidae" ; Times: 1
+	Query: "xenops tenuirostris" ; Times: 1
+	Query: "specificepithet:rhipidurus genus:corvus AND (NOT film) mappable:1" ; Times: 1
+	Query: "Chlorospingus" ; Times: 1
+	Query: "country:"grenadines" class:aves" ; Times: 1
+	Query: "Xenops rutilans" ; Times: 1
+	Query: "loxia curvirostra Nipissing" ; Times: 1
+	Query: "turdus rufitorques" ; Times: 1
+	Query: "institutioncode:ROM 296" ; Times: 1
+	Query: "stateprovince:"Kansas" specificepithet:virens genus:Contopus" ; Times: 1
+	Query: "Turnagra capensis" ; Times: 3
+	Query: "chlorothraupis stolzmanni" ; Times: 5
+	Query: "Hypsipetes mcclellandii" ; Times: 1
+	Query: "Cyanocitta cristata cyanotephra" ; Times: 1
+	Query: "Cnemophilus" ; Times: 1
+	Query: "country:"grenada" class:aves" ; Times: 2
+	Query: "Chrysothlypis salmoni" ; Times: 8
+	Query: "Teretistris fornsi" ; Times: 1
+	Query: "hudspeth county texas" ; Times: 1
+	Query: "Teziutlan" ; Times: 1
+	Query: "paradisaeidae (tissue)" ; Times: 1
+	Query: "distance(location,geopoint(53.54030739150022,-100.810546875))<100000" ; Times: 1
+	Query: "salmoni" ; Times: 1
+	Query: ""piranga olivacea" type:specimen year >= 1919 year <= 1950" ; Times: 1
+	Query: "country:"Uruguay" institutioncode:ROM" ; Times: 2
+	Query: "Chlorospingus semifuscus" ; Times: 2
+	Query: "JAM 31" ; Times: 1
+	Query: "AC Brooks" ; Times: 1
+	Query: "Geothlypis tolmiei monticola year <= 1938" ; Times: 1
+	Query: "Andaman Aves" ; Times: 2
+	Query: "Garrulax ocellatus" ; Times: 1
+	Query: "Pycnonotus sinensis" ; Times: 3
+	Query: "aru island" ; Times: 4
+	Query: "institutioncode:ROM hastypestatus:1" ; Times: 1
+	Query: "stateprovince:"nunavut" year >= 1850 year <= 2014 mappable:1" ; Times: 1
+	Query: "opuntia" ; Times: 1
+	Query: "Vireolanius leucotis" ; Times: 1
+	Query: "Royal Ontario Museum Saskatchewan" ; Times: 1
+	Query: "lanio leucothorax" ; Times: 1
+	Query: "Frederickena viridis" ; Times: 1
+	Query: "Pipilo maculatus type:specimen year >= 1800 year <= 1900" ; Times: 2
+	Query: "Aru Islands (Aves)" ; Times: 1
+	Query: "Rhinocryptidae" ; Times: 1
+	Query: "institutioncode:rom" ; Times: 3
+	Query: "sturnella militaris tissue" ; Times: 2
+	Query: "Lipaugus" ; Times: 1
+	Query: "Oxyruncidae" ; Times: 1
+	Query: "county:"san luis obispo county" stateprovince:"California" specificepithet:sandwichensis genus:ammodramus mappable:1" ; Times: 1
+	Query: "dasypus" ; Times: 2
+	Query: "nesillas" ; Times: 2
+	Query: "aves snomnh AND (NOT OMNH)" ; Times: 1
+	Query: "country:"Grenadines" class:Aves" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 445 download events in this period)
+Total number of records downloaded: 36483 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 35055
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 6
+	Country: France ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Mexico ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: United States ; Times: 28
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-06 ; Times: 1
+	Date: 2015-01-07 ; Times: 5
+	Date: 2015-01-08 ; Times: 1
+	Date: 2015-01-09 ; Times: 2
+	Date: 2015-01-11 ; Times: 1
+	Date: 2015-01-12 ; Times: 4
+	Date: 2015-01-13 ; Times: 8
+	Date: 2015-01-14 ; Times: 7
+	Date: 2015-01-15 ; Times: 1
+	Date: 2015-01-18 ; Times: 1
+	Date: 2015-01-19 ; Times: 2
+	Date: 2015-01-20 ; Times: 2
+	Date: 2015-01-22 ; Times: 3
+	Date: 2015-01-25 ; Times: 1
+	Date: 2015-01-26 ; Times: 1
+	Date: 2015-01-28 ; Times: 1
+	Date: 2015-01-29 ; Times: 2
+	Date: 2015-01-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Furnariidae" ; Times: 1
+	Query: "Hypsipetes mcclellandii" ; Times: 1
+	Query: "country:"grenada" class:aves" ; Times: 1
+	Query: "Garrulax pectoralis" ; Times: 1
+	Query: "ochraceus (alophoixus OR criniger)" ; Times: 1
+	Query: "Aves Andaman institutioncode:ROM" ; Times: 1
+	Query: "Hypsipetes flavala" ; Times: 1
+	Query: "zoothera institutioncode:rom" ; Times: 1
+	Query: "stateprovince:"nunavut" class:aves year >= 1850 year <= 2014 mappable:1" ; Times: 1
+	Query: "stateprovince:"Kansas" specificepithet:virens genus:Contopus" ; Times: 1
+	Query: "quiscalus mexicanus country:"Mexico"" ; Times: 1
+	Query: "type:specimen genus:Chamaeza" ; Times: 1
+	Query: "family:Emberizidae type:specimen mappable:1" ; Times: 1
+	Query: "Hypsipetes leucocephalus" ; Times: 1
+	Query: "Pycnonotus jocosus" ; Times: 2
+	Query: "Pipridae" ; Times: 1
+	Query: "Formicariidae" ; Times: 1
+	Query: "calyptomena viridis" ; Times: 1
+	Query: "type:specimen stateprovince:"Virginia" class:Aves" ; Times: 1
+	Query: "Aves Osmaston institutioncode:ROM" ; Times: 1
+	Query: "type:specimen stateprovince:"Washington" specificepithet:traillii genus:Empidonax" ; Times: 2
+	Query: "Andaman Aves" ; Times: 1
+	Query: "chamela" ; Times: 1
+	Query: "Pycnonotus sinensis" ; Times: 1
+	Query: "Garrulax monileger" ; Times: 1
+	Query: "aru island" ; Times: 1
+	Query: "country:"Grenadines" class:Aves" ; Times: 1
+	Query: "Nicobar Aves" ; Times: 1
+	Query: "type:specimen stateprovince:"Virginia" class:aves" ; Times: 1
+	Query: "Estrilda melpoda" ; Times: 1
+	Query: "type:specimen stateprovince:"virginia" class:aves" ; Times: 1
+	Query: "distance(location,geopoint(40.60387435807246,-73.85421752929688))<9650.626978131286" ; Times: 1
+	Query: "Pipilo maculatus type:specimen year >= 1800 year <= 1900" ; Times: 1
+	Query: "Rhinocryptidae" ; Times: 1
+	Query: ""passer domesticus" type:specimen" ; Times: 1
+	Query: "gubernetes" ; Times: 1
+	Query: "American badger" ; Times: 1
+	Query: "Conopophagidae" ; Times: 1
+	Query: "country:"st vincent" class:aves" ; Times: 1
+	Query: "country:"saint vincent" class:aves" ; Times: 1
+	Query: "Pycnonotidae" ; Times: 1
+	Query: "country:"grenadines" class:aves" ; Times: 1
+	Query: "Cotingidae" ; Times: 1
+	Query: "stateprovince:"new mexico" specificepithet:fumigatus genus:contopus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 809
+Total number of records retrieved from searches: 13197
+Number of download events that retrieved data from the resource: 46
+Total number of records downloaded: 36483
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1059
+Total number of records retrieved from searches: 16144
+Number of download events that retrieved data from the resource: 178
+Total number of records downloaded: 82126
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
