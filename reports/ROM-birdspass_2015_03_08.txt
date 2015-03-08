@@ -1,0 +1,339 @@
+Report for Institution Code ROM, Resource birdspass
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 271
+Number of records retrieved in searches: 3954
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 4
+	Country: Brazil ; Times: 32
+	Country: Canada ; Times: 9
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 4
+	Country: France ; Times: 3
+	Country: Germany ; Times: 15
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Netherlands ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 181
+	Country: Unknown ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 5
+	Date: 2015-02-02 ; Times: 11
+	Date: 2015-02-03 ; Times: 8
+	Date: 2015-02-04 ; Times: 7
+	Date: 2015-02-05 ; Times: 12
+	Date: 2015-02-06 ; Times: 3
+	Date: 2015-02-07 ; Times: 1
+	Date: 2015-02-08 ; Times: 2
+	Date: 2015-02-09 ; Times: 11
+	Date: 2015-02-10 ; Times: 8
+	Date: 2015-02-11 ; Times: 10
+	Date: 2015-02-12 ; Times: 5
+	Date: 2015-02-13 ; Times: 8
+	Date: 2015-02-14 ; Times: 11
+	Date: 2015-02-15 ; Times: 4
+	Date: 2015-02-16 ; Times: 3
+	Date: 2015-02-17 ; Times: 35
+	Date: 2015-02-18 ; Times: 9
+	Date: 2015-02-19 ; Times: 2
+	Date: 2015-02-20 ; Times: 24
+	Date: 2015-02-21 ; Times: 2
+	Date: 2015-02-22 ; Times: 5
+	Date: 2015-02-23 ; Times: 5
+	Date: 2015-02-24 ; Times: 9
+	Date: 2015-02-25 ; Times: 21
+	Date: 2015-02-26 ; Times: 21
+	Date: 2015-02-27 ; Times: 24
+	Date: 2015-02-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "cerro san antonio" ; Times: 1
+	Query: "alectrurus" ; Times: 1
+	Query: "cameroon aves" ; Times: 4
+	Query: "CM Leucosticte" ; Times: 1
+	Query: "dendroica petechia (utah) mappable:1" ; Times: 1
+	Query: "Geospiza scandens type:specimen" ; Times: 1
+	Query: "birds aves institutioncode:rom australia" ; Times: 1
+	Query: "birds aves institutioncode:rom year >= 2004 year <= 2004" ; Times: 1
+	Query: "birds aves institutioncode:rom japan" ; Times: 1
+	Query: "Myrmotherula erythrura" ; Times: 1
+	Query: "Sporophila corvina panama" ; Times: 1
+	Query: ""Empidonax traillii" type:specimen (wyoming) mappable:1" ; Times: 1
+	Query: "aguadita 1913" ; Times: 1
+	Query: "Synallaxis albescens" ; Times: 1
+	Query: "birds aves institutioncode:rom 1985" ; Times: 1
+	Query: "pierce co Cardinalis cardinalis" ; Times: 1
+	Query: "Camarhynchus pallidus type:specimen" ; Times: 1
+	Query: "birds aves institutioncode:rom nepal" ; Times: 1
+	Query: "Salpornis" ; Times: 1
+	Query: "common redpoll" ; Times: 1
+	Query: "yuhina flavicollis type:specimen country:"India"" ; Times: 4
+	Query: "lochmias nematura" ; Times: 1
+	Query: "culicicapa ceylonensis type:specimen country:"India"" ; Times: 2
+	Query: "enicurus maculatus type:specimen country:"India"" ; Times: 1
+	Query: "birds aves institutioncode:rom argentina" ; Times: 1
+	Query: "anthus bogotensis" ; Times: 1
+	Query: "yellow warblers" ; Times: 2
+	Query: "Leucosticte atrata stateprovince:"Colorado"" ; Times: 1
+	Query: "parus ater type:specimen country:"India"" ; Times: 1
+	Query: "DENDROCITTA" ; Times: 1
+	Query: "chaimarrornis leucocephalus type:specimen country:"India"" ; Times: 1
+	Query: "class:aves catalognumber:74671" ; Times: 1
+	Query: "specificepithet:rubecula genus:Erithacus institutioncode:ROM" ; Times: 1
+	Query: "Caldas" ; Times: 1
+	Query: "birds aves institutioncode:rom united states" ; Times: 1
+	Query: "birds aves institutioncode:rom year >= 2000 year <= 2000" ; Times: 1
+	Query: "cissopis" ; Times: 1
+	Query: "birds aves institutioncode:rom year >= 1999 year <= 1999" ; Times: 1
+	Query: "dicaeum ignipectus type:specimen country:"India"" ; Times: 1
+	Query: "Vireo flavoviridis South America" ; Times: 1
+	Query: "dendrocitta cinerascens" ; Times: 2
+	Query: "zoothera mollissima type:specimen country:"India"" ; Times: 1
+	Query: "jones year >= 1900 year <= 1935" ; Times: 1
+	Query: "nipissing" ; Times: 3
+	Query: "birds aves institutioncode:rom year >= 1995 year <= 1995" ; Times: 1
+	Query: "basileuterus melanogenys" ; Times: 1
+	Query: "Chlorochrysa phoenicotis" ; Times: 3
+	Query: ""Empidonax traillii" type:specimen (montana) mappable:1" ; Times: 1
+	Query: "prinia socialis" ; Times: 2
+	Query: "birds aves institutioncode:rom russia" ; Times: 1
+	Query: "anthus lutescens tissue" ; Times: 1
+	Query: "Sclerurus type:specimen" ; Times: 1
+	Query: "phaeomyias murina" ; Times: 1
+	Query: ""Empidonax traillii" type:specimen (colorado) mappable:1" ; Times: 1
+	Query: "Cichladusa guttata Kenya" ; Times: 1
+	Query: "aguadita" ; Times: 1
+	Query: "birds aves institutioncode:rom vietnam" ; Times: 1
+	Query: "Taunton Massachusetts" ; Times: 5
+	Query: "geothlypis aequinoctialis tissue" ; Times: 1
+	Query: "catharus mexicanus" ; Times: 4
+	Query: "palomar mountain distance(location,geopoint(33.32651223950189,-116.9498062133789))<100000" ; Times: 1
+	Query: "dicaeum concolor concolor type:specimen country:"India"" ; Times: 1
+	Query: "cinclus pallasii type:specimen country:"India"" ; Times: 1
+	Query: "ROM Leucosticte atrata" ; Times: 1
+	Query: "chicago" ; Times: 1
+	Query: "Osmaston 1906" ; Times: 2
+	Query: "Megapodius 1913" ; Times: 2
+	Query: "birds aves institutioncode:rom year >= 1993 year <= 1993" ; Times: 2
+	Query: "Turdus ignobilis" ; Times: 3
+	Query: "Cissa jefferyi (tissue)" ; Times: 1
+	Query: "turdus albocinctus type:specimen country:"India"" ; Times: 1
+	Query: "PSM Leucosticte atrata" ; Times: 1
+	Query: "Cissa thalassina (tissue)" ; Times: 2
+	Query: "rhipidura septentrionalis" ; Times: 1
+	Query: "Thripophaga" ; Times: 2
+	Query: "Geospiza difficilis type:specimen" ; Times: 1
+	Query: "Prosthemadera novaeseelandiae" ; Times: 1
+	Query: "Myrmorchilus" ; Times: 2
+	Query: "thamnomanes caesius" ; Times: 1
+	Query: "bubalornis" ; Times: 1
+	Query: "Nova Friburgo" ; Times: 1
+	Query: "pomatorhinus erythrogenys type:specimen country:"India"" ; Times: 1
+	Query: "certhidea olivacea" ; Times: 2
+	Query: "pottageville" ; Times: 1
+	Query: "ROM Leucosticte" ; Times: 1
+	Query: "aves institutioncode:rom year >= 2013 year <= 2013" ; Times: 1
+	Query: "the passenger pigeon" ; Times: 1
+	Query: "specificepithet:corax genus:corvus AND (NOT usa NOT united ) year >= 1990 year <= 2015" ; Times: 1
+	Query: "Cyanocorax violaceus" ; Times: 1
+	Query: "corvus splendens type:specimen country:"India"" ; Times: 1
+	Query: "oligura castaneocoronata type:specimen country:"India"" ; Times: 1
+	Query: "buru" ; Times: 1
+	Query: "Cozumel Cardinalis cardinalis year <= 2014" ; Times: 1
+	Query: "Sialia mexicana occidentalis year <= 1889" ; Times: 1
+	Query: "Xenops tenuirostris" ; Times: 1
+	Query: "misantla" ; Times: 1
+	Query: ""Dendroica petechia" type:specimen (California) mappable:1 distance(location,geopoint(39.35836934869491,-120.73608353734016))<100000" ; Times: 1
+	Query: "birds aves institutioncode:rom philippines" ; Times: 1
+	Query: "type:specimen country:"Venezuela" class:Aves institutioncode:ROM" ; Times: 1
+	Query: "Ornithion semiflavum type:specimen" ; Times: 1
+	Query: "parus elegans" ; Times: 1
+	Query: "Geospiza conirostris type:specimen" ; Times: 1
+	Query: "Oenanthe oenanthe" ; Times: 1
+	Query: "type:specimen specificepithet:excelsa genus:Grallaria" ; Times: 1
+	Query: "turdus boulboul type:specimen country:"India"" ; Times: 1
+	Query: "sicily" ; Times: 1
+	Query: "garrulax albogularis type:specimen country:"India"" ; Times: 1
+	Query: "parry sound" ; Times: 4
+	Query: "(lagonosticta)" ; Times: 1
+	Query: "acridotheres tristis type:specimen country:"India"" ; Times: 2
+	Query: "Phyllomyias urichi" ; Times: 1
+	Query: "aves institutioncode:rom year >= 2010 year <= 2012" ; Times: 1
+	Query: "enicurus scouleri type:specimen country:"India"" ; Times: 1
+	Query: "rhipidura nigromentalis" ; Times: 1
+	Query: "oxyruncus brazil" ; Times: 1
+	Query: "Frederickena viridis" ; Times: 1
+	Query: ""polystictus pectoralis" (tissue)" ; Times: 1
+	Query: "birds aves institutioncode:rom peru" ; Times: 1
+	Query: "buru aves type:specimen" ; Times: 1
+	Query: "garrulax striatus type:specimen country:"India"" ; Times: 1
+	Query: "napothera crassa" ; Times: 1
+	Query: "type:specimen country:"Cameroon" class:Aves" ; Times: 1
+	Query: "Passenger Pigeon recordedby:Brooks" ; Times: 1
+	Query: "prinia socialis type:specimen" ; Times: 3
+	Query: "specificepithet:defilippii class:aves" ; Times: 1
+	Query: "Rio Saloya" ; Times: 2
+	Query: ""Empidonax traillii" type:specimen (utah) mappable:1" ; Times: 1
+	Query: "Grandala coelicolor" ; Times: 1
+	Query: "Furnarius rufus" ; Times: 1
+	Query: "dicaeum concolor type:specimen country:"India"" ; Times: 1
+	Query: "Grallaria guatimalensis" ; Times: 1
+	Query: "dendronanthus" ; Times: 1
+	Query: "osprey" ; Times: 1
+	Query: "garrulax erythrocephalus type:specimen country:"India"" ; Times: 1
+	Query: "dendroica petechia year >= 2000 year <= 2013 mappable:1" ; Times: 1
+	Query: "Leucosticte atrata" ; Times: 6
+	Query: "class:Aves institutioncode:ROM" ; Times: 1
+	Query: "Myiornis" ; Times: 1
+	Query: "Contopus cinereus type:specimen" ; Times: 1
+	Query: "megapodius" ; Times: 2
+	Query: "Crypsirina temia (tissue)" ; Times: 1
+	Query: "Heteralocha" ; Times: 1
+	Query: "birds aves institutioncode:rom baker" ; Times: 1
+	Query: "dicrurus macrocercus type:specimen country:"India"" ; Times: 1
+	Query: "type:specimen specificepithet:semiflavum genus:ornithion" ; Times: 1
+	Query: "Urocissa caerulea (tissue)" ; Times: 1
+	Query: "birds aves institutioncode:rom indonesia" ; Times: 2
+	Query: "birds aves institutioncode:rom china" ; Times: 1
+	Query: "La costa Colombia" ; Times: 1
+	Query: "kiwi" ; Times: 2
+	Query: "birds aves institutioncode:rom korea" ; Times: 1
+	Query: "sturnella defilippii" ; Times: 2
+	Query: "Certhidea olivacea type:specimen" ; Times: 1
+	Query: "birds aves institutioncode:rom iceland" ; Times: 1
+	Query: "irena puella type:specimen country:"India"" ; Times: 1
+	Query: "type:specimen country:"French Guiana" class:Aves institutioncode:ROM" ; Times: 1
+	Query: "Chrysothlypis salmoni" ; Times: 1
+	Query: "ficedula hyperythra" ; Times: 1
+	Query: "psm hawaii" ; Times: 1
+	Query: "petroica multicolor" ; Times: 1
+	Query: "Quiscalus quiscula stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "orthotomus sutorius type:specimen country:"India"" ; Times: 3
+	Query: "aves ummz 2600" ; Times: 1
+	Query: "Heterophasia capistrata type:specimen country:"India"" ; Times: 1
+	Query: "Myrmotherula longipennis" ; Times: 2
+	Query: "monticola rufiventris type:specimen country:"India"" ; Times: 1
+	Query: "Turdus torquatus" ; Times: 1
+	Query: "birds aves institutioncode:rom year >= 2008 year <= 2008" ; Times: 1
+	Query: "solstitialis" ; Times: 1
+	Query: "pitohui nigrescens" ; Times: 1
+	Query: "Stigmatura budytoides" ; Times: 3
+	Query: "cercomacra tyrannina" ; Times: 1
+	Query: "tissue institutioncode:rom" ; Times: 1
+	Query: "(Cacicus haemorrhous)" ; Times: 1
+	Query: "Tangara cyanicollis" ; Times: 1
+	Query: "minla strigula type:specimen country:"India"" ; Times: 1
+	Query: "Vireo flavoviridis" ; Times: 10
+	Query: "birds aves institutioncode:rom ajb" ; Times: 1
+	Query: "Foudia" ; Times: 3
+	Query: "prairie chicken" ; Times: 1
+	Query: "gracula religiosa type:specimen country:"India"" ; Times: 1
+	Query: "dendroica petechia year >= 1990 year <= 2013 mappable:1" ; Times: 1
+	Query: "Oenanthe hispanica" ; Times: 1
+	Query: "dutch birds" ; Times: 1
+	Query: "specificepithet:corax genus:corvus class:aves year >= 1921 year <= 1921" ; Times: 1
+	Query: "county:"Norfolk" stateprovince:"Massachusetts"" ; Times: 1
+	Query: "passer domesticus type:specimen country:"India"" ; Times: 2
+	Query: "melophus lathami" ; Times: 1
+	Query: "palomar mountain" ; Times: 1
+	Query: "CM Leucosticte atrata" ; Times: 1
+	Query: "kansas 157198" ; Times: 1
+	Query: "gracula indica type:specimen country:"India"" ; Times: 1
+	Query: "Cichladusa Kenya" ; Times: 1
+	Query: "Geospiza magnirostris type:specimen" ; Times: 1
+	Query: "Xenotriccus mexicanus type:specimen" ; Times: 1
+	Query: "Dendrocincla" ; Times: 1
+	Query: "Sitta castanea" ; Times: 1
+	Query: "garrulax delesserti type:specimen country:"India"" ; Times: 1
+	Query: "platysmurus" ; Times: 1
+	Query: "dasypus" ; Times: 1
+	Query: "specificepithet:grayi genus:turdus" ; Times: 1
+	Query: "Myrmotherula behni" ; Times: 1
+	Query: "tibialis brazil" ; Times: 1
+	Query: "parakeet" ; Times: 1
+	Query: "Halmahera" ; Times: 2
+	Query: "aves institutioncode:rom year >= 2012 year <= 2012" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 326 download events in this period)
+Total number of records downloaded: 119776 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 108333
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 1
+	Date: 2015-02-05 ; Times: 2
+	Date: 2015-02-09 ; Times: 7
+	Date: 2015-02-16 ; Times: 1
+	Date: 2015-02-17 ; Times: 4
+	Date: 2015-02-18 ; Times: 1
+	Date: 2015-02-19 ; Times: 2
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-24 ; Times: 2
+	Date: 2015-02-25 ; Times: 1
+	Date: 2015-02-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Camarhynchus parvulus type:specimen" ; Times: 1
+	Query: "Certhidea olivacea type:specimen" ; Times: 1
+	Query: "galbula" ; Times: 1
+	Query: "Geospiza scandens type:specimen" ; Times: 1
+	Query: "catharus mexicanus" ; Times: 1
+	Query: "Cameroon" ; Times: 1
+	Query: "(turdus OR zoothera)" ; Times: 1
+	Query: "Camarhynchus pallidus type:specimen" ; Times: 1
+	Query: ""Empidonax traillii" type:specimen (California) mappable:1" ; Times: 1
+	Query: "birds aves institutioncode:rom ajb" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "Geospiza difficilis type:specimen" ; Times: 1
+	Query: "country:"Guatemala" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "Tephrodornis gularis" ; Times: 1
+	Query: "Geospiza fortis type:specimen" ; Times: 1
+	Query: "tissue institutioncode:rom" ; Times: 1
+	Query: "birds aves institutioncode:rom philippines" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "aves stateprovince:"colima" country:"mexico" class:aves mappable:1" ; Times: 1
+	Query: "nipissing" ; Times: 1
+	Query: "CHILE" ; Times: 1
+	Query: "Geospiza conirostris type:specimen" ; Times: 1
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1080
+Total number of records retrieved from searches: 17151
+Number of download events that retrieved data from the resource: 69
+Total number of records downloaded: 156259
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1330
+Total number of records retrieved from searches: 20098
+Number of download events that retrieved data from the resource: 201
+Total number of records downloaded: 201902
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
