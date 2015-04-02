@@ -1,0 +1,273 @@
+Report for Institution Code ROM, Resource birdspass
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 186
+Number of records retrieved in searches: 1543
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 18
+	Country: Canada ; Times: 9
+	Country: Costa Rica ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: France ; Times: 4
+	Country: Germany ; Times: 2
+	Country: India ; Times: 8
+	Country: Israel ; Times: 3
+	Country: Italy ; Times: 7
+	Country: Mexico ; Times: 2
+	Country: Panama ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Thailand ; Times: 7
+	Country: United States ; Times: 116
+	Country: Unknown ; Times: 2
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 2
+	Date: 2015-03-02 ; Times: 7
+	Date: 2015-03-03 ; Times: 6
+	Date: 2015-03-04 ; Times: 6
+	Date: 2015-03-05 ; Times: 4
+	Date: 2015-03-06 ; Times: 16
+	Date: 2015-03-07 ; Times: 3
+	Date: 2015-03-08 ; Times: 5
+	Date: 2015-03-09 ; Times: 7
+	Date: 2015-03-10 ; Times: 8
+	Date: 2015-03-11 ; Times: 10
+	Date: 2015-03-12 ; Times: 6
+	Date: 2015-03-13 ; Times: 16
+	Date: 2015-03-15 ; Times: 2
+	Date: 2015-03-16 ; Times: 11
+	Date: 2015-03-17 ; Times: 10
+	Date: 2015-03-18 ; Times: 10
+	Date: 2015-03-19 ; Times: 7
+	Date: 2015-03-20 ; Times: 12
+	Date: 2015-03-21 ; Times: 1
+	Date: 2015-03-22 ; Times: 2
+	Date: 2015-03-23 ; Times: 3
+	Date: 2015-03-24 ; Times: 5
+	Date: 2015-03-25 ; Times: 1
+	Date: 2015-03-26 ; Times: 4
+	Date: 2015-03-27 ; Times: 9
+	Date: 2015-03-28 ; Times: 3
+	Date: 2015-03-30 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Dinemelli" ; Times: 1
+	Query: "lamprotornis caudatus" ; Times: 1
+	Query: "Hylophylax poecilonota" ; Times: 1
+	Query: "Cotinga" ; Times: 1
+	Query: "type:specimen specificepithet:sumatranus genus:corydon" ; Times: 1
+	Query: "pipra" ; Times: 1
+	Query: ""Ficedula narcissina"" ; Times: 2
+	Query: "chamaeza" ; Times: 1
+	Query: "country:"greece"" ; Times: 1
+	Query: ""Pazos, A" type:specimen country:"Colombia" year >= 1950 year <= 2000" ; Times: 1
+	Query: "schistochlamys ruficapillus tissue" ; Times: 1
+	Query: "type:specimen specificepithet:formosa genus:pipreola" ; Times: 1
+	Query: "type:specimen specificepithet:gurneyi genus:pitta" ; Times: 1
+	Query: "culicicapa ceylonensis type:specimen country:"India"" ; Times: 4
+	Query: "Mines District mappable:1" ; Times: 1
+	Query: "culicicapa ceylonensis type:specimen mappable:1" ; Times: 1
+	Query: "paradoxornis nipalensis" ; Times: 7
+	Query: "sicalis flaveola tissue" ; Times: 1
+	Query: "ummz ornithology year <= 2014" ; Times: 1
+	Query: "Aplonis metallica" ; Times: 2
+	Query: "type:specimen country:"bangladesh" recordedby:Primrose" ; Times: 1
+	Query: "specificepithet:granatina genus:Pitta" ; Times: 1
+	Query: ""grallaria guatimalensis" type:specimen" ; Times: 1
+	Query: "deli" ; Times: 1
+	Query: "specificepithet:lafargei genus:Myzomela (tissue)" ; Times: 1
+	Query: "manatee" ; Times: 1
+	Query: "Dicaeum tristrami" ; Times: 1
+	Query: "type:specimen specificepithet:nobilis genus:chamaeza" ; Times: 1
+	Query: "specificepithet:regulus genus:Machaeropterus" ; Times: 1
+	Query: "type:specimen specificepithet:ridgwayi genus:cotinga" ; Times: 1
+	Query: "type:specimen specificepithet:moluccensis genus:pitta" ; Times: 1
+	Query: "TOP distance(location,geopoint(34.04184959834946,-118.61955642700195))<100000" ; Times: 1
+	Query: "type:specimen specificepithet:amabilis genus:cotinga" ; Times: 1
+	Query: "CM 2007" ; Times: 1
+	Query: "Pipra filicauda" ; Times: 1
+	Query: "type:specimen stateprovince:"Utah" (Bear River)" ; Times: 1
+	Query: "Cinclodes palliatus" ; Times: 1
+	Query: "formicivora grisea tissue" ; Times: 1
+	Query: "schistochlamys melanopis tissue" ; Times: 1
+	Query: "cinnyricinclus leucogaster" ; Times: 3
+	Query: "eutamias" ; Times: 1
+	Query: "Rhipidura cyaniceps" ; Times: 2
+	Query: "Paradisaeidae year >= 1990 year <= 2015" ; Times: 1
+	Query: "country:"greece" AND (NOT Mammalia NOT Bufo)" ; Times: 1
+	Query: "culicicapa ceylonensis type:specimen" ; Times: 1
+	Query: "type:specimen stateprovince:"Nunavut" country:"Canada"" ; Times: 2
+	Query: "Pitta granatina" ; Times: 1
+	Query: "poeoptera lugubris" ; Times: 1
+	Query: "country:"surinam" year >= 1900 year <= 1908" ; Times: 1
+	Query: "pipra pipra" ; Times: 2
+	Query: "stateprovince:"Rhode Island"" ; Times: 1
+	Query: "year >= 1839 year <= 1839" ; Times: 1
+	Query: "Stigmatura" ; Times: 1
+	Query: "type:specimen (Dobossa)" ; Times: 1
+	Query: "Phylloscopus trochilus" ; Times: 1
+	Query: "Pygiptila stellaris" ; Times: 1
+	Query: "chicago" ; Times: 1
+	Query: "coracina leucopygia" ; Times: 1
+	Query: "type:specimen specificepithet:oberi genus:myiarchus" ; Times: 2
+	Query: "type:specimen specificepithet:maculata genus:cotinga" ; Times: 1
+	Query: "Rhodinocichla rosea" ; Times: 1
+	Query: "Lanius bucephalus" ; Times: 1
+	Query: "Myrmorchilus" ; Times: 2
+	Query: "country:"Trinidad and tobago" class:Aves year >= 1900 year <= 1905" ; Times: 1
+	Query: "Nectarinia brasiliana" ; Times: 6
+	Query: "country:"Trinidad" class:Aves (pasea) year >= 1903 year <= 1903" ; Times: 1
+	Query: "specificepithet:erythromelas genus:Myzomela" ; Times: 1
+	Query: "manacus manacus abditivus" ; Times: 1
+	Query: "type:specimen specificepithet:sagrae genus:Myiarchus" ; Times: 1
+	Query: "catalognumber:32932 institutioncode:ROM" ; Times: 1
+	Query: "geothlypis poliocephala stateprovince:"texas"" ; Times: 1
+	Query: "royal ontario museum" ; Times: 1
+	Query: "irena puella type:specimen country:"india"" ; Times: 1
+	Query: "10-7-1853" ; Times: 1
+	Query: "geothlypis poliocephala" ; Times: 2
+	Query: "Oxyruncus cristatus" ; Times: 1
+	Query: ""Sierra del Carmen" Coahuila Aves" ; Times: 1
+	Query: "type:specimen recordedby:Primrose" ; Times: 1
+	Query: "specificepithet:violaceus genus:cyanocorax" ; Times: 1
+	Query: "polystictus pectoralis tissue" ; Times: 3
+	Query: "Cacicus" ; Times: 1
+	Query: "muscicapa striata" ; Times: 1
+	Query: "parotia wahnesi" ; Times: 7
+	Query: "type:specimen specificepithet:fuscescens genus:catharus year >= 1980 year <= 2015" ; Times: 1
+	Query: "Scaphidura" ; Times: 1
+	Query: "Vireo flavifrons" ; Times: 1
+	Query: "lamprotornis splendidus" ; Times: 3
+	Query: "Myrmeciza hemimelaena" ; Times: 1
+	Query: "chiroxiphia boliviana" ; Times: 1
+	Query: "Pyriglena leucoptera brazil" ; Times: 1
+	Query: "Vireo atricapillus" ; Times: 1
+	Query: "Phylloscopus poliocephalus" ; Times: 2
+	Query: "pipra pipra coracina" ; Times: 1
+	Query: "Cercomacra cinerascens brazil" ; Times: 1
+	Query: "passerina leclancherii" ; Times: 1
+	Query: "Sclerurus caudacutus brazil" ; Times: 1
+	Query: "institutioncode:ROM" ; Times: 1
+	Query: "corvus corone" ; Times: 1
+	Query: "Lanius excubitor (tissue)" ; Times: 1
+	Query: "salpornis" ; Times: 1
+	Query: "nectarinia zeylonica" ; Times: 1
+	Query: "catalognumber:105798 institutioncode:ROM" ; Times: 1
+	Query: "collin county" ; Times: 1
+	Query: "Pycnonotus atriceps" ; Times: 3
+	Query: "rhodopechys" ; Times: 1
+	Query: "culicicapa ceylonensis type:specimen (Skin) mappable:1" ; Times: 1
+	Query: "machaeropterus" ; Times: 1
+	Query: "cyanocorax violaceus" ; Times: 1
+	Query: "Percnostola rufifrons" ; Times: 1
+	Query: "Nectarinia brasiliana type:specimen country:"Bangladesh"" ; Times: 1
+	Query: "Myrmothera campanisona" ; Times: 1
+	Query: "Myrmeciza berlepschi" ; Times: 1
+	Query: ""Empidonax wrightii" county:"San Bernardino" class:Aves" ; Times: 1
+	Query: "onychognathus morio" ; Times: 1
+	Query: "(Menage OR Worcester OR Bourns) year <= 1900" ; Times: 1
+	Query: "chlorocharis" ; Times: 1
+	Query: "Sayornis saya type:specimen county:"San Luis Obispo" stateprovince:"California"" ; Times: 1
+	Query: "type:specimen country:"bangladesh" recordedby:Primrose year >= 1902 year <= 1902" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 3
+	Query: "type:specimen country:"bangladesh" institutioncode:ROM" ; Times: 1
+	Query: "Chamaeza nobilis" ; Times: 1
+	Query: "Formicarius colma" ; Times: 1
+	Query: "sporophila leucoptera" ; Times: 1
+	Query: "type:specimen country:"Brazil" specificepithet:fasciicauda genus:Pipra" ; Times: 1
+	Query: "Oenanthe cypriaca" ; Times: 6
+	Query: "Myrmeciza ruficauda" ; Times: 1
+	Query: "Greece" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "specificepithet:nipalensis genus:Pitta" ; Times: 1
+	Query: "Xenops tenuirostris" ; Times: 1
+	Query: "MVZ 143379" ; Times: 1
+	Query: "Catharus year >= 1933 year <= 1933" ; Times: 1
+	Query: "lamprotornis nitens" ; Times: 2
+	Query: "Tangara nigroviridis type:specimen (tissue)" ; Times: 1
+	Query: "institutioncode:rom" ; Times: 1
+	Query: "Thlypopsis ornata" ; Times: 2
+	Query: "saroglossa aurata" ; Times: 1
+	Query: "anthus spinoletta" ; Times: 1
+	Query: "conopophaga" ; Times: 1
+	Query: "type:specimen specificepithet:sibilator genus:Sirystes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 298 download events in this period)
+Total number of records downloaded: 12293 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 11378
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 7
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 15
+	Country: Venezuela ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-02 ; Times: 6
+	Date: 2015-03-04 ; Times: 1
+	Date: 2015-03-11 ; Times: 1
+	Date: 2015-03-12 ; Times: 1
+	Date: 2015-03-16 ; Times: 2
+	Date: 2015-03-22 ; Times: 1
+	Date: 2015-03-24 ; Times: 1
+	Date: 2015-03-26 ; Times: 7
+	Date: 2015-03-27 ; Times: 4
+	Date: 2015-03-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"Nicaragua" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "Scaphidura" ; Times: 1
+	Query: "passerina amoena" ; Times: 1
+	Query: "Cacicus" ; Times: 1
+	Query: "year <= 2015 distance(location,geopoint(43.01814269299076,-76.13525390625))<6530" ; Times: 1
+	Query: "Stachyris ruficeps" ; Times: 1
+	Query: "type:specimen specificepithet:fuscescens genus:catharus year >= 1980 year <= 2015" ; Times: 1
+	Query: ""Pazos, A" type:specimen country:"Colombia" year >= 1950 year <= 2000" ; Times: 1
+	Query: "HYLOPHILUS FLAVIPES" ; Times: 1
+	Query: "Vireo olivaceus" ; Times: 1
+	Query: "birds paraguay" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "Psarocolius" ; Times: 1
+	Query: "country:"Costa Rica" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "Aves country:"Argentina" year >= 1960 year <= 2014" ; Times: 2
+	Query: "stateprovince:"Alberta" country:"Canada" mappable:1" ; Times: 1
+	Query: "class:Aves (Cuyamaca)" ; Times: 2
+	Query: "year <= 2015 distance(location,geopoint(41.36526606011106,-75.65460205078125))<17395" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "type:specimen country:"El Salvador" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "passerina versicolor" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "Eremophila alpestris insularis type:specimen" ; Times: 1
+	Query: "passerina caerulea" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1266
+Total number of records retrieved from searches: 18694
+Number of download events that retrieved data from the resource: 96
+Total number of records downloaded: 168552
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1516
+Total number of records retrieved from searches: 21641
+Number of download events that retrieved data from the resource: 228
+Total number of records downloaded: 214195
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
