@@ -1,0 +1,414 @@
+Report for Institution Code ROM, Resource birdspass
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 443
+Number of records retrieved in searches: 6535
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 6
+	Country: Australia ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 17
+	Country: Canada ; Times: 64
+	Country: Colombia ; Times: 2
+	Country: Czech Republic ; Times: 1
+	Country: Germany ; Times: 21
+	Country: India ; Times: 3
+	Country: Mexico ; Times: 7
+	Country: Netherlands ; Times: 9
+	Country: Peru ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Thailand ; Times: 11
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 232
+	Country: Unknown ; Times: 60
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 13
+	Date: 2015-05-06 ; Times: 64
+	Date: 2015-05-07 ; Times: 18
+	Date: 2015-05-08 ; Times: 9
+	Date: 2015-05-09 ; Times: 1
+	Date: 2015-05-10 ; Times: 10
+	Date: 2015-05-11 ; Times: 6
+	Date: 2015-05-12 ; Times: 7
+	Date: 2015-05-13 ; Times: 12
+	Date: 2015-05-14 ; Times: 18
+	Date: 2015-05-15 ; Times: 25
+	Date: 2015-05-16 ; Times: 10
+	Date: 2015-05-17 ; Times: 12
+	Date: 2015-05-18 ; Times: 35
+	Date: 2015-05-19 ; Times: 20
+	Date: 2015-05-20 ; Times: 58
+	Date: 2015-05-21 ; Times: 8
+	Date: 2015-05-22 ; Times: 15
+	Date: 2015-05-23 ; Times: 11
+	Date: 2015-05-24 ; Times: 7
+	Date: 2015-05-25 ; Times: 7
+	Date: 2015-05-26 ; Times: 35
+	Date: 2015-05-27 ; Times: 10
+	Date: 2015-05-28 ; Times: 12
+	Date: 2015-05-29 ; Times: 10
+	Date: 2015-05-30 ; Times: 5
+	Date: 2015-05-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "pericrocotus flammeus" ; Times: 5
+	Query: "ROM 61045" ; Times: 1
+	Query: "vermivora bachmanii" ; Times: 1
+	Query: "rhopocichla atriceps" ; Times: 5
+	Query: "Terpsiphone viridis ferreti" ; Times: 1
+	Query: "("Nipissing District")" ; Times: 1
+	Query: "turdoides" ; Times: 2
+	Query: "oxyruncus cristatus" ; Times: 1
+	Query: "Moho SKIN" ; Times: 2
+	Query: "dendrocitta leucogastra" ; Times: 2
+	Query: "pycnonotus xantholaemus" ; Times: 1
+	Query: "Zonotrichia melodia type:specimen specificepithet:melodia institutioncode:ROM" ; Times: 1
+	Query: "turdus obscurus-india" ; Times: 1
+	Query: "myzomela tristrami" ; Times: 1
+	Query: "r-87381" ; Times: 1
+	Query: "tolmomyias sulphurescens" ; Times: 1
+	Query: "rhipidura albogularis" ; Times: 4
+	Query: "119602" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1910" ; Times: 1
+	Query: "turdoides malcolmi" ; Times: 4
+	Query: "Pan institutioncode:ROM" ; Times: 1
+	Query: "san carlos costa rica" ; Times: 2
+	Query: "baily" ; Times: 1
+	Query: "Rhynchocyclus" ; Times: 7
+	Query: "(Nipissing*)" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1937 year <= 1980" ; Times: 1
+	Query: "3996" ; Times: 2
+	Query: "Brant" ; Times: 1
+	Query: "class:aves catalognumber:49430" ; Times: 1
+	Query: "gracula religiosa" ; Times: 3
+	Query: "vireo bellii california" ; Times: 2
+	Query: "copsychus malabaricus" ; Times: 7
+	Query: "(Nipissing OR Nipising OR Nippising OR Nippissing)" ; Times: 6
+	Query: "(Nipissing)" ; Times: 2
+	Query: "hemignathus obscurus SKIN" ; Times: 2
+	Query: "rupicola" ; Times: 1
+	Query: "78732" ; Times: 1
+	Query: "Sialia sialis Arizona" ; Times: 2
+	Query: "icterotis" ; Times: 1
+	Query: "Nipissing" ; Times: 2
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "class:Aves catalognumber:60046 institutioncode:ROM" ; Times: 1
+	Query: "pomatorhinus schisticeps" ; Times: 1
+	Query: "phylloscopus fuscatus" ; Times: 3
+	Query: "Anthus correndera chilensis" ; Times: 1
+	Query: "turdoides striatus" ; Times: 8
+	Query: "Knipolegus cyanirostris brazil" ; Times: 2
+	Query: "Hemitriccus orbitatus brazil" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1909" ; Times: 4
+	Query: "Vermivora bachmanii" ; Times: 3
+	Query: "turdus obscurus" ; Times: 1
+	Query: "Turdus falcklandii" ; Times: 1
+	Query: "Tolmomyias sulphurescens brazil" ; Times: 1
+	Query: "52375" ; Times: 1
+	Query: "Parotia wahnesi" ; Times: 1
+	Query: "coereba flaveola" ; Times: 2
+	Query: "Serpophaga subcristata" ; Times: 1
+	Query: "lanius collurio" ; Times: 4
+	Query: "Dicaeum hypoleucum" ; Times: 1
+	Query: "103178" ; Times: 1
+	Query: "AG 259" ; Times: 1
+	Query: "genus:passer institutioncode:ROM mappable:1" ; Times: 1
+	Query: "turdus unicolor" ; Times: 2
+	Query: "Saltator striatipectus" ; Times: 1
+	Query: "Onychorhynchus coronatus fraterculus" ; Times: 2
+	Query: "Sialia sialis California" ; Times: 1
+	Query: "guyana birds institutioncode:rom" ; Times: 1
+	Query: ""Coracina striata"" ; Times: 8
+	Query: "Motacilla alba type:specimen year >= 1937 year <= 1990" ; Times: 1
+	Query: "cachar" ; Times: 1
+	Query: "hypogramma" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1910 year <= 1950" ; Times: 1
+	Query: "myrmeciza hemimelaena" ; Times: 2
+	Query: "county:"Nipissing District" stateprovince:"Ontario" country:"Canada" year >= 1920 year <= 2014" ; Times: 2
+	Query: "Sitta carolinensis year >= 1937 year <= 1937" ; Times: 1
+	Query: "delalandi brazil" ; Times: 1
+	Query: "Onychorhynchus coronatus brazil" ; Times: 1
+	Query: "mionectes oleagineus" ; Times: 3
+	Query: "Gymnomyza samoensis" ; Times: 1
+	Query: "(Nipissing OR Nippissing OR Nipising)" ; Times: 2
+	Query: "94030" ; Times: 1
+	Query: "samar aves" ; Times: 4
+	Query: "Nucifraga columbiana" ; Times: 2
+	Query: "genus:Platylophus" ; Times: 1
+	Query: "pycnonotus gularis" ; Times: 2
+	Query: "Quiche country:"Guatemala" class:Aves" ; Times: 2
+	Query: "hypsipetes madagascariensis" ; Times: 5
+	Query: "tolmomyias sulphurescens country:"colombia"" ; Times: 1
+	Query: "nipissing" ; Times: 1
+	Query: "J.S. Rowley" ; Times: 1
+	Query: "suriname birds institutioncode:rom" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1891 year <= 1909" ; Times: 1
+	Query: "Vermivora pinus year >= 1800 year <= 1930" ; Times: 3
+	Query: "nmr" ; Times: 1
+	Query: "Mirafra erythroptera rom" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1910 year <= 1940" ; Times: 1
+	Query: "hemignathus lucidus SKIN" ; Times: 2
+	Query: "Eremophila alpestris hoyti" ; Times: 1
+	Query: "county:"Nipissing District"" ; Times: 1
+	Query: "Xiphorhynchus guttatus susurrans" ; Times: 1
+	Query: "Thryothorus albinucha" ; Times: 1
+	Query: "vireo flavoviridis" ; Times: 4
+	Query: "distance(location,geopoint(37.09974768923571,14.56787109375))<100000" ; Times: 1
+	Query: "monkey" ; Times: 1
+	Query: "Anthus leucophrys" ; Times: 1
+	Query: "Richardson country:"Nicaragua"" ; Times: 4
+	Query: "recordedby:McGregor year >= 1898 year <= 1898" ; Times: 2
+	Query: "Motacilla alba type:specimen year >= 1937 year <= 1970" ; Times: 1
+	Query: "54847" ; Times: 1
+	Query: "county:"Nipissing" stateprovince:"Ontario" country:"Canada" year >= 1920 year <= 2014" ; Times: 3
+	Query: "Pachyramphus castaneus" ; Times: 2
+	Query: "ag 137" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1910 year <= 1938" ; Times: 1
+	Query: "specificepithet:hudsonicus class:Aves institutioncode:ROM OR UMMZ OR FMNH OR MVZ OR CAS" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1910 year <= 1936" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1910 year <= 1937" ; Times: 1
+	Query: "sclerurus mexicanus" ; Times: 1
+	Query: "samar" ; Times: 1
+	Query: "hypocolius" ; Times: 1
+	Query: "Motacilla alba" ; Times: 4
+	Query: "11092" ; Times: 1
+	Query: "11093" ; Times: 1
+	Query: "stateprovince:"ohio" class:aves" ; Times: 1
+	Query: "55546" ; Times: 1
+	Query: "arachnothera clarae" ; Times: 1
+	Query: "parotia wahnesi" ; Times: 6
+	Query: "stateprovince:"Arizona" specificepithet:troglodytes genus:Troglodytes" ; Times: 1
+	Query: "lanius isabellinus" ; Times: 5
+	Query: "acrocephalus dumetorum" ; Times: 20
+	Query: "Motacilla alba type:specimen mappable:1" ; Times: 2
+	Query: "county:"Nipissing"" ; Times: 1
+	Query: "certhia americana year >= 1950 year <= 2015 mappable:1" ; Times: 1
+	Query: ""rio blanco" country:"Ecuador" class:Aves" ; Times: 1
+	Query: "(Nip OR Nipissing)" ; Times: 1
+	Query: "(Nipissing OR Nippissing OR Nipising OR Nipissing District)" ; Times: 1
+	Query: "Piranga flava figlina" ; Times: 1
+	Query: "(Nipissing OR Nippissing OR Nipising OR nipissing)" ; Times: 2
+	Query: "Vermivora pinus" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1950" ; Times: 3
+	Query: "MVZ 6041" ; Times: 4
+	Query: "(Nipissing OR Nippissing OR Nipising OR "Nipissing District")" ; Times: 1
+	Query: "stateprovince:"michigan" genus:ammodramus" ; Times: 1
+	Query: "coleoptera" ; Times: 2
+	Query: "genus:rupicola mappable:1" ; Times: 1
+	Query: "infraspecificepithet:californica" ; Times: 2
+	Query: "(exigua)" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1910 year <= 1925" ; Times: 1
+	Query: "Rio Blanco country:"Ecuador"" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1910 year <= 1923" ; Times: 1
+	Query: "passenger pigeon" ; Times: 1
+	Query: "Boucard country:"Mexico"" ; Times: 3
+	Query: "Terenotriccus erythrurus" ; Times: 1
+	Query: "Troglodytes chilensis" ; Times: 2
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1890" ; Times: 1
+	Query: "122533" ; Times: 1
+	Query: "ROM 511392" ; Times: 1
+	Query: "88511" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1926 year <= 1936" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus (tissue)" ; Times: 1
+	Query: "Contopus caribaeus" ; Times: 1
+	Query: "Myzomela lafargei" ; Times: 2
+	Query: ""Nipissing District"" ; Times: 1
+	Query: "county:"Nipissing" year >= 1920 year <= 2014" ; Times: 1
+	Query: "58062" ; Times: 1
+	Query: "bocagei" ; Times: 1
+	Query: "garrulax delesserti" ; Times: 1
+	Query: "Cistothorus platensis" ; Times: 2
+	Query: ""rio blanco" country:"Ecuador"" ; Times: 1
+	Query: "corvus corax class:aves year >= 1933 year <= 1933" ; Times: 1
+	Query: "W. B. Richardson" ; Times: 1
+	Query: "(Nipissing OR Nippissing)" ; Times: 1
+	Query: "corapipo leucorrhoa" ; Times: 2
+	Query: "dendroica petechia (tissue)" ; Times: 2
+	Query: "anthus bogotensis" ; Times: 6
+	Query: "pitta cyanea" ; Times: 1
+	Query: "Cistothorus palustris county:Orange year >= 1960 year <= 2015" ; Times: 1
+	Query: "W. B. Richardson class:AVES" ; Times: 1
+	Query: "Nipissing District" ; Times: 1
+	Query: "Coracina striata" ; Times: 2
+	Query: "Cachar" ; Times: 2
+	Query: "anthus bogotensis tissue" ; Times: 1
+	Query: "anthus lutescens" ; Times: 1
+	Query: "Euphonia chlorotica" ; Times: 2
+	Query: "Motacilla alba type:specimen year >= 1956 year <= 1988" ; Times: 2
+	Query: "Eremophila alpestris hoyti year <= 1895" ; Times: 1
+	Query: "10270" ; Times: 1
+	Query: "cistothorus platensis distance(location,geopoint(51.19770732628986,-96.416015625))<100000" ; Times: 1
+	Query: "ficedula nigrorufa" ; Times: 1
+	Query: "Terenotriccus erythrurus signatus" ; Times: 2
+	Query: "Zonotrichia melodia type:specimen specificepithet:melodia" ; Times: 3
+	Query: "dicaeum ignipectus" ; Times: 2
+	Query: "Myiobius atricaudus" ; Times: 1
+	Query: "Sitta carolinensis year >= 1886 year <= 1887" ; Times: 1
+	Query: "Sitta carolinensis year >= 1886 year <= 1886" ; Times: 1
+	Query: "Catharus fuscescens (tissue)" ; Times: 1
+	Query: "Zonotrichia melodia type:specimen" ; Times: 4
+	Query: "Contopus sordidulus saturatus" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1000 year <= 2015" ; Times: 1
+	Query: "carpodacus erythrinus india" ; Times: 2
+	Query: "Parus stupae" ; Times: 1
+	Query: "type:specimen specificepithet:corax genus:Corvus (skin) mappable:1" ; Times: 1
+	Query: "genus:rupicola" ; Times: 2
+	Query: "dicaeum trigonostigma" ; Times: 1
+	Query: "Melithreptus albogularis" ; Times: 1
+	Query: "Arremonops rufivirgatus" ; Times: 1
+	Query: "seicercus burkii" ; Times: 1
+	Query: "exigua" ; Times: 2
+	Query: "Phylloscartes ventralis brazil" ; Times: 1
+	Query: "septentrionalis kansas" ; Times: 2
+	Query: "cistothorus platensis distance(location,geopoint(45.21816366718811,-93.97705078125))<306641" ; Times: 1
+	Query: "Boulton" ; Times: 1
+	Query: "Coryphospingus cucullatus" ; Times: 1
+	Query: "Nipissing lake" ; Times: 1
+	Query: "rupicola peruviana" ; Times: 2
+	Query: "Sitta carolinensis UWBM" ; Times: 1
+	Query: "Onychorhynchus coronatus" ; Times: 1
+	Query: "49339" ; Times: 3
+	Query: "sycamore canyon stateprovince:"arizona" class:aves year >= 1950 year <= 1965" ; Times: 1
+	Query: "(Nipissing OR Nippising OR Nippising OR Nippissing)" ; Times: 3
+	Query: "ptilogonys caudatus" ; Times: 1
+	Query: "Limnothlypis swainsonii" ; Times: 2
+	Query: "ammodramus nelsoni" ; Times: 2
+	Query: "tachycineta albilinea" ; Times: 3
+	Query: "Onychorhynchus swainsoni brazil" ; Times: 1
+	Query: "(Nipissing OR Nippissing OR Nipising AND District)" ; Times: 1
+	Query: "todirostrum chrysocrotaphum" ; Times: 2
+	Query: "salpornis" ; Times: 1
+	Query: "Myiobius atricaudus portovelae" ; Times: 1
+	Query: "cisticola exilis" ; Times: 2
+	Query: "Arachnothera flavigaster" ; Times: 2
+	Query: "Pachyramphus aglaiae gravis" ; Times: 1
+	Query: "Motacilla alba type:specimen" ; Times: 8
+	Query: "Contopus sordidulus saturatus year <= 1899" ; Times: 1
+	Query: "institutioncode:rom" ; Times: 3
+	Query: "Contopus latirostris" ; Times: 1
+	Query: "grallaria hypoleuca" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1965" ; Times: 1
+	Query: "Pipra" ; Times: 1
+	Query: "motacilla alba" ; Times: 2
+	Query: "zoothera dauma" ; Times: 4
+	Query: "county:"Montour" stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "Tolmomyias poliocephalus brazil" ; Times: 1
+	Query: "Madeira" ; Times: 2
+	Query: "lanius cristatus lucionensis" ; Times: 1
+	Query: "Boucard" ; Times: 2
+	Query: "naranjo costa rica" ; Times: 1
+	Query: "skunk" ; Times: 1
+	Query: "Satrapa icterophrys brazil" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1880" ; Times: 1
+	Query: "Graminicola bengalensis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 93 (out of 976 download events in this period)
+Total number of records downloaded: 24452 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 12575
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 8
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Netherlands ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 17
+	Country: Unknown ; Times: 55
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-06 ; Times: 6
+	Date: 2015-05-07 ; Times: 1
+	Date: 2015-05-08 ; Times: 1
+	Date: 2015-05-11 ; Times: 3
+	Date: 2015-05-12 ; Times: 2
+	Date: 2015-05-13 ; Times: 3
+	Date: 2015-05-14 ; Times: 3
+	Date: 2015-05-15 ; Times: 3
+	Date: 2015-05-17 ; Times: 1
+	Date: 2015-05-18 ; Times: 22
+	Date: 2015-05-19 ; Times: 33
+	Date: 2015-05-20 ; Times: 1
+	Date: 2015-05-22 ; Times: 2
+	Date: 2015-05-23 ; Times: 1
+	Date: 2015-05-24 ; Times: 4
+	Date: 2015-05-25 ; Times: 2
+	Date: 2015-05-27 ; Times: 1
+	Date: 2015-05-28 ; Times: 2
+	Date: 2015-05-29 ; Times: 1
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Saltator striatipectus" ; Times: 1
+	Query: "Motacilla alba type:specimen mappable:1" ; Times: 2
+	Query: "Motacilla alba type:specimen year >= 1956 year <= 1988" ; Times: 1
+	Query: "hypogramma" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "Thryothorus ludovicianus" ; Times: 1
+	Query: "Vermivora pinus year >= 1800 year <= 1930" ; Times: 1
+	Query: "lanius isabellinus" ; Times: 1
+	Query: "county:"Nipissing"" ; Times: 1
+	Query: "mionectes oleagineus" ; Times: 1
+	Query: "Vermivora pinus" ; Times: 1
+	Query: "Tyrannidae" ; Times: 2
+	Query: "Underwood" ; Times: 1
+	Query: "samar aves" ; Times: 1
+	Query: "type:specimen specificepithet:iliaca class:Aves institutioncode:FMNH OR UMMZ" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "Rhynchocyclus" ; Times: 2
+	Query: "(Nipissing OR Nipising OR Nippising OR Nippissing)" ; Times: 2
+	Query: "Cistothorus platensis" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1910 year <= 1925" ; Times: 4
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+	Query: ""Neochmia phaeton" country:"Australia"" ; Times: 1
+	Query: "Coryphospingus cucullatus" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1891 year <= 1909" ; Times: 4
+	Query: "country:"Philippines" class:Aves year <= 2015" ; Times: 1
+	Query: "genus:rupicola" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1890" ; Times: 3
+	Query: "arachnothera" ; Times: 1
+	Query: "ammodramus leconteii" ; Times: 1
+	Query: "ammodramus nelsoni" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1926 year <= 1936" ; Times: 1
+	Query: "county:"Nipissing" stateprovince:"Ontario" country:"Canada" year >= 1920 year <= 2014" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "Thryothorus albinucha" ; Times: 1
+	Query: "specificepithet:tigrina genus:Dendroica class:Aves institutioncode:UMMZ OR FMNH" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1909" ; Times: 38
+	Query: "Vermivora bachmanii" ; Times: 1
+	Query: "W. B. Richardson" ; Times: 1
+	Query: "Cachar" ; Times: 1
+	Query: "Cistothorus palustris" ; Times: 1
+	Query: "specificepithet:hudsonicus class:Aves institutioncode:ROM OR UMMZ OR FMNH OR MVZ OR CAS" ; Times: 1
+	Query: "certhia americana" ; Times: 1
+	Query: "Satrapa icterophrys brazil" ; Times: 1
+	Query: "county:"Nipissing District" stateprovince:"Ontario" country:"Canada" year >= 1920 year <= 2014" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1709
+Total number of records retrieved from searches: 25229
+Number of download events that retrieved data from the resource: 189
+Total number of records downloaded: 193004
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1959
+Total number of records retrieved from searches: 28176
+Number of download events that retrieved data from the resource: 321
+Total number of records downloaded: 238647
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
