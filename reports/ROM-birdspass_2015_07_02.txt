@@ -1,0 +1,485 @@
+Report for Institution Code ROM, Resource birdspass
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 645
+Number of records retrieved in searches: 4885
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 70
+	Country: Canada ; Times: 16
+	Country: Colombia ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: Denmark ; Times: 14
+	Country: Finland ; Times: 2
+	Country: France ; Times: 9
+	Country: Germany ; Times: 15
+	Country: Guatemala ; Times: 1
+	Country: Italy ; Times: 4
+	Country: Mexico ; Times: 9
+	Country: Peru ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 483
+	Country: Unknown ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 36
+	Date: 2015-06-02 ; Times: 13
+	Date: 2015-06-03 ; Times: 13
+	Date: 2015-06-04 ; Times: 11
+	Date: 2015-06-05 ; Times: 37
+	Date: 2015-06-06 ; Times: 6
+	Date: 2015-06-07 ; Times: 39
+	Date: 2015-06-08 ; Times: 58
+	Date: 2015-06-09 ; Times: 76
+	Date: 2015-06-10 ; Times: 53
+	Date: 2015-06-11 ; Times: 44
+	Date: 2015-06-12 ; Times: 21
+	Date: 2015-06-14 ; Times: 4
+	Date: 2015-06-15 ; Times: 15
+	Date: 2015-06-16 ; Times: 22
+	Date: 2015-06-17 ; Times: 13
+	Date: 2015-06-18 ; Times: 18
+	Date: 2015-06-19 ; Times: 13
+	Date: 2015-06-20 ; Times: 11
+	Date: 2015-06-21 ; Times: 5
+	Date: 2015-06-22 ; Times: 7
+	Date: 2015-06-23 ; Times: 41
+	Date: 2015-06-24 ; Times: 31
+	Date: 2015-06-25 ; Times: 12
+	Date: 2015-06-26 ; Times: 24
+	Date: 2015-06-27 ; Times: 1
+	Date: 2015-06-28 ; Times: 2
+	Date: 2015-06-29 ; Times: 11
+	Date: 2015-06-30 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "phylloscopus tristis" ; Times: 2
+	Query: "flaviventer" ; Times: 1
+	Query: "rhopocichla atriceps" ; Times: 1
+	Query: "specificepithet:diadema genus:Catamblyrhynchus class:aves" ; Times: 1
+	Query: "muscicapa ferruginea" ; Times: 15
+	Query: "Myzomela nigrita" ; Times: 1
+	Query: "zonotrichia oriantha (tissue)" ; Times: 1
+	Query: "solola" ; Times: 1
+	Query: "Meliphaga vicina" ; Times: 1
+	Query: "vireolanius bolivianus" ; Times: 3
+	Query: "distance(location,geopoint(35.39513952947841,15.380859375))<144859" ; Times: 1
+	Query: "erithacus brunneus" ; Times: 22
+	Query: "dendrocitta leucogastra" ; Times: 4
+	Query: "Ramphocelus carbo brazil" ; Times: 2
+	Query: "aegithalos concinnus" ; Times: 1
+	Query: ""Tangara mexicana" brazil" ; Times: 1
+	Query: "Myzomela eques" ; Times: 1
+	Query: "type:specimen county:"Orleans" class:Aves year >= 0 year <= 2015" ; Times: 1
+	Query: "CMC aves" ; Times: 1
+	Query: "Erithacus rubecula" ; Times: 2
+	Query: "Anthus lutescens brazil" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 15
+	Query: "UWBM 80739" ; Times: 1
+	Query: "Microligea palustris class:aves" ; Times: 1
+	Query: "myzomela albigula" ; Times: 1
+	Query: "Vidua macroura" ; Times: 10
+	Query: "gerygone albofrontata" ; Times: 1
+	Query: "catalognumber:94452" ; Times: 2
+	Query: "Hemithraupis guira brazil" ; Times: 1
+	Query: "130976" ; Times: 2
+	Query: "Myzomela erythromelas" ; Times: 1
+	Query: "type:specimen catalognumber:62250" ; Times: 1
+	Query: "Melidectes ochromelas" ; Times: 1
+	Query: "vireo bellii pusillus" ; Times: 4
+	Query: "Hemitriccus margaritaceiventer" ; Times: 2
+	Query: "USNM Tyrannus" ; Times: 1
+	Query: "berlepschi" ; Times: 1
+	Query: "Tristram" ; Times: 2
+	Query: "Onychorhynchus" ; Times: 1
+	Query: "mvz 9207" ; Times: 1
+	Query: "vireo bellii california" ; Times: 4
+	Query: "catalognumber:88978" ; Times: 1
+	Query: ""vireo olivaceus chivi" brazil" ; Times: 1
+	Query: "parus nuchalis" ; Times: 1
+	Query: "117737" ; Times: 1
+	Query: "stateprovince:"Indiana" (Wells County) mappable:1" ; Times: 1
+	Query: "rupicola" ; Times: 1
+	Query: "phylloscopus affinis" ; Times: 2
+	Query: "Nipissing" ; Times: 4
+	Query: "Myiozetetes similis brazil" ; Times: 1
+	Query: "Pipra suavissima" ; Times: 1
+	Query: "geospiza type:specimen AND (NOT MVZ) AND (NOT DMNS)" ; Times: 1
+	Query: "prairie warbler" ; Times: 1
+	Query: "pitta brachyura" ; Times: 18
+	Query: "class:aves recordedby:norman a. wood year >= 1880 year <= 1960" ; Times: 1
+	Query: "Tchagra australis" ; Times: 1
+	Query: "phylloscopus fuscatus" ; Times: 3
+	Query: "parus cyanus" ; Times: 1
+	Query: "higgins" ; Times: 1
+	Query: "Emberizoides herbicola brazil" ; Times: 1
+	Query: ""Turdus ignobilis" brazil" ; Times: 1
+	Query: "46590" ; Times: 1
+	Query: "contopus virens year >= 1985 year <= 2015" ; Times: 1
+	Query: "zonotrichia institutioncode:ROM (tissue)" ; Times: 1
+	Query: "ficedula westermanni" ; Times: 5
+	Query: "maximiliani brazil" ; Times: 1
+	Query: "Chlorophonia pyrrhophrys" ; Times: 1
+	Query: "phylloscopus reguloides" ; Times: 7
+	Query: "year >= 1852 year <= 1855" ; Times: 1
+	Query: "Tiburon Island" ; Times: 1
+	Query: "Colonia colonus brazil" ; Times: 1
+	Query: "country:"venezuela" specificepithet:violaceus genus:cyanocorax" ; Times: 1
+	Query: "Myzomela jugularis" ; Times: 1
+	Query: "butterfly" ; Times: 1
+	Query: "gull rock" ; Times: 1
+	Query: "Hemithraupis flavicollis brazil" ; Times: 1
+	Query: "ficedula superciliaris" ; Times: 1
+	Query: "130658" ; Times: 1
+	Query: "CMC" ; Times: 1
+	Query: "aimophila aestivalis" ; Times: 1
+	Query: "Cercomela familiaris" ; Times: 2
+	Query: "Alectrurus tricolor brazil" ; Times: 1
+	Query: "Stephanophorus diadematus brazil" ; Times: 1
+	Query: "Myzomela albigula" ; Times: 1
+	Query: "greece" ; Times: 1
+	Query: "Rhynchostruthus" ; Times: 2
+	Query: "Oxyruncus cristatus brazil" ; Times: 1
+	Query: "cissopis brazil" ; Times: 1
+	Query: "Chlorophanes spiza brazil" ; Times: 1
+	Query: "Gymnomyza samoensis" ; Times: 1
+	Query: "acrocephalus melanopogon" ; Times: 6
+	Query: "terpsiphone paradisi" ; Times: 4
+	Query: "neff" ; Times: 2
+	Query: "empidonomus varius brazil" ; Times: 1
+	Query: "Newfoundland and Labrador" ; Times: 1
+	Query: "chicago" ; Times: 1
+	Query: "Coracina tenuirostris" ; Times: 6
+	Query: "Piezorhina cinerea" ; Times: 1
+	Query: "sylvietta isabellina" ; Times: 1
+	Query: "Lake county:"San luis obispo" stateprovince:"California"" ; Times: 1
+	Query: "Turdus olivaceus" ; Times: 3
+	Query: "Myzomela eichhorni" ; Times: 1
+	Query: "Saltatricula" ; Times: 5
+	Query: "Sporophila albogularis" ; Times: 2
+	Query: "Tchagra australis year >= 1970 year <= 2015" ; Times: 2
+	Query: "Gymnomyza viridis" ; Times: 1
+	Query: "Aves Andaman" ; Times: 7
+	Query: "myiagra alecto" ; Times: 2
+	Query: "stateprovince:"michigan" class:Aves year >= 1916 year <= 1916" ; Times: 1
+	Query: "sericulus aureus" ; Times: 1
+	Query: "dendrocincla anabatina" ; Times: 1
+	Query: "Compsothraupis loricata brazil" ; Times: 1
+	Query: "Finland" ; Times: 1
+	Query: "bonariensis brazil" ; Times: 1
+	Query: "Prosthemadera novaeseelandiae" ; Times: 1
+	Query: "Royal ontario museum" ; Times: 1
+	Query: "acrocephalus orientalis" ; Times: 2
+	Query: "family:nectariniidae AND skeleton type:specimen (meliphagidae OR nectariniidae)" ; Times: 1
+	Query: "Melipotes fumigatus" ; Times: 1
+	Query: "Pyrocephalus rubinus psm" ; Times: 1
+	Query: "zonotrichia institutioncode:ROM" ; Times: 1
+	Query: "Tyrannus melancholicus brazil" ; Times: 1
+	Query: "5675" ; Times: 1
+	Query: "Lichmera squamata" ; Times: 1
+	Query: "Sericulus aureus type:specimen" ; Times: 1
+	Query: "acrocephalus schoenobaenus" ; Times: 2
+	Query: "Cyclarhis gujanensis brazil" ; Times: 1
+	Query: ""platycichla flavipes" brazil" ; Times: 1
+	Query: "barn swallow" ; Times: 1
+	Query: "ROM 23325" ; Times: 1
+	Query: "gerygone magnirostris" ; Times: 1
+	Query: "Ramphocelus bresilius" ; Times: 4
+	Query: "garrulax delesserti" ; Times: 6
+	Query: "catalognumber:57526" ; Times: 1
+	Query: "Temporalis north carolina" ; Times: 1
+	Query: "specificepithet:montana genus:Buthraupis" ; Times: 1
+	Query: "finland" ; Times: 1
+	Query: "11512" ; Times: 1
+	Query: "sylvietta rufescens" ; Times: 2
+	Query: "Attila rufus brazil" ; Times: 1
+	Query: "sylvietta" ; Times: 1
+	Query: "monroe michigan" ; Times: 1
+	Query: "Sturgeon skeleton" ; Times: 1
+	Query: "meliphaga vicina" ; Times: 1
+	Query: "specificepithet:violaceus genus:cyanocorax" ; Times: 2
+	Query: "Vidua" ; Times: 5
+	Query: "lichmera squamata" ; Times: 2
+	Query: "geospiza type:specimen AND (NOT MVZ)" ; Times: 1
+	Query: "H.A. Brown" ; Times: 1
+	Query: "uwbm Ammodramus leconteii" ; Times: 1
+	Query: "family:nectariniidae AND skeleton type:specimen" ; Times: 1
+	Query: "Cyanocorax chrysops brazil" ; Times: 1
+	Query: "Tachyphonus rufus brazil" ; Times: 1
+	Query: "Tachyphonus cristatus brazil" ; Times: 2
+	Query: "Copsychus luzoniensis" ; Times: 2
+	Query: "sicily" ; Times: 2
+	Query: "Anthus correndera brazil" ; Times: 1
+	Query: "Moho nobilis" ; Times: 1
+	Query: "Oryzoborus occidentalis" ; Times: 1
+	Query: "chloropsis borneo" ; Times: 1
+	Query: "ROM 54789" ; Times: 1
+	Query: "Attila cinnamomeus" ; Times: 1
+	Query: "acrocephalus scirpaceus" ; Times: 2
+	Query: "chloropsis cochinchinensis" ; Times: 1
+	Query: "CAtamblyrhynchus" ; Times: 1
+	Query: "acrocephalus dumetorum" ; Times: 18
+	Query: "aegithalos caudatus" ; Times: 2
+	Query: "Compsothraupis loricata" ; Times: 1
+	Query: "irena puella" ; Times: 3
+	Query: "Polioptila dumicola" ; Times: 1
+	Query: "ramphocinclus brachyurus" ; Times: 38
+	Query: "ROM 3042" ; Times: 1
+	Query: "seicercus burkii" ; Times: 12
+	Query: "Nemosia pileata brazil" ; Times: 1
+	Query: "Pyrocephalus rubinus PSM" ; Times: 2
+	Query: "tachycineta albilinea type:specimen" ; Times: 3
+	Query: "bears" ; Times: 1
+	Query: "genus:vireo institutioncode:ROM (5727)" ; Times: 1
+	Query: "Estrilda astrild" ; Times: 1
+	Query: "Pipraeidea melanonota brazil" ; Times: 1
+	Query: "20037" ; Times: 1
+	Query: "stateprovince:"michigan" class:Aves year >= 1915 year <= 1915" ; Times: 1
+	Query: "pipilo Jalisco" ; Times: 1
+	Query: "septentrionalis kansas" ; Times: 1
+	Query: "Phylloscopus coronatus" ; Times: 1
+	Query: "CMC AND aves" ; Times: 2
+	Query: "Myzomela rosenbergii" ; Times: 1
+	Query: "vireo olivaceus brazil" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: "ADAB class:aves" ; Times: 1
+	Query: "subcaeruleum" ; Times: 1
+	Query: "stateprovince:"Kansas" specificepithet:spragueii genus:Anthus" ; Times: 1
+	Query: "gerygone dorsalis" ; Times: 1
+	Query: "95253 class:aves" ; Times: 1
+	Query: "ROM 116794" ; Times: 1
+	Query: "pipra mentalis" ; Times: 1
+	Query: "3778 class:aves" ; Times: 2
+	Query: "acrocephalus agricola" ; Times: 40
+	Query: "vidua macroura" ; Times: 3
+	Query: "Phyllastrephus cerviniventris" ; Times: 1
+	Query: "dicrurus leucophaeus" ; Times: 3
+	Query: "erithacus svecicus" ; Times: 4
+	Query: "culicicapa ceylonensis type:specimen" ; Times: 1
+	Query: "04/11/1886" ; Times: 1
+	Query: "phylloscopus coronatus" ; Times: 2
+	Query: "Tyrannus tyrannus brazil" ; Times: 1
+	Query: "catalognumber:51493" ; Times: 1
+	Query: "Myzomela lafargei" ; Times: 1
+	Query: "family:meliphagidae AND skeleton type:specimen" ; Times: 1
+	Query: "myzomela kuehni" ; Times: 1
+	Query: "sericulus aureus type:specimen (male)" ; Times: 1
+	Query: "catalognumber:49434" ; Times: 1
+	Query: "Cyanerpes cyaneus brazil" ; Times: 1
+	Query: "Risaralda" ; Times: 1
+	Query: "casiornis" ; Times: 1
+	Query: "Myzomela kuehni" ; Times: 1
+	Query: "Myzomela tristrami" ; Times: 1
+	Query: "geospiza type:specimen AND (NOT MVZ) AND (NOT DMNS) AND (NOT UMMZ)" ; Times: 1
+	Query: "Nipissing District" ; Times: 4
+	Query: "Turdus Reevei" ; Times: 1
+	Query: "Cyanolyca armillata" ; Times: 1
+	Query: "12243" ; Times: 1
+	Query: "Muscipipra vetula brazil" ; Times: 1
+	Query: "amandava amandava" ; Times: 2
+	Query: "Melidectes leucostephes" ; Times: 1
+	Query: "tangara chilensis" ; Times: 1
+	Query: "Meliphaga reticulata" ; Times: 1
+	Query: "vireo bellii" ; Times: 1
+	Query: "Melidectes torquatus" ; Times: 1
+	Query: "95243 class:aves" ; Times: 3
+	Query: "oman" ; Times: 2
+	Query: "Meliphaga analoga" ; Times: 1
+	Query: "Catamblyrhynchus (tissue)" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tiaris" ; Times: 1
+	Query: "country:"canada" specificepithet:ruticilla genus:setophaga year >= 1990 year <= 2015" ; Times: 1
+	Query: "Anthus correndera Sao Paulo" ; Times: 2
+	Query: "UWBM-100738" ; Times: 1
+	Query: "uaz" ; Times: 1
+	Query: "Basilornis galeatus" ; Times: 1
+	Query: "cotinga" ; Times: 1
+	Query: "Tachyphonus coronatus brazil" ; Times: 1
+	Query: "a;to purus" ; Times: 1
+	Query: "myza celebensis" ; Times: 1
+	Query: "geospiza type:specimen AND (NOT MVZ) AND (NOT DMNS) AND (NOT UMMZ) AND (NOT LACM)" ; Times: 1
+	Query: "genus:Tachyphonus class:aves" ; Times: 1
+	Query: ""Tangara velia" brazil" ; Times: 1
+	Query: "UMMZ 61285" ; Times: 2
+	Query: ""Polioptila plumbea" brazil" ; Times: 1
+	Query: "Andaman" ; Times: 1
+	Query: "UMMZ 55895" ; Times: 2
+	Query: "Calyptophilus frugivorus" ; Times: 1
+	Query: "Paroaria dominicana" ; Times: 1
+	Query: "wood thrush" ; Times: 1
+	Query: "Myzomela rubratra" ; Times: 1
+	Query: "Sericulus aureus" ; Times: 3
+	Query: "Conirostrum albifrons" ; Times: 1
+	Query: "Meliphaga orientalis" ; Times: 1
+	Query: "year >= 1850 year <= 1860" ; Times: 1
+	Query: "aethopyga siparaja" ; Times: 2
+	Query: ""Tersina viridis" brazil" ; Times: 1
+	Query: "eremophila alpestris strigata" ; Times: 2
+	Query: "acridotheres ginginianus" ; Times: 2
+	Query: "H. A. Brown" ; Times: 1
+	Query: "119799" ; Times: 1
+	Query: "genus:Ortygospiza (tissue)" ; Times: 4
+	Query: "skeleton type:specimen (meliphagidae OR nectariniidae)" ; Times: 1
+	Query: "Mimus gilvus brazil" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "culicicapa ceylonensis" ; Times: 1
+	Query: "Sicalis flaveola brazil" ; Times: 1
+	Query: "Arremon semitorquatus" ; Times: 1
+	Query: "aves Tiburon Island" ; Times: 1
+	Query: "Myza celebensis" ; Times: 1
+	Query: "Carduelis spinescens" ; Times: 1
+	Query: "Swamp Sparrow" ; Times: 1
+	Query: "Arremon" ; Times: 2
+	Query: "Meliphaga aruensis" ; Times: 1
+	Query: "vidua" ; Times: 2
+	Query: "year >= 185 year <= 1860" ; Times: 1
+	Query: "manacus manacus country:"colombia"" ; Times: 1
+	Query: "melipotes" ; Times: 1
+	Query: "12956" ; Times: 2
+	Query: "19720" ; Times: 1
+	Query: "Trichothraupis melanops brazil" ; Times: 1
+	Query: "137212" ; Times: 1
+	Query: "64392" ; Times: 1
+	Query: "catalognumber:120059" ; Times: 1
+	Query: "129469" ; Times: 1
+	Query: "Onychorhynchus mexicanus" ; Times: 2
+	Query: "hemithraupis ruficapilla brazil" ; Times: 1
+	Query: "institutioncode:ROM hastypestatus:1" ; Times: 2
+	Query: "muscicapa thalassina" ; Times: 3
+	Query: "Arremon b" ; Times: 1
+	Query: "institutioncode:ROM (5727)" ; Times: 1
+	Query: "anthreptes malacensis philippines" ; Times: 1
+	Query: "Sicalis taczanowskii" ; Times: 1
+	Query: "dragonfly" ; Times: 2
+	Query: "Turdus albicollis brazil" ; Times: 1
+	Query: "Melipotes gymnops" ; Times: 1
+	Query: "class:Aves catalognumber:89835" ; Times: 1
+	Query: "Myrmorchilus strigilatus" ; Times: 1
+	Query: "Sirystes brazil" ; Times: 1
+	Query: "Machetornis rixosa brazil" ; Times: 1
+	Query: "Tangara cayana brazil" ; Times: 1
+	Query: "class:aves recordedby:taverner year >= 1880 year <= 1960" ; Times: 1
+	Query: "Yuhina flavicollis rouxi" ; Times: 1
+	Query: ""Turdus amaurochalinus" brazil" ; Times: 1
+	Query: "zoothera dauma" ; Times: 1
+	Query: "county:"Montour" stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "Turdus poliocephalus kelleri" ; Times: 3
+	Query: "catalognumber:130387" ; Times: 1
+	Query: "catalognumber:130386" ; Times: 1
+	Query: "Manacus manacus" ; Times: 2
+	Query: "class:Aves catalognumber:88978" ; Times: 2
+	Query: "Lake Nipissing" ; Times: 1
+	Query: "oriolus kundoo" ; Times: 17
+	Query: "Xolmis irupero" ; Times: 1
+	Query: "Schistochlamys ruficapillus brazil" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 1524 download events in this period)
+Total number of records downloaded: 4597 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 4555
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 2
+	Country: Guatemala ; Times: 2
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: Paraguay ; Times: 1
+	Country: United States ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 4
+	Date: 2015-06-02 ; Times: 1
+	Date: 2015-06-03 ; Times: 3
+	Date: 2015-06-04 ; Times: 1
+	Date: 2015-06-06 ; Times: 2
+	Date: 2015-06-07 ; Times: 2
+	Date: 2015-06-08 ; Times: 6
+	Date: 2015-06-09 ; Times: 2
+	Date: 2015-06-10 ; Times: 2
+	Date: 2015-06-11 ; Times: 2
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-16 ; Times: 7
+	Date: 2015-06-17 ; Times: 1
+	Date: 2015-06-18 ; Times: 2
+	Date: 2015-06-20 ; Times: 3
+	Date: 2015-06-22 ; Times: 2
+	Date: 2015-06-23 ; Times: 1
+	Date: 2015-06-25 ; Times: 2
+	Date: 2015-06-26 ; Times: 1
+	Date: 2015-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "myzomela" ; Times: 1
+	Query: "aves type:specimen distance(location,geopoint(43.75522505306928,-74.55322265625))<58320" ; Times: 1
+	Query: "family:nectariniidae AND skeleton type:specimen" ; Times: 1
+	Query: "Copsychus luzoniensis" ; Times: 2
+	Query: "sicily" ; Times: 1
+	Query: "lebanon" ; Times: 1
+	Query: "solola" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "Cercomela familiaris" ; Times: 1
+	Query: "aves alamos sonora" ; Times: 1
+	Query: "aegithalos caudatus" ; Times: 1
+	Query: "family:meliphagidae AND skeleton type:specimen" ; Times: 1
+	Query: "Onychorhynchus" ; Times: 1
+	Query: "neff" ; Times: 1
+	Query: "Nemosia pileata brazil" ; Times: 1
+	Query: "empidonomus varius brazil" ; Times: 1
+	Query: "Coracina tenuirostris" ; Times: 1
+	Query: "Turdus olivaceus" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "Tchagra australis year >= 1970 year <= 2015" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: "type:specimen specificepithet:melodia genus:Melospiza OR Zonotrichia" ; Times: 1
+	Query: "country:"paraguay" class:aves" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "type:specimen AND (aves) distance(location,geopoint(42.73087427928485,-76.2451171875))<100000" ; Times: 1
+	Query: "specificepithet:debilis" ; Times: 1
+	Query: ""vireo olivaceus chivi" brazil" ; Times: 1
+	Query: "aves Chihuahua" ; Times: 1
+	Query: "Phyllastrephus cerviniventris" ; Times: 1
+	Query: ""platycichla flavipes" brazil" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "aves durango" ; Times: 1
+	Query: "stateprovince:"Colima" country:"Mexico"" ; Times: 1
+	Query: "county:"Kern" stateprovince:"california" mappable:1" ; Times: 1
+	Query: "Tristram" ; Times: 1
+	Query: "Sirystes brazil" ; Times: 1
+	Query: "aves chihuahua" ; Times: 1
+	Query: ""Turdus amaurochalinus" brazil" ; Times: 1
+	Query: "aves Coahuila" ; Times: 1
+	Query: "tangara chilensis" ; Times: 1
+	Query: "oman" ; Times: 1
+	Query: "yemen" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2354
+Total number of records retrieved from searches: 30114
+Number of download events that retrieved data from the resource: 235
+Total number of records downloaded: 197601
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2604
+Total number of records retrieved from searches: 33061
+Number of download events that retrieved data from the resource: 367
+Total number of records downloaded: 243244
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
