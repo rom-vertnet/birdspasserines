@@ -1,0 +1,422 @@
+Report for Institution Code ROM, Resource birdspass
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 486
+Number of records retrieved in searches: 4402
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 22
+	Country: Brazil ; Times: 10
+	Country: Italy ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 11
+	Country: Peru ; Times: 1
+	Country: Australia ; Times: 11
+	Country: Papua New Guinea ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Thailand ; Times: 5
+	Country: United States ; Times: 348
+	Country: French Guiana ; Times: 6
+	Country: Switzerland ; Times: 3
+	Country: Russia ; Times: 17
+	Country: Bulgaria ; Times: 3
+	Country: Jamaica ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 19
+	Country: United Kingdom ; Times: 1
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-23 ; Times: 11
+	Date: 2015-09-10 ; Times: 8
+	Date: 2015-09-11 ; Times: 32
+	Date: 2015-09-12 ; Times: 3
+	Date: 2015-09-13 ; Times: 2
+	Date: 2015-09-14 ; Times: 60
+	Date: 2015-09-15 ; Times: 9
+	Date: 2015-09-16 ; Times: 4
+	Date: 2015-09-17 ; Times: 47
+	Date: 2015-09-18 ; Times: 9
+	Date: 2015-09-19 ; Times: 6
+	Date: 2015-09-08 ; Times: 32
+	Date: 2015-09-30 ; Times: 17
+	Date: 2015-09-02 ; Times: 14
+	Date: 2015-09-29 ; Times: 18
+	Date: 2015-09-07 ; Times: 29
+	Date: 2015-09-06 ; Times: 2
+	Date: 2015-09-05 ; Times: 31
+	Date: 2015-09-04 ; Times: 16
+	Date: 2015-09-03 ; Times: 16
+	Date: 2015-09-28 ; Times: 4
+	Date: 2015-09-01 ; Times: 13
+	Date: 2015-09-25 ; Times: 15
+	Date: 2015-09-24 ; Times: 27
+	Date: 2015-09-27 ; Times: 3
+	Date: 2015-09-26 ; Times: 9
+	Date: 2015-09-21 ; Times: 12
+	Date: 2015-09-20 ; Times: 6
+	Date: 2015-09-09 ; Times: 5
+	Date: 2015-09-22 ; Times: 26
+
+List of queries that retrieved data from the resource: 
+	Query: "ploceus benghalensis skin" ; Times: 1
+	Query: "pericrocotus flammeus" ; Times: 2
+	Query: "sbmnh" ; Times: 1
+	Query: "rhopocichla atriceps" ; Times: 1
+	Query: "Spizella pallida" ; Times: 1
+	Query: "genus:formicivora" ; Times: 1
+	Query: "phylloscopus subviridis" ; Times: 2
+	Query: "Myiarchus sagrae type:specimen" ; Times: 1
+	Query: "catalognumber:48099" ; Times: 1
+	Query: "thailand birds" ; Times: 1
+	Query: "zonotrichia querula year &gt;= 1958 year &lt;= 1958" ; Times: 1
+	Query: "type:specimen stateprovince:&#34;New Brunswick&#34; collectioncode:Birds institutioncode:ROM mappable:1" ; Times: 2
+	Query: "dendrocitta leucogastra" ; Times: 18
+	Query: "type:specimen class:Aves county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Mississippi Aves Oktibbeha" ; Times: 1
+	Query: "phylloscopus fuscatus" ; Times: 3
+	Query: "tachyphonus axillaris" ; Times: 2
+	Query: "Mississippi Aves Lowndes" ; Times: 1
+	Query: "149922" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 4
+	Query: "ROM 85918" ; Times: 1
+	Query: "Habia rubica" ; Times: 1
+	Query: "emberiza bruniceps" ; Times: 2
+	Query: "wizard" ; Times: 8
+	Query: "Phlegopsis nigromaculata" ; Times: 1
+	Query: "catalognumber:94452" ; Times: 1
+	Query: "ploceus" ; Times: 1
+	Query: "type:specimen stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "catalognumber:105274" ; Times: 1
+	Query: "type:specimen recordedby:Beaupre institutioncode:ROM" ; Times: 1
+	Query: "stictothorax type:specimen" ; Times: 2
+	Query: "specificepithet:solitarius genus:vireo preparations:eggs institutioncode:ROM" ; Times: 1
+	Query: "gracula religiosa" ; Times: 1
+	Query: "emberiza schoeniclus" ; Times: 4
+	Query: "Menura type:specimen" ; Times: 2
+	Query: "platysmurus leucopterus" ; Times: 9
+	Query: "pycnonotus jocosus" ; Times: 3
+	Query: "Dendrocitta cinerascens" ; Times: 1
+	Query: "rupicola" ; Times: 1
+	Query: "Hypocnemis cantator" ; Times: 1
+	Query: "catalognumber:128553" ; Times: 1
+	Query: "type:specimen genus:Notiomystis" ; Times: 1
+	Query: "Aves Isla Socorro" ; Times: 1
+	Query: "Sicalis flaveola" ; Times: 1
+	Query: "turdus fuscater" ; Times: 3
+	Query: "Sclerurus mexicanus" ; Times: 1
+	Query: "diglossa baritula" ; Times: 1
+	Query: "turdoides striatus" ; Times: 3
+	Query: "country:&#34;sierra leone&#34; year &gt;= 1902 year &lt;= 1905" ; Times: 1
+	Query: "Dendrocolaptes certhia" ; Times: 1
+	Query: "distance(location,geopoint(27.3802369569,-112.149505705))&lt;10000" ; Times: 1
+	Query: "specificepithet:albicollis genus:Zonotrichia collectioncode:UMMZ OR FMNH OR MVZ OR CAS" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 1
+	Query: "Cyanocitta stelleri carlottae" ; Times: 1
+	Query: "Aplonis panayensis country:&#34;india&#34;" ; Times: 1
+	Query: "northropi genus:icterus" ; Times: 3
+	Query: "alcippe poioicephala" ; Times: 1
+	Query: "dendrocitta cinerascens" ; Times: 3
+	Query: "lonchura malacca" ; Times: 2
+	Query: "27176" ; Times: 1
+	Query: "85908" ; Times: 1
+	Query: "monarcha richardsii" ; Times: 1
+	Query: "odonata" ; Times: 1
+	Query: "ROM 23326" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "La Selva Costa Rica Station" ; Times: 1
+	Query: "genus:Icterus (northropi)" ; Times: 1
+	Query: "Ampeliceps coronatus country:&#34;India&#34;" ; Times: 2
+	Query: "HERONS" ; Times: 1
+	Query: "genus:Icterus (northropi) AND (NOT harvard)" ; Times: 1
+	Query: "zosterops palpebrosa" ; Times: 3
+	Query: "ROM 97832" ; Times: 1
+	Query: "ROM 125153" ; Times: 1
+	Query: "Oenanthe picata country:&#34;India&#34;" ; Times: 1
+	Query: "Elaenia chiriquensis AND (NOT MSB NOT MVZ)" ; Times: 1
+	Query: "aimophila aestivalis" ; Times: 2
+	Query: "Myrmothera" ; Times: 1
+	Query: "type:specimen genus:Eupetes" ; Times: 1
+	Query: "oxyruncus" ; Times: 1
+	Query: "phylloscopus collybita" ; Times: 4
+	Query: "ummz birds" ; Times: 1
+	Query: "WED 52978" ; Times: 2
+	Query: "ploceus nest" ; Times: 2
+	Query: "dorsalis type:specimen specificepithet:polychopterus genus:pachyramphus" ; Times: 1
+	Query: "phytotoma raimondii" ; Times: 1
+	Query: "weaver nest" ; Times: 1
+	Query: "distance(location,geopoint(21.0802369569,-105.249505705))&lt;10000" ; Times: 1
+	Query: "temnurus temnurus" ; Times: 8
+	Query: "distance(location,geopoint(23.0802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "Quiscalus quiscula versicolor (skin) male" ; Times: 2
+	Query: "mummy" ; Times: 10
+	Query: "Ampeliceps coronatus" ; Times: 3
+	Query: "phylloscopus maculipennis" ; Times: 2
+	Query: "Thamnomanes caesius" ; Times: 1
+	Query: "erithacus brunneus" ; Times: 7
+	Query: "Turdus ignobilis" ; Times: 1
+	Query: "emberiza melanocephala" ; Times: 3
+	Query: "muelleri" ; Times: 1
+	Query: "genus:icterus (melanopsis) AND (NOT film)" ; Times: 1
+	Query: "red-winged blackbird" ; Times: 1
+	Query: "specificepithet:lapponicus genus:calcarius year &gt;= 1926 year &lt;= 1926" ; Times: 1
+	Query: "hypsipetes madagascariensis" ; Times: 2
+	Query: "Makira" ; Times: 2
+	Query: "phylloscopus reguloides" ; Times: 3
+	Query: "crypsirina temia" ; Times: 31
+	Query: "dasypus" ; Times: 1
+	Query: "Sclerurus caudacutus" ; Times: 1
+	Query: "tachyphonus flaviventris" ; Times: 2
+	Query: "urocissa caerulea" ; Times: 6
+	Query: "acrocephalus orientalis" ; Times: 8
+	Query: "knipolegus" ; Times: 1
+	Query: "WED 57619" ; Times: 1
+	Query: "blue pitta" ; Times: 1
+	Query: "emberiza calandra" ; Times: 1
+	Query: "Hypsipetes" ; Times: 2
+	Query: "acrocephalus schoenobaenus" ; Times: 2
+	Query: "Ohio aves" ; Times: 1
+	Query: "Hemipus picatus India" ; Times: 1
+	Query: "ploceus type:specimen preparations:nest" ; Times: 1
+	Query: "Bulgaria" ; Times: 2
+	Query: "Angola" ; Times: 1
+	Query: "garrulax delesserti" ; Times: 4
+	Query: "stictothorax" ; Times: 1
+	Query: "parus xanthogenys" ; Times: 1
+	Query: "catalognumber:154681" ; Times: 1
+	Query: "birds umnh" ; Times: 1
+	Query: "country:&#34;Turkey&#34;" ; Times: 2
+	Query: "ROM 85908" ; Times: 2
+	Query: "pyrrhula pyrrhula" ; Times: 1
+	Query: "witch" ; Times: 4
+	Query: "black rail" ; Times: 7
+	Query: "type:specimen stateprovince:&#34;Prince edward island&#34; institutioncode:ROM mappable:1" ; Times: 1
+	Query: "genus:Icterus country:&#34;bahamas&#34;" ; Times: 2
+	Query: "distance(location,geopoint(21.0802369569,-105.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.7802369569,-109.649505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.1802369569,-109.449505705))&lt;15000" ; Times: 1
+	Query: "Epimachus fastuosus" ; Times: 3
+	Query: "specificepithet:petechia genus:Dendroica preparations:eggs institutioncode:ROM" ; Times: 1
+	Query: "distance(location,geopoint(21.1802369569,-105.249505705))&lt;15000" ; Times: 1
+	Query: "Phacellodomus rufifrons" ; Times: 1
+	Query: "specificepithet:fruticeti genus:Phrygilus" ; Times: 1
+	Query: "Fringilla coelebs" ; Times: 1
+	Query: "catalognumber:30513" ; Times: 2
+	Query: "distance(location,geopoint(22.9802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "Cymbilaimus lineatus" ; Times: 1
+	Query: "catalognumber:155809" ; Times: 1
+	Query: "A. H. Wood class:Aves" ; Times: 1
+	Query: "137626" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga country:&#34;canada&#34; year &gt;= 1970 year &lt;= 2015 month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "carex" ; Times: 2
+	Query: "type:specimen genus:Dasyornis" ; Times: 5
+	Query: "58779" ; Times: 1
+	Query: "distance(location,geopoint(22.7802369569,-109.749505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.0802369569,-105.249505705))&lt;15000" ; Times: 1
+	Query: "Gowland year &gt;= 1700 year &lt;= 1940" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonicus genus:Poecile OR Parus" ; Times: 1
+	Query: "distance(location,geopoint(28.7802369569,-111.949505705))&lt;10000" ; Times: 1
+	Query: "Dicaeum cruentatum country:&#34;india&#34;" ; Times: 1
+	Query: "Hypocolius" ; Times: 1
+	Query: "phylloscopus pulcher" ; Times: 1
+	Query: "type:specimen stateprovince:&#34;Prince edward island&#34; collectioncode:Birds institutioncode:ROM mappable:1" ; Times: 2
+	Query: "institutioncode:ROM" ; Times: 2
+	Query: "distance(location,geopoint(23.8802369569,-109.649505705))&lt;15000" ; Times: 1
+	Query: "Foudia" ; Times: 1
+	Query: "aimophila aestivalis type:specimen" ; Times: 2
+	Query: "type:specimen specificepithet:stelleri genus:Cyanocitta catalognumber:50310" ; Times: 1
+	Query: "GUYANA Sakesphorus canadensis" ; Times: 1
+	Query: "A. H. Wood" ; Times: 2
+	Query: "catalognumber:49294" ; Times: 1
+	Query: "WED 58779" ; Times: 3
+	Query: "Vireo osburni" ; Times: 2
+	Query: "Quiscalus quiscula versicolor (skin)" ; Times: 7
+	Query: "terpsiphone incei" ; Times: 1
+	Query: "grallaricula" ; Times: 1
+	Query: "plants" ; Times: 1
+	Query: "Myiarchus sagrae lucaysiensis type:specimen" ; Times: 1
+	Query: "thibault" ; Times: 1
+	Query: "Dendrocincla merula" ; Times: 1
+	Query: "Xiphorhynchus guttatus" ; Times: 1
+	Query: "Curruca curruca country:&#34;india&#34;" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(43.96119063892024,1.82373046875))&lt;100000" ; Times: 1
+	Query: "specificepithet:minimus genus:empidonax year &gt;= 1937 year &lt;= 1937" ; Times: 1
+	Query: "Rhinomyias gularis" ; Times: 2
+	Query: "country:&#34;sierra leone&#34; class:aves year &gt;= 1902 year &lt;= 1905" ; Times: 1
+	Query: "glyphorhynchus spirurus" ; Times: 8
+	Query: "Ficedula parva country:&#34;India&#34;" ; Times: 1
+	Query: "country:&#34;sierra leone&#34; year &lt;= 1945" ; Times: 1
+	Query: "Eurylaimus javanicus" ; Times: 1
+	Query: "87603" ; Times: 1
+	Query: "Pycnonotus atriceps" ; Times: 3
+	Query: "Mississippi Aves Noxubee" ; Times: 1
+	Query: "lake of bays" ; Times: 1
+	Query: "Sturnus vulgaris country:&#34;india&#34;" ; Times: 1
+	Query: "ficedula nigrorufa" ; Times: 2
+	Query: "dendrocitta baileyi" ; Times: 1
+	Query: "distance(location,geopoint(26.9802369569,-111.849505705))&lt;15000" ; Times: 1
+	Query: "pycnonotus cafer" ; Times: 24
+	Query: "graminicola bengalensis" ; Times: 1
+	Query: "genus:icterus (melanopsis)" ; Times: 1
+	Query: "type:specimen genus:Moho" ; Times: 1
+	Query: "Cisticola exilis country:&#34;india&#34;" ; Times: 1
+	Query: "habia alfaroana" ; Times: 2
+	Query: "type:specimen stateprovince:&#34;Scotland&#34; institutioncode:ROM" ; Times: 1
+	Query: "64800" ; Times: 1
+	Query: "seicercus burkii" ; Times: 1
+	Query: "Paradisaea rudolphi" ; Times: 3
+	Query: "R.30826" ; Times: 1
+	Query: "ploceus philippinus skin" ; Times: 1
+	Query: "Manis temminckii" ; Times: 3
+	Query: "WED 50309" ; Times: 1
+	Query: "rom 68118" ; Times: 2
+	Query: "Hall Nebraska" ; Times: 1
+	Query: "phylloscopus borealis" ; Times: 2
+	Query: "Isabel Island" ; Times: 1
+	Query: "Xiphorhynchus pardalotus" ; Times: 1
+	Query: "Alcippe poioicephala" ; Times: 4
+	Query: "habia rubica" ; Times: 1
+	Query: "type:specimen specificepithet:stelleri genus:Cyanocitta institutioncode:ROM" ; Times: 1
+	Query: "(ploceus)" ; Times: 1
+	Query: "Macedonia" ; Times: 1
+	Query: "Aethopyga vigorsii country:&#34;india&#34;" ; Times: 2
+	Query: "genus:Hypocolius" ; Times: 1
+	Query: "ROM 25636" ; Times: 1
+	Query: "mzfc" ; Times: 3
+	Query: "PSM Cardinalis cardinalis" ; Times: 1
+	Query: "malimbus" ; Times: 2
+	Query: "&#34;lng:&#34;" ; Times: 1
+	Query: "Paradisaeidae year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "ummz 155904" ; Times: 1
+	Query: "ploceus manyar skin" ; Times: 1
+	Query: "parus major stupae" ; Times: 1
+	Query: "catalognumber:117349" ; Times: 1
+	Query: "type:specimen genus:Hypocolius" ; Times: 1
+	Query: "catalognumber:62042" ; Times: 1
+	Query: "95750" ; Times: 2
+	Query: "garrulax ruficollis" ; Times: 2
+	Query: "institutioncode:rom" ; Times: 1
+	Query: "distance(location,geopoint(21.3802369569,-105.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.3802369569,-112.149505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.9802369569,-109.649505705))&lt;10000" ; Times: 1
+	Query: "ROM 31504" ; Times: 1
+	Query: "ROM 78025" ; Times: 2
+	Query: "polar bear skull" ; Times: 1
+	Query: "Phyllomyias urichi" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(47.279229002570816,15.205078125))&lt;100000" ; Times: 1
+	Query: "type:specimen genus:Atrichornis" ; Times: 3
+	Query: "7749" ; Times: 2
+	Query: "Phonygammus keraudrenii" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "phylloscopus coronatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 69 (out of 1045 download events in this period)
+Total number of records downloaded: 53410
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 8
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 2
+	Country: France ; Times: 6
+	Country: United States ; Times: 36
+	Country: Colombia ; Times: 3
+	Country: Thailand ; Times: 4
+	Country: Venezuela ; Times: 1
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-01 ; Times: 7
+	Date: 2015-09-03 ; Times: 3
+	Date: 2015-09-25 ; Times: 4
+	Date: 2015-09-19 ; Times: 5
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-05 ; Times: 5
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-29 ; Times: 1
+	Date: 2015-09-15 ; Times: 1
+	Date: 2015-09-16 ; Times: 4
+	Date: 2015-09-17 ; Times: 13
+	Date: 2015-09-18 ; Times: 3
+	Date: 2015-09-24 ; Times: 5
+	Date: 2015-09-08 ; Times: 1
+	Date: 2015-09-26 ; Times: 1
+	Date: 2015-09-22 ; Times: 7
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-09 ; Times: 2
+	Date: 2015-09-02 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Eurylaimus javanicus" ; Times: 1
+	Query: "Spizella pallida" ; Times: 1
+	Query: "class:Aves mappable:1 distance(location,geopoint(18.812717856407776,-75.322265625))&lt;1032543" ; Times: 1
+	Query: "Xiphorhynchus guttatus" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "aimophila aestivalis type:specimen" ; Times: 1
+	Query: "type:specimen genus:Eupetes" ; Times: 1
+	Query: "oxyruncus" ; Times: 1
+	Query: "geothlypis trichas" ; Times: 1
+	Query: "specificepithet:albicollis genus:Zonotrichia collectioncode:PSM OR UWBM" ; Times: 1
+	Query: "Turdus ignobilis" ; Times: 1
+	Query: "Cymbilaimus lineatus" ; Times: 2
+	Query: "garrulax ruficollis" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "type:specimen genus:Moho" ; Times: 1
+	Query: "distance(location,geopoint(-7.986704103140561,142.18505859375))&lt;100000" ; Times: 1
+	Query: "Myadestes occidentalis" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "Thamnomanes caesius" ; Times: 1
+	Query: "type:specimen genus:Dasyornis" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "genus:Picoides" ; Times: 2
+	Query: "type:specimen specificepithet:stelleri genus:Cyanocitta collectioncode:UMMZ OR FMNH OR MVZ OR CAS" ; Times: 1
+	Query: "Paradisaea rudolphi" ; Times: 2
+	Query: "peru" ; Times: 1
+	Query: "turdus fuscater" ; Times: 1
+	Query: "Manis temminckii" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "Sporophila" ; Times: 1
+	Query: "Sclerurus caudacutus" ; Times: 1
+	Query: "Xiphorhynchus pardalotus" ; Times: 1
+	Query: "Alcippe poioicephala" ; Times: 3
+	Query: "type:specimen specificepithet:stelleri genus:Cyanocitta institutioncode:ROM" ; Times: 1
+	Query: "Hypocnemis cantator" ; Times: 1
+	Query: "Dendrocolaptes certhia" ; Times: 1
+	Query: "Paradisaeidae year &lt;= 2015 mappable:1" ; Times: 2
+	Query: "Sclerurus mexicanus" ; Times: 1
+	Query: "type:specimen specificepithet:phoeniceus genus:Agelaius stateprovince:&#34;New York&#34; sex:Male preparations:Skin year &lt;= 1960" ; Times: 1
+	Query: "ploceus type:specimen preparations:nest" ; Times: 1
+	Query: "Bulgaria" ; Times: 1
+	Query: "Papua" ; Times: 1
+	Query: "country:&#34;Ecuador&#34; (Aves) mappable:1" ; Times: 1
+	Query: "Cyanocitta stelleri carlottae" ; Times: 1
+	Query: "Mississippi Aves" ; Times: 1
+	Query: "Dendrocincla merula" ; Times: 1
+	Query: "specificepithet:albicollis genus:Zonotrichia collectioncode:UMMZ OR FMNH OR MVZ OR CAS" ; Times: 1
+	Query: "genus:Spizella" ; Times: 1
+	Query: "birds chihuahua" ; Times: 1
+	Query: "Rhipidura" ; Times: 1
+	Query: "enicurus ruficapillus" ; Times: 1
+	Query: "Spizella breweri" ; Times: 1
+	Query: "type:specimen genus:Hypocolius" ; Times: 1
+	Query: "Xiphorhynchus ocellatus" ; Times: 1
+	Query: "empidonax flaviventris" ; Times: 1
+	Query: "class:aves year&gt;=1976 year&lt;=1986" ; Times: 2
+	Query: "year:1859" ; Times: 1
+
+
+End of report.
