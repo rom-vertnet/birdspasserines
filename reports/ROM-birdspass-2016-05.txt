@@ -1,0 +1,193 @@
+Report for Institution Code ROM, Resource birdspass
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 211
+Number of records retrieved in searches: 11644
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 19
+	Country: Unknown ; Times: 69
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 80
+	Country: Norway ; Times: 1
+	Country: China ; Times: 8
+	Country: Chile ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Argentina ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Russia ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 4
+	Date: 2016-05-18 ; Times: 3
+	Date: 2016-05-17 ; Times: 7
+	Date: 2016-05-16 ; Times: 4
+	Date: 2016-05-15 ; Times: 4
+	Date: 2016-05-13 ; Times: 2
+	Date: 2016-05-12 ; Times: 4
+	Date: 2016-05-11 ; Times: 8
+	Date: 2016-05-10 ; Times: 9
+	Date: 2016-05-31 ; Times: 20
+	Date: 2016-05-30 ; Times: 2
+	Date: 2016-05-08 ; Times: 2
+	Date: 2016-05-09 ; Times: 17
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-02 ; Times: 18
+	Date: 2016-05-03 ; Times: 25
+	Date: 2016-05-04 ; Times: 3
+	Date: 2016-05-05 ; Times: 6
+	Date: 2016-05-06 ; Times: 7
+	Date: 2016-05-07 ; Times: 2
+	Date: 2016-05-26 ; Times: 9
+	Date: 2016-05-27 ; Times: 29
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-20 ; Times: 11
+	Date: 2016-05-21 ; Times: 2
+	Date: 2016-05-28 ; Times: 2
+	Date: 2016-05-29 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "lonchura nana" ; Times: 1
+	Query: "class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 2
+	Query: "Pomatorhinus" ; Times: 1
+	Query: "Myzomela albigula" ; Times: 6
+	Query: "Myzomela nigrita" ; Times: 2
+	Query: "specificepithet:cyanocephalus stateprovince:&#34;Kansas&#34;" ; Times: 4
+	Query: "type:specimen specificepithet:sulphurescens genus:Tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "curruca" ; Times: 1
+	Query: "Alcippe" ; Times: 1
+	Query: "Myzomela eques" ; Times: 4
+	Query: "Myzomela erythrocephala infuscata" ; Times: 1
+	Query: "tregellasia leucops" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Lanius stateprovince:&#34;michigan&#34; year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "specificepithet:DOMESTICUS genus:PASSER continent:Africa" ; Times: 1
+	Query: "150944" ; Times: 1
+	Query: "wizard" ; Times: 3
+	Query: "ploceus" ; Times: 1
+	Query: "Aves Madagascar type:specimen" ; Times: 1
+	Query: "ROM 113188" ; Times: 1
+	Query: "distance(location,geopoint(20.515036,-105.587516))&lt;15000" ; Times: 1
+	Query: "catalognumber:53509" ; Times: 1
+	Query: "Dendrocolaptes picumnus" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "type:specimen class:Aves country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "110018}" ; Times: 1
+	Query: "catalognumber:59092" ; Times: 1
+	Query: "Myiagra ruficollis" ; Times: 1
+	Query: "Myzomela jugularis" ; Times: 2
+	Query: "class:aves stateprovince:&#34;michigan&#34; year &gt;= 1916 year &lt;= 1916" ; Times: 1
+	Query: "hare" ; Times: 1
+	Query: "A. Downs" ; Times: 1
+	Query: "specificepithet:LUDOVICIANUS genus:LANIUS class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "Henicorhina country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Echo Lake" ; Times: 1
+	Query: "Cundinamarca" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "Myzomela eichhorni" ; Times: 10
+	Query: "tiaris huilae" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-110.127516))&lt;8880.92965594135" ; Times: 1
+	Query: "Melidectes" ; Times: 1
+	Query: "witch" ; Times: 4
+	Query: "Amblyornis" ; Times: 1
+	Query: "distance(location,geopoint(25.859036,-111.827516))&lt;8880.92965594135" ; Times: 1
+	Query: "Myzomela lafargei" ; Times: 6
+	Query: "distance(location,geopoint(31.769036,-110.247516))&lt;15000" ; Times: 1
+	Query: "vermivora CM" ; Times: 1
+	Query: "specificepithet:caerulea stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "black rail" ; Times: 1
+	Query: "Yuhina" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 8
+	Query: "Ocreatus" ; Times: 1
+	Query: "distance(location,geopoint(26.131036,-111.905516))&lt;15000" ; Times: 1
+	Query: "Hylorchilus sumichrasti" ; Times: 1
+	Query: "Kenopia" ; Times: 1
+	Query: "Trichastoma" ; Times: 1
+	Query: "caerulata" ; Times: 1
+	Query: "myioborus ornatus" ; Times: 1
+	Query: "hylorchilus sumichrasti" ; Times: 2
+	Query: "Gampsorhynchus" ; Times: 1
+	Query: "ivory" ; Times: 1
+	Query: "ecuador birds" ; Times: 25
+	Query: "blue jay" ; Times: 1
+	Query: "&#34;Spizella pusilla pusilla&#34;" ; Times: 1
+	Query: "Paradoxornis" ; Times: 1
+	Query: "64234" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-109.037516))&lt;15000" ; Times: 1
+	Query: "Dendrocincla turdina" ; Times: 1
+	Query: "57306" ; Times: 1
+	Query: "catalognumber:46487" ; Times: 1
+	Query: "32603" ; Times: 1
+	Query: "R-67076" ; Times: 1
+	Query: "catalognumber:66486" ; Times: 1
+	Query: "ROM 113250" ; Times: 1
+	Query: "vegetation africa" ; Times: 2
+	Query: "communis" ; Times: 1
+	Query: "Ecuador birds" ; Times: 43
+	Query: "104182" ; Times: 1
+	Query: "Lanius cristatus" ; Times: 1
+	Query: "Dendrocolaptes" ; Times: 2
+	Query: "cissa chinensis" ; Times: 1
+	Query: "Myzomela erythrocephala" ; Times: 2
+	Query: "ROM 31783" ; Times: 1
+	Query: "batis" ; Times: 1
+	Query: "Texas Brewster type:specimen genus:vireo class:Aves" ; Times: 1
+	Query: "Texas Brewster type:specimen class:Aves" ; Times: 1
+	Query: "Liocichla" ; Times: 1
+	Query: "distance(location,geopoint(26.131036,-111.749516))&lt;15000" ; Times: 2
+	Query: "catalognumber:56127" ; Times: 1
+	Query: "specificepithet:LUDOVICIANUS genus:LANIUS class:aves stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "Passer domesticus" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 327 download events in this period)
+Total number of records downloaded: 5819
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 6
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 3
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-17 ; Times: 3
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-15 ; Times: 2
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-31 ; Times: 1
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Henicorhina country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Gampsorhynchus" ; Times: 1
+	Query: "Malacopteron" ; Times: 1
+	Query: "Pomatorhinus" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "Texas Brewster type:specimen class:Aves" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "Yuhina" ; Times: 1
+	Query: "myioborus melanocephalus" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "rhinomyias" ; Times: 1
+	Query: "Zosterops" ; Times: 1
+	Query: "Cinclodes fuscus" ; Times: 1
+
+
+End of report.
