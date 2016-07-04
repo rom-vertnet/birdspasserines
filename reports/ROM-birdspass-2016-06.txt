@@ -1,0 +1,415 @@
+Report for Institution Code ROM, Resource birdspass
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 452
+Number of records retrieved in searches: 4068
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 39
+	Country: Canada ; Times: 9
+	Country: Australia ; Times: 2
+	Country: Chile ; Times: 2
+	Country: Portugal ; Times: 22
+	Country: Mexico ; Times: 69
+	Country: Denmark ; Times: 4
+	Country: Venezuela ; Times: 1
+	Country: India ; Times: 23
+	Country: France ; Times: 8
+	Country: United States ; Times: 225
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 11
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 6
+	Country: Unknown ; Times: 5
+	Country: Hong Kong ; Times: 1
+	Country: Russia ; Times: 18
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 1
+	Date: 2016-06-24 ; Times: 6
+	Date: 2016-06-23 ; Times: 39
+	Date: 2016-06-22 ; Times: 32
+	Date: 2016-06-21 ; Times: 23
+	Date: 2016-06-20 ; Times: 17
+	Date: 2016-06-05 ; Times: 18
+	Date: 2016-06-04 ; Times: 27
+	Date: 2016-06-07 ; Times: 11
+	Date: 2016-06-06 ; Times: 3
+	Date: 2016-06-01 ; Times: 3
+	Date: 2016-06-03 ; Times: 13
+	Date: 2016-06-02 ; Times: 62
+	Date: 2016-06-09 ; Times: 17
+	Date: 2016-06-08 ; Times: 9
+	Date: 2016-06-18 ; Times: 6
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-16 ; Times: 15
+	Date: 2016-06-17 ; Times: 5
+	Date: 2016-06-14 ; Times: 58
+	Date: 2016-06-15 ; Times: 24
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-13 ; Times: 37
+	Date: 2016-06-10 ; Times: 20
+	Date: 2016-06-11 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:144961" ; Times: 1
+	Query: "genus:certhia year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "Rhodinocichla" ; Times: 1
+	Query: "49731" ; Times: 1
+	Query: "46539" ; Times: 1
+	Query: "Dendroica magnolia stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "Mimus gilvus" ; Times: 1
+	Query: "Ptyonoprogne obsoleta" ; Times: 3
+	Query: "57529" ; Times: 1
+	Query: "london" ; Times: 1
+	Query: "61180" ; Times: 1
+	Query: "catalognumber:54126" ; Times: 1
+	Query: "53562" ; Times: 1
+	Query: "Criniger flaveolus" ; Times: 2
+	Query: "Ready AND Island" ; Times: 2
+	Query: "Melanotis hypoleucus" ; Times: 1
+	Query: "Toxostoma guttatum AND skeleton" ; Times: 1
+	Query: "MANTA" ; Times: 1
+	Query: "ROM 23980" ; Times: 1
+	Query: "doherty africa escarpment" ; Times: 2
+	Query: "Snyder AND Island" ; Times: 1
+	Query: "wizard" ; Times: 7
+	Query: "129246" ; Times: 1
+	Query: "Toxostoma bendirei" ; Times: 1
+	Query: "Contopus sordidulus Alberta" ; Times: 2
+	Query: "Thraupis melanoptera" ; Times: 2
+	Query: "type:specimen country:&#34;Canada&#34; institutioncode:ROM" ; Times: 1
+	Query: "ROM 99609" ; Times: 2
+	Query: "Andalusia" ; Times: 1
+	Query: "anthus bogotensis" ; Times: 1
+	Query: "Drepanididae type:specimen preparations:whole OR skeleton" ; Times: 1
+	Query: "ROM 15233" ; Times: 1
+	Query: "certhidea type:specimen" ; Times: 1
+	Query: "dendroica magnolia country:&#34;canada&#34; AND (NOT Illinois NOT MVZ) month &gt;= 5 month &lt;= 6" ; Times: 2
+	Query: "Sitta pygmaea stateprovince:&#34;New Mexico&#34; mappable:1 distance(location,geopoint(32.697362236182066,-105.018310546875))&lt;126133" ; Times: 1
+	Query: "tangara labradorides" ; Times: 1
+	Query: "Estrilda astrild 1" ; Times: 4
+	Query: "18771" ; Times: 1
+	Query: "98763" ; Times: 1
+	Query: "108985" ; Times: 1
+	Query: "rom 2514" ; Times: 1
+	Query: "96908" ; Times: 1
+	Query: "Lonchura punctulata 1" ; Times: 5
+	Query: "San Miguel Island AND Birds AND 1897" ; Times: 1
+	Query: "egg 1920 ca" ; Times: 1
+	Query: "Toxostoma redivivum" ; Times: 1
+	Query: "Thryothorus rufalbus" ; Times: 2
+	Query: "Oriolus chinensis" ; Times: 2
+	Query: "Myzomela erythrocephala" ; Times: 1
+	Query: "type:specimen specificepithet:pallidus genus:Camarhynchus sex:male" ; Times: 1
+	Query: "98762" ; Times: 2
+	Query: "98765" ; Times: 1
+	Query: "98764" ; Times: 1
+	Query: "Euplectes afer 1" ; Times: 3
+	Query: "dendroica magnolia stateprovince:&#34;british columbia&#34; country:&#34;canada&#34; AND (NOT Illinois NOT MVZ) month &gt;= 5 month &lt;= 6" ; Times: 1
+	Query: "127250" ; Times: 2
+	Query: "53440" ; Times: 1
+	Query: "Ramkot" ; Times: 1
+	Query: "Dendroica magnolia stateprovince:&#34;Alberta&#34;" ; Times: 2
+	Query: "120059" ; Times: 1
+	Query: "catalognumber:72923" ; Times: 1
+	Query: "Dendroica magnolia stateprovince:&#34;Manitoba&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "48673 institutioncode:ROM" ; Times: 1
+	Query: "doherty africa" ; Times: 1
+	Query: "128775" ; Times: 1
+	Query: "128774" ; Times: 1
+	Query: "type:specimen specificepithet:garleppi sex:male (Poospiza OR Compsocoma OR Compsospiza)" ; Times: 1
+	Query: "128776" ; Times: 1
+	Query: "doherty" ; Times: 1
+	Query: "131078" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1903" ; Times: 1
+	Query: "rhipidura nigromentalis" ; Times: 1
+	Query: "Sporopipes squamifrons" ; Times: 2
+	Query: "Margarops fuscatus" ; Times: 1
+	Query: "sturgeon" ; Times: 1
+	Query: "dendroica magnolia AND (NOT Illinois) month &gt;= 5 month &lt;= 6" ; Times: 2
+	Query: "birds Auriparus flaviceps Baja California" ; Times: 1
+	Query: "8442" ; Times: 2
+	Query: "dendroica magnolia type:specimen year &gt;= 1990 year &lt;= 2016" ; Times: 1
+	Query: "191 belize" ; Times: 1
+	Query: "genus:Teretistris" ; Times: 2
+	Query: "Mimus saturninus" ; Times: 1
+	Query: "dendroica magnolia country:&#34;canada&#34; AND (NOT Illinois) month &gt;= 5 month &lt;= 6" ; Times: 1
+	Query: "phytotoma raimondii" ; Times: 3
+	Query: "141802" ; Times: 1
+	Query: "type:specimen class:aves recordedby:grant" ; Times: 2
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;Violet-green swallow&#34; OR &#34;Tachycineta thalassina&#34;) mappable:1" ; Times: 1
+	Query: "98774" ; Times: 1
+	Query: "Dendroica dominica" ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "montifringilla adamsi" ; Times: 2
+	Query: "1897-08-04 AND Island" ; Times: 1
+	Query: "Dendroica magnolia stateprovince:&#34;Northwest Territories&#34; country:&#34;Canada&#34;" ; Times: 2
+	Query: "Breninger AND PSM" ; Times: 1
+	Query: "tiaris huilae" ; Times: 4
+	Query: "102893" ; Times: 1
+	Query: "Ifrita" ; Times: 1
+	Query: "56134" ; Times: 1
+	Query: "14299" ; Times: 1
+	Query: "specificepithet:poliocephalus genus:Tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "aimophila ruficeps canescens" ; Times: 1
+	Query: "152658" ; Times: 1
+	Query: "myzomela eques" ; Times: 2
+	Query: "8516" ; Times: 1
+	Query: "montifringilla nivalis" ; Times: 1
+	Query: "Dendrocitta vagabunda India" ; Times: 1
+	Query: "Ploceus cucullatus 1" ; Times: 2
+	Query: "46494" ; Times: 1
+	Query: "ROM 99393" ; Times: 2
+	Query: "88727" ; Times: 1
+	Query: "54714" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "59041" ; Times: 2
+	Query: "Psaltriparus minimus AND Santa Catalina" ; Times: 1
+	Query: "Mimus longicaudatus" ; Times: 1
+	Query: "3262" ; Times: 1
+	Query: "witch" ; Times: 6
+	Query: "11899" ; Times: 3
+	Query: "type:specimen specificepithet:parvulus genus:Camarhynchus sex:male" ; Times: 1
+	Query: "Dendroica magnolia stateprovince:&#34;British Columbia&#34; month &gt;= 6 month &lt;= 7" ; Times: 2
+	Query: "Phacellodomus rufifrons" ; Times: 1
+	Query: "thraupis palmarum" ; Times: 1
+	Query: "118956" ; Times: 1
+	Query: "Serinus mozambicus 1" ; Times: 2
+	Query: "25087" ; Times: 1
+	Query: "Blanford" ; Times: 2
+	Query: "141630" ; Times: 1
+	Query: "49990" ; Times: 1
+	Query: "dendroica magnolia stateprovince:&#34;British columbia&#34; country:&#34;Canada&#34; AND (NOT Illinois) month &gt;= 5 month &lt;= 6" ; Times: 1
+	Query: "Blandford Sindh" ; Times: 2
+	Query: "103398" ; Times: 1
+	Query: "118669" ; Times: 1
+	Query: "dendroica magnolia type:specimen country:&#34;canada&#34;" ; Times: 1
+	Query: "99609" ; Times: 1
+	Query: "canada goose" ; Times: 1
+	Query: "stuttgart" ; Times: 1
+	Query: "27097" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 2
+	Query: "Dumetella carolinensis" ; Times: 1
+	Query: "ROM 23299" ; Times: 2
+	Query: "phacellodomus rufifrons" ; Times: 1
+	Query: "comoros aves" ; Times: 1
+	Query: "polar bear" ; Times: 1
+	Query: "catalognumber:109343" ; Times: 1
+	Query: "125408" ; Times: 3
+	Query: "Sporophila lineola" ; Times: 3
+	Query: "34780" ; Times: 1
+	Query: "Gujarat" ; Times: 3
+	Query: "Tangara fastuosa" ; Times: 2
+	Query: "Pachycephala cinerea" ; Times: 1
+	Query: "birds norte de santander" ; Times: 2
+	Query: "Lepidoptera" ; Times: 1
+	Query: "59028" ; Times: 1
+	Query: "Tangara seledon" ; Times: 1
+	Query: "7017" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;Western Bluebird&#34; OR &#34;Sialia mexicana&#34;) mappable:1" ; Times: 1
+	Query: "Oreoscoptes montanus" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1891 year &lt;= 1891" ; Times: 1
+	Query: "98759" ; Times: 1
+	Query: "80106" ; Times: 1
+	Query: "birds norte de santander ROM" ; Times: 1
+	Query: "ammodramus bairdii" ; Times: 1
+	Query: "34844" ; Times: 1
+	Query: "98754" ; Times: 2
+	Query: "type:specimen genus:tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Allenia fusca" ; Times: 1
+	Query: "141529" ; Times: 1
+	Query: "1831 L" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1936" ; Times: 1
+	Query: "Blandford" ; Times: 4
+	Query: "ROM 18144" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 2
+	Query: "specificepithet:nigroviridis" ; Times: 1
+	Query: "Mimus polyglottos AND Caribbean AND skeleton" ; Times: 1
+	Query: "Cinclocerthia ruficauda" ; Times: 1
+	Query: "ecuador birds" ; Times: 2
+	Query: "Euphonia pectoralis" ; Times: 1
+	Query: "147216" ; Times: 1
+	Query: "61247" ; Times: 1
+	Query: "64135" ; Times: 1
+	Query: "ammomanes" ; Times: 1
+	Query: "61092" ; Times: 1
+	Query: "niltava grandis" ; Times: 1
+	Query: "Dendroica magnolia month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Melanoptila glabrirostris" ; Times: 1
+	Query: "Mimus gundlachii" ; Times: 1
+	Query: "123899" ; Times: 1
+	Query: "Quiscalus quiscula versicolor (skin)" ; Times: 2
+	Query: "Vidua macroura 1" ; Times: 2
+	Query: "specificepithet:calandra genus:Emberiza" ; Times: 1
+	Query: "Drepanididae type:specimen" ; Times: 10
+	Query: "aves mcz" ; Times: 1
+	Query: "72923" ; Times: 1
+	Query: "type:specimen specificepithet:poliocephalus genus:Tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "dendroica dominica" ; Times: 1
+	Query: "Blandford Sindh year &gt;= 1877 year &lt;= 1877" ; Times: 6
+	Query: "Auriparus flaviceps stateprovince:&#34;Baja California&#34; mappable:1" ; Times: 1
+	Query: "127778" ; Times: 1
+	Query: "Campylorhynchus yucatanicus" ; Times: 1
+	Query: "ROM 15079" ; Times: 2
+	Query: "Acridotheres cristatellus 1" ; Times: 3
+	Query: "fazenda cayoa" ; Times: 2
+	Query: "Snyder AND Prince Island" ; Times: 1
+	Query: "13164" ; Times: 1
+	Query: "139591" ; Times: 1
+	Query: "&#34;1897-08-04&#34; AND Island" ; Times: 1
+	Query: "type:specimen specificepithet:gularis genus:Paroaria sex:male" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "diuca" ; Times: 2
+	Query: "querula purpurata" ; Times: 12
+	Query: "aimophila ruficeps obscura" ; Times: 1
+	Query: "type:specimen specificepithet:melanochlamys genus:Buthraupis sex:male" ; Times: 1
+	Query: "29961" ; Times: 2
+	Query: "145108" ; Times: 1
+	Query: "Aves Kenya stomach" ; Times: 1
+	Query: "14352" ; Times: 1
+	Query: "Contopus caribaeus" ; Times: 1
+	Query: "petrochelidon fulva" ; Times: 1
+	Query: "Pericrocotus roseus" ; Times: 1
+	Query: "106011" ; Times: 3
+	Query: "7173" ; Times: 1
+	Query: "dendroica magnolia stateprovince:&#34;british columbia&#34; country:&#34;Canada&#34; AND (NOT Illinois) month &gt;= 5 month &lt;= 6" ; Times: 3
+	Query: "catalognumber:59500" ; Times: 1
+	Query: "Dendroica magnolia stateprovince:&#34;Alberta&#34; month &gt;= 6 month &lt;= 7" ; Times: 4
+	Query: "ROM 99493" ; Times: 1
+	Query: "a.w. anthony" ; Times: 4
+	Query: "Toxostoma cinereum" ; Times: 1
+	Query: "Montifringilla nivalis" ; Times: 2
+	Query: "ROM 99439" ; Times: 2
+	Query: "Mimus thenca" ; Times: 1
+	Query: "Euphonia cayennensis" ; Times: 1
+	Query: "spixii" ; Times: 1
+	Query: "stateprovince:&#34;Guaviare&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:familiaris genus:certhia year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1897" ; Times: 1
+	Query: "dendroica magnolia type:specimen country:&#34;canada&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 2
+	Query: "99393" ; Times: 1
+	Query: "59026" ; Times: 1
+	Query: "Ptilogonys cinereus" ; Times: 1
+	Query: "basileuterus culicivorus" ; Times: 14
+	Query: "buphagus" ; Times: 1
+	Query: "11139" ; Times: 8
+	Query: "Carpodacus pulcherrimus" ; Times: 1
+	Query: "Thraupis palmarum" ; Times: 4
+	Query: "50388" ; Times: 1
+	Query: "ROM 2398" ; Times: 1
+	Query: "Thraupis atripennis" ; Times: 1
+	Query: "150223" ; Times: 1
+	Query: "Toxostoma rufum" ; Times: 1
+	Query: "Dendroica magnolia stateprovince:&#34;Ontario&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "Gujarat Aves" ; Times: 1
+	Query: "137030" ; Times: 1
+	Query: "tiaris grandior" ; Times: 2
+	Query: "124151" ; Times: 1
+	Query: "Toxostoma curvirostre" ; Times: 1
+	Query: "29872" ; Times: 1
+	Query: "109843" ; Times: 1
+	Query: "34959" ; Times: 2
+	Query: "specificepithet:ludovicianus genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1904 year &lt;= 1904" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;White-breasted Nuthatch&#34; OR &#34;Sitta carolinensis&#34;) mappable:1" ; Times: 1
+	Query: "specificepithet:miniatus genus:myioborus" ; Times: 1
+	Query: "Mimus patagonicus" ; Times: 1
+	Query: "8555" ; Times: 1
+	Query: "conirostrum" ; Times: 1
+	Query: "Dendroica magnolia stateprovince:&#34;Newfoundland&#34; country:&#34;Canada&#34;" ; Times: 2
+	Query: "dendroica magnolia stateprovince:&#34;alberta&#34; country:&#34;Canada&#34; AND (NOT Illinois) month &gt;= 5 month &lt;= 6" ; Times: 2
+	Query: "Melanotis caerulescens" ; Times: 1
+	Query: "Toxostoma guttatum" ; Times: 1
+	Query: "type:specimen specificepithet:montana genus:Buthraupis sex:male" ; Times: 1
+	Query: "xanthops" ; Times: 2
+	Query: "campi" ; Times: 1
+	Query: "Toxostoma longirostre" ; Times: 1
+	Query: "Blandford Kashmir" ; Times: 1
+	Query: "Terpsiphone" ; Times: 2
+	Query: "institutioncode:rom" ; Times: 1
+	Query: "genus:Salpornis" ; Times: 1
+	Query: "2083" ; Times: 1
+	Query: "Toxostoma ocellatum" ; Times: 1
+	Query: "4774" ; Times: 1
+	Query: "myzomela erythromelas" ; Times: 2
+	Query: "Ramphocinclus brachyurus" ; Times: 1
+	Query: "Catalina Island AND 1897" ; Times: 1
+	Query: "BC Canada" ; Times: 2
+	Query: "norte de santander" ; Times: 1
+	Query: "Wilsonia citrina" ; Times: 4
+	Query: "11714" ; Times: 2
+	Query: "dendroica magnolia type:specimen year &gt;= 1930 year &lt;= 2016 institutioncode:ROM" ; Times: 1
+	Query: "Halmahera" ; Times: 1
+	Query: "ROM 18244" ; Times: 2
+	Query: "dendroica magnolia country:&#34;Canada&#34; AND (NOT Illinois) month &gt;= 5 month &lt;= 6" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 1052 download events in this period)
+Total number of records downloaded: 70225
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Denmark ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 9
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-23 ; Times: 5
+	Date: 2016-06-08 ; Times: 1
+	Date: 2016-06-21 ; Times: 6
+	Date: 2016-06-20 ; Times: 2
+	Date: 2016-06-16 ; Times: 4
+	Date: 2016-06-14 ; Times: 2
+	Date: 2016-06-15 ; Times: 3
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-02 ; Times: 6
+	Date: 2016-06-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sporophila lineola" ; Times: 1
+	Query: "Tangara fastuosa" ; Times: 1
+	Query: "birds norte de santander" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;Western Bluebird&#34; OR &#34;Sialia mexicana&#34;) mappable:1" ; Times: 1
+	Query: "birds" ; Times: 1
+	Query: "iguana" ; Times: 1
+	Query: "Gujarat Aves" ; Times: 1
+	Query: "Euphonia cayennensis" ; Times: 1
+	Query: "Iguana iguana AND (NOT California NOT Fiji NOT Florida NOT Arizona NOT Nevada NOT Sinaloa )" ; Times: 1
+	Query: "norte de santander" ; Times: 1
+	Query: "Carpodacus pulcherrimus" ; Times: 1
+	Query: "Thraupis melanoptera" ; Times: 1
+	Query: "type:specimen country:&#34;Canada&#34; institutioncode:ROM" ; Times: 1
+	Query: "Thraupis palmarum" ; Times: 1
+	Query: "Thraupis atripennis" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "Wilsonia citrina" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;Violet-green swallow&#34; OR &#34;Tachycineta thalassina&#34;) mappable:1" ; Times: 1
+	Query: "Dendroica magnolia stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "Euphonia pectoralis" ; Times: 1
+	Query: "niltava grandis" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;White-breasted Nuthatch&#34; OR &#34;Sitta carolinensis&#34;) mappable:1" ; Times: 1
+	Query: "Dendroica magnolia stateprovince:&#34;British Columbia&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Tangara seledon" ; Times: 1
+	Query: "Oriolus chinensis" ; Times: 1
+	Query: "Criniger flaveolus" ; Times: 1
+	Query: "Campylorhynchus yucatanicus" ; Times: 1
+	Query: "Dendroica magnolia stateprovince:&#34;Alberta&#34;" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "E. pectoralis" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 1
+	Query: "comoros aves" ; Times: 1
+
+
+End of report.
