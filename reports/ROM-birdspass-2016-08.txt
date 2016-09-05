@@ -1,0 +1,321 @@
+Report for Institution Code ROM, Resource birdspass
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 288
+Number of records retrieved in searches: 1933
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 11
+	Country: United States ; Times: 196
+	Country: Australia ; Times: 11
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 12
+	Country: Philippines ; Times: 1
+	Country: India ; Times: 16
+	Country: France ; Times: 9
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Puerto Rico ; Times: 1
+	Country: Switzerland ; Times: 2
+	Country: New Zealand ; Times: 7
+	Country: Russia ; Times: 3
+	Country: Brazil ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 10
+	Date: 2016-08-11 ; Times: 6
+	Date: 2016-08-12 ; Times: 18
+	Date: 2016-08-13 ; Times: 3
+	Date: 2016-08-14 ; Times: 8
+	Date: 2016-08-15 ; Times: 7
+	Date: 2016-08-16 ; Times: 15
+	Date: 2016-08-17 ; Times: 6
+	Date: 2016-08-18 ; Times: 1
+	Date: 2016-08-19 ; Times: 17
+	Date: 2016-08-30 ; Times: 27
+	Date: 2016-08-31 ; Times: 37
+	Date: 2016-08-29 ; Times: 12
+	Date: 2016-08-28 ; Times: 6
+	Date: 2016-08-25 ; Times: 28
+	Date: 2016-08-24 ; Times: 11
+	Date: 2016-08-27 ; Times: 11
+	Date: 2016-08-26 ; Times: 13
+	Date: 2016-08-21 ; Times: 2
+	Date: 2016-08-20 ; Times: 2
+	Date: 2016-08-23 ; Times: 34
+	Date: 2016-08-22 ; Times: 13
+	Date: 2016-08-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "birds kozhikode" ; Times: 1
+	Query: "34126" ; Times: 1
+	Query: "lamprolia" ; Times: 1
+	Query: "granatellus venustus" ; Times: 3
+	Query: "ROM 52570" ; Times: 1
+	Query: "type:specimen class:Aves country:&#34;Afghanistan&#34;" ; Times: 2
+	Query: "pycnonotus jocosus india" ; Times: 1
+	Query: "specificepithet:verticalis genus:Tyrannus stateprovince:&#34;Kansas&#34; month &gt;= 8 month &lt;= 10" ; Times: 1
+	Query: "catalognumber:114007" ; Times: 1
+	Query: "Myrmotherula longipennis longipennis" ; Times: 1
+	Query: "Catharus fuscescens salicicola month &gt;= 6 month &lt;= 7" ; Times: 2
+	Query: "Vireo bellii pusillus" ; Times: 1
+	Query: "ROM 65992" ; Times: 1
+	Query: "catalognumber:115634" ; Times: 1
+	Query: "90-171" ; Times: 2
+	Query: "Catharus aurantiirostris" ; Times: 4
+	Query: "catalognumber:59141 institutioncode:ROM" ; Times: 1
+	Query: "96656" ; Times: 1
+	Query: "wizard" ; Times: 6
+	Query: "catalognumber:68554 institutioncode:ROM" ; Times: 1
+	Query: "Calandrella brachydactyla" ; Times: 1
+	Query: "54750" ; Times: 1
+	Query: "Leptopoecile sophiae type:specimen (india)" ; Times: 1
+	Query: "schiffornis turdinus guyana" ; Times: 2
+	Query: "phylloscopus fuscatus pakistan" ; Times: 2
+	Query: "class:aves county:&#34;greenwood&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "phylloscopus trochiloides india" ; Times: 1
+	Query: "gracula religiosa" ; Times: 1
+	Query: "Samar Island Philippines" ; Times: 1
+	Query: "pycnonotus jocosus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;New Mexico&#34; year &gt;= 1885 year &lt;= 1885 month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "catalognumber:74518 institutioncode:ROM" ; Times: 1
+	Query: "&#34;Ammodramus henslowii&#34; stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "ROM 32261" ; Times: 2
+	Query: "Contopus sordidulus Kansas" ; Times: 2
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "acrocephalus agricola india" ; Times: 1
+	Query: "Lycocorax pyrrhopterus" ; Times: 1
+	Query: "year &gt;= 1700 year &lt;= 1840" ; Times: 1
+	Query: "oriolus kundoo india" ; Times: 1
+	Query: "phylloscopus borealis thailand" ; Times: 2
+	Query: "pitta brachyura" ; Times: 5
+	Query: "Platylophus galericulatus" ; Times: 3
+	Query: "cotinga maculata type:specimen" ; Times: 1
+	Query: "agelaius humeralis" ; Times: 2
+	Query: "chrysoparia" ; Times: 1
+	Query: "Aimophila aestivalis" ; Times: 1
+	Query: "genus:Cotinga mappable:1" ; Times: 2
+	Query: "8974" ; Times: 1
+	Query: "ROM 30117" ; Times: 1
+	Query: "catalognumber:57242 institutioncode:ROM" ; Times: 1
+	Query: "egg w. l. boyd" ; Times: 1
+	Query: "Empidonax flaviventris year &gt;= 1980" ; Times: 1
+	Query: "phylloscopus fuscatus india" ; Times: 2
+	Query: "Catalina AND Carpodacus NOT Arizona" ; Times: 1
+	Query: "birds nilgiri hills" ; Times: 1
+	Query: "Myzomela cardinalis" ; Times: 1
+	Query: "catalognumber:120426 collectioncode:Birds" ; Times: 2
+	Query: "Island AND Piranga olivacea" ; Times: 1
+	Query: "hibiscus" ; Times: 1
+	Query: "oriolus oriolus india" ; Times: 1
+	Query: "pitta brachyura india" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "Xiphocolaptes" ; Times: 1
+	Query: "pigeon lake ontario" ; Times: 1
+	Query: "catalognumber:62492 institutioncode:ROM" ; Times: 1
+	Query: "ritson england" ; Times: 2
+	Query: "52883" ; Times: 1
+	Query: "Catharus minimus month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "egg ontario" ; Times: 1
+	Query: "rom 113024" ; Times: 1
+	Query: "catalognumber:116487" ; Times: 1
+	Query: "sylvietta isabellina" ; Times: 1
+	Query: "dendroica magnolia country:&#34;Canada&#34; month &gt;= 6 month &lt;= 8" ; Times: 4
+	Query: "Ut" ; Times: 1
+	Query: "crypsirina" ; Times: 3
+	Query: "Agelaius humeralis" ; Times: 8
+	Query: "catalognumber:119809" ; Times: 1
+	Query: "phylloscopus collybita india" ; Times: 1
+	Query: "ROM 64659" ; Times: 1
+	Query: "ploceus tricolor" ; Times: 2
+	Query: "Catharus hastypestatus:1" ; Times: 14
+	Query: "Hillah" ; Times: 1
+	Query: "type:specimen genus:machaeropterus family:pipridae" ; Times: 1
+	Query: "catalognumber:68581 institutioncode:ROM" ; Times: 1
+	Query: "type:specimen distance(location,geopoint(31.725052466853278,-114.85107421875))&lt;34052.103441188374" ; Times: 1
+	Query: "phylloscopus borealis india" ; Times: 3
+	Query: "Brachypteryx montana type:specimen (india)" ; Times: 1
+	Query: "garrulax delesserti" ; Times: 1
+	Query: "pigeon lake" ; Times: 1
+	Query: "Catharus fuscescens month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "acrocephalus aedon india" ; Times: 1
+	Query: "Wood 1923" ; Times: 1
+	Query: "county:&#34;Palm Beach&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "egg trinidad" ; Times: 1
+	Query: "CA 5051" ; Times: 1
+	Query: "catalognumber:77295 institutioncode:ROM" ; Times: 1
+	Query: "witch" ; Times: 2
+	Query: "catalognumber:48495 institutioncode:ROM" ; Times: 1
+	Query: "Phylloscartes" ; Times: 1
+	Query: "Ruwenzori" ; Times: 1
+	Query: "type:specimen catalognumber:105188 institutioncode:ROM" ; Times: 1
+	Query: "ixonotus guttatus" ; Times: 1
+	Query: "Cicero swamp" ; Times: 1
+	Query: "CRYPSIRINA" ; Times: 1
+	Query: "Pyroderus scutatus" ; Times: 1
+	Query: "cotinga cotinga type:specimen" ; Times: 1
+	Query: "Saxicola type:specimen (india)" ; Times: 1
+	Query: "Dendroica aestiva" ; Times: 1
+	Query: "egg ontario 1888" ; Times: 1
+	Query: "Catharus fuscater mappable:1" ; Times: 2
+	Query: "stictopterus" ; Times: 1
+	Query: "cotinga cayana type:specimen" ; Times: 2
+	Query: "Colombia Aves Boyaca" ; Times: 1
+	Query: "chiroxiphia boliviana" ; Times: 1
+	Query: "Saxicola stejnegeri country:&#34;India&#34;" ; Times: 2
+	Query: "phylloscopus borealis indonesia" ; Times: 2
+	Query: "Chlorospingus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "wax" ; Times: 1
+	Query: "Aegithina lafresnayei" ; Times: 1
+	Query: "ROM 12810" ; Times: 1
+	Query: "cardinalis nest" ; Times: 1
+	Query: "95656" ; Times: 1
+	Query: "class:aves stateprovince:&#34;New Mexico&#34; year &gt;= 1885 year &lt;= 1885" ; Times: 2
+	Query: "90-128" ; Times: 1
+	Query: "catalognumber:68582 institutioncode:ROM" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(-18.312810846425442,47.43896484375))&lt;100000" ; Times: 1
+	Query: "kawartha" ; Times: 1
+	Query: "county:&#34;dekalb&#34; stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "SALTATOR COERULESCENS" ; Times: 1
+	Query: "rhyacornis bicolor type:specimen" ; Times: 1
+	Query: "114007" ; Times: 1
+	Query: "ROM 5596" ; Times: 3
+	Query: "64030" ; Times: 1
+	Query: "Saxicola stejnegeri" ; Times: 1
+	Query: "new zealand forest" ; Times: 1
+	Query: "acridotheres tristis australia" ; Times: 1
+	Query: "institutioncode:rom" ; Times: 2
+	Query: "specificepithet:kirtlandii genus:Dendroica" ; Times: 1
+	Query: "catalognumber:63190 institutioncode:ROM" ; Times: 1
+	Query: "class:aves locality:new hampshire" ; Times: 1
+	Query: "specificepithet:verticalis genus:Tyrannus county:&#34;Douglas&#34; stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "Pnoepyga pusilla india type:specimen" ; Times: 1
+	Query: "Ficedula sapphira" ; Times: 2
+	Query: "ROM 12809" ; Times: 1
+	Query: "10929" ; Times: 1
+	Query: "Catharus fuscater" ; Times: 1
+	Query: "pericrocotus leytensis" ; Times: 1
+	Query: "aimophila ruficauda" ; Times: 3
+	Query: "genus:Tyrannus county:&#34;Douglas&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "schiffornis turdinus" ; Times: 1
+	Query: "catalognumber:74637 institutioncode:ROM" ; Times: 1
+	Query: "chlorospingus" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(-11.910353555774101,48.93310546875))&lt;100000" ; Times: 1
+	Query: "14878" ; Times: 1
+	Query: "urocissa" ; Times: 1
+	Query: "ant" ; Times: 1
+	Query: "catalognumber:70989 institutioncode:ROM" ; Times: 1
+	Query: "CA 11098" ; Times: 3
+	Query: "Thamnistes" ; Times: 1
+	Query: "catalognumber:74747 institutioncode:ROM" ; Times: 1
+	Query: "egg holland" ; Times: 1
+	Query: "phylloscopus magnirostris india" ; Times: 1
+	Query: "ROM 108922" ; Times: 1
+	Query: "specificepithet:verticalis genus:Tyrannus stateprovince:&#34;Kansas&#34; month &gt;= 7 month &lt;= 10" ; Times: 1
+	Query: "locality:new hampshire" ; Times: 1
+	Query: "catalognumber:56103 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:55647 institutioncode:ROM" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "Pnoepyga pusilla" ; Times: 6
+	Query: "TP" ; Times: 1
+	Query: "seicercus burkii" ; Times: 1
+	Query: "Brachypteryx montana cruralis type:specimen (india)" ; Times: 1
+	Query: "genus:Heteralocha" ; Times: 2
+	Query: "Catalina AND Carpodacus" ; Times: 1
+	Query: "Pnoepyga pusilla type:specimen" ; Times: 1
+	Query: "ROM 71033" ; Times: 1
+	Query: "ROM 71030" ; Times: 2
+	Query: "dendroica magnolia country:&#34;Canada&#34;" ; Times: 1
+	Query: "Icterus nigrogularis" ; Times: 1
+	Query: "egg lake manitoba" ; Times: 2
+	Query: "Dendroica kirtlandii type:specimen" ; Times: 3
+	Query: "ROM 52560" ; Times: 2
+	Query: "21820" ; Times: 1
+	Query: "catharus fuscescens" ; Times: 1
+	Query: "turdus atrogularis india" ; Times: 1
+	Query: "ROM 52568" ; Times: 1
+	Query: "genus:Xipholena mappable:1" ; Times: 1
+	Query: "thripophaga" ; Times: 1
+	Query: "class:Aves continent:North america (Ivory)" ; Times: 1
+	Query: "Corapipo" ; Times: 1
+	Query: "catalognumber:120426" ; Times: 1
+	Query: "catalognumber:59191 institutioncode:ROM" ; Times: 2
+	Query: "dasypus" ; Times: 1
+	Query: "Clarke Aves year &gt;= 1880 year &lt;= 1935" ; Times: 3
+	Query: "lengthtype:head-body length" ; Times: 1
+	Query: "norte de santander" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 924 download events in this period)
+Total number of records downloaded: 12719
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 16
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 3
+	Date: 2016-08-12 ; Times: 1
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-29 ; Times: 1
+	Date: 2016-08-15 ; Times: 1
+	Date: 2016-08-16 ; Times: 4
+	Date: 2016-08-24 ; Times: 2
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-30 ; Times: 3
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-31 ; Times: 4
+	Date: 2016-08-23 ; Times: 10
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-22 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Mecca" ; Times: 1
+	Query: "Empidonax flaviventris year &gt;= 1980" ; Times: 1
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "chrysoparia" ; Times: 1
+	Query: "cotinga cotinga type:specimen" ; Times: 1
+	Query: "aimophila ruficauda" ; Times: 1
+	Query: "rhyacornis bicolor type:specimen" ; Times: 1
+	Query: "chlorospingus" ; Times: 2
+	Query: "Vireo bellii pusillus" ; Times: 1
+	Query: "Catharus fuscater mappable:1" ; Times: 1
+	Query: "Colombia Aves Boyaca" ; Times: 1
+	Query: "geospiza" ; Times: 1
+	Query: "Pnoepyga pusilla" ; Times: 1
+	Query: "cotinga cayana type:specimen" ; Times: 2
+	Query: "Sphyrapicus varius year &gt;= 1980" ; Times: 1
+	Query: "Colombia Aves Santander" ; Times: 1
+	Query: "camarhynchus" ; Times: 1
+	Query: "lanius ludovicianus" ; Times: 1
+	Query: "Empidonax minimus year &gt;= 1980" ; Times: 1
+	Query: "Agelaius humeralis" ; Times: 1
+	Query: "stateprovince:&#34;choco&#34;" ; Times: 1
+	Query: "SALTATOR COERULESCENS" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "certhidea" ; Times: 1
+	Query: "Covington Flat" ; Times: 1
+	Query: "Polioptila californica californica" ; Times: 1
+	Query: "genus:Xipholena mappable:1" ; Times: 1
+	Query: "Colombia Aves" ; Times: 1
+	Query: "Brachypteryx montana type:specimen (india)" ; Times: 1
+	Query: "cotinga maculata type:specimen" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "Agelaius tricolor" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "Pnoepyga pusilla india type:specimen" ; Times: 1
+	Query: "genus:Cotinga mappable:1" ; Times: 1
+
+
+End of report.
