@@ -1,0 +1,406 @@
+Report for Institution Code ROM, Resource birdspass
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 449
+Number of records retrieved in searches: 4322
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 47
+	Country: Brazil ; Times: 12
+	Country: Italy ; Times: 27
+	Country: Unknown ; Times: 15
+	Country: France ; Times: 7
+	Country: Slovakia ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Germany ; Times: 5
+	Country: Denmark ; Times: 9
+	Country: Belgium ; Times: 1
+	Country: Netherlands ; Times: 3
+	Country: Gambia ; Times: 1
+	Country: Poland ; Times: 1
+	Country: United States ; Times: 246
+	Country: New Zealand ; Times: 4
+	Country: Russia ; Times: 3
+	Country: Mexico ; Times: 6
+	Country: India ; Times: 10
+	Country: United Kingdom ; Times: 41
+	Country: Paraguay ; Times: 3
+	Country: Cyprus ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 8
+	Date: 2017-12-31 ; Times: 7
+	Date: 2017-12-16 ; Times: 8
+	Date: 2017-12-17 ; Times: 14
+	Date: 2017-12-14 ; Times: 48
+	Date: 2017-12-15 ; Times: 18
+	Date: 2017-12-12 ; Times: 13
+	Date: 2017-12-13 ; Times: 7
+	Date: 2017-12-10 ; Times: 23
+	Date: 2017-12-11 ; Times: 28
+	Date: 2017-12-18 ; Times: 23
+	Date: 2017-12-19 ; Times: 6
+	Date: 2017-12-29 ; Times: 3
+	Date: 2017-12-28 ; Times: 4
+	Date: 2017-12-27 ; Times: 9
+	Date: 2017-12-26 ; Times: 12
+	Date: 2017-12-25 ; Times: 4
+	Date: 2017-12-24 ; Times: 10
+	Date: 2017-12-22 ; Times: 9
+	Date: 2017-12-21 ; Times: 23
+	Date: 2017-12-20 ; Times: 19
+	Date: 2017-12-05 ; Times: 18
+	Date: 2017-12-04 ; Times: 35
+	Date: 2017-12-07 ; Times: 28
+	Date: 2017-12-06 ; Times: 33
+	Date: 2017-12-01 ; Times: 8
+	Date: 2017-12-03 ; Times: 4
+	Date: 2017-12-02 ; Times: 12
+	Date: 2017-12-09 ; Times: 6
+	Date: 2017-12-08 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;angola&#34; year &gt;= 1905 year &lt;= 1906 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "criniger flaveolus" ; Times: 3
+	Query: "catalognumber:54571 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:aureola genus:Emberiza" ; Times: 1
+	Query: "sunshine coast" ; Times: 8
+	Query: "Icterus melanopsis" ; Times: 1
+	Query: "class:Aves country:&#34;angola&#34; year &gt;= 1905 year &lt;= 1906 month &gt;= 1 month &lt;= 2 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus distance(location,geopoint(48.95858088455357,-119.59277383983135))&lt;100000" ; Times: 1
+	Query: "The Gambia" ; Times: 1
+	Query: "ragionieri" ; Times: 5
+	Query: "distance(location,geopoint(38.8357648825,-75.267845751875))&lt;1791" ; Times: 1
+	Query: "distance(location,geopoint(44.9631889075001,-67.255953717))&lt;23438" ; Times: 1
+	Query: "32745" ; Times: 1
+	Query: "catalognumber:69827 institutioncode:ROM" ; Times: 2
+	Query: "class:Aves country:&#34;angola&#34; year &gt;= 1905 year &lt;= 1906 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:chiguanco genus:Turdus" ; Times: 2
+	Query: "house wren" ; Times: 4
+	Query: "Erithacus rubecula" ; Times: 3
+	Query: "muskrat" ; Times: 1
+	Query: "feathered" ; Times: 1
+	Query: "veneto" ; Times: 4
+	Query: "Pycnonotus jocosus" ; Times: 2
+	Query: "genus:Cinclus country:&#34;costa rica&#34;" ; Times: 1
+	Query: "specificepithet:tyrannus genus:Tyrannus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "ROM 97763" ; Times: 1
+	Query: "13083" ; Times: 1
+	Query: "Atrichornis rufescens vntype:specimen" ; Times: 2
+	Query: "corvus corax" ; Times: 1
+	Query: "class:Aves country:&#34;Italy&#34;" ; Times: 4
+	Query: "Cosmopsarus regius magnificus" ; Times: 1
+	Query: "Motacilla flava" ; Times: 3
+	Query: "class:aves country:indonesia" ; Times: 1
+	Query: "19403" ; Times: 1
+	Query: "class:Aves recordedby:Peabody" ; Times: 1
+	Query: "genus:Helmitheros class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "pipra coronata" ; Times: 2
+	Query: "specificepithet:rufivirgatus genus:Arremonops hasmass:1" ; Times: 1
+	Query: "Atrichornis rufescens" ; Times: 2
+	Query: "criniger frater" ; Times: 1
+	Query: "catalognumber:47641" ; Times: 2
+	Query: "mount olympus" ; Times: 1
+	Query: "Black bear" ; Times: 1
+	Query: "specificepithet:crinitus genus:myiarchus month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "specificepithet:sulphuratus genus:Pitangus hasmass:1" ; Times: 1
+	Query: "country:&#34;Japan&#34; catalognumber:55057 institutioncode:ROM" ; Times: 1
+	Query: "criniger pallidus" ; Times: 1
+	Query: "specificepithet:jocosus genus:pycnonotus year &gt;= 1850 year &lt;= 1930" ; Times: 2
+	Query: "corvus leucognaphalus" ; Times: 1
+	Query: "4953 Aves" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus distance(location,geopoint(49.97948819229304,-119.68945473432541))&lt;51103" ; Times: 1
+	Query: "specificepithet:fuscater genus:Turdus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;nebraska&#34; (eggs) institutioncode:ROM" ; Times: 1
+	Query: "corvus palmarum" ; Times: 8
+	Query: "h 8289" ; Times: 1
+	Query: "89889 Aves" ; Times: 1
+	Query: "ochraceus malaysia" ; Times: 1
+	Query: "pileated woodpecker" ; Times: 2
+	Query: "tachycineta euchrysea" ; Times: 1
+	Query: "lake scugog" ; Times: 1
+	Query: "Melipotes gymnops" ; Times: 1
+	Query: "specificepithet:arnotti" ; Times: 1
+	Query: "KVS" ; Times: 1
+	Query: "specificepithet:sumichrasti genus:Hylorchilus" ; Times: 2
+	Query: "Zonotrichia lincolnii eggs" ; Times: 1
+	Query: "107229 Aves" ; Times: 1
+	Query: "110080" ; Times: 1
+	Query: "country:&#34;Guyana&#34; collectioncode:Birds" ; Times: 1
+	Query: "distance(location,geopoint(44.9725155310001,-72.6967921945))&lt;41043" ; Times: 3
+	Query: "distance(location,geopoint(45.004155559357,-72.6720390447798))&lt;38772" ; Times: 2
+	Query: "genus:neopelma basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja&#34;" ; Times: 6
+	Query: "120038" ; Times: 1
+	Query: "129856 Aves" ; Times: 1
+	Query: "genus:Callaeas country:&#34;New Zealand&#34; year &lt;= 1860" ; Times: 2
+	Query: "brazil AND aves AND egg OR eggs OR nest OR nests" ; Times: 1
+	Query: "distance(location,geopoint(44.9926500945,-72.6738853945))&lt;38731" ; Times: 2
+	Query: "Catharopeza vntype:specimen" ; Times: 3
+	Query: "vntype:specimen specificepithet:maritimus genus:Ammodramus year &gt;= 1980 year &lt;= 1990" ; Times: 1
+	Query: "Empidonax traillii year &gt;= 1900 year &lt;= 1910" ; Times: 1
+	Query: "Artamus leucopygialis" ; Times: 1
+	Query: "locality:Hudson River" ; Times: 1
+	Query: "catalognumber:54472 institutioncode:ROM" ; Times: 1
+	Query: "Florida vntype:specimen specificepithet:maritimus genus:Ammodramus year &gt;= 1950 year &lt;= 1990" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "class:aves country:gabon" ; Times: 1
+	Query: "ferminia cerverai" ; Times: 3
+	Query: "pine martin" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma class:Aves county:&#34;San Diego&#34; year &gt;= 1850 year &lt;= 2017" ; Times: 1
+	Query: "11682" ; Times: 1
+	Query: "egg aves brazil" ; Times: 1
+	Query: "country:&#34;Japan&#34; institutioncode:ROM" ; Times: 16
+	Query: "Myrmeciza exsul" ; Times: 1
+	Query: "egg brazil" ; Times: 1
+	Query: "157170 Aves UMMZ" ; Times: 3
+	Query: "rhipidura lepida" ; Times: 8
+	Query: "28290 Aves" ; Times: 2
+	Query: "county:&#34;san diego&#34; recordedby:marsh" ; Times: 1
+	Query: "brunei" ; Times: 2
+	Query: "157171 Aves UMMZ" ; Times: 2
+	Query: "Motacilla capensis" ; Times: 1
+	Query: "distance(location,geopoint(44.4200546825001,-71.526293728))&lt;11964" ; Times: 1
+	Query: "Pericrocotus erythropygius" ; Times: 1
+	Query: "white tail deer" ; Times: 4
+	Query: "kazakhstan vntype:specimen continent:Asia" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "Canada Lynx" ; Times: 1
+	Query: "tachyphonus coronatus" ; Times: 1
+	Query: "witch" ; Times: 2
+	Query: "32738" ; Times: 1
+	Query: "smithornis" ; Times: 1
+	Query: "Phacellodomus rufifrons" ; Times: 1
+	Query: "Hbb" ; Times: 3
+	Query: "specificepithet:jocosus genus:pycnonotus" ; Times: 1
+	Query: "specificepithet:longirostre genus:Toxostoma hasmass:1" ; Times: 2
+	Query: "catalognumber:158557" ; Times: 4
+	Query: "(wyoming) institutioncode:ROM" ; Times: 1
+	Query: "henicorhina leucosticta" ; Times: 1
+	Query: "lake sturgeon" ; Times: 1
+	Query: "black bear" ; Times: 10
+	Query: "157201 Aves UMMZ" ; Times: 3
+	Query: "pallidus tenasserim" ; Times: 1
+	Query: "specificepithet:yncas genus:Cyanocorax hasmass:1" ; Times: 1
+	Query: "Human" ; Times: 1
+	Query: "class:aves locality:terceira" ; Times: 2
+	Query: "Herpsilochmus paraguay" ; Times: 1
+	Query: "vireo altiloquus" ; Times: 1
+	Query: "Ammodramus henslowii stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "111328 Aves" ; Times: 1
+	Query: "specificepithet:flava genus:piranga stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "criniger griseiceps" ; Times: 1
+	Query: "distance(location,geopoint(38.8289438099467,-75.2166309016043))&lt;683" ; Times: 1
+	Query: "genus:Certhia county:&#34;San Diego&#34; year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "class:Aves county:&#34;San Diego&#34; recordedby:Belding" ; Times: 2
+	Query: "turdus poliocephalus" ; Times: 1
+	Query: "Dendroica petechia stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "BCE" ; Times: 1
+	Query: "111327 Aves" ; Times: 1
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja California&#34;" ; Times: 4
+	Query: "weevil" ; Times: 1
+	Query: "13875" ; Times: 1
+	Query: "155902 Aves UMMZ" ; Times: 2
+	Query: "University of Tennessee. Aves" ; Times: 1
+	Query: "ficedula henrici" ; Times: 2
+	Query: "Atrichornis rufescens vntype:specimen institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:lecontei county:&#34;San Diego&#34; year &gt;= 1850 year &lt;= 2017" ; Times: 1
+	Query: "157200 Aves UMMZ" ; Times: 3
+	Query: "ROM 96971" ; Times: 1
+	Query: "junco hyemalis mearnsi" ; Times: 7
+	Query: "Leucopsar" ; Times: 1
+	Query: "distance(location,geopoint(38.8576658435,-75.267845751875))&lt;1790" ; Times: 1
+	Query: "18756 Aves" ; Times: 3
+	Query: "Orchard Oriole" ; Times: 1
+	Query: "64944 Aves" ; Times: 2
+	Query: "specificepithet:palmarum genus:corvus hasmass:1" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus distance(location,geopoint(49.97948819229304,-119.68945473432541))&lt;100000" ; Times: 1
+	Query: "canada warbler" ; Times: 1
+	Query: "country:&#34;Sierra Leone&#34; continent:Africa" ; Times: 1
+	Query: "158557 Aves" ; Times: 3
+	Query: "distance(location,geopoint(42.759119724,-70.8372693405))&lt;1427" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucosticta genus:Henicorhina" ; Times: 1
+	Query: "157194 Aves UMMZ" ; Times: 1
+	Query: "uwbm 6318" ; Times: 1
+	Query: "ROM 96484" ; Times: 1
+	Query: "34420" ; Times: 1
+	Query: "Skin-94896" ; Times: 1
+	Query: "W. W. Brown 1914" ; Times: 1
+	Query: "19598" ; Times: 1
+	Query: "institutioncode:ROM" ; Times: 3
+	Query: "locality:Hudson River stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "egg vntype:specimen class:aves country:&#34;brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "157210 Aves UMMZ" ; Times: 1
+	Query: "Dendroica petechia county:&#34;San Diego&#34;" ; Times: 2
+	Query: "Toxostoma longirostre" ; Times: 1
+	Query: "country:&#34;Japan&#34; catalognumber:52420 institutioncode:ROM" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "pseudocolaptes carabayae" ; Times: 1
+	Query: "minus polyglottos" ; Times: 2
+	Query: "genus:serinus locality:terceira" ; Times: 1
+	Query: "dicrurus longicaudatus" ; Times: 1
+	Query: "sturgeon" ; Times: 1
+	Query: "parus suluensis" ; Times: 1
+	Query: "locality:terceira" ; Times: 1
+	Query: "cacicus solitarius" ; Times: 1
+	Query: "distance(location,geopoint(42.759119724,-70.8099073985))&lt;1436" ; Times: 1
+	Query: "119073" ; Times: 1
+	Query: "catalognumber:91074" ; Times: 2
+	Query: "97811" ; Times: 1
+	Query: "ROM 85808" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella stateprovince:Illinois county:Lake" ; Times: 10
+	Query: "cardinalis coccineus" ; Times: 1
+	Query: "Knipolegus poecilurus" ; Times: 1
+	Query: "Pitta sordida" ; Times: 6
+	Query: "Alpaca" ; Times: 1
+	Query: "microeca hemixantha" ; Times: 1
+	Query: "specificepithet:caerulescens genus:Diglossa country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Borneo" ; Times: 2
+	Query: "catalognumber:141539 institutioncode:ROM" ; Times: 1
+	Query: "birds unam" ; Times: 1
+	Query: "mandelli" ; Times: 3
+	Query: "class:Aves locality:Isla Mujeres stateprovince:&#34;Quintana Roo&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Goa&#34; country:&#34;India&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;angola&#34; year &gt;= 1900 year &lt;= 1910 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ficedula hyperythra" ; Times: 1
+	Query: "ROM 95657" ; Times: 1
+	Query: "progne modesta" ; Times: 3
+	Query: "class:aves locality:Hudson River stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "country:&#34;colombia&#34; recordedby:Von Sneidern year &gt;= 1945 year &lt;= 1946" ; Times: 1
+	Query: "Acrocephalus australis" ; Times: 3
+	Query: "Oriolus monacha" ; Times: 1
+	Query: "specificepithet:chrysoptera genus:vermivora stateprovince:&#34;north carolina&#34;" ; Times: 2
+	Query: "Acrocephalus luscinia" ; Times: 3
+	Query: "picchi" ; Times: 3
+	Query: "turdus poliocephalus samoensis" ; Times: 2
+	Query: "Parus nuchalis" ; Times: 1
+	Query: "Goa class:Aves" ; Times: 2
+	Query: "Pnoepyga pusilla" ; Times: 4
+	Query: "phylloscopus inornatus" ; Times: 2
+	Query: "formicidae" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus distance(location,geopoint(48.922499263758255,-119.5883797109127))&lt;100000" ; Times: 1
+	Query: "157193 Aves UMMZ" ; Times: 1
+	Query: "genus:Heteralocha" ; Times: 1
+	Query: "Zonotrichia lincolnii" ; Times: 1
+	Query: "sicalis flaveola" ; Times: 1
+	Query: "22704" ; Times: 1
+	Query: "cardinalis saturatus" ; Times: 1
+	Query: "Ammodramus henslowii" ; Times: 1
+	Query: "aves AND chagas OR caetano OR sobrinho OR guimaraes" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(38.8138639215,-75.207318686375))&lt;1791" ; Times: 1
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Lusk Arizona" ; Times: 2
+	Query: "alauda japonica" ; Times: 1
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "ku 147100" ; Times: 1
+	Query: "Lonchura malacca" ; Times: 1
+	Query: "genus:Fringilla" ; Times: 1
+	Query: "Knipolegus" ; Times: 1
+	Query: "ROM 116019" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus distance(location,geopoint(48.86471432068721,-119.55761879682541))&lt;100000" ; Times: 1
+	Query: "recordedby:James Rising" ; Times: 2
+	Query: "mirafra affinis" ; Times: 2
+	Query: "dicrurus mouhoti" ; Times: 2
+	Query: "Tachycineta euchrysea" ; Times: 7
+	Query: "distance(location,geopoint(44.9984028269285,-72.6710200295))&lt;38736" ; Times: 2
+	Query: "catalognumber:66653" ; Times: 1
+	Query: "genus:neopelma" ; Times: 1
+	Query: "specificepithet:atricapillus genus:Vireo hasmass:1" ; Times: 1
+	Query: "county:&#34;San Diego&#34; recordedby:Belding year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "Locality county:&#34;St. Johns&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "specificepithet:canadensis genus:Perisoreus distance(location,geopoint(48.95858088455357,-119.59277383983135))&lt;50011" ; Times: 3
+	Query: "77705" ; Times: 1
+	Query: "locality:brown year &gt;= 1898 year &lt;= 1898" ; Times: 1
+	Query: "troglodytes tanneri" ; Times: 2
+	Query: "aves AND sobrinho OR chagas OR guimaraes" ; Times: 1
+	Query: "Black Bear" ; Times: 5
+	Query: "29809" ; Times: 1
+	Query: "120922 Aves" ; Times: 1
+	Query: "FMNH-18646" ; Times: 1
+	Query: "scugog" ; Times: 2
+	Query: "kazakhstan vntype:specimen" ; Times: 1
+	Query: "63424 Aves" ; Times: 1
+	Query: "diptera" ; Times: 1
+	Query: "genus:Callaeas country:&#34;New Zealand&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 674 download events in this period)
+Total number of records downloaded: 1166
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 6
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: India ; Times: 1
+	Country: United States ; Times: 13
+	Country: Belgium ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Paraguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-19 ; Times: 1
+	Date: 2017-12-28 ; Times: 1
+	Date: 2017-12-27 ; Times: 1
+	Date: 2017-12-26 ; Times: 1
+	Date: 2017-12-25 ; Times: 1
+	Date: 2017-12-22 ; Times: 1
+	Date: 2017-12-21 ; Times: 2
+	Date: 2017-12-06 ; Times: 9
+	Date: 2017-12-05 ; Times: 3
+	Date: 2017-12-17 ; Times: 4
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-04 ; Times: 1
+	Date: 2017-12-12 ; Times: 3
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-11 ; Times: 1
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-08 ; Times: 2
+	Date: 2017-12-07 ; Times: 3
+	Date: 2017-12-18 ; Times: 1
+	Date: 2017-12-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aves Paraguay" ; Times: 1
+	Query: "arremonops" ; Times: 1
+	Query: "aves AND chagas OR caetano OR sobrinho OR guimaraes" ; Times: 1
+	Query: "locality:Isla Mujeres stateprovince:&#34;Quintana Roo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;angola&#34; year &gt;= 1900 year &lt;= 1910 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "brazil AND aves AND egg OR eggs OR nest OR nests" ; Times: 1
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "Aphelocoma ultramarina" ; Times: 1
+	Query: "class:Aves locality:Isla Mujeres stateprovince:&#34;Quintana Roo&#34; country:&#34;Mexico&#34;" ; Times: 6
+	Query: "country:&#34;mexico&#34; recordedby:brown year &gt;= 1934 year &lt;= 1953" ; Times: 1
+	Query: "specificepithet:chrysoptera genus:vermivora stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "specificepithet:longirostre genus:Toxostoma hasmass:1" ; Times: 1
+	Query: "Atrichornis rufescens vntype:specimen" ; Times: 2
+	Query: "egg aves brazil" ; Times: 1
+	Query: "egg brazil" ; Times: 1
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Campeche&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:atricapillus genus:Vireo hasmass:1" ; Times: 1
+	Query: "specificepithet:rufivirgatus genus:Arremonops hasmass:1" ; Times: 1
+	Query: "egg vntype:specimen class:aves country:&#34;brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:crinitus genus:myiarchus month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "country:&#34;Japan&#34; catalognumber:55057 institutioncode:ROM" ; Times: 2
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Pitta sordida" ; Times: 1
+	Query: "aves AND sobrinho OR chagas OR guimaraes" ; Times: 1
+	Query: "specificepithet:arnotti" ; Times: 1
+	Query: "KVS" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:Corvus hasmass:1" ; Times: 1
+	Query: "nicaragua vntype:specimen" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "Ammodramus henslowii stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "country:&#34;Guyana&#34; collectioncode:Birds" ; Times: 1
+
+
+End of report.
