@@ -1,0 +1,194 @@
+Report for Institution Code ROM, Resource birdspass
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 160
+Number of records retrieved in searches: 1432
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 13
+	Country: Australia ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: United States ; Times: 123
+	Country: China ; Times: 2
+	Country: United Kingdom ; Times: 11
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 13
+	Date: 2017-11-29 ; Times: 14
+	Date: 2017-11-26 ; Times: 19
+	Date: 2017-11-27 ; Times: 72
+	Date: 2017-11-24 ; Times: 2
+	Date: 2017-11-25 ; Times: 23
+	Date: 2017-11-30 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:flaviventer genus:Dacnis hastissue:0" ; Times: 1
+	Query: "&#34;cyaneus violaceus&#34; vntype:specimen specificepithet:cyaneus genus:Cyanerpes hastissue:0" ; Times: 1
+	Query: "greenland aves" ; Times: 1
+	Query: "black swamp creek" ; Times: 1
+	Query: "Dacnis venusta fuliginata" ; Times: 1
+	Query: "genus:Turdus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1914" ; Times: 1
+	Query: "Blue Mountain Vireo sex:male" ; Times: 1
+	Query: "specificepithet:trichas class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1894" ; Times: 1
+	Query: "&#34;cayana cayana&#34; vntype:specimen specificepithet:cayana genus:Dacnis hastissue:0" ; Times: 1
+	Query: "specificepithet:baileyi class:Aves country:&#34;Mexico&#34;" ; Times: 1
+	Query: "63090" ; Times: 2
+	Query: "genus:Ammodramus county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 2017" ; Times: 1
+	Query: "&#34;lucidus isthmicus&#34; vntype:specimen specificepithet:lucidus genus:Cyanerpes hastissue:0" ; Times: 1
+	Query: "Dacnis venusta" ; Times: 1
+	Query: "13083" ; Times: 1
+	Query: "mangrove vireo sex:male" ; Times: 4
+	Query: "specificepithet:atrogularis class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1893" ; Times: 1
+	Query: "genus:Cyanocitta class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1893" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 2017" ; Times: 1
+	Query: "&#34;cyaneus carneipes&#34; vntype:specimen specificepithet:cyaneus genus:Cyanerpes hastissue:0" ; Times: 3
+	Query: "genus:Melanopareia" ; Times: 1
+	Query: "genus:Diglossa (exchange)" ; Times: 2
+	Query: "specificepithet:lecontei genus:Toxostoma class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1896" ; Times: 1
+	Query: "Scelorchilus albicollis" ; Times: 2
+	Query: "e. harrington" ; Times: 1
+	Query: "ROM 94439" ; Times: 2
+	Query: "coelestis order:Passeriformes" ; Times: 1
+	Query: "specificepithet:cayana callaina genus:Dacnis hastissue:0" ; Times: 1
+	Query: "genus:Phainopepla class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1915" ; Times: 1
+	Query: "108105" ; Times: 3
+	Query: "specificepithet:lecontei genus:Toxostoma class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1889" ; Times: 1
+	Query: "specificepithet:iliaca class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1888" ; Times: 1
+	Query: "specificepithet:galbula genus:Icterus class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769" ; Times: 1
+	Query: "Dacnis albiventris" ; Times: 1
+	Query: "specificepithet:virescens genus:empidonax country:&#34;canada&#34;" ; Times: 1
+	Query: "&#34;cyaneus cyaneus&#34; vntype:specimen specificepithet:cyaneus genus:Cyanerpes hastissue:0" ; Times: 1
+	Query: "Atlapetes pallidinucha" ; Times: 1
+	Query: "tersina viridis" ; Times: 1
+	Query: "Dacnis flaviventer" ; Times: 1
+	Query: "specificepithet:carbonaria genus:Diglossa country:&#34;Colombia&#34;" ; Times: 2
+	Query: "parnell" ; Times: 1
+	Query: "specificepithet:solitarius genus:Vireo class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 2017" ; Times: 1
+	Query: "Cinnycerthia unirufa" ; Times: 1
+	Query: "catalognumber:88314" ; Times: 2
+	Query: "specificepithet:cinctus genus:parus class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cyaneovirens genus:erythrura class:aves" ; Times: 3
+	Query: "genus:Neopelma" ; Times: 1
+	Query: "genus:Cotinga" ; Times: 1
+	Query: "class:AVES county:&#34;Monroe&#34; stateprovince:&#34;Florida&#34; year &gt;= 1870 year &lt;= 1900" ; Times: 4
+	Query: "specificepithet:celata Queen Charlotte" ; Times: 1
+	Query: "Dacnis venusta venusta" ; Times: 2
+	Query: "class:Aves county:&#34;San Diego&#34; year &gt;= 1884 year &lt;= 1884 month &gt;= 4 month &lt;= 4" ; Times: 1
+	Query: "&#34;caeruleus chocoanus&#34; vntype:specimen specificepithet:caeruleus genus:Cyanerpes hastissue:0" ; Times: 1
+	Query: "witch" ; Times: 2
+	Query: "specificepithet:pleurostictus genus:thryothorus" ; Times: 1
+	Query: "grisescens specificepithet:viridis genus:Tersina" ; Times: 1
+	Query: "Tersina viridis" ; Times: 7
+	Query: "class:AVES stateprovince:&#34;Florida&#34; recordedby:Atkins year &gt;= 1870 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:passerina class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1916" ; Times: 1
+	Query: "obscura class:Aves continent:South America" ; Times: 1
+	Query: "cozumel vireo sex:male" ; Times: 1
+	Query: "&#34;cayana paraguayensis&#34; vntype:specimen specificepithet:cayana genus:Dacnis hastissue:0" ; Times: 1
+	Query: "&#34;cayana glaucogularis&#34; vntype:specimen specificepithet:cayana genus:Dacnis hastissue:0" ; Times: 1
+	Query: "specificepithet:lineata genus:Dacnis hastissue:0" ; Times: 1
+	Query: "unshelled sex:Female preparations:Skeleton collectioncode:Birds" ; Times: 2
+	Query: "specificepithet:viridis viridis genus:Tersina hastissue:0" ; Times: 1
+	Query: "specificepithet:venusta venusta genus:Dacnis hastissue:0" ; Times: 1
+	Query: "specificepithet:psittacea genus:erythrura class:aves" ; Times: 1
+	Query: "specificepithet:pygmaea genus:Sitta class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1936" ; Times: 1
+	Query: "genus:Myrmornis" ; Times: 1
+	Query: "specificepithet:albiventris genus:Dacnis hastissue:0" ; Times: 1
+	Query: "Conirostrum cinereum" ; Times: 1
+	Query: "coelestis" ; Times: 1
+	Query: "genus:Lophorina" ; Times: 1
+	Query: "genus:erythrura basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Menura preparations:skeleton" ; Times: 1
+	Query: "genus:Cyanocitta class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1915" ; Times: 1
+	Query: "specificepithet:viridis occidentalis genus:Tersina hastissue:0" ; Times: 1
+	Query: "class:AVES county:&#34;Monroe&#34; stateprovince:&#34;Florida&#34; recordedby:Atkins year &gt;= 1870 year &lt;= 1900" ; Times: 1
+	Query: "genus:Oxyruncus" ; Times: 1
+	Query: "genus:Piprites" ; Times: 1
+	Query: "Tersina viridis occidentalis" ; Times: 2
+	Query: "ROM Diglossa albilatera Cauca" ; Times: 1
+	Query: "genus:Climacteris preparations:skeleton" ; Times: 1
+	Query: "Pteridophora alberti" ; Times: 1
+	Query: "vntype:specimen specificepithet:baileyi class:Aves country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Anisognathus igniventris" ; Times: 2
+	Query: "Grallaria quitensis" ; Times: 1
+	Query: "genus:Euphagus class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1896" ; Times: 1
+	Query: "specificepithet:redivivum genus:Toxostoma class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1895" ; Times: 1
+	Query: "specificepithet:virens class:Aves county:&#34;San Diego&#34; year &gt;= 1769" ; Times: 1
+	Query: "specificepithet:caerulea genus:Polioptila class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1908" ; Times: 1
+	Query: "Uzbekistan" ; Times: 1
+	Query: "Parnell" ; Times: 1
+	Query: "&#34;berlepschi&#34; vntype:specimen specificepithet:berlepschi genus:Dacnis hastissue:0" ; Times: 1
+	Query: "specificepithet:cyaneovirens genus:erythrura class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1918" ; Times: 1
+	Query: "genus:Cotinga preparations:skeleton" ; Times: 2
+	Query: "47996" ; Times: 1
+	Query: "coelestis class:Aves" ; Times: 1
+	Query: "cyanea ROM 1973" ; Times: 1
+	Query: "specificepithet:psittacea genus:erythrura class:aves year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "specificepithet:cayana genus:Dacnis hastissue:0" ; Times: 1
+	Query: "carnegie museum birds" ; Times: 1
+	Query: "Iridosornis rufivertex" ; Times: 1
+	Query: "Dacnis egregia egregia" ; Times: 1
+	Query: "Tersina viridis grisescens" ; Times: 3
+	Query: "guttatus stateprovince:&#34;new jersey&#34;" ; Times: 1
+	Query: "Coereba (Vincent)" ; Times: 1
+	Query: "genus:Salpinctes class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1913" ; Times: 1
+	Query: "specificepithet:lafresnayii genus:Diglossa country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "142160" ; Times: 1
+	Query: "Golden Vireo sex:male" ; Times: 1
+	Query: "specificepithet:venusta fuliginata genus:Dacnis hastissue:0" ; Times: 1
+	Query: "obscura class:Aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "slaty vireo sex:male" ; Times: 2
+	Query: "plumbeous vireo sex:male" ; Times: 1
+	Query: "Red-eyed Vireo sex:male" ; Times: 2
+	Query: "specificepithet:atricapilla class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1890" ; Times: 1
+	Query: "&#34;cayana callaina:&#34; vntype:specimen specificepithet:cayana genus:Dacnis hastissue:0" ; Times: 1
+	Query: "Tersina viridis viridis" ; Times: 1
+	Query: "&#34;caeruleus caeruleus&#34; vntype:specimen specificepithet:caeruleus genus:Cyanerpes hastissue:0" ; Times: 1
+	Query: "Myioborus melanocephalus" ; Times: 1
+	Query: "&#34;caeruleus longirostris&#34; vntype:specimen specificepithet:caeruleus genus:Cyanerpes hastissue:0" ; Times: 1
+	Query: "specificepithet:cayana cayana genus:Dacnis hastissue:0" ; Times: 1
+	Query: "&#34;caeruleus hellmayri&#34; vntype:specimen specificepithet:caeruleus genus:Cyanerpes hastissue:0" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1101 download events in this period)
+Total number of records downloaded: 101
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United Kingdom ; Times: 9
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-26 ; Times: 8
+	Date: 2017-11-27 ; Times: 11
+	Date: 2017-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Atlapetes pallidinucha" ; Times: 1
+	Query: "genus:Piprites" ; Times: 1
+	Query: "genus:Melanopareia" ; Times: 1
+	Query: "Iridosornis rufivertex" ; Times: 1
+	Query: "greenland aves" ; Times: 1
+	Query: "genus:Cotinga preparations:skeleton" ; Times: 1
+	Query: "Anisognathus igniventris" ; Times: 1
+	Query: "genus:Neopelma" ; Times: 1
+	Query: "genus:Oxyruncus" ; Times: 1
+	Query: "Myioborus melanocephalus" ; Times: 1
+	Query: "specificepithet:cinctus genus:parus class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Grallaria quitensis" ; Times: 1
+	Query: "genus:Lophorina" ; Times: 1
+	Query: "genus:Myrmornis" ; Times: 2
+	Query: "specificepithet:carbonaria genus:Diglossa country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Cinnycerthia unirufa" ; Times: 2
+	Query: "Conirostrum cinereum" ; Times: 1
+	Query: "genus:Menura preparations:skeleton" ; Times: 1
+
+
+End of report.
