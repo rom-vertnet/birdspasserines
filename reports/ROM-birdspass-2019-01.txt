@@ -1,0 +1,563 @@
+Report for Institution Code ROM, Resource birdspass
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 520
+Number of records retrieved in searches: 6058
+Number of different countries where searches have been originated: 26
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 109
+	Country: Brazil ; Times: 36
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 6
+	Country: France ; Times: 13
+	Country: Peru ; Times: 77
+	Country: Argentina ; Times: 5
+	Country: Norway ; Times: 2
+	Country: Ecuador ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Belgium ; Times: 8
+	Country: Netherlands ; Times: 18
+	Country: Denmark ; Times: 2
+	Country: Indonesia ; Times: 2
+	Country: United States ; Times: 201
+	Country: Sweden ; Times: 2
+	Country: Vietnam ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Honduras ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: India ; Times: 4
+	Country: United Kingdom ; Times: 6
+	Country: Colombia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 14
+	Date: 2019-01-23 ; Times: 50
+	Date: 2019-01-26 ; Times: 1
+	Date: 2019-01-18 ; Times: 5
+	Date: 2019-01-19 ; Times: 6
+	Date: 2019-01-14 ; Times: 23
+	Date: 2019-01-15 ; Times: 34
+	Date: 2019-01-30 ; Times: 7
+	Date: 2019-01-17 ; Times: 54
+	Date: 2019-01-10 ; Times: 15
+	Date: 2019-01-11 ; Times: 5
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-13 ; Times: 42
+	Date: 2019-01-03 ; Times: 15
+	Date: 2019-01-02 ; Times: 6
+	Date: 2019-01-29 ; Times: 10
+	Date: 2019-01-28 ; Times: 17
+	Date: 2019-01-01 ; Times: 11
+	Date: 2019-01-07 ; Times: 16
+	Date: 2019-01-06 ; Times: 9
+	Date: 2019-01-05 ; Times: 5
+	Date: 2019-01-04 ; Times: 15
+	Date: 2019-01-21 ; Times: 23
+	Date: 2019-01-20 ; Times: 14
+	Date: 2019-01-09 ; Times: 26
+	Date: 2019-01-22 ; Times: 26
+	Date: 2019-01-25 ; Times: 5
+	Date: 2019-01-24 ; Times: 23
+	Date: 2019-01-27 ; Times: 10
+	Date: 2019-01-08 ; Times: 10
+	Date: 2019-01-16 ; Times: 21
+
+List of queries that retrieved data from the resource: 
+	Query: "Anthus novaeseelandiae" ; Times: 5
+	Query: "specificepithet:virens genus:Icteria stateprovince:&#34;Wyoming&#34;" ; Times: 2
+	Query: "specificepithet:currucoides genus:sialia institutioncode:ROM" ; Times: 1
+	Query: "icterus oberi vntype:specimen preparations:skeleton" ; Times: 6
+	Query: "specificepithet:erythromelas genus:Periporphyrus" ; Times: 1
+	Query: "skeleton family:formicariidae institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:118593 institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:caerulea caerulea genus:Passerina year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Geositta crassirostris" ; Times: 1
+	Query: "Scytalopus femoralis" ; Times: 1
+	Query: "wizard" ; Times: 3
+	Query: "Phlegopsis nigromaculata" ; Times: 1
+	Query: "recordnumber:33198" ; Times: 1
+	Query: "specificepithet:cela genus:Cacicus" ; Times: 1
+	Query: "class:aves recordedby:forrer" ; Times: 1
+	Query: "Thamnophilus caerulescens" ; Times: 1
+	Query: "skeleton institutioncode:ROM genus:Formicarius" ; Times: 1
+	Query: "JAM 2391" ; Times: 1
+	Query: "genus:manucodia institutioncode:ROM" ; Times: 1
+	Query: "skeleton institutioncode:ROM genus:Climacteris" ; Times: 1
+	Query: "Dendrocolaptes picumnus" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "genus:Xenicus" ; Times: 1
+	Query: "skeleton institutioncode:ROM genus:conopophaga" ; Times: 1
+	Query: "catalognumber:144878" ; Times: 1
+	Query: "skeleton institutioncode:ROM genus:petroica" ; Times: 1
+	Query: "genus:stipiturus institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:cela genus:Cacicus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "turdus ruficollis ruficollis india" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Sulawesi&#34; country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "skeleton institutioncode:ROM genus:Onychorhynchus" ; Times: 1
+	Query: "genus:cercomacra institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:olivacea genus:Piranga year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "56758" ; Times: 1
+	Query: "Grallaria ruficapilla" ; Times: 1
+	Query: "genus:quiscalus institutioncode:ROM" ; Times: 1
+	Query: "myzomela pluto" ; Times: 1
+	Query: "vntype:specimen specificepithet:stewarti genus:Emberiza" ; Times: 1
+	Query: "Pygiptila stellaris" ; Times: 1
+	Query: "emberiza plowesi" ; Times: 1
+	Query: "genus:chlorochrysa institutioncode:ROM" ; Times: 1
+	Query: "Upucerthia albigula" ; Times: 1
+	Query: "specificepithet:thilius genus:agelaius institutioncode:ROM" ; Times: 1
+	Query: "wallacei" ; Times: 1
+	Query: "pithys" ; Times: 1
+	Query: "catalognumber:11956" ; Times: 3
+	Query: "Conopophaga lineata mappable:1" ; Times: 1
+	Query: "Sturnella militaris vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lugubris genus:quiscalus institutioncode:ROM" ; Times: 1
+	Query: "recordnumber:1136" ; Times: 1
+	Query: "genus:emberizoides institutioncode:ROM" ; Times: 1
+	Query: "Monachus" ; Times: 2
+	Query: "skeleton institutioncode:ROM family:Pittidae" ; Times: 1
+	Query: "stateprovince:&#34;Galapagos&#34; institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:79993" ; Times: 2
+	Query: "22236" ; Times: 1
+	Query: "Dendroica chrysoparia" ; Times: 1
+	Query: "22235" ; Times: 1
+	Query: "pipra serena CM" ; Times: 1
+	Query: "family:Ptilonorhynchidae sex:Male" ; Times: 2
+	Query: "11225" ; Times: 1
+	Query: "Chamaeza campanisona" ; Times: 1
+	Query: "genus:Chlorothraupis institutioncode:ROM" ; Times: 1
+	Query: "genus:Polioptila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Myrmotherula brachyura" ; Times: 1
+	Query: "genus:Amblyornis family:Ptilonorhynchidae sex:Male" ; Times: 1
+	Query: "Upucerthia dumetaria" ; Times: 1
+	Query: "Microrhopias quixensis" ; Times: 1
+	Query: "Campylorhamphus pusillus" ; Times: 1
+	Query: "12623" ; Times: 1
+	Query: "Grallaria quitensis" ; Times: 1
+	Query: "26287" ; Times: 1
+	Query: "scissirostrum" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Sulawesi&#34; country:&#34;Indonesia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:mexicana genus:sialia institutioncode:ROM" ; Times: 1
+	Query: "Myrmotherula menetriesii" ; Times: 1
+	Query: "Myornis senilis" ; Times: 1
+	Query: "89347" ; Times: 1
+	Query: "euplectes orix" ; Times: 2
+	Query: "Scytalopus latrans" ; Times: 1
+	Query: "Phylloscopus reguloides mappable:1" ; Times: 2
+	Query: "genus:Dendrocincla country:&#34;Brazil&#34;" ; Times: 3
+	Query: "skeleton genus:prunella institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:fuscicauda willisi genus:Habia" ; Times: 1
+	Query: "ecuador 1900 lloa" ; Times: 1
+	Query: "Hirundo rustica UMMZ" ; Times: 1
+	Query: "skeleton institutioncode:ROM genus:Pipra" ; Times: 1
+	Query: "Furnarius cinnamomeus" ; Times: 1
+	Query: "Furnarius leucopus" ; Times: 1
+	Query: "JAM 2183" ; Times: 1
+	Query: "Eopsaltria australis" ; Times: 1
+	Query: "specificepithet:roseogularis genus:Piranga" ; Times: 1
+	Query: "specificepithet:chrysogaster genus:Pheucticus" ; Times: 1
+	Query: "Chamaeza nobilis" ; Times: 1
+	Query: "93403" ; Times: 1
+	Query: "81173" ; Times: 1
+	Query: "Phylloscopus magnirostris mappable:1" ; Times: 8
+	Query: "125668" ; Times: 1
+	Query: "137586" ; Times: 1
+	Query: "Vireo magister caymanensis" ; Times: 1
+	Query: "specificepithet:calurus genus:criniger" ; Times: 1
+	Query: "58523" ; Times: 1
+	Query: "stolzmanni" ; Times: 1
+	Query: "specificepithet:belli genus:basileuterus institutioncode:ROM" ; Times: 1
+	Query: "81094" ; Times: 1
+	Query: "specificepithet:rositae genus:Passerina" ; Times: 1
+	Query: "skeleton institutioncode:ROM genus:Orthonyx" ; Times: 1
+	Query: "Sclateria naevia" ; Times: 1
+	Query: "&#34;Willett, G.&#34; AND &#34;Island&#34; NOT &#34;Alaska&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:albilatera genus:Diglossa" ; Times: 1
+	Query: "skeleton genus:Automolus institutioncode:ROM" ; Times: 1
+	Query: "genus:cranioleuca institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:schistacea genus:Sporophila" ; Times: 1
+	Query: "15285" ; Times: 1
+	Query: "15284" ; Times: 1
+	Query: "aplonis mariana" ; Times: 2
+	Query: "melanopareia" ; Times: 2
+	Query: "Myrmoborus leucophrys" ; Times: 1
+	Query: "genus:gymnopithys institutioncode:ROM" ; Times: 1
+	Query: "Badger AND Cruz" ; Times: 1
+	Query: "Pipridae cm" ; Times: 4
+	Query: "CM 9029" ; Times: 1
+	Query: "country:&#34;Sweden&#34;" ; Times: 2
+	Query: "Leptopogon amaurocephalus mappable:1" ; Times: 1
+	Query: "genus:dendrocincla institutioncode:ROM" ; Times: 1
+	Query: "Grallaria squamigera" ; Times: 1
+	Query: "skeleton institutioncode:ROM genus:Pomatostomus" ; Times: 1
+	Query: "Grallaria varia" ; Times: 1
+	Query: "21773" ; Times: 1
+	Query: "Ammodramus maritimus" ; Times: 1
+	Query: "Cinclodes palliatus" ; Times: 1
+	Query: "Myiarchus stolidus dominicensis" ; Times: 1
+	Query: "Phleocryptes melanops" ; Times: 1
+	Query: "Geositta peruviana" ; Times: 1
+	Query: "institutioncode:ROM genus:conopophaga" ; Times: 1
+	Query: "catalognumber:144863" ; Times: 2
+	Query: "Ammodramus savannarum bimaculatus" ; Times: 1
+	Query: "skeleton institutioncode:ROM genus:Dasyornis" ; Times: 1
+	Query: "Ammodramus savannarum floridanus" ; Times: 1
+	Query: "Sporophila torqueola Nayarit San Blas" ; Times: 1
+	Query: "Sclerurus rufigularis" ; Times: 1
+	Query: "48586" ; Times: 1
+	Query: "15827" ; Times: 1
+	Query: "Quiscalus ater" ; Times: 1
+	Query: "catalognumber:136503" ; Times: 1
+	Query: "Phylloscopus pulcher mappable:1" ; Times: 2
+	Query: "31794" ; Times: 1
+	Query: "Myrmeciza longipes" ; Times: 3
+	Query: "catalognumber:28195 institutioncode:ROM" ; Times: 1
+	Query: "institutioncode:ROM family:Rhinocryptidae" ; Times: 1
+	Query: "genus:synallaxis institutioncode:ROM" ; Times: 1
+	Query: "(house wren)" ; Times: 1
+	Query: "obsoletus yavapai" ; Times: 2
+	Query: "locality:organ mountains stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "JAM 1946" ; Times: 2
+	Query: "Pipra iris" ; Times: 1
+	Query: "skeleton institutioncode:ROM family:Climacteridae" ; Times: 1
+	Query: "specificepithet:obscurus genus:Phaeornis" ; Times: 1
+	Query: "aplonis minor minor" ; Times: 1
+	Query: "13877" ; Times: 1
+	Query: "catalognumber:32201 institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:squamiger genus:margarornis institutioncode:ROM" ; Times: 1
+	Query: "sturnella militaris" ; Times: 3
+	Query: "Pachyramphus polychopterus mappable:1" ; Times: 1
+	Query: "Cymbilaimus lineatus" ; Times: 1
+	Query: "Phylloscopus humei mappable:1" ; Times: 2
+	Query: "cettia india" ; Times: 1
+	Query: "Phylloscopus trochiloides" ; Times: 2
+	Query: "institutioncode:ROM" ; Times: 6
+	Query: "158053" ; Times: 1
+	Query: "genus:Platycichla class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "aplonis mysolensis" ; Times: 1
+	Query: "Dendrexetastes rufigula" ; Times: 1
+	Query: "Grallaria guatimalensis" ; Times: 2
+	Query: "specificepithet:leucoptera genus:loxia hasmass:1" ; Times: 1
+	Query: "catalognumber:5622" ; Times: 1
+	Query: "Chiroxiphia pareola CM" ; Times: 1
+	Query: "gracula hastissue:1" ; Times: 3
+	Query: "rom 49162" ; Times: 2
+	Query: "Pipra aureola CM" ; Times: 1
+	Query: "Empidonax albigularis" ; Times: 2
+	Query: "skeleton genus:Menura institutioncode:ROM" ; Times: 1
+	Query: "12343" ; Times: 2
+	Query: "coereba tricolor" ; Times: 1
+	Query: "genus:chilia institutioncode:ROM" ; Times: 1
+	Query: "stateprovince:&#34;Nayarit&#34; recordedby:Phillips" ; Times: 1
+	Query: "(drayton)" ; Times: 1
+	Query: "sporophila lineola" ; Times: 2
+	Query: "Dacnis cayana mappable:1" ; Times: 1
+	Query: "Formicarius colma" ; Times: 1
+	Query: "nemosia" ; Times: 1
+	Query: "Campylorhamphus trochilirostris" ; Times: 1
+	Query: "15171" ; Times: 1
+	Query: "skeleton institutioncode:ROM genus:Grallaria" ; Times: 1
+	Query: "22061" ; Times: 1
+	Query: "polar bear" ; Times: 1
+	Query: "Aves Singapore" ; Times: 1
+	Query: "specificepithet:leucomelas genus:Turdus class:Aves country:&#34;Brazil&#34; institutioncode:ROM" ; Times: 1
+	Query: "Thamnophilus schistaceus" ; Times: 1
+	Query: "Thamnophilus amazonicus" ; Times: 1
+	Query: "skeleton institutioncode:ROM family:Cotingidae" ; Times: 1
+	Query: "specificepithet:miniatus genus:myioborus hasmass:1" ; Times: 1
+	Query: "skeleton institutioncode:ROM family:Pipridae" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco county:&#34;Crook&#34;" ; Times: 1
+	Query: "GFB" ; Times: 1
+	Query: "Xiphorhynchus ocellatus" ; Times: 1
+	Query: "specificepithet:militaris genus:sturnella hasmass:1" ; Times: 1
+	Query: "genus:cyanoptila" ; Times: 1
+	Query: "Phylloscopus maculipennis" ; Times: 2
+	Query: "Geositta maritima" ; Times: 1
+	Query: "recordedby:forrer" ; Times: 1
+	Query: "institutioncode:ROM genus:melanopareia" ; Times: 1
+	Query: "genus:Ochthoeca institutioncode:ROM" ; Times: 1
+	Query: "Turdus rufiventris" ; Times: 5
+	Query: "Gracula religiosa hastissue:1" ; Times: 2
+	Query: "pipra iris CM" ; Times: 1
+	Query: "Pipra iris Cm" ; Times: 2
+	Query: "Cinclodes albidiventris" ; Times: 1
+	Query: "ecuador 1900" ; Times: 1
+	Query: "Tyranneutes stolzmanni CM" ; Times: 1
+	Query: "recordnumber:1057" ; Times: 1
+	Query: "specificepithet:olivacea genus:Piranga year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "xenicus" ; Times: 1
+	Query: "recordnumber:19668 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen genus:Platycichla class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Myrmotherula axillaris mappable:1" ; Times: 1
+	Query: "Dendrocolaptes certhia" ; Times: 1
+	Query: "aplonis great nicobar" ; Times: 2
+	Query: "15059" ; Times: 1
+	Query: "genus:basileuterus institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:rubica rubicoides genus:Habia" ; Times: 1
+	Query: "stuff" ; Times: 1
+	Query: "PICUMNUS" ; Times: 1
+	Query: "70516" ; Times: 1
+	Query: "genus:calcarius institutioncode:ROM" ; Times: 1
+	Query: "genus:iridosornis institutioncode:ROM" ; Times: 1
+	Query: "thamnophilus caerulescens" ; Times: 1
+	Query: "Cercomacra cinerascens" ; Times: 1
+	Query: "skeleton institutioncode:ROM genus:campephaga" ; Times: 1
+	Query: "genus:sialia institutioncode:ROM" ; Times: 1
+	Query: "rom 49160" ; Times: 2
+	Query: "specificepithet:celaeno genus:Rhodothraupis" ; Times: 1
+	Query: "skeleton institutioncode:ROM genus:Pardalotus" ; Times: 1
+	Query: "specificepithet:bidentata genus:Piranga" ; Times: 1
+	Query: "recordnumber:11956" ; Times: 1
+	Query: "genus:margarornis institutioncode:ROM" ; Times: 2
+	Query: "&#34;Willett, G.&#34; AND &#34;Santa Cruz Island&#34;" ; Times: 1
+	Query: "aplonis vitiensis" ; Times: 1
+	Query: "specificepithet:fraseri genus:basileuterus institutioncode:ROM" ; Times: 1
+	Query: "skeleton institutioncode:ROM family:Formicariidae" ; Times: 1
+	Query: "Taraba major" ; Times: 1
+	Query: "Xiphorhynchus guttatoides" ; Times: 1
+	Query: "catalognumber:74991" ; Times: 1
+	Query: "Sclerurus caudacutus" ; Times: 1
+	Query: "Megastictus margaritatus" ; Times: 1
+	Query: "MVZ 150267" ; Times: 1
+	Query: "Conopophaga aurita" ; Times: 1
+	Query: "specificepithet:tolmiei genus:Geothlypis stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Scytalopus unicolor" ; Times: 1
+	Query: "Lepidocolaptes lacrymiger" ; Times: 1
+	Query: "genus:myioborus institutioncode:ROM" ; Times: 2
+	Query: "92740" ; Times: 2
+	Query: "specificepithet:rubica rubica genus:Habia" ; Times: 1
+	Query: "specificepithet:gambeli year &gt;= 1917 year &lt;= 1917" ; Times: 1
+	Query: "country:&#34;Spain&#34; preparations:skeleton basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Phylloscopus magnirostris" ; Times: 5
+	Query: "Phylloscopus maculipennis mappable:1" ; Times: 2
+	Query: "weasel" ; Times: 1
+	Query: "cyanocitta azteca" ; Times: 1
+	Query: "specificepithet:caerulea caerulea genus:Passerina year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "pipra cm" ; Times: 2
+	Query: "Sturnella superciliaris vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:anais genus:mino institutioncode:ROM" ; Times: 1
+	Query: "108399" ; Times: 1
+	Query: "specificepithet:gayi genus:phrygilus institutioncode:ROM" ; Times: 1
+	Query: "108252" ; Times: 2
+	Query: "genus:Prosthemadera month &lt;= 1910 enddayofyear &lt;= 1880" ; Times: 1
+	Query: "specificepithet: fuscicauda salvini genus:Habia" ; Times: 1
+	Query: "skeleton institutioncode:ROM genus:Schiffornis" ; Times: 2
+	Query: "genus:myioborus hasmass:1" ; Times: 1
+	Query: "catalognumber:125346 institutioncode:ROM" ; Times: 2
+	Query: "skeleton specificepithet:major genus:parus institutioncode:ROM" ; Times: 1
+	Query: "Myrmothera campanisona" ; Times: 1
+	Query: "13818" ; Times: 1
+	Query: "Scytalopus micropterus" ; Times: 1
+	Query: "Geositta tenuirostris" ; Times: 1
+	Query: "Dendroica kirtlandii" ; Times: 4
+	Query: "Phylloscopus trochiloides mappable:1" ; Times: 4
+	Query: "156708" ; Times: 1
+	Query: "Ilicura militaris mappable:1" ; Times: 1
+	Query: "Xiphocolaptes promeropirhynchus" ; Times: 1
+	Query: "&#34;Pemberton&#34; AND &#34;Island&#34;" ; Times: 1
+	Query: "Myrmornis torquata" ; Times: 1
+	Query: "JAM 2302" ; Times: 2
+	Query: "genus:arremon institutioncode:ROM" ; Times: 1
+	Query: "Xenops tenuirostris" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 2
+	Query: "Phylloscopus reguloides" ; Times: 3
+	Query: "skeleton institutioncode:ROM genus:Pericrocotus" ; Times: 1
+	Query: "genus:chondestes institutioncode:ROM" ; Times: 2
+	Query: "genus:phacellodomus institutioncode:ROM" ; Times: 1
+	Query: "swinhoei" ; Times: 2
+	Query: "aplonis striata" ; Times: 1
+	Query: "hemitriccus olivascens" ; Times: 2
+	Query: "dasypus" ; Times: 1
+	Query: "specificepithet:syndactyla genus:bleda" ; Times: 1
+	Query: "specificepithet:patagonicus genus:phrygilus institutioncode:ROM" ; Times: 1
+	Query: "Gymnopithys leucaspis" ; Times: 1
+	Query: "Myrmotherula schisticolor" ; Times: 1
+	Query: "133045" ; Times: 1
+	Query: "Phytotoma raimondii" ; Times: 1
+	Query: "Phylloscopus humei" ; Times: 2
+	Query: "specificepithet:rubra genus:Piranga year &gt;= 1970 year &lt;= 2018" ; Times: 2
+	Query: "specificepithet:tibialis genus:Pheucticus" ; Times: 1
+	Query: "specificepithet:olivacea genus:Chlorothraupis" ; Times: 1
+	Query: "Acropternis orthonyx" ; Times: 1
+	Query: "genus:Erythrura class:Aves hastissue:1" ; Times: 1
+	Query: "16565" ; Times: 1
+	Query: "Pithys albifrons" ; Times: 1
+	Query: "Lochmias nematura mappable:1" ; Times: 1
+	Query: "house wren" ; Times: 1
+	Query: "Phylloscopus pulcher" ; Times: 2
+	Query: "bhutan" ; Times: 1
+	Query: "20371" ; Times: 1
+	Query: "10812" ; Times: 1
+	Query: "(11966)" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus stateprovince:&#34;texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "savannah cardinalis egg" ; Times: 1
+	Query: "trichastoma tickelli" ; Times: 1
+	Query: "Phylloscopus affinis" ; Times: 2
+	Query: "Grallaria hypoleuca" ; Times: 1
+	Query: "Bill size" ; Times: 1
+	Query: "Manacus manacus CM" ; Times: 1
+	Query: "Sclerurus mexicanus" ; Times: 1
+	Query: "emberiza stewarti" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 2
+	Query: "Geositta cunicularia" ; Times: 1
+	Query: "Canada Jay" ; Times: 1
+	Query: "Thamnophilus palliatus" ; Times: 1
+	Query: "genus:chlamydera institutioncode:ROM" ; Times: 1
+	Query: "Dendrocincla fuliginosa" ; Times: 3
+	Query: "Lochmias nematura" ; Times: 1
+	Query: "aplonis nicobar" ; Times: 2
+	Query: "Quiscalus niger brachypterus" ; Times: 1
+	Query: "Liosceles thoracicus" ; Times: 1
+	Query: "13917" ; Times: 1
+	Query: "Lepidocolaptes souleyetii" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "Leucosticte australis" ; Times: 2
+	Query: "skeleton institutioncode:ROM genus:Myiobius" ; Times: 1
+	Query: "Thamnomanes caesius" ; Times: 1
+	Query: "geothlypis agilis october" ; Times: 1
+	Query: "Grallaria rufula" ; Times: 1
+	Query: "&#34;Willet&#34; AND &#34;Island&#34;" ; Times: 1
+	Query: "18466" ; Times: 1
+	Query: "Campylorhamphus procurvoides" ; Times: 1
+	Query: "Dendrocincla merula" ; Times: 1
+	Query: "specificepithet:roseogularis genus:Piranga year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "skeleton institutioncode:ROM genus:Parus" ; Times: 2
+	Query: "catalognumber:106128" ; Times: 1
+	Query: "Dendrocincla turdina mappable:1" ; Times: 1
+	Query: "catalognumber:113908 institutioncode:ROM" ; Times: 3
+	Query: "Buthraupis" ; Times: 1
+	Query: "CM-9029" ; Times: 1
+	Query: "pipra suavissima CM" ; Times: 1
+	Query: "skeleton institutioncode:ROM family:Eurylaimidae" ; Times: 1
+	Query: "skeleton institutioncode:ROM genus:Tityra" ; Times: 1
+	Query: "137270" ; Times: 1
+	Query: "Myrmotherula longipennis" ; Times: 1
+	Query: "116293" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "E. G. Marsh" ; Times: 1
+	Query: "genus:lipaugus institutioncode:ROM" ; Times: 1
+	Query: "genus:agelaius institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:lineata genus:acanthiza hasmass:1" ; Times: 1
+	Query: "(&#34;House sparrow&#34; OR &#34;passer domestics&#34;) basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:pelzelni genus:Granatellus" ; Times: 2
+	Query: "grallaria rufula" ; Times: 1
+	Query: "crissalis egg los angeles" ; Times: 1
+	Query: "Percnostola rufifrons" ; Times: 1
+	Query: "Ucayali AND Peru AND Loreto" ; Times: 1
+	Query: "genus:paroaria institutioncode:ROM" ; Times: 1
+	Query: "Phylloscopus affinis mappable:1" ; Times: 2
+	Query: "Anumbius annumbi UMMZ" ; Times: 1
+	Query: "Myrmoborus myotherinus" ; Times: 1
+	Query: "Grallaricula nana" ; Times: 1
+	Query: "Sakesphorus canadensis" ; Times: 1
+	Query: "Montifringilla nivalis" ; Times: 2
+	Query: "specificepithet:venustus venustus genus:Granatellus" ; Times: 2
+	Query: "Geothlypis aequinoctialis mappable:1" ; Times: 1
+	Query: "Brachypteryx montana india vntype:specimen" ; Times: 1
+	Query: "turdus ruficollis india" ; Times: 1
+	Query: "specificepithet:guttatum genus:toxostoma institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen specificepithet:cela genus:Cacicus" ; Times: 2
+	Query: "skeleton family:Dendrocolaptidae institutioncode:ROM" ; Times: 1
+	Query: "54461" ; Times: 1
+	Query: "genus:xiphorhynchus institutioncode:ROM" ; Times: 2
+	Query: "Fluvicola nengeta mappable:1" ; Times: 1
+	Query: "Dendrocincla" ; Times: 2
+	Query: "genus:Spizella county:&#34;Crook&#34;" ; Times: 1
+	Query: "Lophorina superba" ; Times: 1
+	Query: "specificepithet:nana genus:acanthiza hasmass:1" ; Times: 1
+	Query: "myrmeciza longipes" ; Times: 3
+	Query: "Thamnophilus murinus" ; Times: 1
+	Query: "specificepithet:major genus:parus institutioncode:ROM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 962 download events in this period)
+Total number of records downloaded: 2397
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: United States ; Times: 31
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 5
+	Date: 2019-01-02 ; Times: 2
+	Date: 2019-01-01 ; Times: 6
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-04 ; Times: 5
+	Date: 2019-01-14 ; Times: 2
+	Date: 2019-01-15 ; Times: 6
+	Date: 2019-01-09 ; Times: 8
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-11 ; Times: 4
+	Date: 2019-01-24 ; Times: 2
+	Date: 2019-01-29 ; Times: 1
+	Date: 2019-01-31 ; Times: 1
+	Date: 2019-01-23 ; Times: 2
+	Date: 2019-01-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:cyanoptila" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "country:&#34;Spain&#34; preparations:skeleton basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:leclancherii genus:Passerina" ; Times: 1
+	Query: "Polioptila melanura" ; Times: 1
+	Query: "specificepithet:tibialis genus:Pheucticus" ; Times: 1
+	Query: "specificepithet:curvirostra genus:loxia hasmass:1" ; Times: 1
+	Query: "vntype:specimen class:Aves (culmen)" ; Times: 1
+	Query: "specificepithet:fuscicauda willisi genus:Habia" ; Times: 1
+	Query: "Ammodramus savannarum floridanus" ; Times: 1
+	Query: "specificepithet:frenatus" ; Times: 1
+	Query: "stateprovince:&#34;Nayarit&#34; recordedby:Phillips" ; Times: 1
+	Query: "Montifringilla nivalis" ; Times: 1
+	Query: "specificepithet:venustus venustus genus:Granatellus" ; Times: 2
+	Query: "bhutan" ; Times: 1
+	Query: "specificepithet:celaeno genus:Rhodothraupis" ; Times: 1
+	Query: "Leucosticte australis" ; Times: 2
+	Query: "specificepithet:roseogularis genus:Piranga" ; Times: 1
+	Query: "specificepithet:chrysogaster genus:Pheucticus" ; Times: 1
+	Query: "country:&#34;uruguay&#34;" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco county:&#34;Crook&#34;" ; Times: 1
+	Query: "specificepithet:caerulea caerulea genus:Passerina year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:olivacea genus:Piranga year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "vntype:specimen order:Passeriformes class:Aves country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sturnella superciliaris vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sturnella militaris vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Myrmeciza longipes" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "specificepithet:calurus genus:criniger" ; Times: 1
+	Query: "specificepithet:erythromelas genus:Periporphyrus" ; Times: 1
+	Query: "specificepithet:leucoptera genus:loxia hasmass:1" ; Times: 1
+	Query: "specificepithet: fuscicauda salvini genus:Habia" ; Times: 1
+	Query: "genus:myioborus hasmass:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Sulawesi&#34; country:&#34;Indonesia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Leucosticte atrata" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "specificepithet:rubriceps genus:Piranga" ; Times: 1
+	Query: "specificepithet:rositae genus:Passerina" ; Times: 1
+	Query: "specificepithet:miniatus genus:myioborus hasmass:1" ; Times: 1
+	Query: "specificepithet:rubica rubicoides genus:Habia" ; Times: 1
+	Query: "specificepithet:syndactyla genus:bleda" ; Times: 2
+	Query: "sporophila lineola" ; Times: 1
+	Query: "specificepithet:pelzelni genus:Granatellus" ; Times: 1
+	Query: "specificepithet:cela genus:Cacicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Leucosticte tephrocotis" ; Times: 2
+
+
+End of report.
