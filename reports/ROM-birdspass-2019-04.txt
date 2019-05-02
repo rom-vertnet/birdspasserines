@@ -1,0 +1,551 @@
+Report for Institution Code ROM, Resource birdspass
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 584
+Number of records retrieved in searches: 5755
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 89
+	Country: Brazil ; Times: 88
+	Country: Northern Mariana Islands ; Times: 2
+	Country: Unknown ; Times: 6
+	Country: France ; Times: 21
+	Country: Argentina ; Times: 3
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Australia ; Times: 8
+	Country: Germany ; Times: 15
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 42
+	Country: Belize ; Times: 2
+	Country: Denmark ; Times: 9
+	Country: United States ; Times: 212
+	Country: Sweden ; Times: 26
+	Country: Switzerland ; Times: 3
+	Country: New Zealand ; Times: 2
+	Country: Russia ; Times: 3
+	Country: Mexico ; Times: 8
+	Country: India ; Times: 7
+	Country: United Kingdom ; Times: 28
+	Country: Colombia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-22 ; Times: 30
+	Date: 2019-04-19 ; Times: 43
+	Date: 2019-04-18 ; Times: 41
+	Date: 2019-04-05 ; Times: 10
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-12 ; Times: 4
+	Date: 2019-04-11 ; Times: 16
+	Date: 2019-04-10 ; Times: 17
+	Date: 2019-04-17 ; Times: 19
+	Date: 2019-04-16 ; Times: 50
+	Date: 2019-04-15 ; Times: 6
+	Date: 2019-04-14 ; Times: 3
+	Date: 2019-04-30 ; Times: 23
+	Date: 2019-04-21 ; Times: 4
+	Date: 2019-04-01 ; Times: 28
+	Date: 2019-04-02 ; Times: 17
+	Date: 2019-04-03 ; Times: 23
+	Date: 2019-04-06 ; Times: 17
+	Date: 2019-04-04 ; Times: 23
+	Date: 2019-04-23 ; Times: 21
+	Date: 2019-04-20 ; Times: 11
+	Date: 2019-04-07 ; Times: 4
+	Date: 2019-04-26 ; Times: 34
+	Date: 2019-04-27 ; Times: 2
+	Date: 2019-04-24 ; Times: 17
+	Date: 2019-04-25 ; Times: 31
+	Date: 2019-04-29 ; Times: 30
+	Date: 2019-04-08 ; Times: 18
+	Date: 2019-04-09 ; Times: 41
+
+List of queries that retrieved data from the resource: 
+	Query: "Basileuterus culicivorus mappable:1" ; Times: 2
+	Query: "Vidua macroura year &gt; 1985" ; Times: 1
+	Query: "icterus oberi vntype:specimen preparations:skeleton" ; Times: 4
+	Query: "catalognumber:47738 institutioncode:ROM" ; Times: 3
+	Query: "catalognumber:146450 institutioncode:ROM" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "catalognumber:1327" ; Times: 1
+	Query: "class:aves recordedby:harting" ; Times: 1
+	Query: "catalognumber:82608 institutioncode:ROM" ; Times: 1
+	Query: "genus:buphagus institutioncode:ROM" ; Times: 1
+	Query: "Maxwell Colorado" ; Times: 1
+	Query: "pycnonotus jocosus" ; Times: 2
+	Query: "specificepithet:coraya genus:Thryothorus institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen genus:Psarocolius class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "80729" ; Times: 3
+	Query: "specificepithet:fuscicauda genus:Habia year &gt;= 1960" ; Times: 1
+	Query: "Dysithamnus ardesiacus" ; Times: 1
+	Query: "class:Aves catalognumber:19632 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:54163 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:14880 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sericulus ardens" ; Times: 2
+	Query: "Cossypha cyanocampter" ; Times: 1
+	Query: "catalognumber:31709" ; Times: 1
+	Query: "109475" ; Times: 1
+	Query: "Agelaius phoeniceus Eddy County egg" ; Times: 1
+	Query: "catalognumber:5782 institutioncode:ROM" ; Times: 1
+	Query: "class:Aves catalognumber:88470 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:montanus genus:Passer country:&#34;USA&#34; hastissue:1" ; Times: 5
+	Query: "emberiza plowesi" ; Times: 1
+	Query: "Corvus ossifragus vntype:specimen hastissue:1" ; Times: 1
+	Query: "137236" ; Times: 1
+	Query: "116789" ; Times: 1
+	Query: "class:Aves catalognumber:53873 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "neodrepanis" ; Times: 1
+	Query: "64422" ; Times: 1
+	Query: "Conopophaga lineata mappable:1" ; Times: 2
+	Query: "catalognumber:51524 institutioncode:ROM" ; Times: 1
+	Query: "135690" ; Times: 1
+	Query: "specificepithet:fuscicauda genus:Habia sex:male year &gt;= 1960" ; Times: 1
+	Query: "Cossypha niveicapilla mappable:1" ; Times: 1
+	Query: "genus:Geothlypis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:aves (Belize)" ; Times: 2
+	Query: "vntype:specimen genus:BASILEUTERUS class:AVES country:&#34;BRAZIL&#34;" ; Times: 1
+	Query: "specificepithet:cardinalis cardinalis genus:Cardinalis stateprovince:&#34;Maryland&#34; year &gt;= 1960" ; Times: 1
+	Query: "1936 alaska egg" ; Times: 1
+	Query: "genus:Mimus stateprovince:&#34;Cordoba&#34; country:&#34;Argentina&#34;" ; Times: 1
+	Query: "catalognumber:136805 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:magna genus:Sturnella institutioncode:ROM" ; Times: 3
+	Query: "specificepithet:fuscicauda salvini genus:Habia year &gt;= 1940 year &lt;= 2018" ; Times: 1
+	Query: "recordedby:herron" ; Times: 1
+	Query: "catalognumber:20864" ; Times: 2
+	Query: "pamir" ; Times: 2
+	Query: "class:Aves catalognumber:50928 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Myrmotherula schisticolor" ; Times: 1
+	Query: "hypsipetes indicus" ; Times: 1
+	Query: "Molothrus ater fmnh" ; Times: 1
+	Query: "catalognumber:96762 institutioncode:ROM" ; Times: 1
+	Query: "terpsiphone paradisi" ; Times: 1
+	Query: "Scytalopus latrans" ; Times: 1
+	Query: "Catharus fuscater" ; Times: 1
+	Query: "specificepithet:celata genus:Vermivora class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:striata genus:muscicapa country:&#34;Angola&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:13379 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:19639 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:143263" ; Times: 1
+	Query: "explorator" ; Times: 1
+	Query: "specificepithet:celebensis genus:pitta" ; Times: 1
+	Query: "genus:Turdus country:&#34;Peru&#34; institutioncode:ROM" ; Times: 1
+	Query: "agelaius bryanti" ; Times: 2
+	Query: "class:Aves catalognumber:1202 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:serena genus:pipra institutioncode:ROM" ; Times: 1
+	Query: "Herpsilochmus" ; Times: 1
+	Query: "Newfoundland specificepithet:minimus genus:Catharus" ; Times: 1
+	Query: "genus:Thripophaga institutioncode:ROM" ; Times: 1
+	Query: "genus:Pseudocolopteryx institutioncode:ROM" ; Times: 2
+	Query: "Toxostoma lecontei" ; Times: 2
+	Query: "institutioncode:rom" ; Times: 2
+	Query: "catalognumber:48883 institutioncode:ROM" ; Times: 1
+	Query: "county:&#34;san bernardino&#34; recordedby:herron" ; Times: 1
+	Query: "140271" ; Times: 1
+	Query: "Chatham rail" ; Times: 1
+	Query: "119950" ; Times: 1
+	Query: "119953" ; Times: 1
+	Query: "47737" ; Times: 1
+	Query: "Zoothera erythronota" ; Times: 1
+	Query: "oxyruncus cristatus" ; Times: 1
+	Query: "aegithalos concinnus" ; Times: 1
+	Query: "class:Aves catalognumber:52573 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "paradoxornis flavirostris" ; Times: 1
+	Query: "specificepithet:roseogularis genus:Piranga year &gt;= 1945" ; Times: 1
+	Query: "recordedby:mclean year &gt;= 1915 year &lt;= 1930" ; Times: 1
+	Query: "Delhi" ; Times: 1
+	Query: "Corvus Splendens" ; Times: 1
+	Query: "catalognumber:131058 institutioncode:ROM" ; Times: 1
+	Query: "barbirostris" ; Times: 3
+	Query: "139554" ; Times: 1
+	Query: "55268" ; Times: 1
+	Query: "Sturnus vulgaris country:&#34;USA&#34; preparations:skin year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "Leptopogon amaurocephalus mappable:1" ; Times: 2
+	Query: "Grallaria squamigera" ; Times: 1
+	Query: "foulehaio carunculata" ; Times: 1
+	Query: "specificepithet:aureoventris genus:Pheucticus year &gt;= 1960" ; Times: 1
+	Query: "terpsiphone atrocaudata" ; Times: 8
+	Query: "107950" ; Times: 1
+	Query: "Turnagra" ; Times: 1
+	Query: "Pipreola arcuata" ; Times: 1
+	Query: "Progne modesta" ; Times: 2
+	Query: "catalognumber:131327" ; Times: 1
+	Query: "grallaria squamigera" ; Times: 1
+	Query: "Saltator striatipectus" ; Times: 1
+	Query: "spider" ; Times: 1
+	Query: "specificepithet:querula genus:Zonotrichia hastissue:1" ; Times: 1
+	Query: "agelaius richmondi" ; Times: 2
+	Query: "catalognumber:136750 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:820 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:32293" ; Times: 1
+	Query: "49917" ; Times: 2
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 5
+	Query: "58395" ; Times: 2
+	Query: "class:Aves catalognumber:55107 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:decumanus genus:Psarocolius class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Acrocephalus palustris" ; Times: 3
+	Query: "ruffed grouse" ; Times: 3
+	Query: "specificepithet:ciris genus:Passerina year &gt;= 1960" ; Times: 1
+	Query: "class:Aves catalognumber:9325 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:7872 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ummz aves 131990" ; Times: 1
+	Query: "Agelaius phoeniceus New Mexico egg" ; Times: 1
+	Query: "genus:Serpophaga institutioncode:ROM" ; Times: 1
+	Query: "Cossypha semirufa mappable:1" ; Times: 1
+	Query: "locality:brandon stateprovince:&#34;Manitoba&#34;" ; Times: 2
+	Query: "catalognumber:96754 institutioncode:ROM" ; Times: 1
+	Query: "class:Aves catalognumber:10440 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:132320" ; Times: 1
+	Query: "genus:Cranioleuca institutioncode:ROM" ; Times: 1
+	Query: "class:Aves catalognumber:50656 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "UMMZ aves 130068" ; Times: 1
+	Query: "brasiliana" ; Times: 1
+	Query: "10653" ; Times: 1
+	Query: "Pachyramphus polychopterus mappable:1" ; Times: 1
+	Query: "specificepithet:platensis genus:cistothorus institutioncode:ROM" ; Times: 1
+	Query: "basileuterus godmani" ; Times: 1
+	Query: "zonotrichia querula hastissue:1" ; Times: 1
+	Query: "57105" ; Times: 1
+	Query: "recordedby:Thurber" ; Times: 2
+	Query: "57103" ; Times: 1
+	Query: "institutioncode:ROM" ; Times: 5
+	Query: "myiarchus platyrhynchus" ; Times: 1
+	Query: "genus:Thryothorus institutioncode:ROM" ; Times: 1
+	Query: "11235" ; Times: 1
+	Query: "aves munson" ; Times: 1
+	Query: "county:&#34;san bernardino&#34; recordedby:thurber" ; Times: 3
+	Query: "class:Aves catalognumber:53920 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:striata genus:Muscicapa country:&#34;Angola&#34;" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis year &gt;= 1950 year &lt;= 2018" ; Times: 1
+	Query: "catalognumber:54554 institutioncode:ROM" ; Times: 1
+	Query: "class:aves recordedby:giles" ; Times: 1
+	Query: "specificepithet:cucullata genus:cyanolyca" ; Times: 1
+	Query: "turdus orinocensis" ; Times: 1
+	Query: "specificepithet:subcristata genus:Serpophaga institutioncode:ROM" ; Times: 1
+	Query: "137989" ; Times: 2
+	Query: "ummz aves 130068" ; Times: 2
+	Query: "Cossypha cyanocampter mappable:1" ; Times: 1
+	Query: "Pnoepyga pusilla" ; Times: 1
+	Query: "Dacnis cayana mappable:1" ; Times: 2
+	Query: "Oenanthe schalowi" ; Times: 2
+	Query: "emberiza cia" ; Times: 1
+	Query: "catalognumber:74660 institutioncode:ROM" ; Times: 1
+	Query: "class:Aves catalognumber:10738 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:patagonicus genus:mimus institutioncode:ROM" ; Times: 3
+	Query: "class:Aves catalognumber:7773 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Agelaius phoeniceus Yakima County egg" ; Times: 1
+	Query: "specificepithet:ignobilis genus:Turdus institutioncode:ROM" ; Times: 1
+	Query: "49924" ; Times: 3
+	Query: "specificepithet:albiceps genus:Elaenia institutioncode:ROM" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Michigan&#34; recordedby:Harris" ; Times: 1
+	Query: "catalognumber:119782 institutioncode:ROM" ; Times: 1
+	Query: "turdus bondi" ; Times: 1
+	Query: "class:Aves catalognumber:55141 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "50360" ; Times: 1
+	Query: "specificepithet:kochi genus:pitta" ; Times: 1
+	Query: "specificepithet:ariel genus:petrochelidon" ; Times: 1
+	Query: "100969" ; Times: 1
+	Query: "class:Aves catalognumber:57468 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:ciris genus:Passerina sex:female year &gt;= 1960" ; Times: 1
+	Query: "vntype:specimen specificepithet:trifasciatus genus:Nesomimus" ; Times: 2
+	Query: "UMMZ empidonax mexico" ; Times: 1
+	Query: "catalognumber:128193 institutioncode:ROM" ; Times: 1
+	Query: "class:Aves catalognumber:70476 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:aves county:&#34;middlesex&#34; recordedby:giles" ; Times: 1
+	Query: "specificepithet:nana genus:cyanolyca" ; Times: 1
+	Query: "lepidoptera" ; Times: 1
+	Query: "terpsiphone incei" ; Times: 4
+	Query: "specificepithet:magnirostris genus:Gerygone" ; Times: 2
+	Query: "scytalopus femoralis" ; Times: 1
+	Query: "catalognumber:47737 institutioncode:ROM" ; Times: 1
+	Query: "long-tailed weasel" ; Times: 5
+	Query: "class:Aves catalognumber:17760 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "21264" ; Times: 2
+	Query: "class:Aves catalognumber:90266 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "48825" ; Times: 1
+	Query: "52661" ; Times: 2
+	Query: "specificepithet:crassirostris genus:Vireo country:&#34;Colombia&#34;" ; Times: 3
+	Query: "Myrmotherula axillaris mappable:1" ; Times: 2
+	Query: "specificepithet:virens genus:Contopus class:Aves stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "specificepithet:ignobilis genus:Turdus stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 4
+	Query: "specificepithet:pipra genus:pipra institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:obsoletus genus:Salpinctes class:Aves year &gt;= 1912 year &lt;= 1912" ; Times: 1
+	Query: "catalognumber:131321" ; Times: 1
+	Query: "catalognumber:126071 institutioncode:ROM" ; Times: 1
+	Query: "odonata" ; Times: 1
+	Query: "sclera" ; Times: 1
+	Query: "catalognumber:90043" ; Times: 1
+	Query: "class:Aves catalognumber:70499 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:54159 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "parnell" ; Times: 3
+	Query: "catalognumber:1297" ; Times: 2
+	Query: "Myzomela rubratra" ; Times: 2
+	Query: "51361" ; Times: 1
+	Query: "locality:Nebraska" ; Times: 1
+	Query: "specificepithet:olivacea genus:Chlorothraupis year &gt;= 1950 year &lt;= 2018" ; Times: 1
+	Query: "genus:Arremon institutioncode:ROM" ; Times: 2
+	Query: "155796" ; Times: 1
+	Query: "tarsus vntype:specimen specificepithet:aedon genus:troglodytes" ; Times: 1
+	Query: "specificepithet:leucomelas genus:Turdus institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:88721 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:typica genus:nesillas" ; Times: 1
+	Query: "specificepithet:maxima genus:melanocorypha" ; Times: 1
+	Query: "Cossypha dichroa mappable:1" ; Times: 2
+	Query: "Sturnus vulgaris vntype:specimen country:&#34;USA&#34; year &gt;= 1980 year &lt;= 2019" ; Times: 2
+	Query: "genus:Myiobius institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:51085 institutioncode:ROM" ; Times: 1
+	Query: "115767" ; Times: 1
+	Query: "115758" ; Times: 1
+	Query: "catalognumber:86671 institutioncode:ROM" ; Times: 1
+	Query: "RM 4940" ; Times: 1
+	Query: "class:Aves catalognumber:12956 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Elaenia institutioncode:ROM" ; Times: 1
+	Query: "genus:Basileuterus class:Aves country:&#34;Brazil&#34; institutioncode:ROM" ; Times: 1
+	Query: "Scytalopus unicolor" ; Times: 1
+	Query: "115755" ; Times: 1
+	Query: "specificepithet:saturninus genus:mimus institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen genus:Geothlypis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Sturnella neglecta hastissue:1" ; Times: 1
+	Query: "class:Aves catalognumber:155200 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:111519 institutioncode:ROM" ; Times: 1
+	Query: "genus:Myrmotherula institutioncode:ROM" ; Times: 2
+	Query: "18900" ; Times: 1
+	Query: "(cyanopica) hastissue:1" ; Times: 2
+	Query: "75298" ; Times: 1
+	Query: "30033" ; Times: 2
+	Query: "137246" ; Times: 1
+	Query: "specificepithet:magnirostris genus:galerida" ; Times: 1
+	Query: "cicinnurus regius" ; Times: 1
+	Query: "dicaeum pectorale" ; Times: 2
+	Query: "class:Aves (pamir OR wakhan OR badakshan)" ; Times: 1
+	Query: "PARA MUS" ; Times: 1
+	Query: "ROM 21604" ; Times: 1
+	Query: "Furnarius rufus mappable:1" ; Times: 6
+	Query: "137546" ; Times: 2
+	Query: "catalognumber:132317" ; Times: 2
+	Query: "myrmecocichla nigra" ; Times: 1
+	Query: "30274" ; Times: 1
+	Query: "recordedby:carriger" ; Times: 1
+	Query: "57104" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:pitta" ; Times: 1
+	Query: "wing chord vntype:specimen specificepithet:aedon genus:troglodytes" ; Times: 1
+	Query: "catalognumber:54552 institutioncode:ROM" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "egg alaska 1936" ; Times: 1
+	Query: "mount vntype:specimen genus:Buphagus" ; Times: 2
+	Query: "156150" ; Times: 1
+	Query: "genus:Automolus institutioncode:ROM" ; Times: 3
+	Query: "specificepithet:leucomelas genus:Turdus" ; Times: 1
+	Query: "Cossypha humeralis" ; Times: 1
+	Query: "specificepithet:celata genus:Vermivora class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "tyrannus forficatus hastissue:1" ; Times: 1
+	Query: "Myrmecocichla nigra" ; Times: 3
+	Query: "catalognumber:57620 institutioncode:ROM" ; Times: 1
+	Query: "ROM 26842" ; Times: 2
+	Query: "gbifdatasetid:f6e21753-5129-498f-92bd-73710b0087e3" ; Times: 1
+	Query: "catalognumber:67240 institutioncode:ROM" ; Times: 1
+	Query: "Trichastoma abbotti" ; Times: 1
+	Query: "catalognumber:87810 institutioncode:ROM" ; Times: 1
+	Query: "ROM vntype:specimen genus:Nesomimus" ; Times: 1
+	Query: "Ilicura militaris mappable:1" ; Times: 2
+	Query: "Grass mountain" ; Times: 2
+	Query: "agelaius megapotamus" ; Times: 2
+	Query: "specificepithet:montanus genus:Passer country:&#34;USA&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Geothlypis class:Aves country:&#34;Brazil&#34; institutioncode:ROM" ; Times: 1
+	Query: "UMMZ Aves 130068" ; Times: 1
+	Query: "class:Aves catalognumber:53922 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "skeleton genus:buphagus institutioncode:ROM" ; Times: 1
+	Query: "pine rock district" ; Times: 1
+	Query: "specificepithet:amaurochalinus genus:Turdus institutioncode:ROM" ; Times: 1
+	Query: "53583" ; Times: 1
+	Query: "class:Aves catalognumber:10681 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "33026" ; Times: 1
+	Query: "recordnumber:ROM" ; Times: 1
+	Query: "stateprovince:&#34;colorado&#34; (Maxwell) institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:155531 institutioncode:ROM" ; Times: 1
+	Query: "&#34;stormont&#34;" ; Times: 2
+	Query: "Callaeas wilsoni" ; Times: 3
+	Query: "Lochmias nematura mappable:1" ; Times: 2
+	Query: "class:Aves catalognumber:64888 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Sturnella institutioncode:ROM" ; Times: 2
+	Query: "ROM 92801" ; Times: 1
+	Query: "genus:Ramphotrigon hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:fulva genus:hirundo" ; Times: 1
+	Query: "genus:Hylophylax institutioncode:ROM" ; Times: 1
+	Query: "Catharus dryas" ; Times: 1
+	Query: "Agelaius phoeniceus egg ventura" ; Times: 1
+	Query: "delhi" ; Times: 2
+	Query: "genus:temnurus" ; Times: 1
+	Query: "specificepithet:carteri country:&#34;australia&#34;" ; Times: 3
+	Query: "recordedby:thurber" ; Times: 1
+	Query: "rajasthan" ; Times: 1
+	Query: "Lonchura punctulata" ; Times: 1
+	Query: "specificepithet:corone orientalis genus:Corvus family:Corvidae order:Passeriformes class:Aves" ; Times: 20
+	Query: "vntype:specimen genus:Buphagus" ; Times: 2
+	Query: "septentrionalis vntype:specimen specificepithet:difficilis genus:Geospiza" ; Times: 2
+	Query: "genus:Zonotrichia institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "specificepithet:dixoni" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Carpodacus class:Aves year &gt;= 1923 year &lt;= 1923" ; Times: 1
+	Query: "specificepithet:neglecta genus:Sturnella institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen specificepithet:difficilis genus:Geospiza" ; Times: 1
+	Query: "class:Aves catalognumber:11923 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:55154 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:minimus genus:Catharus hastissue:1" ; Times: 1
+	Query: "cossypha semirufa" ; Times: 2
+	Query: "contopus peninsulae" ; Times: 1
+	Query: "UMMZ 131990" ; Times: 1
+	Query: "pileated woodpecker" ; Times: 1
+	Query: "137536" ; Times: 1
+	Query: "genus:Turdus stateprovince:&#34;puno&#34; institutioncode:ROM" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "catalognumber:30579 institutioncode:ROM" ; Times: 1
+	Query: "35131" ; Times: 1
+	Query: "35132" ; Times: 1
+	Query: "aves Gordon egg" ; Times: 1
+	Query: "specificepithet:calandra genus:melanocorypha" ; Times: 1
+	Query: "specificepithet:magna genus:Sturnella institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "33461" ; Times: 1
+	Query: "Cossypha niveicapilla" ; Times: 1
+	Query: "vntype:specimen genus:parula class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "46954" ; Times: 1
+	Query: "Alcippe morrisonia" ; Times: 1
+	Query: "specificepithet:versicolor genus:Passerina year &gt;= 1960" ; Times: 1
+	Query: "genus:Tolmomyias institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:subflava genus:Prinia country:&#34;Kenya&#34;" ; Times: 1
+	Query: "Dendrocincla turdina mappable:1" ; Times: 2
+	Query: "55269" ; Times: 3
+	Query: "ROM 101861" ; Times: 3
+	Query: "Cossypha dichroa" ; Times: 2
+	Query: "23672" ; Times: 2
+	Query: "vireo crassirostris" ; Times: 1
+	Query: "fmnh Polioptila caerulea" ; Times: 1
+	Query: "MVZ 138476" ; Times: 1
+	Query: "specificepithet:yeltoniensis genus:melanocorypha" ; Times: 1
+	Query: "Agelaius phoeniceus San Bernardino egg" ; Times: 1
+	Query: "specificepithet:obsoletus genus:Salpinctes class:Aves year &gt;= 1912 year &lt;= 1912 month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "Manucodia" ; Times: 4
+	Query: "genus:parula class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "25148" ; Times: 1
+	Query: "UMMZ cardellina rubrifrons mexico" ; Times: 1
+	Query: "&#34;lower klamath&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:70498 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Progne elegans" ; Times: 1
+	Query: "pycnonotus jocosus india" ; Times: 1
+	Query: "class:Aves catalognumber:54132 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pyrrhonota genus:hirundo" ; Times: 1
+	Query: "genus:Pyrocephalus institutioncode:ROM" ; Times: 3
+	Query: "recordedby:carpenter year &gt;= 1870 year &lt;= 1900" ; Times: 1
+	Query: "Cossypha semirufa" ; Times: 1
+	Query: "31709" ; Times: 1
+	Query: "Agelaius phoeniceus egg Santa Barbara County" ; Times: 1
+	Query: "catalognumber:4583 institutioncode:ROM" ; Times: 1
+	Query: "Manacus manacus mappable:1" ; Times: 2
+	Query: "egg listowel" ; Times: 1
+	Query: "Pinus ponderosa mappable:1" ; Times: 1
+	Query: "141864" ; Times: 1
+	Query: "catalognumber:33096" ; Times: 1
+	Query: "50360 Aves" ; Times: 1
+	Query: "specificepithet:macconnelli genus:Mionectes institutioncode:ROM" ; Times: 1
+	Query: "35899" ; Times: 1
+	Query: "16987" ; Times: 1
+	Query: "Geothlypis aequinoctialis mappable:1" ; Times: 2
+	Query: "Onychorhynchus swainsoni" ; Times: 1
+	Query: "119949" ; Times: 1
+	Query: "class:Aves catalognumber:141707 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ROM maxwell" ; Times: 1
+	Query: "Onychorhynchus coronatus" ; Times: 10
+	Query: "class:Aves catalognumber:33602 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:32023 institutioncode:ROM" ; Times: 3
+	Query: "Cyanopica" ; Times: 1
+	Query: "genus:Platyrinchus institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:5757 institutioncode:ROM" ; Times: 1
+	Query: "&#34;battle creek&#34; &#34;saskatchewan&#34;" ; Times: 1
+	Query: "Fluvicola nengeta mappable:1" ; Times: 2
+	Query: "class:Aves catalognumber:53803 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "class:Aves catalognumber:70496 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:45896 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "agelaius mearnsi" ; Times: 3
+	Query: "eopsaltria georgiana" ; Times: 5
+	Query: "59237" ; Times: 1
+	Query: "catalognumber:108523 institutioncode:ROM" ; Times: 1
+	Query: "Cossypha humeralis mappable:1" ; Times: 1
+	Query: "Ramphotrigon" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 1263 download events in this period)
+Total number of records downloaded: 1562
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 16
+	Country: United States ; Times: 11
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Ecuador ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Belize ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-18 ; Times: 1
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-11 ; Times: 2
+	Date: 2019-04-10 ; Times: 1
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-16 ; Times: 1
+	Date: 2019-04-22 ; Times: 6
+	Date: 2019-04-23 ; Times: 11
+	Date: 2019-04-01 ; Times: 1
+	Date: 2019-04-25 ; Times: 4
+	Date: 2019-04-29 ; Times: 4
+	Date: 2019-04-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Saltator striatipectus" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "genus:Ramphotrigon hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:kochi genus:pitta" ; Times: 1
+	Query: "specificepithet:bimaculata genus:melanocorypha" ; Times: 1
+	Query: "specificepithet:cucullata genus:cyanolyca" ; Times: 1
+	Query: "specificepithet:celebensis genus:pitta" ; Times: 1
+	Query: "country:&#34;Uruguay&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "specificepithet:ariel genus:petrochelidon" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "specificepithet:magnirostris genus:galerida" ; Times: 1
+	Query: "specificepithet:yeltoniensis genus:melanocorypha" ; Times: 1
+	Query: "Delhi" ; Times: 1
+	Query: "specificepithet:fulva genus:hirundo" ; Times: 1
+	Query: "tarsus vntype:specimen specificepithet:aedon genus:troglodytes" ; Times: 1
+	Query: "class:aves county:&#34;middlesex&#34; recordedby:giles" ; Times: 1
+	Query: "specificepithet:nana genus:cyanolyca" ; Times: 1
+	Query: "Catharus dryas" ; Times: 1
+	Query: "specificepithet:calandra genus:melanocorypha" ; Times: 1
+	Query: "specificepithet:maxima genus:melanocorypha" ; Times: 1
+	Query: "Onychorhynchus coronatus" ; Times: 1
+	Query: "specificepithet:mirabilis genus:cyanolyca" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:pitta" ; Times: 1
+	Query: "Sturnus vulgaris vntype:specimen country:&#34;USA&#34; year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "ruffed grouse" ; Times: 1
+	Query: "Sturnus vulgaris country:&#34;USA&#34; preparations:skin year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "genus:temnurus" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "specificepithet:typica genus:nesillas" ; Times: 1
+	Query: "class:aves (Belize)" ; Times: 1
+	Query: "specificepithet:pyrrhonota genus:hirundo" ; Times: 1
+	Query: "Quiscalus mexicanus" ; Times: 1
+	Query: "long-tailed weasel" ; Times: 1
+	Query: "Progne modesta" ; Times: 1
+	Query: "Catharus fuscater" ; Times: 1
+	Query: "(perisoreus) hastissue:1" ; Times: 1
+	Query: "(cyanopica) hastissue:1" ; Times: 1
+
+
+End of report.
