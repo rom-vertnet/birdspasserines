@@ -1,0 +1,493 @@
+Report for Institution Code ROM, Resource birdspass
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 578
+Number of records retrieved in searches: 4670
+Number of different countries where searches have been originated: 26
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 46
+	Country: Brazil ; Times: 39
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 18
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 6
+	Country: Norway ; Times: 7
+	Country: Ecuador ; Times: 1
+	Country: Singapore ; Times: 25
+	Country: Germany ; Times: 14
+	Country: Belgium ; Times: 5
+	Country: Netherlands ; Times: 20
+	Country: Denmark ; Times: 10
+	Country: Turkey ; Times: 1
+	Country: Indonesia ; Times: 3
+	Country: United States ; Times: 224
+	Country: Sweden ; Times: 5
+	Country: Switzerland ; Times: 6
+	Country: New Zealand ; Times: 4
+	Country: Russia ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 9
+	Country: United Kingdom ; Times: 120
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-28 ; Times: 13
+	Date: 2019-03-27 ; Times: 19
+	Date: 2019-03-26 ; Times: 26
+	Date: 2019-03-25 ; Times: 7
+	Date: 2019-03-24 ; Times: 6
+	Date: 2019-03-23 ; Times: 13
+	Date: 2019-03-08 ; Times: 6
+	Date: 2019-03-21 ; Times: 5
+	Date: 2019-03-20 ; Times: 6
+	Date: 2019-03-05 ; Times: 11
+	Date: 2019-03-09 ; Times: 6
+	Date: 2019-03-07 ; Times: 10
+	Date: 2019-03-06 ; Times: 60
+	Date: 2019-03-01 ; Times: 8
+	Date: 2019-03-29 ; Times: 32
+	Date: 2019-03-22 ; Times: 9
+	Date: 2019-03-04 ; Times: 10
+	Date: 2019-03-15 ; Times: 40
+	Date: 2019-03-30 ; Times: 7
+	Date: 2019-03-31 ; Times: 26
+	Date: 2019-03-03 ; Times: 6
+	Date: 2019-03-18 ; Times: 26
+	Date: 2019-03-19 ; Times: 2
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-17 ; Times: 39
+	Date: 2019-03-14 ; Times: 40
+	Date: 2019-03-02 ; Times: 10
+	Date: 2019-03-12 ; Times: 53
+	Date: 2019-03-13 ; Times: 17
+	Date: 2019-03-10 ; Times: 12
+	Date: 2019-03-11 ; Times: 52
+
+List of queries that retrieved data from the resource: 
+	Query: "Phytotoma raimondii" ; Times: 2
+	Query: "myrmorchilus strigilatus" ; Times: 3
+	Query: "Manis temminckii hasmass:1" ; Times: 1
+	Query: "Icterus pyrrhopterus" ; Times: 5
+	Query: "corvus caurinus" ; Times: 2
+	Query: "catalognumber:77159 institutioncode:ROM" ; Times: 2
+	Query: "Aharoni" ; Times: 1
+	Query: "UMMZ 2159" ; Times: 1
+	Query: "vntype:specimen specificepithet:lutescens genus:Anthus class:AVES country:&#34;bRAzIL&#34;" ; Times: 2
+	Query: "Timalia" ; Times: 2
+	Query: "Manacus candei" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Wisconsin" ; Times: 4
+	Query: "Cinclocerthia" ; Times: 1
+	Query: "15285" ; Times: 1
+	Query: "catalognumber:64194 institutioncode:ROM" ; Times: 1
+	Query: "genus:Polioptila continent:South America institutioncode:ROM" ; Times: 1
+	Query: "Lochmias nematura mappable:1" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:California" ; Times: 4
+	Query: "Sturnella magna hastissue:1" ; Times: 1
+	Query: "paradoxornis flavirostris" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus" ; Times: 3
+	Query: "spider monkey" ; Times: 1
+	Query: "rom 54325" ; Times: 3
+	Query: "catalognumber:90894" ; Times: 1
+	Query: "vntype:specimen family:Meliphagidae (alcohol OR alc OR ethanol OR ETOH)" ; Times: 1
+	Query: "Scytalopus femoralis" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus country:canada" ; Times: 4
+	Query: "rom 54224" ; Times: 1
+	Query: "wizard" ; Times: 3
+	Query: "rom 54223" ; Times: 2
+	Query: "parus suluensis" ; Times: 1
+	Query: "country:&#34;canada&#34; recordedby:norman" ; Times: 7
+	Query: "90727" ; Times: 1
+	Query: "specificepithet:nivalis genus:Plectrophenax year &gt;= 1917 year &lt;= 1917" ; Times: 1
+	Query: "melanopareia" ; Times: 2
+	Query: "cissa thalassina" ; Times: 3
+	Query: "Myzomela chloroptera" ; Times: 4
+	Query: "Orthogonys chloricterus" ; Times: 2
+	Query: "specificepithet:angolensis genus:Pitta institutioncode:ROM" ; Times: 1
+	Query: "Basileuterus chrysogaster" ; Times: 1
+	Query: "Megalurus rufescens vntype:specimen" ; Times: 1
+	Query: "parus nuchalis" ; Times: 1
+	Query: "catalognumber:55726" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Virginia" ; Times: 4
+	Query: "pine bush" ; Times: 1
+	Query: "vntype:specimen family:nectariniidae (alcohol OR alc)" ; Times: 1
+	Query: "county:&#34;Collin&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Iowa" ; Times: 4
+	Query: "Leptopogon amaurocephalus mappable:1" ; Times: 1
+	Query: "Sturnella magna month &gt;= 4 month &lt;= 6 hastissue:1" ; Times: 2
+	Query: "137524" ; Times: 1
+	Query: "Pipra suavissima" ; Times: 1
+	Query: "20284" ; Times: 2
+	Query: "skeleton vntype:specimen specificepithet:guttatum genus:toxostoma" ; Times: 1
+	Query: "Euphonia saturata" ; Times: 9
+	Query: "specificepithet:gilvus genus:Vireo hastissue:1" ; Times: 2
+	Query: "Myrmotherula axillaris mappable:1" ; Times: 1
+	Query: "Zoothera dauma Pakistan" ; Times: 1
+	Query: "specificepithet:atricapillus genus:Poecile year &lt;= 1900" ; Times: 1
+	Query: "Progne cryptoleuca" ; Times: 3
+	Query: "Vermivora bachmanii" ; Times: 2
+	Query: "specificepithet:canadensis genus:Perisoreus hastissue:1" ; Times: 1
+	Query: "&#34;Tachycineta euchrysea euchrysea&#34;" ; Times: 1
+	Query: "&#34;Troglodytes aedon guadeloupensis&#34;" ; Times: 1
+	Query: "family:Meliphagidae (wet OR alcohol OR alc OR fluid)" ; Times: 2
+	Query: "Cinclodes palliatus" ; Times: 2
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:New Jersey" ; Times: 4
+	Query: "Elaenia chiriquensis mappable:1" ; Times: 1
+	Query: "Manacus candei year &gt;= 1990 NOT clo" ; Times: 1
+	Query: "Progne modesta" ; Times: 1
+	Query: "corvus macrorhynchos" ; Times: 1
+	Query: "catalognumber:137993" ; Times: 1
+	Query: "Ansorge" ; Times: 1
+	Query: "cossypha polioptera" ; Times: 1
+	Query: "12308" ; Times: 1
+	Query: "asthenes flammulata" ; Times: 3
+	Query: "Ilicura militaris mappable:1" ; Times: 1
+	Query: "Isla Guadalupe AND 1897" ; Times: 1
+	Query: "Isla Guadalupe AND 1896" ; Times: 1
+	Query: "vntype:specimen specificepithet:albinucha genus:Atlapetes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Isla Guadalupe AND 1890" ; Times: 1
+	Query: "bumble bees" ; Times: 1
+	Query: "Hypsipetes crassirostris" ; Times: 1
+	Query: "specificepithet:trichas year &gt;= 1909 year &lt;= 1909" ; Times: 1
+	Query: "CMC" ; Times: 1
+	Query: "order:aves" ; Times: 1
+	Query: "vntype:specimen genus:Ammodramus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Gymnopithys rufigula mappable:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:correndera genus:Anthus class:AVES country:&#34;bRAzIL&#34;" ; Times: 1
+	Query: "parnell" ; Times: 1
+	Query: "waldron" ; Times: 1
+	Query: "Oenanthe hispanica" ; Times: 2
+	Query: "ROM 375" ; Times: 2
+	Query: "Arachnothera everetti" ; Times: 1
+	Query: "genus:Leucosticte stateprovince:&#34;Alaska&#34;" ; Times: 2
+	Query: "Gymnomyza samoensis" ; Times: 2
+	Query: "Oxylabes madagascariensis" ; Times: 1
+	Query: "specificepithet:maculata genus:cotinga" ; Times: 4
+	Query: "Phylloscopus borealis India" ; Times: 1
+	Query: "vntype:specimen specificepithet:correndera genus:Anthus class:AVES country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Pitta institutioncode:ROM" ; Times: 1
+	Query: "125594" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "Schoenicola" ; Times: 1
+	Query: "Leptasthenura andicola" ; Times: 1
+	Query: "Megalurus hastissue:1" ; Times: 2
+	Query: "Myiarchus semirufus" ; Times: 2
+	Query: "Myzomela eques" ; Times: 2
+	Query: "Passerina ciris hasmass:1" ; Times: 3
+	Query: "pyrrhula" ; Times: 1
+	Query: "genus:Lanius country:&#34;Philippines&#34; (moseley)" ; Times: 1
+	Query: "genus:Schoenicola" ; Times: 1
+	Query: "113188" ; Times: 1
+	Query: "vntype:specimen family:nectariniidae (ethanol OR ETOH)" ; Times: 1
+	Query: "catalognumber:77161 institutioncode:ROM" ; Times: 2
+	Query: "Atlapetes albinucha" ; Times: 1
+	Query: "Gymnomyza viridis" ; Times: 9
+	Query: "asthenes flammulata vntype:specimen" ; Times: 1
+	Query: "Rhodinocichla rosea" ; Times: 2
+	Query: "Pitta hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:correndera genus:Anthus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "coracina louisiadensis" ; Times: 3
+	Query: "Mimus polyglottos hasmass:1" ; Times: 4
+	Query: "Andamanensis" ; Times: 1
+	Query: "&#34;Geothlypis rostrata&#34;" ; Times: 1
+	Query: "Conopophaga lineata mappable:1" ; Times: 1
+	Query: "Icterus auricapillus" ; Times: 1
+	Query: "Chaetornis" ; Times: 1
+	Query: "Dicrurus macrocercus" ; Times: 2
+	Query: "Eremiornis carteri" ; Times: 1
+	Query: "catalognumber:53680 institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen genus:ammodramus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Cuculus canorus" ; Times: 5
+	Query: "Catharus gracilirostris Costa Rica" ; Times: 1
+	Query: "Alcippe rufogularis" ; Times: 1
+	Query: "country:&#34;canada&#34; recordedby:raine year &gt;= 1920 year &lt;= 1920" ; Times: 1
+	Query: "vntype:specimen family:Nectariniidae (alcohol OR alc OR ethanol OR ETOH)" ; Times: 1
+	Query: "Icterus croconotus" ; Times: 2
+	Query: "genus:Uropsila" ; Times: 2
+	Query: "25127" ; Times: 1
+	Query: "23317" ; Times: 1
+	Query: "Hemispingus superciliaris vntype:specimen" ; Times: 1
+	Query: "asthenes flammulata NOT CLO" ; Times: 1
+	Query: "catalognumber:77152 institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:ossifragus genus:Corvus family:Corvidae" ; Times: 1
+	Query: "Zosterops finschii" ; Times: 7
+	Query: "Psittirostra psittacea" ; Times: 1
+	Query: "platyura" ; Times: 1
+	Query: "Cotinga maculata" ; Times: 2
+	Query: "vntype:specimen specificepithet:flavirostris genus:Arremon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:120291" ; Times: 1
+	Query: "Aethopyga shelleyi" ; Times: 1
+	Query: "Corvus corone" ; Times: 1
+	Query: "Manacus candei year &gt;= 1990" ; Times: 1
+	Query: "Stipiturus" ; Times: 3
+	Query: "Zoothera marginata" ; Times: 25
+	Query: "black bear" ; Times: 1
+	Query: "vntype:specimen specificepithet:humeralis genus:ammodramus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Dendrocincla turdina mappable:1" ; Times: 1
+	Query: "alder flycatcher" ; Times: 1
+	Query: "catalognumber:77158 institutioncode:ROM" ; Times: 2
+	Query: "genus:Calcarius year &gt;= 1917 year &lt;= 1917" ; Times: 1
+	Query: "south toe river" ; Times: 3
+	Query: "Myzomela eichhorni" ; Times: 4
+	Query: "Xenops mexicanus" ; Times: 1
+	Query: "54495" ; Times: 1
+	Query: "rom 54225" ; Times: 2
+	Query: "Oenanthe melanoleuca" ; Times: 1
+	Query: "specificepithet:erythrophthalmus genus:Pipilo stateprovince:&#34;Florida&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Zonotrichia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:155451 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aethopyga mystacalis" ; Times: 2
+	Query: "13871" ; Times: 1
+	Query: "wesleyan" ; Times: 2
+	Query: "70247" ; Times: 1
+	Query: "Icterus jamacaii" ; Times: 2
+	Query: "73139" ; Times: 1
+	Query: "genus:myadestes country:&#34;costa rica&#34;" ; Times: 2
+	Query: "genus:dicaeum country:&#34;Philippines&#34; (moseley)" ; Times: 1
+	Query: "Geospiza magnirostris" ; Times: 3
+	Query: "70265" ; Times: 2
+	Query: "33977" ; Times: 1
+	Query: "Aethopyga eximia" ; Times: 1
+	Query: "Arachnothera affinis" ; Times: 2
+	Query: "Icterus chrysater" ; Times: 4
+	Query: "Seicercus valentini" ; Times: 5
+	Query: "Pachyramphus polychopterus mappable:1" ; Times: 1
+	Query: "Cuculus canorus (egg)" ; Times: 1
+	Query: "Turdus migratorius hasmass:1" ; Times: 1
+	Query: "Phylloscopus borealis" ; Times: 1
+	Query: "vntype:specimen family:meliphagidae (ethanol OR ETOH)" ; Times: 1
+	Query: "Furnarius rufus mappable:1" ; Times: 5
+	Query: "Zosterops vellalavella" ; Times: 2
+	Query: "Isla Guadalupe AND 1892" ; Times: 1
+	Query: "black phoebe" ; Times: 4
+	Query: "vntype:specimen genus:Arremon class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Oenanthe hispanica OR Oenanthe melanoleuca" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Michigan" ; Times: 4
+	Query: "family:Meliphagidae (wet OR alcohol OR alc)" ; Times: 1
+	Query: "genus:Anthoscopus class:Aves country:&#34;Namibia&#34; continent:Africa" ; Times: 1
+	Query: "Cranioleuca curtata" ; Times: 2
+	Query: "Heleia muelleri" ; Times: 9
+	Query: "catalognumber:77153 institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:pusilla genus:Spizella year &gt;= 1891 year &lt;= 1891" ; Times: 1
+	Query: "Oenanthe pleschanka" ; Times: 2
+	Query: "&#34;Geothlypis rostrata rostrata&#34;" ; Times: 1
+	Query: "specificepithet:humeralis genus:Ammodramus class:Aves country:&#34;Brazil&#34; institutioncode:ROM" ; Times: 1
+	Query: "Aethopyga flagrans" ; Times: 2
+	Query: "51438" ; Times: 1
+	Query: "institutioncode:ROM" ; Times: 4
+	Query: "Guadalupe AND Anthony" ; Times: 1
+	Query: "genus:Lonchura country:&#34;Philippines&#34;" ; Times: 2
+	Query: "56147" ; Times: 1
+	Query: "aves callaeas" ; Times: 1
+	Query: "Pycnonotus melanicterus" ; Times: 2
+	Query: "Elaenia cristata mappable:1" ; Times: 1
+	Query: "campylorhynchus purus" ; Times: 1
+	Query: "genus:Lonchura country:&#34;Philippines&#34; (moseley)" ; Times: 1
+	Query: "Gnorimopsar chopi" ; Times: 1
+	Query: "vntype:specimen specificepithet:savannarum genus:Ammodramus stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "Alcippe rufogularis India" ; Times: 2
+	Query: "Cacicus solitarius" ; Times: 1
+	Query: "potato" ; Times: 1
+	Query: "specificepithet:citrinella genus:Emberiza hastissue:1" ; Times: 2
+	Query: "Megalurus punctatus vntype:specimen" ; Times: 1
+	Query: "Psarocolius decumanus" ; Times: 2
+	Query: "catalognumber:77157 institutioncode:ROM" ; Times: 2
+	Query: "90085" ; Times: 1
+	Query: "recordedby:Hoare" ; Times: 1
+	Query: "Myzomela kuehni" ; Times: 8
+	Query: "locality:Andaman" ; Times: 2
+	Query: "62264" ; Times: 1
+	Query: "Icterus graceannae" ; Times: 2
+	Query: "21113" ; Times: 1
+	Query: "specificepithet:ochotensis genus:Locustella" ; Times: 1
+	Query: "vntype:specimen family:meliphagidae (alcohol OR alc)" ; Times: 1
+	Query: "Isla Guadalupe AND 1913" ; Times: 1
+	Query: "48319" ; Times: 1
+	Query: "vntype:specimen genus:Anthus class:AVES country:&#34;bRAzIL&#34;" ; Times: 1
+	Query: "specificepithet:correndera genus:Anthus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:taciturnus genus:Arremon class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "country:&#34;canada&#34; recordedby:raine year &lt;= 1920" ; Times: 1
+	Query: "class:Aves catalognumber:33.9.1.904 institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Cuculus canorus egg" ; Times: 1
+	Query: "institutioncode:rom" ; Times: 2
+	Query: "catalognumber:27781" ; Times: 3
+	Query: "54471" ; Times: 1
+	Query: "60925" ; Times: 1
+	Query: "25563" ; Times: 1
+	Query: "catalognumber:78125" ; Times: 1
+	Query: "Pickering" ; Times: 1
+	Query: "121677" ; Times: 1
+	Query: "Icterus prosthemelas" ; Times: 1
+	Query: "sitta neumayer" ; Times: 1
+	Query: "Chloropsis jerdoni" ; Times: 1
+	Query: "South Toe River" ; Times: 1
+	Query: "Acanthisitta chloris" ; Times: 2
+	Query: "Gymnopithys rufigula" ; Times: 3
+	Query: "Thryomanes sissonii" ; Times: 2
+	Query: "catalognumber:77160 institutioncode:ROM" ; Times: 2
+	Query: "&#34;Peterson&#34; stateprovince:&#34;tamaulipas&#34; country:&#34;Mexico&#34; year &gt;= 1934 year &lt;= 1970" ; Times: 1
+	Query: "icterus oberi vntype:specimen preparations:skeleton" ; Times: 4
+	Query: "Geothlypis aequinoctialis mappable:1" ; Times: 1
+	Query: "anthreptes iris" ; Times: 1
+	Query: "rom 54328" ; Times: 1
+	Query: "Pnoepyga pusilla" ; Times: 2
+	Query: "121679" ; Times: 1
+	Query: "Dacnis cayana mappable:1" ; Times: 1
+	Query: "Calandra" ; Times: 1
+	Query: "stateprovince:&#34;west virginia&#34; recordedby:t. surber" ; Times: 1
+	Query: "specificepithet:corone genus:Corvus family:Corvidae order:Passeriformes class:Aves" ; Times: 1
+	Query: "catalognumber:50694" ; Times: 1
+	Query: "vntype:specimen specificepithet:ossifragus genus:Corvus family:Corvidae hastissue:1" ; Times: 1
+	Query: "12219" ; Times: 1
+	Query: "12218" ; Times: 1
+	Query: "11583" ; Times: 1
+	Query: "125668" ; Times: 2
+	Query: "catalognumber:77154 institutioncode:ROM" ; Times: 2
+	Query: "Phoenicurus erythronotus" ; Times: 1
+	Query: "thryothorus oblitus" ; Times: 1
+	Query: "Cyanocitta cristata hasmass:1" ; Times: 1
+	Query: "Eremiornis carteri vntype:specimen" ; Times: 1
+	Query: "Isla Guadalupe AND 1912" ; Times: 1
+	Query: "Troglodytes tanneri" ; Times: 2
+	Query: "Icterus nigrogularis" ; Times: 2
+	Query: "specificepithet:corone orientalis genus:Corvus family:Corvidae order:Passeriformes class:Aves" ; Times: 2
+	Query: "tota" ; Times: 1
+	Query: "Geothlypis poliocephala" ; Times: 1
+	Query: "Phylloscopus canariensis" ; Times: 2
+	Query: "15088" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Carpodacus year &gt;= 1923 year &lt;= 1923" ; Times: 1
+	Query: "Fluvicola nengeta mappable:1" ; Times: 1
+	Query: "MVZ-3277" ; Times: 1
+	Query: "catalognumber:77156 institutioncode:ROM" ; Times: 2
+	Query: "Blackberry" ; Times: 1
+	Query: "catalognumber:93838" ; Times: 1
+	Query: "genus:Dicrurus country:&#34;Philippines&#34; (moseley)" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Florida" ; Times: 4
+	Query: "catalognumber:77155 institutioncode:ROM" ; Times: 2
+	Query: "sitta kinneari" ; Times: 2
+	Query: "Toxostoma guttatum" ; Times: 1
+	Query: "Isla Guadalupe AND 1922" ; Times: 1
+	Query: "108252" ; Times: 3
+	Query: "Corvus splendens" ; Times: 3
+	Query: "specificepithet:huttoni genus:Vireo hastypestatus:1" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:New York" ; Times: 4
+	Query: "147828" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "54494" ; Times: 1
+	Query: "ROM 158227" ; Times: 2
+	Query: "(moseley)" ; Times: 1
+	Query: "Zosterops meeki" ; Times: 15
+	Query: "Euplectes nigroventris" ; Times: 1
+	Query: "genus:Aegithina country:&#34;Philippines&#34; (moseley)" ; Times: 1
+	Query: "mm 424" ; Times: 1
+	Query: "San Pedro River Fairbank Arizona vntype:specimen" ; Times: 1
+	Query: "vntype:specimen genus:Zonotrichia class:Aves country:&#34;Brazil&#34; institutioncode:ROM" ; Times: 1
+	Query: "Dendrocincla homochroa" ; Times: 1
+	Query: "coracina goodsoni" ; Times: 1
+	Query: "catalognumber:116315 institutioncode:ROM" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Massachusetts" ; Times: 4
+	Query: "vntype:specimen specificepithet:savannarum genus:Ammodramus stateprovince:&#34;Kansas&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 1281 download events in this period)
+Total number of records downloaded: 1901
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 21
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 28
+	Country: Germany ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-06 ; Times: 5
+	Date: 2019-03-18 ; Times: 8
+	Date: 2019-03-11 ; Times: 1
+	Date: 2019-03-04 ; Times: 2
+	Date: 2019-03-30 ; Times: 2
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-20 ; Times: 1
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-17 ; Times: 20
+	Date: 2019-03-07 ; Times: 3
+	Date: 2019-03-15 ; Times: 4
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-14 ; Times: 5
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Icterus pyrrhopterus" ; Times: 1
+	Query: "corvus caurinus" ; Times: 1
+	Query: "vntype:specimen family:meliphagidae (ethanol OR ETOH)" ; Times: 1
+	Query: "Aethopyga mystacalis" ; Times: 1
+	Query: "Hypsipetes crassirostris" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Icterus jamacaii" ; Times: 1
+	Query: "Ansorge" ; Times: 1
+	Query: "Aethopyga eximia" ; Times: 1
+	Query: "Mus haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen family:nectariniidae (alcohol OR alc)" ; Times: 1
+	Query: "Chloropsis jerdoni" ; Times: 1
+	Query: "Pycnonotus melanicterus" ; Times: 1
+	Query: "Arachnothera everetti" ; Times: 1
+	Query: "Seicercus valentini" ; Times: 1
+	Query: "Gymnomyza samoensis" ; Times: 1
+	Query: "Euphonia saturata" ; Times: 1
+	Query: "Psittirostra psittacea" ; Times: 1
+	Query: "vntype:specimen specificepithet:savannarum genus:Ammodramus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus country:canada" ; Times: 1
+	Query: "Aethopyga shelleyi" ; Times: 1
+	Query: "Myzomela eques" ; Times: 1
+	Query: "Cuculus canorus (egg)" ; Times: 1
+	Query: "vntype:specimen family:nectariniidae (ethanol OR ETOH)" ; Times: 1
+	Query: "melanopareia" ; Times: 1
+	Query: "Gymnomyza viridis" ; Times: 1
+	Query: "Cacicus melanicterus" ; Times: 1
+	Query: "specificepithet:gilvus genus:Vireo hastissue:1" ; Times: 1
+	Query: "Orthogonys chloricterus" ; Times: 1
+	Query: "stateprovince:&#34;Oaxaca&#34; recordedby:rowley" ; Times: 1
+	Query: "specificepithet:gilvus genus:Vireo hasmass:1" ; Times: 1
+	Query: "Aethopyga flagrans" ; Times: 1
+	Query: "Icterus auricapillus" ; Times: 1
+	Query: "Oenanthe hispanica" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus continent:north america" ; Times: 1
+	Query: "Psarocolius decumanus" ; Times: 1
+	Query: "Icterus nigrogularis" ; Times: 1
+	Query: "Dicrurus macrocercus" ; Times: 1
+	Query: "Gnorimopsar chopi" ; Times: 1
+	Query: "Cacicus solitarius" ; Times: 1
+	Query: "vntype:specimen family:Nectariniidae (alcohol OR alc OR ethanol OR ETOH)" ; Times: 1
+	Query: "Phylloscopus canariensis" ; Times: 1
+	Query: "Zosterops vellalavella" ; Times: 1
+	Query: "Geospiza magnirostris" ; Times: 1
+	Query: "Hemispingus superciliaris vntype:specimen" ; Times: 1
+	Query: "genus:Anthoscopus class:Aves country:&#34;Namibia&#34; continent:Africa" ; Times: 1
+	Query: "vntype:specimen family:Meliphagidae (alcohol OR alc OR ethanol OR ETOH)" ; Times: 1
+	Query: "genus:Leucosticte stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "vntype:specimen family:meliphagidae (alcohol OR alc)" ; Times: 1
+	Query: "family:Meliphagidae (wet OR alcohol OR alc OR fluid)" ; Times: 1
+	Query: "Icterus prosthemelas" ; Times: 1
+	Query: "Tachycineta bicolor" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "corvus macrorhynchos" ; Times: 1
+	Query: "Phainopepla" ; Times: 1
+	Query: "Arachnothera affinis" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "Icterus graceannae" ; Times: 1
+
+
+End of report.
