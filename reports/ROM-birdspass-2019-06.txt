@@ -1,0 +1,800 @@
+Report for Institution Code ROM, Resource birdspass
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 849
+Number of records retrieved in searches: 12173
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 92
+	Country: Canada ; Times: 172
+	Country: Unknown ; Times: 21
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 19
+	Country: Argentina ; Times: 4
+	Country: Ecuador ; Times: 4
+	Country: Australia ; Times: 7
+	Country: Germany ; Times: 28
+	Country: Chile ; Times: 4
+	Country: Belgium ; Times: 113
+	Country: China ; Times: 3
+	Country: Hong Kong ; Times: 9
+	Country: Spain ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: United States ; Times: 337
+	Country: Russia ; Times: 4
+	Country: Angola ; Times: 7
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 12
+	Country: Paraguay ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 32
+	Date: 2019-06-21 ; Times: 31
+	Date: 2019-06-22 ; Times: 1
+	Date: 2019-06-23 ; Times: 5
+	Date: 2019-06-24 ; Times: 24
+	Date: 2019-06-25 ; Times: 28
+	Date: 2019-06-08 ; Times: 15
+	Date: 2019-06-09 ; Times: 93
+	Date: 2019-06-06 ; Times: 33
+	Date: 2019-06-07 ; Times: 37
+	Date: 2019-06-04 ; Times: 36
+	Date: 2019-06-05 ; Times: 29
+	Date: 2019-06-02 ; Times: 11
+	Date: 2019-06-03 ; Times: 14
+	Date: 2019-06-01 ; Times: 3
+	Date: 2019-06-26 ; Times: 19
+	Date: 2019-06-27 ; Times: 4
+	Date: 2019-06-28 ; Times: 10
+	Date: 2019-06-29 ; Times: 13
+	Date: 2019-06-19 ; Times: 12
+	Date: 2019-06-18 ; Times: 37
+	Date: 2019-06-30 ; Times: 14
+	Date: 2019-06-15 ; Times: 18
+	Date: 2019-06-14 ; Times: 6
+	Date: 2019-06-17 ; Times: 20
+	Date: 2019-06-16 ; Times: 116
+	Date: 2019-06-11 ; Times: 109
+	Date: 2019-06-10 ; Times: 14
+	Date: 2019-06-13 ; Times: 28
+	Date: 2019-06-12 ; Times: 37
+
+List of queries that retrieved data from the resource: 
+	Query: "59890" ; Times: 1
+	Query: "socotra" ; Times: 2
+	Query: "institutioncode:ROM 95859 passer" ; Times: 1
+	Query: "specificepithet:ater genus:Molothrus class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Tyranneutes specificepithet:stolzmanni" ; Times: 1
+	Query: "genus:Dolichonyx class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Riparia riparia mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "icterus oberi vntype:specimen preparations:skeleton" ; Times: 2
+	Query: "class:Aves catalognumber:9465 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "47124" ; Times: 26
+	Query: "Eremophila alpestris next" ; Times: 1
+	Query: "specificepithet:behni genus:Myrmotherula" ; Times: 1
+	Query: "genus:Ilicura specificepithet:militaris" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "class:Aves catalognumber:9690 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:solitarius genus:Vireo class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen haslifestage:1" ; Times: 3
+	Query: "genus:Melanopareia country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "ROM 120232" ; Times: 1
+	Query: "institutioncode:ROM Galapagos birds" ; Times: 1
+	Query: "mountain lake biological station aves" ; Times: 1
+	Query: "chennai" ; Times: 1
+	Query: "genus:Emberizoides specificepithet:herbicola" ; Times: 1
+	Query: "osmaston 1906-02" ; Times: 1
+	Query: "120121" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucoblepharus genus:Basileuterus class:Aves" ; Times: 1
+	Query: "specificepithet:fuscicauda genus:Habia year &gt;= 1960" ; Times: 2
+	Query: "specificepithet:domesticus genus:Passer class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America year &gt;= 1840 year &lt;= 1900 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:01.10.4.505 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:ROM 95868 passer" ; Times: 1
+	Query: "ROM 113822" ; Times: 1
+	Query: "institutioncode:ROM 33724 passer" ; Times: 1
+	Query: "institutioncode:ROM 12.1.23.323 passer" ; Times: 1
+	Query: "specificepithet:atricapillus genus:Parus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America year &gt;= 1820 year &lt;= 1920 basisofrecord:PreservedSpecimen haslifestage:1" ; Times: 2
+	Query: "institutioncode:ROM 137512" ; Times: 1
+	Query: "institutioncode:ROM 137511" ; Times: 1
+	Query: "institutioncode:ROM 137514" ; Times: 1
+	Query: "class:Aves catalognumber:55112 institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:ROM 137518" ; Times: 1
+	Query: "catalognumber: 61002" ; Times: 1
+	Query: "genus:Amphispiza specificepithet:bilineata" ; Times: 1
+	Query: "institutioncode:ROM 13751?" ; Times: 1
+	Query: "specificepithet:varia genus:Mniotilta class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Arremon taciturnus" ; Times: 1
+	Query: "institutioncode:ROM 95890 passer" ; Times: 1
+	Query: "institutioncode:ROM 12.1.23.324b passer" ; Times: 2
+	Query: "class:Aves catalognumber:01.10.4.571 institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:brachyrhynchos genus:Corvus class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America year &gt;= 1820 year &lt;= 1920 basisofrecord:PreservedSpecimen haslifestage:1" ; Times: 1
+	Query: "139526" ; Times: 1
+	Query: "institutioncode:ROM 95871 passer" ; Times: 1
+	Query: "genus:Dicrurus specificepithet:paradiseus" ; Times: 1
+	Query: "institutioncode:ROM 137508 passer" ; Times: 2
+	Query: "genus:chlorochrysa institutioncode:ROM" ; Times: 2
+	Query: "class:Aves catalognumber:15770 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "vntype:specimen specificepithet:moesta genus:Synallaxis institutioncode:ROM" ; Times: 2
+	Query: "ROM 113489" ; Times: 1
+	Query: "institutioncode:ROM 95922 passer" ; Times: 1
+	Query: "vntype:specimen specificepithet:phoenicotis genus:chlorochrysa" ; Times: 1
+	Query: "rom 110117" ; Times: 3
+	Query: "ROM 106654" ; Times: 1
+	Query: "class:Aves catalognumber:48857 institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:caerulea interfusa genus:Passerina" ; Times: 1
+	Query: "institutioncode:ROM 137517 passer" ; Times: 1
+	Query: "institutioncode:ROM 139822 passer" ; Times: 2
+	Query: "specificepithet:phoenicotis genus:chlorochrysa" ; Times: 1
+	Query: "ROM 145313" ; Times: 1
+	Query: "vntype:specimen specificepithet:carbonaria genus:Diglossa country:&#34;Colombia&#34;" ; Times: 3
+	Query: "vntype:specimen specificepithet:amaurochalinus genus:Turdus class:Aves" ; Times: 1
+	Query: "Basileuterus culicivorus" ; Times: 1
+	Query: "ROM 116599" ; Times: 1
+	Query: "ROM 117201" ; Times: 1
+	Query: "catalognumber:105247" ; Times: 1
+	Query: "ROM 108676" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus stateprovince:&#34;british columbia&#34; year &gt;= 1980 month &gt;= 5 month &lt;= 7 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ROM 119530" ; Times: 1
+	Query: "class:Aves catalognumber:147595 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Galapagos finch" ; Times: 2
+	Query: "ROM 105870" ; Times: 2
+	Query: "institutioncode:ROM 26906 passer" ; Times: 1
+	Query: "institutioncode:ROM 33718" ; Times: 1
+	Query: "specificepithet:ophthalmicus genus:Chlorospingus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "class:Aves catalognumber:55114 institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:15769 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Myiophobus fasciatus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "institutioncode:ROM 137492 passer" ; Times: 1
+	Query: "class:Aves catalognumber:58857 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:ROM 26908 passer" ; Times: 1
+	Query: "Ottawa County Oklahoma vntype:specimen class:Aves" ; Times: 1
+	Query: "specificepithet:petechia genus:Dendroica class:Aves county:&#34;Durham&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:143129 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "wolf country:&#34;Canada&#34;" ; Times: 1
+	Query: "institutioncode:ROM 137530 passer" ; Times: 1
+	Query: "genus:carduelis class:aves stateprovince:&#34;alaska&#34; month &gt;= 3 month &lt;= 3" ; Times: 1
+	Query: "Passerina AND Island" ; Times: 1
+	Query: "rom 97635" ; Times: 1
+	Query: "genus:Pipra specificepithet:fasciicauda" ; Times: 1
+	Query: "specificepithet:crinitus genus:Myiarchus class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America year &gt;= 1840 year &lt;= 1920 basisofrecord:PreservedSpecimen haslifestage:1" ; Times: 1
+	Query: "California Gull" ; Times: 1
+	Query: "galapagos finch" ; Times: 4
+	Query: "genus:Dolichonyx class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Paradoxornis" ; Times: 1
+	Query: "ROM 113753" ; Times: 1
+	Query: "class:Aves catalognumber:79317 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ROM 113754" ; Times: 1
+	Query: "nemosia pileata" ; Times: 1
+	Query: "institutioncode:ROM 23.9.20.42 passer" ; Times: 1
+	Query: "class:Aves catalognumber:147609 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:2342" ; Times: 1
+	Query: "genus:Cinclus specificepithet:mexicanus" ; Times: 1
+	Query: "specificepithet:tyrannus genus:Tyrannus class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America year &gt;= 1820 year &lt;= 1920 basisofrecord:PreservedSpecimen haslifestage:1" ; Times: 1
+	Query: "specificepithet:virens genus:Contopus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "class:Aves catalognumber:147598 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Colluricincla specificepithet:megarhyncha" ; Times: 1
+	Query: "genus:Neodrepanis specificepithet:coruscans" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America year &gt;= 1820 year &lt;= 1940 basisofrecord:PreservedSpecimen haslifestage:1" ; Times: 1
+	Query: "class:Aves catalognumber:33.9.1.764 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:ROM 137490" ; Times: 1
+	Query: "black bear" ; Times: 3
+	Query: "57804" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sitta class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America year &gt;= 1820 year &lt;= 1920 basisofrecord:PreservedSpecimen haslifestage:1" ; Times: 1
+	Query: "TC 1209" ; Times: 3
+	Query: "institutioncode:ROM 95875 passer" ; Times: 1
+	Query: "institutioncode:ROM 139816 passer" ; Times: 1
+	Query: "Pycnonotus everett" ; Times: 6
+	Query: "class:Aves catalognumber:125607 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Extinct birds" ; Times: 2
+	Query: "vntype:specimen specificepithet:albicollis genus:Turdus class:Aves" ; Times: 1
+	Query: "institutioncode:ROM passer domesticus 1979 Victoria" ; Times: 1
+	Query: "genus:Pooecetes class:Aves county:&#34;Peel&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ROM 119090" ; Times: 1
+	Query: "ROM 114691" ; Times: 1
+	Query: "institutioncode:ROM 95927 passer" ; Times: 1
+	Query: "rhinocrypta" ; Times: 1
+	Query: "tchagra tchagra" ; Times: 13
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;british columbia&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "class:Aves catalognumber:147605 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:ruficapilla genus:Vermivora class:Aves county:&#34;Durham&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:traillii genus:Empidonax class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "ROM 119147" ; Times: 1
+	Query: "institutioncode:ROM 95870 passer" ; Times: 1
+	Query: "specificepithet:petechia genus:Dendroica class:Aves county:&#34;Peel&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:alnorum genus:Empidonax class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "genus:Pipilo class:Aves county:&#34;York&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:ROM 65290 passer" ; Times: 2
+	Query: "class:Aves catalognumber:21892 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:ROM 137456 passer" ; Times: 1
+	Query: "institutioncode:ROM 92844 passer" ; Times: 1
+	Query: "institutioncode:ROM Galapagos" ; Times: 1
+	Query: "class:Aves catalognumber:24126 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:54354 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Red fox continent:North America (red fox)" ; Times: 1
+	Query: "genus pod" ; Times: 1
+	Query: "genus:Vanga specificepithet:curvirostris" ; Times: 1
+	Query: "13939" ; Times: 1
+	Query: "wirt class:aves" ; Times: 1
+	Query: "10691" ; Times: 1
+	Query: "genus:Climacteris specificepithet:leucophaea" ; Times: 1
+	Query: "ROM 113674" ; Times: 1
+	Query: "genus:Peucedramus specificepithet:taeniatus" ; Times: 1
+	Query: "class:Aves catalognumber:147597 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen genus:Icterus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America year &gt;= 1820 year &lt;= 1920 basisofrecord:PreservedSpecimen haslifestage:1" ; Times: 1
+	Query: "genus:Cissa specificepithet:chinensis" ; Times: 1
+	Query: "Aimophila obscura" ; Times: 1
+	Query: "class:Aves catalognumber:66800 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Meliphaga specificepithet:aruensis" ; Times: 1
+	Query: "genus:Lanius specificepithet:excubitor" ; Times: 1
+	Query: "class:Aves catalognumber:71202 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Formicarius specificepithet:analis" ; Times: 1
+	Query: "Coronados AND 1896" ; Times: 1
+	Query: "genus:Fringilla specificepithet:coelebs" ; Times: 1
+	Query: "genus:Ifrita specificepithet:kowaldi" ; Times: 1
+	Query: "myiobius portovelae" ; Times: 2
+	Query: "institutioncode:ROM 95872 passer" ; Times: 1
+	Query: "institutioncode:ROM 137484 passer" ; Times: 1
+	Query: "genus:Manacus specificepithet:manacus" ; Times: 1
+	Query: "ROM 113716" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus stateprovince:&#34;british columbia&#34; year &gt;= 1980 month &gt;= 5 month &lt;= 7" ; Times: 2
+	Query: "specificepithet:varia genus:Mniotilta class:Aves county:&#34;Durham&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pyrocephalus rubinus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Gymnorhina specificepithet:tibicen" ; Times: 1
+	Query: "class:Aves catalognumber:146902 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Corapipo specificepithet:gutturalis" ; Times: 1
+	Query: "borealis everett" ; Times: 1
+	Query: "specificepithet:fumigatus genus:Turdus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:55113 institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:10496 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:phoebe genus:Sayornis class:Aves county:&#34;Peel&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Saltator striatipectus" ; Times: 1
+	Query: "institutioncode:ROM 137500 passer" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sitta class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America year &gt;= 1820 year &lt;= 1940 basisofrecord:PreservedSpecimen haslifestage:1" ; Times: 1
+	Query: "Chiroxiphia caudata" ; Times: 1
+	Query: "genus:Aegithalos specificepithet:caudatus" ; Times: 1
+	Query: "institutioncode:ROM 33717 passer" ; Times: 1
+	Query: "vntype:specimen specificepithet:paludicola genus:riparia" ; Times: 1
+	Query: "genus:Parus specificepithet:rubidiventris" ; Times: 1
+	Query: "institutioncode:ROM 33727 passer" ; Times: 2
+	Query: "Muscicapidae 1894" ; Times: 3
+	Query: "institutioncode:ROM 95920 passer" ; Times: 1
+	Query: "ROM 113766" ; Times: 1
+	Query: "genus:Melipotes specificepithet:fumigatus" ; Times: 1
+	Query: "Anthus trivialis" ; Times: 4
+	Query: "institutioncode:ROM passer" ; Times: 1
+	Query: "120040" ; Times: 1
+	Query: "genus:Cyanoptila specificepithet:cyanomelana" ; Times: 1
+	Query: "stateprovince:&#34;West Papua&#34; country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "genus:Cettia specificepithet:diphone" ; Times: 1
+	Query: "genus:Prosthemadera specificepithet:novaeseelandiae" ; Times: 1
+	Query: "genus:Pipra specificepithet:aureola" ; Times: 1
+	Query: "genus:Cacicus specificepithet:melanicterus" ; Times: 1
+	Query: "white tail deer" ; Times: 3
+	Query: "vntype:specimen specificepithet:dorbignyi genus:Asthenes institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:64885 institutioncode:ROM" ; Times: 1
+	Query: "institutioncode:ROM 95903 passer" ; Times: 1
+	Query: "genus:xenopsaris" ; Times: 1
+	Query: "specificepithet:phoebe genus:Sayornis class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Pipilo class:Aves county:&#34;Peel&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ROM 113889" ; Times: 1
+	Query: "genus:Pinicola specificepithet:enucleator" ; Times: 1
+	Query: "Everett AND Island" ; Times: 1
+	Query: "ROM 126199" ; Times: 2
+	Query: "Plectrophenax nivalis preparations:skin month &gt;= 4 month &lt;= 10 institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen genus:acanthisitta" ; Times: 1
+	Query: "institutioncode:ROM 95865 passer" ; Times: 1
+	Query: "vntype:specimen specificepithet:obscura genus:Elaenia class:Aves" ; Times: 1
+	Query: "contopus rhizophorus" ; Times: 2
+	Query: "class:Aves catalognumber:125608 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:ROM 12.1.23.324 passer" ; Times: 1
+	Query: "specificepithet:petechia genus:Dendroica class:Aves county:&#34;Halton&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "rhipidura isura" ; Times: 1
+	Query: "country:&#34;Lithuania&#34;" ; Times: 1
+	Query: "institutioncode:ROM 31233 passer" ; Times: 1
+	Query: "institutioncode:ROM 92846 passer" ; Times: 1
+	Query: "specificepithet:tricolor genus:Agelaius class:Aves county:&#34;kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "ROM 104269" ; Times: 1
+	Query: "class:Aves catalognumber:75003 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:aurocapillus genus:Seiurus class:Aves county:&#34;Durham&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:trichas genus:Geothlypis class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "28317" ; Times: 1
+	Query: "genus:Melanocharis specificepithet:nigra" ; Times: 1
+	Query: "specificepithet:conirostris genus:Arremonops country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Estrilda specificepithet:astrild" ; Times: 1
+	Query: "institutioncode:ROM" ; Times: 6
+	Query: "Hose 1894 AVES" ; Times: 1
+	Query: "institutioncode:ROM 95882 passer" ; Times: 1
+	Query: "myiarchus platyrhynchus" ; Times: 1
+	Query: "institutioncode:ROM 137504 passer" ; Times: 1
+	Query: "genus:Leiothrix specificepithet:argentauris" ; Times: 1
+	Query: "genus:Hylia specificepithet:prasina" ; Times: 1
+	Query: "specificepithet:ruficapilla genus:Vermivora class:Aves county:&#34;York&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ROM 111328" ; Times: 1
+	Query: "genus:Aimophila specificepithet:rufescens" ; Times: 1
+	Query: "Anthus pratensis" ; Times: 5
+	Query: "158462" ; Times: 1
+	Query: "malabaricus 1894" ; Times: 1
+	Query: "catalognumber:143129" ; Times: 1
+	Query: "genus:Chaetorhynchus specificepithet:papuensis" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella class:Aves county:&#34;Durham&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:66568 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mountain lake biological station" ; Times: 3
+	Query: "specificepithet:solitarius genus:Vireo class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "institutioncode:ROM 33716 passer" ; Times: 1
+	Query: "specificepithet:solitarius genus:Vireo class:Aves county:&#34;Halton&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:48860 institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "122559" ; Times: 1
+	Query: "genus:Parmoptila specificepithet:woodhousei" ; Times: 1
+	Query: "genus:Furnarius specificepithet:rufus" ; Times: 1
+	Query: "egg arkansas 1923 H.E. Wheeler" ; Times: 1
+	Query: "class:Aves catalognumber:125606 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:phoenicotis genus:chlorochrysa institutioncode:ROM" ; Times: 8
+	Query: "institutioncode:ROM 95914 passer" ; Times: 1
+	Query: "class:Aves catalognumber:53430 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ROM 108538" ; Times: 1
+	Query: "genus:Toxostoma specificepithet:longirostre" ; Times: 1
+	Query: "vermivora celata celata hastissue:1" ; Times: 3
+	Query: "genus:Zeledonia specificepithet:coronata" ; Times: 1
+	Query: "Turdoides leucocephalus" ; Times: 2
+	Query: "83502" ; Times: 1
+	Query: "specificepithet:callizonus genus:Xenotriccus" ; Times: 2
+	Query: "vntype:specimen family:Tyrannidae class:Aves institutioncode:ROM" ; Times: 1
+	Query: "class:Aves locality:Mecca county:&#34;Riverside&#34; year &gt;= 1911 year &lt;= 1911" ; Times: 1
+	Query: "class:Aves catalognumber:48925 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella class:Aves county:&#34;York&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "molothrus aeneus" ; Times: 1
+	Query: "institutioncode:ROM 137487 passer" ; Times: 1
+	Query: "class:Aves catalognumber:33.9.1.965 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:146901 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:ROM 65732 passer" ; Times: 2
+	Query: "institutioncode:ROM 33722 passer" ; Times: 1
+	Query: "class:Aves catalognumber:01.10.4.508 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:143132 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "20971" ; Times: 1
+	Query: "genus:Cotinga specificepithet:cayana" ; Times: 1
+	Query: "132233" ; Times: 1
+	Query: "vntype:specimen specificepithet:similis genus:Saltator class:Aves" ; Times: 1
+	Query: "specificepithet:alpestris class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America year &gt;= 1820 year &lt;= 1940 basisofrecord:PreservedSpecimen haslifestage:1" ; Times: 2
+	Query: "specificepithet:petechia genus:Dendroica class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Lysurus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:48861 institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:49417 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:ROM 137506 passer" ; Times: 1
+	Query: "institutioncode:ROM 95867 passer" ; Times: 1
+	Query: "class:Aves catalognumber:15158 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Cisticola specificepithet:chubbi" ; Times: 1
+	Query: "genus:Macrosphenus specificepithet:flavicans" ; Times: 1
+	Query: "genus:Dumetella specificepithet:carolinensis" ; Times: 1
+	Query: "institutioncode:ROM genus:Plectrophenax tissue" ; Times: 1
+	Query: "71119" ; Times: 1
+	Query: "153233" ; Times: 1
+	Query: "class:Aves catalognumber:154046 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:ROM 33720 passer" ; Times: 1
+	Query: "class:Aves catalognumber:54248 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Hylorchilus" ; Times: 4
+	Query: "class:Aves catalognumber:58847 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "135721" ; Times: 1
+	Query: "genus:Emberiza specificepithet:cabanisi" ; Times: 1
+	Query: "genus:Chlorochrysa institutioncode:ROM" ; Times: 3
+	Query: "Plectrophenax nivalis institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:varia genus:Mniotilta class:Aves county:&#34;Peel&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:143130 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mimus gundlachii" ; Times: 1
+	Query: "class:Aves catalognumber:01.10.4.507 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:ROM 26925 passer" ; Times: 2
+	Query: "osmaston 1905-02" ; Times: 1
+	Query: "class:Aves catalognumber:2496 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Pycnonotus cafer" ; Times: 5
+	Query: "ROM 98020" ; Times: 1
+	Query: "class:Aves catalognumber:19498 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ROM 100907" ; Times: 1
+	Query: "genus:Leptopterus specificepithet:chabert" ; Times: 1
+	Query: "specificepithet:ruficapilla genus:Vermivora class:Aves county:&#34;Peel&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ROM 107352" ; Times: 1
+	Query: "pyrrhula erythrocephala" ; Times: 1
+	Query: "catalognumber:157836 institutioncode:ROM" ; Times: 1
+	Query: "ROM 104461" ; Times: 1
+	Query: "Emberiza aureola" ; Times: 5
+	Query: "vntype:specimen specificepithet:ustulatus genus:Catharus stateprovince:&#34;british columbia&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 7" ; Times: 2
+	Query: "ROM 125084" ; Times: 1
+	Query: "genus:Calcarius specificepithet:lapponicus" ; Times: 1
+	Query: "Corvus leucognaphalus" ; Times: 1
+	Query: "country:&#34;Colombia&#34; (Caldas)" ; Times: 1
+	Query: "ROM 106695" ; Times: 1
+	Query: "vntype:specimen specificepithet:diadematus genus:Stephanophorus class:Aves" ; Times: 1
+	Query: "specificepithet:crinitus genus:Myiarchus class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America year &gt;= 1840 year &lt;= 1890 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "1894 malabaricus" ; Times: 1
+	Query: "institutioncode:ROM 26907 passer" ; Times: 1
+	Query: "institutioncode:ROM 137507 passer" ; Times: 1
+	Query: "specificepithet:taciturnus genus:Arremon" ; Times: 1
+	Query: "Catalina Mill" ; Times: 1
+	Query: "recordnumber:32112" ; Times: 1
+	Query: "genus:Philepitta specificepithet:castanea" ; Times: 1
+	Query: "genus:Pipra specificepithet:pipra" ; Times: 1
+	Query: "156058" ; Times: 1
+	Query: "class:Aves catalognumber:157905 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:53164 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:10497 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:quiscula genus:Quiscalus class:Aves county:&#34;York&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:olivaceus genus:Vireo class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America year &gt;= 1820 year &lt;= 1940 basisofrecord:PreservedSpecimen haslifestage:1" ; Times: 1
+	Query: "sturgeon" ; Times: 1
+	Query: "genus:Buphagus specificepithet:erythrorhynchus" ; Times: 1
+	Query: "parnell" ; Times: 2
+	Query: "institutioncode:ROM 12.1.23.322 passer" ; Times: 1
+	Query: "little black river" ; Times: 2
+	Query: "institutioncode:ROM 33729 passer" ; Times: 2
+	Query: "class:Aves catalognumber:48858 institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ROM 106608" ; Times: 1
+	Query: "genus:Dicrurus specificepithet:balicassius" ; Times: 1
+	Query: "specificepithet:aurocapillus genus:Seiurus class:Aves county:&#34;Halton&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:phoebe genus:Sayornis class:Aves county:&#34;Halton&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "pyrrhula erythaca" ; Times: 1
+	Query: "molothrus north dakota" ; Times: 1
+	Query: "specificepithet:varia genus:Mniotilta class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Psittirostra palmeri" ; Times: 1
+	Query: "genus:Coereba" ; Times: 1
+	Query: "class:Aves catalognumber:147607 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Guadalupe AND Haemorhous" ; Times: 2
+	Query: "catalognumber:101843" ; Times: 1
+	Query: "1894 hose" ; Times: 1
+	Query: "53536" ; Times: 1
+	Query: "53533" ; Times: 1
+	Query: "class:Aves catalognumber:155125 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:chrysogaster genus:Pheucticus sex:female" ; Times: 1
+	Query: "class:aves locality:amchitka" ; Times: 1
+	Query: "genus:Machaerirhynchus specificepithet:nigripectus" ; Times: 1
+	Query: "ROM-31158" ; Times: 2
+	Query: "genus:Protonotaria specificepithet:citrea" ; Times: 1
+	Query: "catalognumber:32210" ; Times: 2
+	Query: "identificationID?" ; Times: 1
+	Query: "ayresii" ; Times: 1
+	Query: "class:Aves catalognumber:143229 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:aurocapillus genus:Seiurus class:Aves county:&#34;York&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "institutioncode:ROM 137538" ; Times: 1
+	Query: "85941" ; Times: 1
+	Query: "Copsychus 1894" ; Times: 1
+	Query: "specificepithet:alnorum genus:Empidonax class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "105147" ; Times: 1
+	Query: "ROM 107393" ; Times: 1
+	Query: "black phoebe" ; Times: 3
+	Query: "130388" ; Times: 2
+	Query: "genus:Malurus specificepithet:alboscapulatus" ; Times: 1
+	Query: "class:Aves catalognumber:48919 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:flavirostris genus:Arremon" ; Times: 1
+	Query: "class:Aves catalognumber:60539 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:54289 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Robins egg" ; Times: 1
+	Query: "class:Aves catalognumber:80703 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:ROM 31840 passer" ; Times: 2
+	Query: "Eremophila alpestris nest" ; Times: 4
+	Query: "genus:Lonchura  specificepithet:punctulata" ; Times: 1
+	Query: "crane skeleton" ; Times: 4
+	Query: "class:Aves catalognumber:01.10.4.570 institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "institutioncode:ROM 26903" ; Times: 1
+	Query: "catalognumber:55633 collectioncode:birds" ; Times: 1
+	Query: "brown bear" ; Times: 2
+	Query: "institutioncode:ROM 26904" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufiventris genus:Turdus class:Aves" ; Times: 1
+	Query: "Long tailed weasel" ; Times: 1
+	Query: "vntype:specimen specificepithet:dorbignyi genus:asthenes country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "institutioncode:ROM 32.8.29.363 passer" ; Times: 2
+	Query: "class:Aves catalognumber:147596 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Hypositta specificepithet:corallirostris" ; Times: 1
+	Query: "specificepithet:gilvus genus:vireo stateprovince:&#34;wyoming&#34; continent:north america" ; Times: 1
+	Query: "specificepithet:ruficapilla genus:Vermivora class:Aves county:&#34;Halton&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "42086" ; Times: 1
+	Query: "specificepithet:quiscula genus:Quiscalus class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "SNAILS" ; Times: 1
+	Query: "genus:Hypocolius specificepithet:ampelinus" ; Times: 1
+	Query: "institutioncode:ROM 33.6.20.807 passer" ; Times: 1
+	Query: "class:Aves catalognumber:60540 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ROM 117363" ; Times: 2
+	Query: "class:Aves catalognumber:57458 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "rom 96484" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Bie&#34; country:&#34;Angola&#34; collectioncode:Birds" ; Times: 7
+	Query: "black tail deer" ; Times: 3
+	Query: "ROM 114740" ; Times: 1
+	Query: "Thraupis episcopus" ; Times: 3
+	Query: "catalognumber:16448" ; Times: 1
+	Query: "institutioncode:ROM 95869 passer" ; Times: 1
+	Query: "palliseri" ; Times: 1
+	Query: "53753" ; Times: 2
+	Query: "53973" ; Times: 1
+	Query: "genus:Mystacornis specificepithet:crossleyi" ; Times: 1
+	Query: "institutioncode:ROM 24.3.13.227 passer" ; Times: 2
+	Query: "hose 1894 muscicapidae" ; Times: 1
+	Query: "institutioncode:ROM 26919 passer" ; Times: 2
+	Query: "class:Aves catalognumber:8736 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:01.10.4.594 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Myrmornis torquata" ; Times: 1
+	Query: "specificepithet:phoebe genus:Sayornis class:Aves county:&#34;York&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:capensis genus:Zonotrichia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:153617 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:130016" ; Times: 1
+	Query: "genus:Neopelma specificepithet:chrysocephalum" ; Times: 1
+	Query: "class:Aves catalognumber:80766 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:94558 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "rom 96971" ; Times: 1
+	Query: "61002" ; Times: 1
+	Query: "ROM 117165" ; Times: 1
+	Query: "institutioncode:ROM 139803 passer" ; Times: 1
+	Query: "Paradoxornis guttaticollis" ; Times: 1
+	Query: "class:Aves catalognumber:155143 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:phoenicotis genus:chlorochrysa institutioncode:ROM" ; Times: 1
+	Query: "institutioncode:ROM passer domesticus 137518" ; Times: 1
+	Query: "specificepithet:carmioli frenata genus:Chlorothraupis" ; Times: 1
+	Query: "class:Aves catalognumber:74518 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Phrygilus unicolor mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "anthus rubescens hastissue:1" ; Times: 2
+	Query: "genus:Melanoptila specificepithet:glabrirostris" ; Times: 1
+	Query: "genus:Falculea specificepithet:palliata" ; Times: 1
+	Query: "catalognumber:55633" ; Times: 1
+	Query: "class:Aves catalognumber:48859 institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ROM 105871" ; Times: 1
+	Query: "institutioncode:ROM 13751" ; Times: 1
+	Query: "class:Aves catalognumber:88496 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:01.10.4.578 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mountain Lake Biological Station" ; Times: 1
+	Query: "genus:Pooecetes class:Aves county:&#34;Durham&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:15798 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:aves catalognumber:88913" ; Times: 1
+	Query: "genus:Chiroxiphia specificepithet:pareola" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella class:Aves county:&#34;Peel&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Gampsorhynchus specificepithet:rufulus" ; Times: 1
+	Query: "genus:Pooecetes class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:mustelina genus:Hylocichla class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "54126" ; Times: 1
+	Query: "simplex everett" ; Times: 1
+	Query: "Everett 1898" ; Times: 1
+	Query: "catalognumber:23105" ; Times: 1
+	Query: "specificepithet:domesticus genus:Passer class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America year &gt;= 1840 year &lt;= 1890 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "139265" ; Times: 1
+	Query: "institutioncode:ROM 95902 passer" ; Times: 1
+	Query: "Rhynchostruthus socotranus" ; Times: 1
+	Query: "genus:Pomatostomus specificepithet:superciliosus" ; Times: 1
+	Query: "specificepithet:aurocapillus genus:Seiurus class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "terenotriccus" ; Times: 3
+	Query: "institutioncode:ROM 137461 passer" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanirostris genus:Knipolegus class:Aves" ; Times: 1
+	Query: "specificepithet:tyrannus genus:Tyrannus class:Aves county:&#34;Halton&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America year &gt;= 1820 year &lt;= 1920 basisofrecord:PreservedSpecimen haslifestage:1" ; Times: 1
+	Query: "specificepithet:solitarius genus:Vireo class:Aves county:&#34;Peel&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:ROM 24.3.13.229 passer" ; Times: 2
+	Query: "Paradoxornis flavirostris" ; Times: 2
+	Query: "vntype:specimen specificepithet:ventralis genus:Phylloscartes class:Aves" ; Times: 1
+	Query: "contopus peninsulae" ; Times: 1
+	Query: "genus:Cyanocorax specificepithet:yncas" ; Times: 1
+	Query: "institutioncode:ROM 24.3.13.226 passer" ; Times: 1
+	Query: "specificepithet:carbonaria genus:Diglossa country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Euplectes specificepithet:hordeaceus" ; Times: 1
+	Query: "Plectrophenax nivalis (tissue OR skin OR stomach OR pectoral OR frozen) month &gt;= 4 month &lt;= 10 institutioncode:ROM" ; Times: 2
+	Query: "genus:Ptiloprora specificepithet:guisei" ; Times: 1
+	Query: "dear" ; Times: 1
+	Query: "specificepithet:domesticus genus:Passer class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America year &gt;= 1840 year &lt;= 1920 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:55931 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ROM 106563" ; Times: 1
+	Query: "30586" ; Times: 1
+	Query: "genus:Schetba specificepithet:rufa" ; Times: 1
+	Query: "class:Aves catalognumber:80681 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen genus:Carpodectes institutioncode:ROM" ; Times: 1
+	Query: "ROM 112583" ; Times: 1
+	Query: "class:Aves catalognumber:33884 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "Leucosticte australis" ; Times: 1
+	Query: "107071" ; Times: 1
+	Query: "genus:irena hastissue:1" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "genus:Corvus specificepithet:corax" ; Times: 1
+	Query: "class:Aves locality:san nicolas island" ; Times: 1
+	Query: "Lullula arborea" ; Times: 4
+	Query: "class:Aves catalognumber:157904 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:27819 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chaetornis striatus" ; Times: 1
+	Query: "specificepithet:domesticus genus:Passer class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen genus:Acanthisitta" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucomelas genus:Turdus class:Aves" ; Times: 2
+	Query: "C. O. Reis" ; Times: 1
+	Query: "58088" ; Times: 1
+	Query: "ROM 111864" ; Times: 1
+	Query: "class:Aves catalognumber:147606 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:ruficapilla genus:Vermivora class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "vntype:specimen specificepithet:dorbignyi genus:asthenes country:&#34;Bolivia&#34; institutioncode:ROM" ; Times: 1
+	Query: "genus:Certhia specificepithet:familiaris" ; Times: 1
+	Query: "genus:Laniarius specificepithet:fulleborni" ; Times: 1
+	Query: "institutioncode:ROM 137510 passer" ; Times: 1
+	Query: "specificepithet:carmioli genus:Chlorothraupis year &gt;= 1960" ; Times: 2
+	Query: "genus:Amblyramphus specificepithet:holosericeus" ; Times: 1
+	Query: "ROM 120598" ; Times: 1
+	Query: "specificepithet:aurantiirostris genus:Arremon" ; Times: 1
+	Query: "genus:Campephaga specificepithet:phoenicea" ; Times: 1
+	Query: "catalognumber:108466" ; Times: 1
+	Query: "myiagra vanikorensis" ; Times: 1
+	Query: "Anthornis melanura" ; Times: 1
+	Query: "26903" ; Times: 1
+	Query: "carex" ; Times: 1
+	Query: "genus:Seiurus class:Aves county:&#34;York&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:phoebe genus:Sayornis class:Aves county:&#34;Durham&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "country:&#34;iraq&#34;" ; Times: 1
+	Query: "institutioncode:ROM 33718 passer" ; Times: 1
+	Query: "genus:Polioptila specificepithet:caerulea" ; Times: 1
+	Query: "institutioncode:ROM 95874 passer" ; Times: 1
+	Query: "genus:Acanthorhynchus specificepithet:superciliosus" ; Times: 1
+	Query: "genus:Pooecetes class:Aves county:&#34;York&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:solitarius genus:Vireo class:Aves county:&#34;Durham&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "genus:Pipilo class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Psittirostra psittacea" ; Times: 1
+	Query: "genus:Oxyruncus country:&#34;brazil&#34;" ; Times: 3
+	Query: "specificepithet:cristata genus:Cyanocitta class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America year &gt;= 1820 year &lt;= 1920 basisofrecord:PreservedSpecimen haslifestage:1" ; Times: 1
+	Query: "Red fox continent:North America" ; Times: 1
+	Query: "class:Aves catalognumber:33.9.1.943 basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "institutioncode:ROM 139806 passer" ; Times: 1
+	Query: "genus:Tyrannus specificepithet:verticalis" ; Times: 1
+	Query: "112736" ; Times: 1
+	Query: "specificepithet:torquatus genus:Atlapetes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:abeillei genus:Arremon" ; Times: 1
+	Query: "psalidoprocne" ; Times: 1
+	Query: "Plectrophenax nivalis month &gt;= 4 month &lt;= 10 institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "institutioncode:ROM 137528" ; Times: 1
+	Query: "Brown Bear" ; Times: 3
+	Query: "institutioncode:ROM 137485" ; Times: 1
+	Query: "institutioncode:ROM 137489" ; Times: 1
+	Query: "genus:Calocitta specificepithet:formosa" ; Times: 1
+	Query: "genus:Lonchura specificepithet:cucullata" ; Times: 1
+	Query: "class:Aves catalognumber:33723 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:varia genus:Mniotilta class:Aves county:&#34;York&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:153053 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:70000" ; Times: 1
+	Query: "w.j. wirt class:aves" ; Times: 1
+	Query: "institutioncode:ROM 95866 passer" ; Times: 1
+	Query: "specificepithet:minimus genus:Empidonax stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "institutioncode:ROM 26904 passer" ; Times: 1
+	Query: "specificepithet:phoebe genus:Sayornis class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen genus:Haplospiza class:Aves" ; Times: 1
+	Query: "specificepithet:pelzelni genus:Granatellus" ; Times: 2
+	Query: "genus:Monarcha specificepithet:cinerascens" ; Times: 1
+	Query: "1894 copsychus" ; Times: 3
+	Query: "class:Aves catalognumber:148381 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:ROM 95887 passer" ; Times: 1
+	Query: "Hose 1893" ; Times: 1
+	Query: "Corvus palmarum" ; Times: 2
+	Query: "institutioncode:ROM 95856 passer" ; Times: 1
+	Query: "specificepithet:migratorius genus:turdus stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "class:Aves catalognumber:74827 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:ROM 12.1.23.322" ; Times: 1
+	Query: "institutioncode:ROM 33723 passer" ; Times: 1
+	Query: "specificepithet:petechia genus:Dendroica class:Aves county:&#34;York&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:ROM 26903 passer" ; Times: 1
+	Query: "class:Aves catalognumber:147608 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:ROM 78755 passer" ; Times: 1
+	Query: "genus:Dendronanthus specificepithet:indicus" ; Times: 1
+	Query: "ROM 117498" ; Times: 1
+	Query: "institutioncode:ROM 65291" ; Times: 1
+	Query: "institutioncode:ROM 31838 passer" ; Times: 1
+	Query: "class:Aves catalognumber:80278 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Calcarius specificepithet:mccownii" ; Times: 1
+	Query: "catalognumber:26798" ; Times: 1
+	Query: "vntype:specimen genus:icterus class:Aves country:&#34;Brazil&#34; institutioncode:ROM" ; Times: 1
+	Query: "mountain lake biological station class:aves" ; Times: 4
+	Query: "class:Aves catalognumber:143600 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:78910 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(vermivora celata celata) hastissue:1" ; Times: 1
+	Query: "institutioncode:ROM 24.2.14.1 passer" ; Times: 1
+	Query: "rom 106343" ; Times: 1
+	Query: "catalognumber:157835 institutioncode:ROM" ; Times: 2
+	Query: "mimus gundlachii" ; Times: 1
+	Query: "catalognumber:136891" ; Times: 1
+	Query: "catalognumber:88913" ; Times: 1
+	Query: "Sparrows" ; Times: 1
+	Query: "vntype:specimen specificepithet:capensis genus:Zonotrichia class:Aves country:&#34;Argentina&#34;" ; Times: 1
+	Query: "genus:Pardalotus specificepithet:striatus" ; Times: 1
+	Query: "specificepithet:aurocapillus genus:Seiurus class:Aves county:&#34;Peel&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ROM 120129" ; Times: 1
+	Query: "genus:Pitta specificepithet:angolensis" ; Times: 1
+	Query: "institutioncode:ROM 137469" ; Times: 1
+	Query: "&#34;Catalina Mill&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 74 (out of 1182 download events in this period)
+Total number of records downloaded: 16710
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 18
+	Country: Angola ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 36
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 8
+	Country: Puerto Rico ; Times: 1
+	Country: China ; Times: 2
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-05 ; Times: 4
+	Date: 2019-06-19 ; Times: 1
+	Date: 2019-06-18 ; Times: 3
+	Date: 2019-06-08 ; Times: 6
+	Date: 2019-06-09 ; Times: 1
+	Date: 2019-06-06 ; Times: 6
+	Date: 2019-06-07 ; Times: 4
+	Date: 2019-06-04 ; Times: 8
+	Date: 2019-06-16 ; Times: 5
+	Date: 2019-06-11 ; Times: 2
+	Date: 2019-06-03 ; Times: 6
+	Date: 2019-06-30 ; Times: 1
+	Date: 2019-06-23 ; Times: 2
+	Date: 2019-06-29 ; Times: 2
+	Date: 2019-06-17 ; Times: 1
+	Date: 2019-06-26 ; Times: 18
+	Date: 2019-06-25 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Paradoxornis flavirostris" ; Times: 1
+	Query: "specificepithet:torquatus genus:Atlapetes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(frog)" ; Times: 1
+	Query: "marmot" ; Times: 2
+	Query: "specificepithet:conirostris genus:Arremonops country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:capensis genus:Zonotrichia class:Aves (skin)" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "Chiroxiphia caudata" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Bie&#34; country:&#34;Angola&#34; collectioncode:Birds" ; Times: 1
+	Query: "vntype:specimen specificepithet:amoena genus:Passerina" ; Times: 1
+	Query: "beaver" ; Times: 8
+	Query: "black tail deer" ; Times: 2
+	Query: "BEAVER" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "specificepithet:behni genus:Myrmotherula" ; Times: 1
+	Query: "class:Aves locality:Mecca county:&#34;Riverside&#34; year &gt;= 1911 year &lt;= 1911" ; Times: 1
+	Query: "specificepithet:tricolor genus:Agelaius class:Aves county:&#34;kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "field vole" ; Times: 2
+	Query: "vntype:specimen specificepithet:culicivorus genus:Basileuterus class:Aves" ; Times: 1
+	Query: "SNAILS" ; Times: 1
+	Query: "specificepithet:flavirostris genus:Arremon" ; Times: 1
+	Query: "vntype:specimen specificepithet:ventralis genus:Phylloscartes class:Aves" ; Times: 1
+	Query: "vntype:specimen specificepithet:albicollis genus:Turdus class:Aves" ; Times: 1
+	Query: "golden eagle" ; Times: 1
+	Query: "Emberiza aureola" ; Times: 1
+	Query: "institutioncode:ROM passer domesticus 1979 Victoria" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "mountain lake biological station class:aves" ; Times: 4
+	Query: "vntype:specimen specificepithet:ustulatus genus:Catharus stateprovince:&#34;british columbia&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:abeillei genus:Arremon" ; Times: 1
+	Query: "vntype:specimen specificepithet:similis genus:Saltator class:Aves" ; Times: 1
+	Query: "spizella" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucoblepharus genus:Basileuterus class:Aves" ; Times: 1
+	Query: "corvus" ; Times: 1
+	Query: "genus:Lysurus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:capensis genus:Zonotrichia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "white tail deer" ; Times: 1
+	Query: "Paradoxornis" ; Times: 1
+	Query: "continent:europe hasmass:1" ; Times: 1
+	Query: "Everett 1898" ; Times: 1
+	Query: "vntype:specimen specificepithet:capensis genus:Zonotrichia class:Aves country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Turdus migratorius" ; Times: 1
+	Query: "blue jay" ; Times: 1
+	Query: "vntype:specimen specificepithet:carbonaria genus:Diglossa country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:taciturnus genus:Arremon" ; Times: 1
+	Query: "vntype:specimen specificepithet:amaurochalinus genus:Turdus class:Aves" ; Times: 1
+	Query: "vntype:specimen specificepithet:obscura genus:Elaenia class:Aves" ; Times: 1
+	Query: "black bear" ; Times: 2
+	Query: "vntype:specimen specificepithet:rufiventris genus:Turdus class:Aves" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucomelas genus:Turdus class:Aves" ; Times: 4
+	Query: "wolf" ; Times: 1
+	Query: "specificepithet:fumigatus genus:Turdus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:aurantiirostris genus:Arremon" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanirostris genus:Knipolegus class:Aves" ; Times: 1
+	Query: "vntype:specimen specificepithet:diadematus genus:Stephanophorus class:Aves" ; Times: 1
+	Query: "country:&#34;Puerto Rico&#34;" ; Times: 1
+
+
+End of report.
