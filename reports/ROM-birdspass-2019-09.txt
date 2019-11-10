@@ -1,0 +1,642 @@
+Report for Institution Code ROM, Resource birdspass
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 785
+Number of records retrieved in searches: 25185
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: Canada ; Times: 340
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Ecuador ; Times: 1
+	Country: Kuwait ; Times: 1
+	Country: Cuba ; Times: 5
+	Country: India ; Times: 8
+	Country: France ; Times: 13
+	Country: United States ; Times: 318
+	Country: Malaysia ; Times: 1
+	Country: Sweden ; Times: 17
+	Country: Germany ; Times: 14
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 13
+	Country: Denmark ; Times: 7
+	Country: Argentina ; Times: 1
+	Country: Bolivia ; Times: 13
+	Country: Norway ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 4
+	Date: 2019-09-15 ; Times: 9
+	Date: 2019-09-16 ; Times: 22
+	Date: 2019-09-17 ; Times: 13
+	Date: 2019-09-10 ; Times: 30
+	Date: 2019-09-11 ; Times: 16
+	Date: 2019-09-12 ; Times: 21
+	Date: 2019-09-13 ; Times: 8
+	Date: 2019-09-18 ; Times: 6
+	Date: 2019-09-19 ; Times: 58
+	Date: 2019-09-30 ; Times: 17
+	Date: 2019-09-09 ; Times: 17
+	Date: 2019-09-08 ; Times: 58
+	Date: 2019-09-03 ; Times: 51
+	Date: 2019-09-02 ; Times: 14
+	Date: 2019-09-01 ; Times: 1
+	Date: 2019-09-07 ; Times: 10
+	Date: 2019-09-06 ; Times: 70
+	Date: 2019-09-05 ; Times: 19
+	Date: 2019-09-04 ; Times: 213
+	Date: 2019-09-21 ; Times: 13
+	Date: 2019-09-20 ; Times: 14
+	Date: 2019-09-23 ; Times: 19
+	Date: 2019-09-22 ; Times: 12
+	Date: 2019-09-25 ; Times: 17
+	Date: 2019-09-24 ; Times: 8
+	Date: 2019-09-27 ; Times: 4
+	Date: 2019-09-26 ; Times: 30
+	Date: 2019-09-29 ; Times: 3
+	Date: 2019-09-28 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:88985" ; Times: 1
+	Query: "genus:Microcerculus institutioncode:ROM" ; Times: 1
+	Query: "icterus oberi vntype:specimen preparations:skeleton" ; Times: 4
+	Query: "specificepithet:chrysoptera genus:Vermivora institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:americana genus:certhia stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "genus:Perisoreus institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:citrea genus:protonotaria institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:pusilla genus:wilsonia country:&#34;canada&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:pictus genus:Calcarius stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 3
+	Query: "specificepithet:ciris genus:Passerina class:Aves institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "wizard" ; Times: 1
+	Query: "specificepithet:philadelphia genus:geothlypis institutioncode:ROM" ; Times: 1
+	Query: "Phlegopsis nigromaculata" ; Times: 1
+	Query: "specificepithet:hyemalis genus:junco stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:nigrescens genus:Dendroica institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:pinus genus:carduelis stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 2
+	Query: "hemignathus" ; Times: 1
+	Query: "ROM 109840" ; Times: 1
+	Query: "specificepithet:hornemanni genus:carduelis stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:Hudsonicus genus:Parus stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "country:&#34;Angola&#34; preparations:eggs" ; Times: 1
+	Query: "Aphelocoma californica San Diego County" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Cossypha polioptera vntype:specimen sex:female" ; Times: 1
+	Query: "143747" ; Times: 1
+	Query: "locality:Alberta institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:solstitialis genus:Troglodytes institutioncode:ROM" ; Times: 1
+	Query: "143742" ; Times: 1
+	Query: "specificepithet:dominica genus:Dendroica institutioncode:ROM" ; Times: 1
+	Query: "myiozetetes cayanensis" ; Times: 1
+	Query: "Anthus rubescens hastissue:1" ; Times: 1
+	Query: "genus:Stephanophorus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Heteralocha" ; Times: 1
+	Query: "genus:Margarornis institutioncode:ROM" ; Times: 1
+	Query: "Turdus plumbeus" ; Times: 3
+	Query: "specificepithet:nivalis genus:Plectrophenax stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "anthus rubescens year &gt;= 1985 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "Henicorhina" ; Times: 4
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "specificepithet:enucleator genus:Pinicola stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:chiguanco genus:Turdus institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:satrapa genus:Regulus stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "Ficedula sapphira vntype:specimen" ; Times: 2
+	Query: "16994." ; Times: 1
+	Query: "specificepithet:palustris genus:Cistothorus stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "genus:Buthraupis institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:virginiae genus:Vermivora institutioncode:ROM" ; Times: 1
+	Query: "Cichladusa ruficauda vntype:specimen" ; Times: 1
+	Query: "specificepithet:tristis genus:carduelis stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:sandwichensis genus:Ammodramus institutioncode:ROM" ; Times: 1
+	Query: "ROM Ichthyology vntype:specimen institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:querula genus:Zonotrichia stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "Synallaxis erythrothorax" ; Times: 1
+	Query: "genus:Cyanocitta institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:fuscater genus:Turdus institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:sonnerati genus:Chloropsis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:celata genus:Vermivora institutioncode:ROM" ; Times: 3
+	Query: "country:&#34;Colombia&#34; preparations:eggs" ; Times: 3
+	Query: "catalognumber:81765 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:poecilonota genus:Hylophylax institutioncode:ROM skeleton" ; Times: 1
+	Query: "class:aves stateprovince:&#34;kilimanjaro&#34; country:&#34;tanzania&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen genus:sturnella class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:purpureus genus:carpodacus stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "class:aves country:&#34;russia&#34; year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "specificepithet:canadensis genus:Sitta stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "Osmaston" ; Times: 1
+	Query: "specificepithet:scotops genus:eremomela institutioncode:ROM" ; Times: 5
+	Query: "Catharopeza bishopi rom" ; Times: 1
+	Query: "specificepithet: magnolia genus:Dendroica institutioncode:ROM" ; Times: 1
+	Query: "(anthus rubescens) hastissue:1" ; Times: 1
+	Query: "catalognumber:67286" ; Times: 1
+	Query: "Cana Honda" ; Times: 1
+	Query: "specificepithet:cincta genus:Poephila" ; Times: 2
+	Query: "specificepithet:satrapa genus:Regulus stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:carolinus genus:euphagus stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:pictus genus:myioborus institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen genus:Pipraeidea class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:arborea genus:spizella stateprovince:&#34;Manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "inornatus gila" ; Times: 1
+	Query: "specificepithet:arborea genus:Spizella stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:cristata genus:Cyanocitta stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "32960" ; Times: 1
+	Query: "specificepithet:canadensis genus:perisoreus stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:106767 institutioncode:ROM" ; Times: 1
+	Query: "cavity nesting birds" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:canadensis genus:perisoreus stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:pinus genus:carduelis stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:excubitor genus:Lanius stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "Myiophoneus melanurus vntype:specimen sex:female" ; Times: 1
+	Query: "145256" ; Times: 1
+	Query: "Saxicola stejnegeri" ; Times: 1
+	Query: "specificepithet:atricapillus genus:Poecile institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:tristis genus:carduelis stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:graciae genus:Dendroica institutioncode:ROM" ; Times: 1
+	Query: "stateprovince:&#34;kilimanjaro&#34; country:&#34;tanzania&#34;" ; Times: 1
+	Query: "Ramphocelus dimidiatus" ; Times: 1
+	Query: "specificepithet:leucoptera genus:loxia stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Dendroica institutioncode:ROM" ; Times: 1
+	Query: "Cossypha cyanocampter vntype:specimen sex:female" ; Times: 1
+	Query: "specificepithet:curvirostra genus:loxia stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:garrulus genus:bombycilla stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "141412" ; Times: 1
+	Query: "Elaenia fallax" ; Times: 1
+	Query: "Aphelocoma californica Sonoma County" ; Times: 1
+	Query: "specificepithet:albicollis genus:Zonotrichia stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "Aphelocoma californica San Luis Obispo" ; Times: 1
+	Query: "specificepithet:enucleator genus:pinicola stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:atricapillus genus:Parus stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "mvz 7918" ; Times: 1
+	Query: "specificepithet:varia genus:mniotilta institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:trichas genus:Geothlypis institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:dauma genus:zoothera hastissue:1" ; Times: 1
+	Query: "specificepithet:cristata genus:Cyanocitta stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "myiozetetes granadensis" ; Times: 1
+	Query: "zosterops everetti" ; Times: 2
+	Query: "skeleton specificepithet:stelleri genus:Cyanocitta institutioncode:ROM" ; Times: 1
+	Query: "nicobar" ; Times: 1
+	Query: "specificepithet:leucoptera genus:Loxia stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "Brachypteryx stellata" ; Times: 1
+	Query: "phoenicurus erythronotus" ; Times: 1
+	Query: "specificepithet:carolinus genus:Euphagus stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:hornemanni genus:carduelis stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "27957" ; Times: 1
+	Query: "specificepithet:swainsonii genus:Limnothlypis institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus country:&#34;canada&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Dicrurus ludwigii sharpei" ; Times: 1
+	Query: "micrus specificepithet:griseus genus:vireo" ; Times: 1
+	Query: "specificepithet:frontalis genus:Synallaxis institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:striata genus:Dendroica institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:arborea genus:Spizella stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:tolmiei genus:Geothlypis institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:curvirostra genus:loxia stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "Aphelocoma California. Lake County" ; Times: 1
+	Query: "Icterus mesomelas salvinii" ; Times: 1
+	Query: "genus:Microbates institutioncode:ROM" ; Times: 1
+	Query: "country:&#34;Peru&#34; preparations:eggs" ; Times: 1
+	Query: "specificepithet:albicollis genus:Turdus institutioncode:ROM" ; Times: 6
+	Query: "specificepithet:canadensis genus:Sitta institutioncode:ROM" ; Times: 1
+	Query: "genus:Melanopareia institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen genus:Stephanophorus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:crissalis genus:Vermivora institutioncode:ROM" ; Times: 1
+	Query: "uwbm 1180" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "Anthus Rubescens year &gt;= 1950 year &lt;= 2019 hastissue:1" ; Times: 2
+	Query: "specificepithet:lapponicus genus:calcarius stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "parus cyanus" ; Times: 1
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 39
+	Query: "115807" ; Times: 1
+	Query: "genus:Perisoreus stateprovince:&#34;Alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:Hudsonicus genus:Parus stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:virens genus:Icteria institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:ater genus:molothrus stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "genus:ortygospiza class:aves" ; Times: 1
+	Query: "genus:Parus stateprovince:&#34;Alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "Meliphaga flavicollis rom" ; Times: 1
+	Query: "specificepithet:ardesiacus genus:Dysithamnus institutioncode:ROM" ; Times: 1
+	Query: "Saltator striatipectus" ; Times: 1
+	Query: "specificepithet:vulgaris genus:sturnus stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:philadelphia genus:Geothlypis institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:atricapillus genus:Parus stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "conirostrum bicolor" ; Times: 4
+	Query: "Prunella collaris" ; Times: 5
+	Query: "beetle" ; Times: 1
+	Query: "specificepithet:vulgaris genus:sturnus stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:discolor genus:Dendroica institutioncode:ROM" ; Times: 1
+	Query: "kirtlandii" ; Times: 1
+	Query: "specificepithet:cristata genus:cyanocitta stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:tolmiei genus:geothlypis institutioncode:ROM" ; Times: 1
+	Query: "tiaris grandior" ; Times: 1
+	Query: "specificepithet:poecilonota genus:Hylophylax institutioncode:ROM" ; Times: 3
+	Query: "70455" ; Times: 1
+	Query: "specificepithet:noveboracensis genus:seiurus institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:migratorius genus:Turdus stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen genus:Orthogonys class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "24204" ; Times: 1
+	Query: "specificepithet:vespertinus genus:coccothraustes stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "Muscicapa tyrrhenica vntype:specimen" ; Times: 1
+	Query: "Heteralocha female" ; Times: 1
+	Query: "vntype:specimen specificepithet:longipes genus:Xenicus" ; Times: 1
+	Query: "specificepithet:atricapillus genus:Poecile stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:garrulus genus:bombycilla stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:canadensis genus:sitta stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:flammea genus:carduelis stateprovince:&#34;Manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:89211 institutioncode:ROM" ; Times: 2
+	Query: "Lanio vntype:specimen country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:salpornis" ; Times: 1
+	Query: "specificepithet:canadensis genus:sitta stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "canada lynx" ; Times: 1
+	Query: "catalognumber:59252 institutioncode:ROM" ; Times: 2
+	Query: "Lepidoptera" ; Times: 2
+	Query: "Saxicola stejnegeri vntype:specimen sex:female basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:aves locality:machakos basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Uropsila leucogastra" ; Times: 2
+	Query: "specificepithet:fuscater institutioncode:ROM" ; Times: 2
+	Query: "Melanospiza richardsoni rom" ; Times: 1
+	Query: "Serinus canaria canaria" ; Times: 1
+	Query: "Green kingfisher" ; Times: 1
+	Query: "cacabata" ; Times: 1
+	Query: "specificepithet:SCOTOPS genus:EREMOMELA institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen genus:Sturnella class:Aves country:&#34;Brazil&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "institutioncode:ROM" ; Times: 3
+	Query: "specificepithet:rutila genus:Phytotoma institutioncode:ROM" ; Times: 1
+	Query: "Aphelocoma californica Ventura County" ; Times: 1
+	Query: "specificepithet:corax genus:corvus stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "genus:Corvus stateprovince:&#34;Saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "pipilo gaigei" ; Times: 1
+	Query: "Passer cinnamomeus" ; Times: 1
+	Query: "Perisoreus canadensis alberta" ; Times: 1
+	Query: "specificepithet:calendula genus:Regulus stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "Coracina mindanensis" ; Times: 1
+	Query: "Ferminia cerverai rom" ; Times: 1
+	Query: "specificepithet:carolinus genus:Euphagus stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "138118" ; Times: 1
+	Query: "specificepithet:corvina genus:Terpsiphone" ; Times: 5
+	Query: "cardinalis coccineus" ; Times: 1
+	Query: "morse egg Carlsbad" ; Times: 1
+	Query: "Basileuterus tristriatus" ; Times: 1
+	Query: "UMMZ Mexico Turdus migratorius skin" ; Times: 1
+	Query: "specificepithet:purpureus genus:carpodacus stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:scotops genus:eremomela" ; Times: 8
+	Query: "perquisitor specificepithet:griseus genus:vireo" ; Times: 1
+	Query: "inornatus coconino" ; Times: 3
+	Query: "specificepithet:vulgaris genus:sturnus stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:nivalis genus:Plectrophenax stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 2
+	Query: "vntype:specimen genus:Ammodramus catalognumber:113504 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:cerulea genus:Dendroica institutioncode:ROM" ; Times: 1
+	Query: "14150" ; Times: 1
+	Query: "specificepithet:coronata genus:Dendroica institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:purpureus genus:carpodacus stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "Melaenornis infuscatus vntype:specimen" ; Times: 1
+	Query: "hylexetastes" ; Times: 1
+	Query: "specificepithet:satrapa genus:Regulus stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "morse egg Carlsbad 1922" ; Times: 1
+	Query: "Myrmecocichla aethiops vntype:specimen" ; Times: 1
+	Query: "specificepithet:fusca genus:Dendroica institutioncode:ROM" ; Times: 2
+	Query: "(anthus rubescens) year &gt;= 1980 year &lt;= 2018 hastissue:1" ; Times: 2
+	Query: "Tangara guttata" ; Times: 1
+	Query: "GOW" ; Times: 1
+	Query: "specificepithet:azarae genus:Synallaxis institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina hastissue:1" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 4
+	Query: "vntype:specimen genus:Xenicus class:Aves" ; Times: 1
+	Query: "specificepithet:atricapillus genus:Parus stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:aurocapillus genus:seiurus institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:cincta genus:Poephila institutioncode:ROM" ; Times: 4
+	Query: "locality:algonquin institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:pinus genus:Vermivora institutioncode:ROM" ; Times: 3
+	Query: "Saxicola gutturalis vntype:specimen sex:female" ; Times: 1
+	Query: "specificepithet:troglodytes genus:Troglodytes stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:vespertinus genus:coccothraustes stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:pictus genus:Calcarius institutioncode:ROM" ; Times: 1
+	Query: "Myrmecocichla aethiops" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1890 year &lt;= 1905" ; Times: 2
+	Query: "specificepithet:purpureus genus:carpodacus stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen specificepithet:humeralis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:60625 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:agilis genus:geothlypis institutioncode:ROM" ; Times: 1
+	Query: "Onychognathus fulgidus" ; Times: 1
+	Query: "specificepithet:lapponicus genus:calcarius stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "ROM 100513" ; Times: 1
+	Query: "catalognumber:30852 institutioncode:ROM" ; Times: 2
+	Query: "ultramarina 1913" ; Times: 1
+	Query: "Thryomanes bewickii leucophrys" ; Times: 2
+	Query: "catalognumber:69915 institutioncode:ROM" ; Times: 1
+	Query: "Melaenornis microrhynchus vntype:specimen sex:female" ; Times: 1
+	Query: "genus:Thamnomanes institutioncode:ROM" ; Times: 2
+	Query: "124678" ; Times: 1
+	Query: "specificepithet:caerulescens genus:Dendroica institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:lapponicus genus:Calcarius stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "eremomela scotops" ; Times: 1
+	Query: "specificepithet:petechia genus:Dendroica institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen genus:Sturnella class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "skeleton specificepithet:solstitialis genus:Troglodytes institutioncode:ROM" ; Times: 1
+	Query: "&#34;stomach contents saved&#34; class:Aves" ; Times: 1
+	Query: "specificepithet:formosa genus:geothlypis institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:hornemanni genus:Carduelis stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:carolinus genus:Euphagus stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "Muscicapa infuscata vntype:specimen" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "Cossypha polioptera vntype:specimen" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sitta stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:purpureus genus:Carpodacus stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "Lessonia rufa" ; Times: 1
+	Query: "genus:Anisognathus institutioncode:ROM" ; Times: 2
+	Query: "Tangara labradorides" ; Times: 1
+	Query: "finschia novaeseelandiae rom" ; Times: 2
+	Query: "catalognumber:102736 institutioncode:ROM" ; Times: 2
+	Query: "136325" ; Times: 1
+	Query: "72764" ; Times: 1
+	Query: "10430" ; Times: 1
+	Query: "oriolus traillii" ; Times: 3
+	Query: "138119" ; Times: 1
+	Query: "specificepithet:leucoptera genus:loxia stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:curvirostra genus:loxia stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:arborea genus:spizella stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:agilis genus:Geothlypis institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:philadelphia genus:Geothlypis country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Chasiempis sandwichensis usnm" ; Times: 1
+	Query: "vntype:specimen genus:Ammodramus catalognumber: 113495 institutioncode:ROM" ; Times: 1
+	Query: "ramphocinclus brachyurus" ; Times: 3
+	Query: "catalognumber:60627 institutioncode:ROM" ; Times: 1
+	Query: "stateprovince:&#34;nicobar&#34; country:&#34;india&#34;" ; Times: 3
+	Query: "specificepithet:canadensis genus:sitta stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 2
+	Query: "genus:Corvus stateprovince:&#34;Alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:calendula genus:Regulus stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "Turdus nudigenis" ; Times: 1
+	Query: "catalognumber:105366" ; Times: 1
+	Query: "specificepithet:glandarius class:aves year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "specificepithet:pusilla genus:Wilsonia institutioncode:ROM" ; Times: 1
+	Query: "genus:Corvus stateprovince:&#34;Manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "class:aves locality:machakos" ; Times: 1
+	Query: "genus:Cinnycerthia institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sitta stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "Xenicus" ; Times: 1
+	Query: "Saxicola dacotiae sex:female" ; Times: 1
+	Query: "kingi" ; Times: 1
+	Query: "specificepithet:sandwichensis genus:Passerculus institutioncode:ROM" ; Times: 4
+	Query: "vireo bellii hastissue:1" ; Times: 1
+	Query: "Anthus Rubescens hastissue:1" ; Times: 1
+	Query: "specificepithet:pinus genus:carduelis stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:leucophrys genus:anthus" ; Times: 3
+	Query: "specificepithet:enucleator genus:Pinicola stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:castanea genus:Dendroica institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:griseus genus:vireo stateprovince:&#34;veracruz&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "wing specificepithet:stelleri genus:Cyanocitta institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:excubitor genus:Lanius stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 2
+	Query: "moesta" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 12
+	Query: "genus:Hylophylax institutioncode:ROM" ; Times: 5
+	Query: "specificepithet:enucleator genus:pinicola stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 61
+	Query: "Muscicapa striata tyrrhenica vntype:specimen" ; Times: 1
+	Query: "catalognumber:31031 institutioncode:ROM" ; Times: 2
+	Query: "inornatus navajo" ; Times: 1
+	Query: "specificepithet:canadensis genus:Sitta stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "inornatus yavapai" ; Times: 1
+	Query: "vireo bellii san diego" ; Times: 1
+	Query: "specificepithet:pusilla genus:wilsonia country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:luciae genus:Vermivora institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:pictus genus:Calcarius stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 2
+	Query: "Aphelocoma utah county" ; Times: 1
+	Query: "specificepithet:cristata genus:Cyanocitta stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "junco hyemalis UMMZ" ; Times: 1
+	Query: "specificepithet:tigrina genus:Dendroica institutioncode:ROM" ; Times: 1
+	Query: "47798" ; Times: 1
+	Query: "specificepithet:cristata genus:cyanocitta stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 2
+	Query: "Myioborus ornatus" ; Times: 2
+	Query: "specificepithet:pinus genus:carduelis stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 2
+	Query: "Aplonis tabuensis vitiensis" ; Times: 1
+	Query: "specificepithet:canadensis genus:sitta stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:flammea genus:carduelis stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen genus:Caryothraustes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:vermivorus genus:helmitheros institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:60631 institutioncode:ROM" ; Times: 1
+	Query: "chestnut-sided warbler" ; Times: 1
+	Query: "75277" ; Times: 1
+	Query: "catalognumber:100695 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:peregrina genus:Vermivora institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:dorbignyi genus:Asthenes institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:carolinus genus:euphagus stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "8977 Catharus" ; Times: 1
+	Query: "teretistris fornsi" ; Times: 1
+	Query: "specificepithet:excubitor genus:Lanius stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 2
+	Query: "Phoenicurus moussieri" ; Times: 6
+	Query: "Saxicola gutturalis" ; Times: 3
+	Query: "specificepithet:stelleri genus:Cyanocitta institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:106771 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:personatus collectioncode:Birds" ; Times: 2
+	Query: "specificepithet:ater genus:molothrus stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:albicollis genus:Zonotrichia stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "Ficedula superciliaris" ; Times: 3
+	Query: "specificepithet:carolinus genus:euphagus stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:ater genus:molothrus stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:canadensis genus:perisoreus stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "overington" ; Times: 1
+	Query: "Thryomanes bewickii catalinae" ; Times: 1
+	Query: "specificepithet:hyemalis genus:junco stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:ossifragus genus:Corvus hastissue:1" ; Times: 4
+	Query: "specificepithet:palmarum genus:Dendroica institutioncode:ROM" ; Times: 1
+	Query: "hemitriccus olivascens" ; Times: 1
+	Query: "Elaenia martinica barbadensis" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 16
+	Query: "catalognumber:107236 institutioncode:ROM" ; Times: 2
+	Query: "Aves Pyrenees" ; Times: 2
+	Query: "open bay" ; Times: 1
+	Query: "ROM 104702" ; Times: 1
+	Query: "specificepithet:formosa genus:Geothlypis institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:lapponicus genus:Calcarius stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "country:&#34;Colombia&#34; (myiozetetes granadensis)" ; Times: 1
+	Query: "specificepithet:vespertinus genus:coccothraustes stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 2
+	Query: "genus:Frederickena institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:collaris genus:Microbates institutioncode:ROM" ; Times: 3
+	Query: "specificepithet:migratorius genus:Turdus stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:albicollis genus:Zonotrichia stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "Aphelocoma californica Santa Clara County" ; Times: 1
+	Query: "114704" ; Times: 1
+	Query: "Saxicola dacotiae" ; Times: 1
+	Query: "specificepithet:flammea genus:carduelis stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "FMNH Cyanocitta cristata" ; Times: 1
+	Query: "specificepithet:arborea genus:spizella stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "berlepschi" ; Times: 1
+	Query: "vireo griseus" ; Times: 1
+	Query: "specificepithet:purpureus genus:Carpodacus stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "Perisoreus canadensis alberta egg" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sitta stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:pictus genus:Calcarius stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:purpureus genus:Carpodacus stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:vulgaris genus:sturnus stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 2
+	Query: "Anthus rubescens year &gt;= 1985 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "Cyanocorax affinis" ; Times: 1
+	Query: "specificepithet:garrulus genus:bombycilla stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "Pinarornis plumosus rom" ; Times: 1
+	Query: "specificepithet:ruﬁcapilla genus:Vermivora institutioncode:ROM" ; Times: 1
+	Query: "coracina louisiadensis" ; Times: 2
+	Query: "specificepithet:icterus genus:Icterus" ; Times: 1
+	Query: "specificepithet:rubrifrons genus:cardellina institutioncode:ROM" ; Times: 1
+	Query: "ROM 108313" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Peucedramus institutioncode:ROM" ; Times: 3
+	Query: "Aphelocoma New Mexico Grant County" ; Times: 1
+	Query: "specificepithet:aureoventris meridensis genus:Pheucticus" ; Times: 1
+	Query: "specificepithet:citrina genus:Wilsonia institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:leucoptera genus:Loxia stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "Leiothrix lutea hastissue:1" ; Times: 2
+	Query: "Cercotrichas podobe vntype:specimen sex:female" ; Times: 1
+	Query: "locality:Manitoba institutioncode:ROM" ; Times: 3
+	Query: "specificepithet:kirtlandii genus:Dendroica institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:garrulus genus:bombycilla stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "135738" ; Times: 1
+	Query: "Corvus cornix" ; Times: 1
+	Query: "specificepithet:virens genus:Dendroica institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:leucoptera genus:Loxia stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "psm 659" ; Times: 1
+	Query: "specificepithet:canadensis genus:Wilsonia institutioncode:ROM" ; Times: 1
+	Query: "Chlorospingus canigularis" ; Times: 1
+	Query: "specificepithet:lapponicus genus:Calcarius stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "specificepithet:Hudsonicus genus:Parus stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "salpornis spilonotus" ; Times: 1
+	Query: "Turdus plumbeus rubripes" ; Times: 1
+	Query: "specificepithet:troglodytes genus:Troglodytes stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "32980" ; Times: 1
+	Query: "specificepithet:pictus genus:Calcarius stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:tristis genus:carduelis stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:montanus genus:Passer institutioncode:ROM hastissue:1" ; Times: 3
+	Query: "specificepithet:palustris genus:Cistothorus stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:bachmanii genus:Vermivora institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:calendula genus:Regulus stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "107488" ; Times: 1
+	Query: "specificepithet:motacilla genus:seiurus institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:corax genus:corvus stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:lapponicus genus:calcarius stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:nivalis genus:Plectrophenax stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:pinus genus:Dendroica institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:leucoptera genus:loxia stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "genus:Upucerthia institutioncode:ROM" ; Times: 1
+	Query: "palustris clarke" ; Times: 1
+	Query: "Henicorhina country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "specificepithet:cristata genus:cyanocitta stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:atricapillus genus:Parus institutioncode:ROM" ; Times: 1
+	Query: "Anthornis melanura rom" ; Times: 1
+	Query: "county:&#34;Wilbarger&#34;" ; Times: 1
+	Query: "specificepithet:calendula genus:Regulus stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:zeylanicus genus:Pycnonotus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "zosterops simplex" ; Times: 1
+	Query: "specificepithet:montanus genus:Passer continent:North America hastissue:1" ; Times: 3
+	Query: "specificepithet:pensylvanica genus:Dendroica institutioncode:ROM" ; Times: 1
+	Query: "Anthus Rubescens year &gt;= 1985 year &lt;= 2019 hastissue:1" ; Times: 2
+	Query: "specificepithet:montanus genus:Passer hastissue:1" ; Times: 3
+	Query: "specificepithet:atricapillus class:aves year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "specificepithet:americana genus:Parula institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:90926" ; Times: 1
+	Query: "specificepithet:purpureus genus:Carpodacus stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "Cinclocerthia ruficauda rom" ; Times: 1
+	Query: "catalognumber:60628 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:22.4.20.1001 institutioncode:ROM" ; Times: 2
+	Query: "Prinia rufescens" ; Times: 1
+	Query: "locality:Toronto institutioncode:ROM" ; Times: 1
+	Query: "cinclus pallasii" ; Times: 2
+	Query: "henicorhina leucosticta" ; Times: 2
+	Query: "hastissue:1 anthus rubescens" ; Times: 1
+	Query: "Uropsila leucogastra leucogastra" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga institutioncode:ROM" ; Times: 1
+	Query: "141501" ; Times: 1
+	Query: "specificepithet:townsendi genus:Dendroica institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:canadensis genus:Sitta stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1905 year &lt;= 1915" ; Times: 1
+	Query: "specificepithet:chrysoparia genus:Dendroica institutioncode:ROM" ; Times: 3
+	Query: "specificepithet:enucleator genus:pinicola stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:142715 institutioncode:ROM" ; Times: 1
+	Query: "icterus mesomelas veracruz" ; Times: 1
+	Query: "specificepithet:carolinus genus:Euphagus institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:longipes genus:Xenicus" ; Times: 2
+	Query: "52606" ; Times: 1
+	Query: "specificepithet:caeruleus genus:parus hastissue:1" ; Times: 2
+	Query: "specificepithet:cristata genus:Cyanocitta stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "Myioborus melanocephalus" ; Times: 2
+	Query: "vntype:specimen genus:Pitylus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 1
+	Query: "specificepithet:hornemanni genus:carduelis stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 1073 download events in this period)
+Total number of records downloaded: 20673
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 17
+	Country: Rwanda ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: Switzerland ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 6
+	Date: 2019-09-20 ; Times: 2
+	Date: 2019-09-16 ; Times: 6
+	Date: 2019-09-17 ; Times: 3
+	Date: 2019-09-10 ; Times: 3
+	Date: 2019-09-11 ; Times: 1
+	Date: 2019-09-26 ; Times: 1
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-18 ; Times: 3
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-02 ; Times: 4
+	Date: 2019-09-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Saltator striatipectus" ; Times: 1
+	Query: "specificepithet:icterus genus:Icterus" ; Times: 2
+	Query: "specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "inornatus coconino" ; Times: 1
+	Query: "ants" ; Times: 1
+	Query: "conirostrum bicolor" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "Myioborus ornatus" ; Times: 1
+	Query: "Chlorospingus flavopectus" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "chihuahua" ; Times: 1
+	Query: "Pochutla" ; Times: 1
+	Query: "order:passeriformes haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Tangara labradorides" ; Times: 1
+	Query: "specificepithet:personatus collectioncode:Birds" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1905 year &lt;= 1915" ; Times: 1
+	Query: "celebensis" ; Times: 1
+	Query: "Turdus nudigenis" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1890 year &lt;= 1905" ; Times: 2
+	Query: "inornatus navajo" ; Times: 1
+	Query: "specificepithet:ossifragus genus:Corvus hastissue:1" ; Times: 1
+	Query: "Cyanocorax affinis" ; Times: 1
+	Query: "vntype:specimen specificepithet:longipes genus:Xenicus" ; Times: 1
+	Query: "canorus" ; Times: 1
+	Query: "Chlorospingus canigularis" ; Times: 1
+	Query: "class:aves stateprovince:&#34;kilimanjaro&#34; country:&#34;tanzania&#34;" ; Times: 1
+	Query: "Myioborus melanocephalus" ; Times: 2
+	Query: "Basileuterus tristriatus" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 1
+	Query: "Myioborus miniatus" ; Times: 1
+
+
+End of report.
