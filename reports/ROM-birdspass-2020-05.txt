@@ -1,0 +1,429 @@
+Report for Institution Code ROM, Resource birdspass
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 432
+Number of records retrieved in searches: 6477
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 141
+	Country: Brazil ; Times: 39
+	Country: Unknown ; Times: 2
+	Country: Panama ; Times: 2
+	Country: France ; Times: 10
+	Country: Ireland ; Times: 8
+	Country: Argentina ; Times: 6
+	Country: Venezuela ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Belgium ; Times: 1
+	Country: Iraq ; Times: 3
+	Country: Hong Kong ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 180
+	Country: Sweden ; Times: 5
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 10
+	Country: United Kingdom ; Times: 9
+	Country: Colombia ; Times: 2
+	Country: Paraguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 8
+	Date: 2020-05-24 ; Times: 5
+	Date: 2020-05-27 ; Times: 16
+	Date: 2020-05-26 ; Times: 18
+	Date: 2020-05-23 ; Times: 4
+	Date: 2020-05-22 ; Times: 15
+	Date: 2020-05-29 ; Times: 4
+	Date: 2020-05-28 ; Times: 6
+	Date: 2020-05-18 ; Times: 3
+	Date: 2020-05-19 ; Times: 4
+	Date: 2020-05-10 ; Times: 14
+	Date: 2020-05-11 ; Times: 4
+	Date: 2020-05-12 ; Times: 4
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-14 ; Times: 9
+	Date: 2020-05-15 ; Times: 14
+	Date: 2020-05-16 ; Times: 5
+	Date: 2020-05-17 ; Times: 50
+	Date: 2020-05-30 ; Times: 4
+	Date: 2020-05-31 ; Times: 3
+	Date: 2020-05-09 ; Times: 7
+	Date: 2020-05-08 ; Times: 10
+	Date: 2020-05-07 ; Times: 35
+	Date: 2020-05-06 ; Times: 24
+	Date: 2020-05-05 ; Times: 11
+	Date: 2020-05-04 ; Times: 16
+	Date: 2020-05-03 ; Times: 12
+	Date: 2020-05-02 ; Times: 9
+	Date: 2020-05-01 ; Times: 117
+
+List of queries that retrieved data from the resource: 
+	Query: "alectrurus" ; Times: 2
+	Query: "64668" ; Times: 1
+	Query: "dacnis cayana" ; Times: 3
+	Query: "65493" ; Times: 1
+	Query: "66672" ; Times: 1
+	Query: "64666" ; Times: 1
+	Query: "manacus manacus" ; Times: 2
+	Query: "158008" ; Times: 1
+	Query: "catalognumber:125618" ; Times: 1
+	Query: "109455" ; Times: 1
+	Query: "47128" ; Times: 1
+	Query: "158005" ; Times: 1
+	Query: "158007" ; Times: 1
+	Query: "recordnumber:26196" ; Times: 2
+	Query: "57822" ; Times: 1
+	Query: "Yemen" ; Times: 2
+	Query: "wizard" ; Times: 1
+	Query: "ROM 3891" ; Times: 2
+	Query: "ilicura militaris" ; Times: 1
+	Query: "109465" ; Times: 1
+	Query: "34415" ; Times: 1
+	Query: "specificepithet:subis genus:Progne (&#34;ws&#34; &#34;wing span&#34;)" ; Times: 1
+	Query: "139179" ; Times: 1
+	Query: "147969" ; Times: 1
+	Query: "ROM 118787" ; Times: 2
+	Query: "28960" ; Times: 1
+	Query: "Sturnus vulgaris ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "myrmoborus myotherinus" ; Times: 1
+	Query: "147968" ; Times: 1
+	Query: "vntype:specimen specificepithet:cayana genus:Dacnis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "manacus manacus gutturosus" ; Times: 2
+	Query: "18482" ; Times: 1
+	Query: "513262" ; Times: 1
+	Query: "158013" ; Times: 1
+	Query: "lycocorax" ; Times: 2
+	Query: "48344" ; Times: 1
+	Query: "specificepithet:discolor class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sialia currucoides ws OR wingspan OR wing+span" ; Times: 9
+	Query: "34410" ; Times: 1
+	Query: "113485" ; Times: 1
+	Query: "specificepithet:minimus genus:empidonax county:&#34;Muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "97386" ; Times: 1
+	Query: "genus:Salpinctes family:Troglodytidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "trivirgata" ; Times: 1
+	Query: "160325" ; Times: 1
+	Query: "Cochoa" ; Times: 1
+	Query: "Junco hyemalis nova scotia" ; Times: 1
+	Query: "catalognumber:31824" ; Times: 1
+	Query: "country:&#34;belize&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:enca genus:corvus country:&#34;philippines&#34;" ; Times: 1
+	Query: "(tai o)" ; Times: 1
+	Query: "Aplonis panayensis country:&#34;india&#34;" ; Times: 1
+	Query: "family:Mimidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "64968" ; Times: 1
+	Query: "158094" ; Times: 1
+	Query: "eurylaimus steerii" ; Times: 1
+	Query: "pomatorhinus formosus" ; Times: 2
+	Query: "60453" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo sex:female" ; Times: 1
+	Query: "129486" ; Times: 1
+	Query: "Progne subis (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "Tachycineta bicolor ws OR wingspan OR wing+span" ; Times: 9
+	Query: "129098" ; Times: 1
+	Query: "albigularis" ; Times: 1
+	Query: "138782" ; Times: 1
+	Query: "141385" ; Times: 1
+	Query: "64705" ; Times: 1
+	Query: "24183" ; Times: 1
+	Query: "specificepithet:capitalis genus:stachyris country:&#34;philippines&#34;" ; Times: 1
+	Query: "48626" ; Times: 1
+	Query: "specificepithet:subis genus:Progne (ws wing span)" ; Times: 3
+	Query: "55084" ; Times: 1
+	Query: "10041" ; Times: 1
+	Query: "Tachycineta ws OR wingspan OR wing+span" ; Times: 1
+	Query: "Campylorhynchus brunneicapillus ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "genus:ammodramus county:&#34;Muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "Progne subis ws OR wingspan OR wing span" ; Times: 7
+	Query: "33797" ; Times: 1
+	Query: "Sialia sialis ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 3
+	Query: "50345" ; Times: 1
+	Query: "American Kestrel" ; Times: 1
+	Query: "Tachycineta bicolor ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 3
+	Query: "63237" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "class:Aves catalognumber:123999" ; Times: 2
+	Query: "mummy" ; Times: 1
+	Query: "vntype:specimen genus:Coereba class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Erythrura class:aves" ; Times: 1
+	Query: "&#34;very heavy&#34; egg" ; Times: 1
+	Query: "156057" ; Times: 1
+	Query: "Sialia sialis ws OR wingspan OR wing span" ; Times: 6
+	Query: "15583" ; Times: 1
+	Query: "ROM 23336" ; Times: 1
+	Query: "genus:Toxostoma family:Mimidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "136482" ; Times: 1
+	Query: "Catharus Riverdale" ; Times: 1
+	Query: "recordedby:Hess" ; Times: 1
+	Query: "county:&#34;Lee&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "baker 1894 aves" ; Times: 1
+	Query: "specificepithet:westermanni country:&#34;philippines&#34;" ; Times: 1
+	Query: "Sialia currucoides (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "156711" ; Times: 1
+	Query: "vntype:specimen specificepithet:purpurea genus:cochoa country:&#34;India&#34;" ; Times: 1
+	Query: "Eurylaimus steerii" ; Times: 3
+	Query: "class:Aves continent:Africa recordedby:Anchieta" ; Times: 1
+	Query: "103059" ; Times: 1
+	Query: "witch" ; Times: 1
+	Query: "family:Parulidae class:aves stateprovince:&#34;Kansas&#34; preparations:eggs" ; Times: 1
+	Query: "159583" ; Times: 1
+	Query: "Sialia currucoides ws OR wingspan OR wing span" ; Times: 6
+	Query: "specificepithet:melanurus genus:ramphocaenus hasmass:1" ; Times: 1
+	Query: "dacnis egregia" ; Times: 3
+	Query: "aimophila sororia" ; Times: 2
+	Query: "116137" ; Times: 1
+	Query: "specificepithet:subis genus:Progne (&#34;ws&#34; OR &#34;wing span&#34; OR &#34;wingspan&#34;)" ; Times: 1
+	Query: "47956" ; Times: 1
+	Query: "51940" ; Times: 1
+	Query: "120938" ; Times: 1
+	Query: "specificepithet:auricularis genus:myiornis country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "myrmornis torquata" ; Times: 1
+	Query: "Sialia mexicana ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 2
+	Query: "locality:Veraguas country:&#34;Panama&#34;" ; Times: 2
+	Query: "geothlypis poliocephala" ; Times: 1
+	Query: "Manacus manacus" ; Times: 1
+	Query: "Platyrinchus mystaceus" ; Times: 1
+	Query: "Coyote stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Godwin-Austen Naga" ; Times: 1
+	Query: "ramphocaenus melanurus" ; Times: 1
+	Query: "Mecocerculus leucophrys" ; Times: 3
+	Query: "vntype:specimen specificepithet:CAYANA genus:Dacnis class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "vntype:specimen specificepithet:strigilatus class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Dumetella family:Mimidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:123999" ; Times: 1
+	Query: "Progne ws OR wingspan OR wing+span" ; Times: 1
+	Query: "157973" ; Times: 2
+	Query: "&#34;monachus monachus&#34;" ; Times: 1
+	Query: "132136" ; Times: 1
+	Query: "alcippe soror" ; Times: 2
+	Query: "46888" ; Times: 1
+	Query: "family:Troglodytidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "106979" ; Times: 1
+	Query: "oenanthe xanthoprymna" ; Times: 1
+	Query: "egg Stevens england" ; Times: 1
+	Query: "Skin-50689" ; Times: 1
+	Query: "(128044)" ; Times: 1
+	Query: "Vireolanius pulchellus vntype:specimen country:&#34;Costa Rica&#34;" ; Times: 5
+	Query: "93857" ; Times: 1
+	Query: "Myiarchus cinerascens ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "124265" ; Times: 1
+	Query: "ROM 11951" ; Times: 1
+	Query: "Lycocorax" ; Times: 1
+	Query: "Sialia sialis ws OR wingspan OR wing+span" ; Times: 9
+	Query: "Progne subis ws OR wingspan OR wing+span" ; Times: 10
+	Query: "120462" ; Times: 1
+	Query: "&#34;very heavy&#34; egg incubation" ; Times: 1
+	Query: "“Very heavy” incubation" ; Times: 1
+	Query: "16804" ; Times: 1
+	Query: "specificepithet:everetti genus:Hypsipetes country:&#34;philippines&#34;" ; Times: 1
+	Query: "27615" ; Times: 1
+	Query: "102703" ; Times: 1
+	Query: "102704" ; Times: 1
+	Query: "specificepithet:ignobilis genus:turdus hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:cayana genus:Dacnis class:Aves country:&#34;Brazil&#34; institutioncode:ROM" ; Times: 1
+	Query: "bradley stateprovince:&#34;texas&#34; year &gt;= 1993 year &lt;= 1993" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: "brachypteryx montana" ; Times: 1
+	Query: "USNM Texas" ; Times: 1
+	Query: "Junco hyemalis Okanagan" ; Times: 1
+	Query: "recordnumber:30627 institutioncode:ROM" ; Times: 1
+	Query: "recordedby:McCallum" ; Times: 1
+	Query: "pygiptila stellaris" ; Times: 1
+	Query: "specificepithet:crinitus genus:Myiarchus class:Aves stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "Xiphocolaptes emigrans" ; Times: 1
+	Query: "58664" ; Times: 1
+	Query: "Sialia mexicana ws OR wingspan OR wing+span" ; Times: 9
+	Query: "Icterus Salvinii" ; Times: 1
+	Query: "genus:Cyanocitta family:Corvidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "96194" ; Times: 1
+	Query: "catalognumber:47474 institutioncode:ROM" ; Times: 1
+	Query: "Corvus brachyrhynchos ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "Ilicura militaris" ; Times: 1
+	Query: "104174" ; Times: 1
+	Query: "Troglodytes aedon ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "vntype:specimen genus:Coereba class:Aves country:&#34;Brazil&#34; institutioncode:ROM" ; Times: 1
+	Query: "genus:chamaeza country:&#34;Brazil&#34;" ; Times: 1
+	Query: "20009" ; Times: 1
+	Query: "147948" ; Times: 1
+	Query: "class:Aves institutioncode:ROM" ; Times: 1
+	Query: "102701" ; Times: 1
+	Query: "Aplonis panayensis" ; Times: 3
+	Query: "specificepithet:militaris genus:Ilicura" ; Times: 2
+	Query: "genus:Passerina month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 2
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;california&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 1
+	Query: "family:Parulidae stateprovince:&#34;Kansas&#34; preparations:eggs" ; Times: 1
+	Query: "33042" ; Times: 1
+	Query: "specificepithet:minimus genus:Catharus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:subis genus:Progne (&#34;ws&#34; OR &#34;wing span&#34; OR &#34;wingspan&#34; AND &#34;adult&#34; OR &#34;mature&#34; OR &#34;ad&#34;)" ; Times: 1
+	Query: "Passer domesticus ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "monachus monachus" ; Times: 2
+	Query: "Tachycineta bicolor (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "sporophila intermedia" ; Times: 3
+	Query: "64748" ; Times: 1
+	Query: "monachus" ; Times: 2
+	Query: "507993" ; Times: 1
+	Query: "recordedby:Fite" ; Times: 1
+	Query: "Progne subis ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 3
+	Query: "tai o" ; Times: 1
+	Query: "Estrilda astrild" ; Times: 1
+	Query: "147365" ; Times: 1
+	Query: "143680" ; Times: 1
+	Query: "ZMH" ; Times: 1
+	Query: "Platyrinchus mystaceus mystaceus" ; Times: 2
+	Query: "Sturnus contra" ; Times: 2
+	Query: "specificepithet:regulus genus:Machaeropterus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:100487 institutioncode:ROM" ; Times: 2
+	Query: "Tachycineta bicolor ws OR wingspan OR wing span" ; Times: 7
+	Query: "Troglodytes solstitialis" ; Times: 1
+	Query: "15579" ; Times: 1
+	Query: "12549" ; Times: 1
+	Query: "96451" ; Times: 1
+	Query: "141379" ; Times: 1
+	Query: "120772" ; Times: 1
+	Query: "specificepithet:lincolnii county:&#34;Muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "zosterops everetti" ; Times: 1
+	Query: "Icterus Salvinii Costa Rica" ; Times: 1
+	Query: "specificepithet:bicolor country:&#34;philippines&#34;" ; Times: 1
+	Query: "genus:Troglodytes family:Troglodytidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Hirundo rustica ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "ergaticus ruber" ; Times: 1
+	Query: "family:Parulidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Dacnis country:&#34;Brazil&#34;" ; Times: 2
+	Query: "158103" ; Times: 1
+	Query: "64733" ; Times: 1
+	Query: "Sialia sialis (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "46562" ; Times: 1
+	Query: "33761" ; Times: 1
+	Query: "79489" ; Times: 2
+	Query: "quiscalus lugubris" ; Times: 2
+	Query: "65127" ; Times: 1
+	Query: "Parnell" ; Times: 2
+	Query: "67565" ; Times: 1
+	Query: "egg Stevens" ; Times: 1
+	Query: "turdus ignobilis" ; Times: 1
+	Query: "bradley country:&#34;mexico&#34; year &gt;= 1993 year &lt;= 1993" ; Times: 1
+	Query: "507983" ; Times: 1
+	Query: "genus:Quiscalus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Icterus laudabilis" ; Times: 1
+	Query: "county:&#34;Angelina&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "Myrmornis torquata" ; Times: 3
+	Query: "Sialia mexicana ws OR wingspan OR wing span" ; Times: 6
+	Query: "158102" ; Times: 1
+	Query: "153564" ; Times: 1
+	Query: "12552" ; Times: 1
+	Query: "51803" ; Times: 1
+	Query: "specificepithet:ruficeps genus:Aimophila stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "Quiscalus brachypterus" ; Times: 1
+	Query: "specificepithet:carduelis genus:Carduelis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Corvidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 7
+	Query: "american kestrel" ; Times: 1
+	Query: "Godwin-Austen" ; Times: 1
+	Query: "49138" ; Times: 1
+	Query: "Eremophila alpestris Kashmir" ; Times: 2
+	Query: "(manacus manacus )" ; Times: 2
+	Query: "specificepithet:bicolor genus:rhyacornis country:&#34;philippines&#34;" ; Times: 1
+	Query: "(19565)" ; Times: 1
+	Query: "specificepithet:platyrostris genus:Dendrocolaptes country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:subis genus:Progne (ws OR wing span OR wingspan AND adult OR mature OR ad)" ; Times: 1
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "Sialia mexicana (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "chlorocharis" ; Times: 1
+	Query: "157122" ; Times: 1
+	Query: "dacnis venusta" ; Times: 1
+	Query: "class:aves catalognumber:7319" ; Times: 1
+	Query: "157504" ; Times: 1
+	Query: "specificepithet:aedon genus:Troglodytes year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Sialia currucoides ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 3
+	Query: "80301" ; Times: 1
+	Query: "class:Aves country:&#34;Angola&#34; continent:Africa" ; Times: 1
+	Query: "30246" ; Times: 1
+	Query: "hirundo tahitica" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 1106 download events in this period)
+Total number of records downloaded: 139157
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 17
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 1
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-22 ; Times: 5
+	Date: 2020-05-03 ; Times: 3
+	Date: 2020-05-31 ; Times: 2
+	Date: 2020-05-04 ; Times: 2
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-06 ; Times: 3
+	Date: 2020-05-08 ; Times: 3
+	Date: 2020-05-07 ; Times: 1
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-13 ; Times: 4
+	Date: 2020-05-14 ; Times: 3
+	Date: 2020-05-15 ; Times: 3
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "Birds Texas" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Anchieta" ; Times: 1
+	Query: "Platyrinchus mystaceus mystaceus" ; Times: 1
+	Query: "manacus manacus" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "petechia" ; Times: 1
+	Query: "specificepithet:hirundinacea genus:Euphonia stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "ergaticus ruber" ; Times: 1
+	Query: "genus:Erythrura class:aves" ; Times: 1
+	Query: "class:Aves country:&#34;Angola&#34; continent:Africa" ; Times: 1
+	Query: "genus:Quiscalus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34;" ; Times: 1
+	Query: "country:&#34;Russia&#34;" ; Times: 1
+	Query: "manacus manacus gutturosus" ; Times: 1
+	Query: "pipilo nebraska" ; Times: 1
+	Query: "recordedby:McCallum" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "class:AVES stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myrmornis torquata" ; Times: 2
+	Query: "vntype:specimen specificepithet:purpurea genus:cochoa country:&#34;India&#34;" ; Times: 1
+	Query: "Eurylaimus steerii" ; Times: 1
+	Query: "Ilicura militaris" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oaxaca&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "class:Aves institutioncode:ROM" ; Times: 1
+	Query: "egg texas" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;california&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 1
+	Query: "Troglodytes solstitialis" ; Times: 1
+	Query: "specificepithet:militaris genus:Ilicura" ; Times: 1
+	Query: "genus:Passerina month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "specificepithet:petechia hastissue:1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "myrmornis torquata" ; Times: 1
+	Query: "Mecocerculus leucophrys" ; Times: 1
+	Query: "vntype:specimen specificepithet:strigilatus class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
