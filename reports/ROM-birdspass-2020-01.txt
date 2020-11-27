@@ -1,0 +1,1046 @@
+Report for Institution Code ROM, Resource birdspass
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1222
+Number of records retrieved in searches: 12701
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 92
+	Country: Brazil ; Times: 18
+	Country: Unknown ; Times: 15
+	Country: France ; Times: 20
+	Country: Peru ; Times: 8
+	Country: Argentina ; Times: 3
+	Country: Bolivia ; Times: 2
+	Country: Ecuador ; Times: 2
+	Country: Cuba ; Times: 6
+	Country: Germany ; Times: 8
+	Country: Spain ; Times: 1
+	Country: Netherlands ; Times: 5
+	Country: Denmark ; Times: 2
+	Country: Finland ; Times: 3
+	Country: United States ; Times: 285
+	Country: Sweden ; Times: 7
+	Country: Myanmar ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Singapore ; Times: 1
+	Country: United Kingdom ; Times: 735
+	Country: Colombia ; Times: 3
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 27
+	Date: 2020-01-03 ; Times: 199
+	Date: 2020-01-02 ; Times: 187
+	Date: 2020-01-01 ; Times: 6
+	Date: 2020-01-07 ; Times: 8
+	Date: 2020-01-06 ; Times: 374
+	Date: 2020-01-05 ; Times: 7
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-21 ; Times: 7
+	Date: 2020-01-20 ; Times: 12
+	Date: 2020-01-09 ; Times: 52
+	Date: 2020-01-08 ; Times: 15
+	Date: 2020-01-25 ; Times: 2
+	Date: 2020-01-24 ; Times: 52
+	Date: 2020-01-27 ; Times: 20
+	Date: 2020-01-26 ; Times: 21
+	Date: 2020-01-29 ; Times: 48
+	Date: 2020-01-28 ; Times: 35
+	Date: 2020-01-18 ; Times: 5
+	Date: 2020-01-19 ; Times: 8
+	Date: 2020-01-23 ; Times: 14
+	Date: 2020-01-14 ; Times: 13
+	Date: 2020-01-15 ; Times: 7
+	Date: 2020-01-30 ; Times: 18
+	Date: 2020-01-17 ; Times: 10
+	Date: 2020-01-10 ; Times: 28
+	Date: 2020-01-11 ; Times: 10
+	Date: 2020-01-12 ; Times: 2
+	Date: 2020-01-13 ; Times: 6
+	Date: 2020-01-31 ; Times: 9
+	Date: 2020-01-16 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:45907 institutioncode:ROM genus:Calyptomena" ; Times: 1
+	Query: "catalognumber:33.9.1.654 institutioncode:ROM genus:Elaenia" ; Times: 1
+	Query: "cacicus flavicrissus" ; Times: 3
+	Query: "catalognumber:48072 institutioncode:ROM family:Philepittidae" ; Times: 2
+	Query: "catalognumber:55844 institutioncode:ROM family:Paridae" ; Times: 2
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:Patterson basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "67605 institutioncode:ROM aves" ; Times: 1
+	Query: "catalognumber:33.9.1.623 institutioncode:ROM genus:Xenopsaris" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruficapilla genus:Hemithraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "73465" ; Times: 1
+	Query: "73464" ; Times: 1
+	Query: "catalognumber:90777 institutioncode:ROM genus:Cymbilaimus" ; Times: 1
+	Query: "catalognumber:46746 institutioncode:ROM family:Cotingidae" ; Times: 2
+	Query: "petechia ruficapilla skel OR skeleton OR Skeleton OR Skel" ; Times: 1
+	Query: "catalognumber:54340 institutioncode:ROM genus:Phylloscopus" ; Times: 1
+	Query: "specificepithet:carolinensis class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "catalognumber:125817 institutioncode:ROM genus:Gymnopithys" ; Times: 1
+	Query: "catalognumber:48037 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "Myiarchus nuttingi skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "catalognumber:107428 institutioncode:ROM genus:Elaenia" ; Times: 1
+	Query: "petechia melanoptera skel OR skeleton OR Skeleton OR Skel" ; Times: 1
+	Query: "catalognumber:125818 institutioncode:ROM genus:Gymnopithys" ; Times: 1
+	Query: "class:Aves country:&#34;Mexico&#34; year &gt;= 1989 year &lt;= 1995 hastissue:1" ; Times: 1
+	Query: "catalognumber:48055 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "catalognumber:93408 institutioncode:ROM genus:Smithornis" ; Times: 1
+	Query: "catalognumber:48833 institutioncode:ROM family:Motacillidae" ; Times: 2
+	Query: "catalognumber:46650 institutioncode:ROM family:Cotingidae" ; Times: 2
+	Query: "catalognumber:15360 institutioncode:ROM family:Aegithalidae" ; Times: 3
+	Query: "catalognumber:48087 institutioncode:ROM family:Acanthisittidae" ; Times: 3
+	Query: "catalognumber:19586 institutioncode:ROM genus:Ficedula" ; Times: 1
+	Query: "catalognumber:60320 institutioncode:ROM genus:Tangara" ; Times: 1
+	Query: "23626 institutioncode:ROM aves" ; Times: 1
+	Query: "catalognumber:46638 institutioncode:ROM family:Cotingidae" ; Times: 2
+	Query: "48024 institutioncode:ROM aves" ; Times: 1
+	Query: "class:Aves year &gt;= 1700 year &lt;= 1810 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:15364 institutioncode:ROM genus:Turdus" ; Times: 1
+	Query: "catalognumber:81668 institutioncode:ROM genus:Phylloscopus" ; Times: 1
+	Query: "98368" ; Times: 1
+	Query: "catalognumber:99016 institutioncode:ROM family:Troglodytidae" ; Times: 1
+	Query: "catalognumber:52531 institutioncode:ROM genus:Phoenicurus" ; Times: 1
+	Query: "catalognumber:97253 institutioncode:ROM genus:Tityra" ; Times: 1
+	Query: "ummz aves parulidae coronata skel OR skeleton" ; Times: 1
+	Query: "dasyornis broadbenti" ; Times: 1
+	Query: "catalognumber:47284 institutioncode:ROM genus:Tyrannus" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Allen" ; Times: 1
+	Query: "catalognumber:54684 institutioncode:ROM genus:Muscicapa" ; Times: 1
+	Query: "catalognumber:48076 institutioncode:ROM family:Philepittidae" ; Times: 2
+	Query: "catalognumber:67601 institutioncode:ROM genus:Tachyphonus" ; Times: 1
+	Query: "45885 institutioncode:ROM aves" ; Times: 1
+	Query: "genus:Cacicus country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "genus:Myioborus institutioncode:ROM hassex:1 hasmass:1" ; Times: 1
+	Query: "catalognumber:125846 institutioncode:ROM genus:Myrmotherula" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Boulton" ; Times: 1
+	Query: "specificepithet:dominica genus:Dendroica institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:128617 institutioncode:ROM family:Prunellidae" ; Times: 2
+	Query: "26984 institutioncode:ROM aves" ; Times: 1
+	Query: "catalognumber:125849 institutioncode:ROM genus:Myrmotherula" ; Times: 1
+	Query: "catalognumber:48041 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "catalognumber:45884 institutioncode:ROM family:Eurylaimidae" ; Times: 2
+	Query: "catalognumber:48038 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "catalognumber:76776 institutioncode:ROM genus:Smithornis" ; Times: 1
+	Query: "Bondi -Australia" ; Times: 2
+	Query: "catalognumber:57119 institutioncode:ROM genus:Emberiza" ; Times: 1
+	Query: "vntype:specimen genus:chlorophanes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:citrina institutioncode:ROM hasmass:1" ; Times: 1
+	Query: "ROM-114143" ; Times: 1
+	Query: "catalognumber:70375 institutioncode:ROM genus:Fringilla" ; Times: 1
+	Query: "catalognumber:103560 institutioncode:ROM family:Pipridae" ; Times: 2
+	Query: "catalognumber:125812 institutioncode:ROM genus:Cymbilaimus" ; Times: 1
+	Query: "J. Bond" ; Times: 1
+	Query: "catalognumber:46827 institutioncode:ROM family:Pipridae" ; Times: 2
+	Query: "vntype:specimen specificepithet:flavicollis genus:Hemithraupis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "catalognumber:107430 institutioncode:ROM genus:Elaenia" ; Times: 1
+	Query: "catalognumber:45879 institutioncode:ROM genus:Smithornis" ; Times: 1
+	Query: "155619" ; Times: 1
+	Query: "catalognumber:57116 institutioncode:ROM genus:Emberiza" ; Times: 1
+	Query: "Thryomanes AND Clemente Island" ; Times: 2
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:Griepentrog basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:131031 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:104608 institutioncode:ROM" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:braly basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "catalognumber:95654 institutioncode:ROM family:Alaudidae" ; Times: 3
+	Query: "catalognumber:48023 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "catalognumber:55930 institutioncode:ROM genus:Sitta" ; Times: 1
+	Query: "catalognumber:125811 institutioncode:ROM genus:Sclerurus" ; Times: 1
+	Query: "catalognumber:103922 institutioncode:ROM genus:Turdus" ; Times: 1
+	Query: "preparations:skeleton petechia bartholemica" ; Times: 1
+	Query: "catalognumber:103530 institutioncode:ROM genus:Myrmotherula" ; Times: 1
+	Query: "catalognumber:46974 institutioncode:ROM genus:Schiffornis" ; Times: 1
+	Query: "catalognumber:46980 institutioncode:ROM genus:Schiffornis" ; Times: 1
+	Query: "catalognumber:113331 institutioncode:ROM family:Troglodytidae" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; country:&#34;usa&#34; basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "catalognumber:57115 institutioncode:ROM genus:Emberiza" ; Times: 1
+	Query: "catalognumber:60442 institutioncode:ROM genus:Chlorophanes" ; Times: 1
+	Query: "catalognumber:98985 institutioncode:ROM genus:Thamnomanes" ; Times: 1
+	Query: "Myiarchus cinerascens skel OR skeleton OR Skel OR Skeleton" ; Times: 2
+	Query: "catalognumber:125867 institutioncode:ROM family:Pipridae" ; Times: 2
+	Query: "catalognumber:90528 institutioncode:ROM genus:Elaenia" ; Times: 1
+	Query: "catalognumber:70499 institutioncode:ROM genus:Emberiza" ; Times: 1
+	Query: "catalognumber:33.9.1.1122 institutioncode:ROM family:Philepittidae" ; Times: 2
+	Query: "catalognumber:46643 institutioncode:ROM family:Cotingidae" ; Times: 2
+	Query: "Acanthisitta chloris" ; Times: 1
+	Query: "catalognumber:94595 institutioncode:ROM genus:Percnostola" ; Times: 1
+	Query: "catalognumber:103923 institutioncode:ROM genus:Turdus" ; Times: 1
+	Query: "26.11.1.167 institutioncode:ROM aves" ; Times: 1
+	Query: "specificepithet:pusilla genus:Wilsonia institutioncode:ROM hassex:1 hasmass:1" ; Times: 2
+	Query: "catalognumber:47282 institutioncode:ROM genus:Tyrannus" ; Times: 1
+	Query: "catalognumber:98794 institutioncode:ROM genus:Elaenia" ; Times: 1
+	Query: "catalognumber:58969 institutioncode:ROM genus:Arremon" ; Times: 1
+	Query: "catalognumber:103924 institutioncode:ROM genus:Turdus" ; Times: 1
+	Query: "catalognumber:99170 institutioncode:ROM genus:Passer" ; Times: 1
+	Query: "catalognumber:51717 institutioncode:ROM family:Cinclidae" ; Times: 2
+	Query: "catalognumber:60448 institutioncode:ROM genus:Chlorophanes" ; Times: 1
+	Query: "catalognumber:46655 institutioncode:ROM genus:Attila" ; Times: 1
+	Query: "catalognumber:51713 institutioncode:ROM family:Cinclidae" ; Times: 2
+	Query: "catalognumber:109517 institutioncode:ROM genus:Platyrinchus" ; Times: 1
+	Query: "48091 institutioncode:ROM aves" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Someren" ; Times: 1
+	Query: "Phylloscopus inornatus vntype:specimen" ; Times: 1
+	Query: "catalognumber:147670 institutioncode:ROM genus:Cymbilaimus" ; Times: 1
+	Query: "catalognumber:22.4.20.1022 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:107348 institutioncode:ROM genus:Hypocnemis" ; Times: 1
+	Query: "specificepithet:solitarius genus:vireo class:Aves year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "O.72269" ; Times: 1
+	Query: "catalognumber:54321 institutioncode:ROM genus:Sylvia" ; Times: 1
+	Query: "catalognumber:74652 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:101264 institutioncode:ROM genus:Tangara" ; Times: 1
+	Query: "catalognumber:48064 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "catalognumber:30208 institutioncode:ROM family:Cotingidae" ; Times: 2
+	Query: "catalognumber:149670 institutioncode:ROM genus:Mionectes" ; Times: 1
+	Query: "catalognumber:23626 institutioncode:ROM genus:Muscicapa" ; Times: 1
+	Query: "catalognumber:46354 institutioncode:ROM genus:Myrmotherula" ; Times: 1
+	Query: "UMMZ Tyrannus tyrannus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "catalognumber:23.9.21.337 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "class:Aves continent:Africa recordedby:Ansorge" ; Times: 1
+	Query: "class:Aves year &gt;= 1700 year &lt;= 1850 institutioncode:ROM" ; Times: 2
+	Query: "catalognumber:46613 institutioncode:ROM family:Cotingidae" ; Times: 2
+	Query: "rom 98294" ; Times: 1
+	Query: "Poospiza garleppi" ; Times: 6
+	Query: "catalognumber:125823 institutioncode:ROM genus:Percnostola" ; Times: 1
+	Query: "catalognumber:48082 institutioncode:ROM family:Acanthisittidae" ; Times: 3
+	Query: "class:Aves continent:Africa recordedby:Archer" ; Times: 1
+	Query: "catalognumber:48026 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "catalognumber:30492 institutioncode:ROM genus:Tyrannus" ; Times: 1
+	Query: "98569 institutioncode:ROM aves" ; Times: 1
+	Query: "catalognumber:33.9.1.603 institutioncode:ROM family:Cotingidae" ; Times: 2
+	Query: "catalognumber:01.10.4.764 institutioncode:ROM family:Eurylaimidae" ; Times: 2
+	Query: "catalognumber:103564 institutioncode:ROM family:Pipridae" ; Times: 2
+	Query: "catalognumber:46612 institutioncode:ROM family:Cotingidae" ; Times: 2
+	Query: "foulehaio" ; Times: 1
+	Query: "catalognumber:97248 institutioncode:ROM genus:Attila" ; Times: 1
+	Query: "33744" ; Times: 1
+	Query: "catalognumber:23604 institutioncode:ROM family:Corvidae" ; Times: 2
+	Query: "stateprovince:Guayas " ; Times: 2
+	Query: "catalognumber:48906 institutioncode:ROM family:Motacillidae" ; Times: 2
+	Query: "Ragionieri" ; Times: 1
+	Query: "catalognumber:45892 institutioncode:ROM family:Eurylaimidae" ; Times: 2
+	Query: "specificepithet:graciae genus:Dendroica institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:103514 institutioncode:ROM genus:Thamnomanes" ; Times: 1
+	Query: "catalognumber:125925 institutioncode:ROM genus:Arremon" ; Times: 1
+	Query: "UMMZ 132507" ; Times: 1
+	Query: "catalognumber:45898 institutioncode:ROM family:Eurylaimidae" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Sao Paulo&#34; country:&#34;Brazil&#34; institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "70359 institutioncode:ROM aves" ; Times: 1
+	Query: "catalognumber:46826 institutioncode:ROM family:Pipridae" ; Times: 2
+	Query: "catalognumber:107434 institutioncode:ROM genus:Mionectes" ; Times: 1
+	Query: "recordnumber:24995" ; Times: 1
+	Query: "catalognumber:46353 institutioncode:ROM genus:Myrmotherula" ; Times: 1
+	Query: "catalognumber:48024 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "catalognumber:15397 institutioncode:ROM genus:Muscicapa" ; Times: 1
+	Query: "Thryomanes bewickii san diego egg" ; Times: 1
+	Query: "catalognumber:97840 institutioncode:ROM genus:Passer" ; Times: 1
+	Query: "catalognumber:98619 institutioncode:ROM genus:Tersina" ; Times: 1
+	Query: "catalognumber:120212 institutioncode:ROM family:Corvidae" ; Times: 2
+	Query: "catalognumber:52116 institutioncode:ROM family:Troglodytidae" ; Times: 1
+	Query: "catalognumber:125903 institutioncode:ROM genus:Microbates" ; Times: 1
+	Query: "125847 institutioncode:ROM aves" ; Times: 2
+	Query: "32.10.2.178 institutioncode:ROM aves" ; Times: 1
+	Query: "catalognumber:48836 institutioncode:ROM family:Motacillidae" ; Times: 2
+	Query: "catalognumber:98617 institutioncode:ROM genus:Tersina" ; Times: 1
+	Query: "54378" ; Times: 1
+	Query: "catalognumber:60311 institutioncode:ROM genus:Tangara" ; Times: 1
+	Query: "catalognumber:90529 institutioncode:ROM genus:Elaenia" ; Times: 1
+	Query: "class:Aves country:&#34;Mexico&#34; year &gt;= 1989 year &lt;= 1993 hastissue:1" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 2
+	Query: "catalognumber:45909 institutioncode:ROM genus:Calyptomena" ; Times: 1
+	Query: "catalognumber:33.9.1.551 institutioncode:ROM genus:Smithornis" ; Times: 1
+	Query: "aves catharus occidentalis skel OR skeleton country:Mexico" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Bates" ; Times: 1
+	Query: "catalognumber:103619 institutioncode:ROM family:Troglodytidae" ; Times: 1
+	Query: "148451" ; Times: 1
+	Query: "Mexico Spizella passerina skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "vntype:specimen specificepithet:cela genus:cacicus country:&#34;ecuador&#34;" ; Times: 1
+	Query: "chinchilla chinchilla" ; Times: 2
+	Query: "catalognumber:69672 institutioncode:ROM family:Troglodytidae" ; Times: 1
+	Query: "Myadestes genibarbis vntype:specimen" ; Times: 1
+	Query: "catalognumber:50457 institutioncode:ROM family:Corvidae" ; Times: 2
+	Query: "catalognumber:125851 institutioncode:ROM genus:Myrmotherula" ; Times: 1
+	Query: "specificepithet:ustulatus class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "Dulus dominicus" ; Times: 1
+	Query: "Vireolanius pulchellus vntype:specimen country:&#34;Costa Rica&#34;" ; Times: 12
+	Query: "catalognumber:98960 institutioncode:ROM genus:Thamnomanes" ; Times: 1
+	Query: "catalognumber:115096 institutioncode:ROM genus:Cyanerpes" ; Times: 1
+	Query: "catalognumber:96486 institutioncode:ROM genus:Passer" ; Times: 1
+	Query: "catalognumber:53377 institutioncode:ROM genus:Turdus" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Smithers" ; Times: 1
+	Query: "catalognumber:100623 institutioncode:ROM genus:Tyrannus" ; Times: 1
+	Query: "125927 institutioncode:ROM aves" ; Times: 1
+	Query: "specificepithet:trichas genus:Geothlypis institutioncode:ROM hassex:1" ; Times: 3
+	Query: "ummz aves empidonax skel OR skeleton" ; Times: 1
+	Query: "catalognumber:105332 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "catalognumber:118601 institutioncode:ROM genus:Elaenia" ; Times: 1
+	Query: "catalognumber:50709 institutioncode:ROM family:Corvidae" ; Times: 2
+	Query: "Donacobius vntype:specimen" ; Times: 1
+	Query: "catalognumber:98959 institutioncode:ROM family:Pipridae" ; Times: 2
+	Query: "catalognumber:48090 institutioncode:ROM family:Acanthisittidae" ; Times: 3
+	Query: "catalognumber:103519 institutioncode:ROM genus:Myrmotherula" ; Times: 1
+	Query: "catalognumber:01.10.4.763 institutioncode:ROM family:Eurylaimidae" ; Times: 2
+	Query: "genus:setophaga institutioncode:ROM hassex:1 hasmass:1" ; Times: 2
+	Query: "catalognumber:64293 institutioncode:ROM genus:Carduelis" ; Times: 1
+	Query: "catalognumber:155760 institutioncode:ROM genus:Hylophylax" ; Times: 1
+	Query: "mallard" ; Times: 3
+	Query: "class:Aves Wallace institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:103561 institutioncode:ROM family:Pipridae" ; Times: 2
+	Query: "recordedby:rev young institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:45901 institutioncode:ROM family:Eurylaimidae" ; Times: 2
+	Query: "catalognumber:112555 institutioncode:ROM genus:Tachyphonus" ; Times: 1
+	Query: "mammal diet" ; Times: 1
+	Query: "Polioptila albiloris vntype:specimen stateprovince:&#34;Yucatan&#34;" ; Times: 1
+	Query: "Myiarchus tuberculifer skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "catalognumber:48077 institutioncode:ROM family:Philepittidae" ; Times: 2
+	Query: "cotinga" ; Times: 1
+	Query: "catalognumber:57121 institutioncode:ROM genus:Emberiza" ; Times: 1
+	Query: "catalognumber:55927 institutioncode:ROM genus:Sitta" ; Times: 1
+	Query: "specificepithet:albicollis genus:Turdus institutioncode:ROM" ; Times: 1
+	Query: "105377" ; Times: 1
+	Query: "genus:Dicrurus family:Dicruridae class:Aves continent:Africa" ; Times: 1
+	Query: "catalognumber:47834 institutioncode:ROM genus:Onychorhynchus" ; Times: 1
+	Query: "class:Aves country:&#34;Mexico&#34; year &gt;= 1990 year &lt;= 1993 hastissue:1" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:quiscula genus:Quiscalus institutioncode:ROM" ; Times: 2
+	Query: "catalognumber:107347 institutioncode:ROM genus:Hypocnemis" ; Times: 1
+	Query: "159877" ; Times: 1
+	Query: "catalognumber:48191 institutioncode:ROM family:Alaudidae" ; Times: 3
+	Query: "lycocorax" ; Times: 2
+	Query: "Cymbirhynchus macrorhynchos macrorhynchos institutioncode:ROM aves" ; Times: 1
+	Query: "catalognumber:45893 institutioncode:ROM family:Eurylaimidae" ; Times: 2
+	Query: "catalognumber:52381 institutioncode:ROM genus:Erithacus" ; Times: 1
+	Query: "pachycephala mindorensis" ; Times: 1
+	Query: "Tyrannus crassirostris skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "catalognumber:30917 institutioncode:ROM" ; Times: 1
+	Query: "atlapetes chiriqui" ; Times: 1
+	Query: "115966" ; Times: 1
+	Query: "catalognumber:25.10.21.100 institutioncode:ROM family:Eurylaimidae" ; Times: 2
+	Query: "class:Aves year &gt;= 1800 year &lt;= 1900 institutioncode:ROM hastypestatus:1" ; Times: 1
+	Query: "catalognumber:115064 institutioncode:ROM genus:Tachyphonus" ; Times: 1
+	Query: "catalognumber:111422 institutioncode:ROM genus:Tangara" ; Times: 1
+	Query: "catalognumber:46977 institutioncode:ROM genus:Schiffornis" ; Times: 1
+	Query: "catalognumber:90839 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "catalognumber:100620 institutioncode:ROM genus:Tyrannus" ; Times: 1
+	Query: "catalognumber:81669 institutioncode:ROM genus:Phylloscopus" ; Times: 1
+	Query: "118683 institutioncode:ROM aves" ; Times: 1
+	Query: "catalognumber:69620 institutioncode:ROM family:Aegithalidae" ; Times: 3
+	Query: "catalognumber:50456 institutioncode:ROM family:Corvidae" ; Times: 2
+	Query: "catalognumber:48036 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "catalognumber:58968 institutioncode:ROM genus:Arremon" ; Times: 1
+	Query: "catalognumber:33.9.1.544 institutioncode:ROM genus:Calyptomena" ; Times: 1
+	Query: "specificepithet:coronata class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "catalognumber:45885 institutioncode:ROM family:Eurylaimidae" ; Times: 2
+	Query: "catalognumber:6178 institutioncode:ROM family:Cinclidae" ; Times: 2
+	Query: "catalognumber:15415 institutioncode:ROM genus:Sturnus" ; Times: 1
+	Query: "catalognumber:01.10.4.767 institutioncode:ROM genus:Calyptomena" ; Times: 1
+	Query: "catalognumber:15388 institutioncode:ROM genus:Sylvia" ; Times: 1
+	Query: "aphelocoma woodhouseii year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "catalognumber:109722 institutioncode:ROM genus:Elaenia" ; Times: 1
+	Query: "preparations:skeleton petechia amnicola" ; Times: 1
+	Query: "124065" ; Times: 2
+	Query: "catalognumber:109675 institutioncode:ROM genus:Elaenia" ; Times: 1
+	Query: "specificepithet:pictus genus:Myioborus institutioncode:ROM hassex:1 hasmass:1" ; Times: 1
+	Query: "catalognumber:46657 institutioncode:ROM genus:Attila" ; Times: 1
+	Query: "water deer" ; Times: 1
+	Query: "catalognumber:46653 institutioncode:ROM genus:Attila" ; Times: 1
+	Query: "catalognumber:107507 institutioncode:ROM genus:Percnostola" ; Times: 1
+	Query: "catalognumber:106448 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:48883 institutioncode:ROM family:Motacillidae" ; Times: 2
+	Query: "catalognumber:33.9.1.586 institutioncode:ROM genus:Hypocnemis" ; Times: 1
+	Query: "catalognumber:58967 institutioncode:ROM genus:Arremon" ; Times: 1
+	Query: "catalognumber:54292 institutioncode:ROM genus:Sylvia" ; Times: 1
+	Query: "catalognumber:111816 institutioncode:ROM family:Pipridae" ; Times: 2
+	Query: "ROM 23336" ; Times: 2
+	Query: "catalognumber:54683 institutioncode:ROM genus:Muscicapa" ; Times: 1
+	Query: "112549 institutioncode:ROM aves" ; Times: 1
+	Query: "Tyrannus caudifasciatus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "UMMZ Tyrannus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "catalognumber:54320 institutioncode:ROM genus:Sylvia" ; Times: 1
+	Query: "American kestrel" ; Times: 2
+	Query: "catalognumber:47259 institutioncode:ROM genus:Tyrannus" ; Times: 1
+	Query: "catalognumber:112542 institutioncode:ROM genus:Pithys" ; Times: 1
+	Query: "100470 institutioncode:ROM aves" ; Times: 1
+	Query: "catalognumber:90837 institutioncode:ROM family:Eurylaimidae" ; Times: 2
+	Query: "catalognumber:60452 institutioncode:ROM genus:Chlorophanes" ; Times: 1
+	Query: "catalognumber:140233 institutioncode:ROM family:Paridae" ; Times: 2
+	Query: "specificepithet:flaviventris genus:empidonax institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "Myiarchus crinitus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "128596" ; Times: 1
+	Query: "catalognumber:48882 institutioncode:ROM family:Motacillidae" ; Times: 2
+	Query: "catalognumber:47100 institutioncode:ROM genus:Colonia" ; Times: 1
+	Query: "Myiarchus tyrannulus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "47151 institutioncode:ROM aves" ; Times: 1
+	Query: "catalognumber:109674 institutioncode:ROM genus:Elaenia" ; Times: 1
+	Query: "54683 institutioncode:ROM aves" ; Times: 1
+	Query: "class:aves stateprovince:&#34;hawaii&#34; hastypestatus:1" ; Times: 1
+	Query: "Tyrannus melancholicus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "catalognumber:51711 institutioncode:ROM family:Cinclidae" ; Times: 2
+	Query: "catalognumber:125889 institutioncode:ROM genus:Myiobius" ; Times: 1
+	Query: "catalognumber:60489 institutioncode:ROM genus:Cyanerpes" ; Times: 1
+	Query: "catalognumber:60308 institutioncode:ROM genus:Tangara" ; Times: 1
+	Query: "catalognumber:48904 institutioncode:ROM family:Motacillidae" ; Times: 2
+	Query: "catalognumber:140148 institutioncode:ROM genus:Cymbilaimus" ; Times: 1
+	Query: "catalognumber:59615 institutioncode:ROM genus:Tachyphonus" ; Times: 1
+	Query: "UMMZ Tyrannus skel OR skeleton OR Skeleton OR Skel" ; Times: 1
+	Query: "catalognumber:48025 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "catalognumber:15390 institutioncode:ROM genus:Sylvia" ; Times: 1
+	Query: "specificepithet:citrina institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:111980 institutioncode:ROM genus:Tangara" ; Times: 1
+	Query: "recordedby:Hume (Hume) year &gt;= 1800 year &lt;= 1900 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:103621 institutioncode:ROM family:Troglodytidae" ; Times: 1
+	Query: "109191" ; Times: 1
+	Query: "catalognumber:50582 institutioncode:ROM family:Corvidae" ; Times: 2
+	Query: "catalognumber:118238 institutioncode:ROM genus:Attila" ; Times: 1
+	Query: "catalognumber:930 institutioncode:ROM family:Prunellidae" ; Times: 2
+	Query: "catalognumber:97853" ; Times: 1
+	Query: "catalognumber:11.3.30.413a institutioncode:ROM family:Cotingidae" ; Times: 2
+	Query: "catalognumber:98980 institutioncode:ROM family:Pipridae" ; Times: 2
+	Query: "jocosus Pycnonotus" ; Times: 2
+	Query: "O.58135" ; Times: 1
+	Query: "catalognumber:52534 institutioncode:ROM genus:Phoenicurus" ; Times: 1
+	Query: "catalognumber:60450 institutioncode:ROM genus:Chlorophanes" ; Times: 1
+	Query: "locality:WCTV" ; Times: 1
+	Query: "class:Aves year &gt;= 1840 year &lt;= 1870 institutioncode:ROM" ; Times: 1
+	Query: "Thryomanes AND Clemente Island AND 1908 AND Linton" ; Times: 1
+	Query: "catalognumber:47808 institutioncode:ROM genus:Myiobius" ; Times: 1
+	Query: "catalognumber:52113 institutioncode:ROM family:Troglodytidae" ; Times: 1
+	Query: "catalognumber:46645 institutioncode:ROM family:Cotingidae" ; Times: 2
+	Query: "Thryomanes AND San Clemente Island" ; Times: 1
+	Query: "specificepithet:varia genus:Mniotilta institutioncode:ROM hassex:1 hasmass:1" ; Times: 1
+	Query: "catalognumber:2432 institutioncode:ROM genus:Emberiza" ; Times: 1
+	Query: "catalognumber:103511 institutioncode:ROM genus:Thamnomanes" ; Times: 1
+	Query: "class:Aves year &gt;= 1700 year &lt;= 1860 institutioncode:ROM hastypestatus:1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:peck basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "specificepithet:formosa genus:Geothlypis institutioncode:ROM hassex:1" ; Times: 1
+	Query: "catalognumber:112547 institutioncode:ROM genus:Mionectes" ; Times: 1
+	Query: "catalognumber:46975 institutioncode:ROM genus:Schiffornis" ; Times: 1
+	Query: "catalognumber:52842 institutioncode:ROM genus:Oenanthe" ; Times: 1
+	Query: "catalognumber:48815 institutioncode:ROM genus:Delichon" ; Times: 1
+	Query: "catalognumber:107420 institutioncode:ROM genus:Tyrannus" ; Times: 1
+	Query: "35114" ; Times: 2
+	Query: "catalognumber:107432 institutioncode:ROM genus:Platyrinchus" ; Times: 1
+	Query: "specificepithet:traillii genus:empidonax class:aves stateprovince:&#34;wyoming&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:73361 institutioncode:ROM genus:Elaenia" ; Times: 1
+	Query: "institutioncode:ROM" ; Times: 3
+	Query: "catalognumber:48065 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "catalognumber:46634 institutioncode:ROM family:Cotingidae" ; Times: 2
+	Query: "Acanthisitta chloris institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:111818 institutioncode:ROM family:Pipridae" ; Times: 2
+	Query: "catalognumber:48080 institutioncode:ROM family:Acanthisittidae" ; Times: 3
+	Query: "catalognumber:109157 institutioncode:ROM genus:Attila" ; Times: 1
+	Query: "niltava grandis" ; Times: 1
+	Query: "catalognumber:46633 institutioncode:ROM family:Cotingidae" ; Times: 2
+	Query: "catalognumber:52114 institutioncode:ROM family:Troglodytidae" ; Times: 1
+	Query: "catalognumber:107426 institutioncode:ROM genus:Elaenia" ; Times: 1
+	Query: "genus:Ammodramus county:&#34;Solano&#34; stateprovince:&#34;California&#34; institutioncode:ROM" ; Times: 1
+	Query: "michigan Cistothorus palustris" ; Times: 1
+	Query: "catalognumber:97251 institutioncode:ROM genus:Tityra" ; Times: 1
+	Query: "class:Aves country:&#34;Mexico&#34; year &gt;= 1991 year &lt;= 2000 hastissue:1" ; Times: 1
+	Query: "catalognumber:53539 institutioncode:ROM genus:Turdus" ; Times: 1
+	Query: "class:Aves institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:90840 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "catalognumber:50584 institutioncode:ROM family:Corvidae" ; Times: 2
+	Query: "catalognumber:52120 institutioncode:ROM family:Troglodytidae" ; Times: 1
+	Query: "catalognumber:107352 institutioncode:ROM genus:Pithys" ; Times: 1
+	Query: "aves empidonax affinis skel OR skeleton country:Mexico" ; Times: 1
+	Query: "62878" ; Times: 1
+	Query: "laniarius" ; Times: 1
+	Query: "specificepithet:atrocaudata genus:Terpsiphone" ; Times: 2
+	Query: "catalognumber:103562 institutioncode:ROM family:Pipridae" ; Times: 2
+	Query: "vireo griseus hastissue:1" ; Times: 1
+	Query: "specificepithet:olivaceus class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "catalognumber:101641 institutioncode:ROM genus:Smithornis" ; Times: 1
+	Query: "62875" ; Times: 1
+	Query: "catalognumber:114888 institutioncode:ROM genus:Colonia" ; Times: 1
+	Query: "catalognumber:125920 institutioncode:ROM genus:Hylophilus" ; Times: 1
+	Query: "catalognumber:52112 institutioncode:ROM family:Troglodytidae" ; Times: 1
+	Query: "recordedby:young institutioncode:ROM" ; Times: 2
+	Query: "UMMZ Myiarchus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "catalognumber:29.9.9.229 institutioncode:ROM" ; Times: 1
+	Query: "genus:Cardellina institutioncode:ROM hassex:1 hasmass:1" ; Times: 1
+	Query: "ummz aves parulidae coronata" ; Times: 2
+	Query: "catalognumber:98627 institutioncode:ROM genus:Tersina" ; Times: 1
+	Query: "catalognumber:54317 institutioncode:ROM genus:Sylvia" ; Times: 1
+	Query: "catalognumber:46976 institutioncode:ROM genus:Schiffornis" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta class:Aves stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "catalognumber:46982 institutioncode:ROM genus:Schiffornis" ; Times: 1
+	Query: "catalognumber:114797 institutioncode:ROM genus:Tangara" ; Times: 1
+	Query: "catalognumber:15353 institutioncode:ROM family:Corvidae" ; Times: 2
+	Query: "catalognumber:46973 institutioncode:ROM genus:Schiffornis" ; Times: 1
+	Query: "year &gt;= 1890 year &lt;= 1900 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:76690 institutioncode:ROM family:Pipridae" ; Times: 2
+	Query: "catalognumber:103537 institutioncode:ROM genus:Hylophylax" ; Times: 1
+	Query: "catalognumber:30500 institutioncode:ROM genus:Cyanerpes" ; Times: 1
+	Query: "catalognumber:48001 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "catalognumber:45881 institutioncode:ROM family:Eurylaimidae" ; Times: 2
+	Query: "petechia sonorana preparations: skel OR skeleton" ; Times: 1
+	Query: "petechia bryanti skel OR skeleton OR Skeleton OR Skel" ; Times: 1
+	Query: "ROM 98339" ; Times: 1
+	Query: "catalognumber:46640 institutioncode:ROM family:Cotingidae" ; Times: 2
+	Query: "catalognumber:125843 institutioncode:ROM genus:Myrmotherula" ; Times: 1
+	Query: "catalognumber:52097 institutioncode:ROM family:Troglodytidae" ; Times: 1
+	Query: "catalognumber:48009 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "catalognumber:52118 institutioncode:ROM family:Troglodytidae" ; Times: 1
+	Query: "british columbia 1883" ; Times: 1
+	Query: "habia rubica" ; Times: 2
+	Query: "holochlorus" ; Times: 1
+	Query: "catalognumber:125814 institutioncode:ROM genus:Pithys" ; Times: 1
+	Query: "catalognumber:46740 institutioncode:ROM genus:Tityra" ; Times: 1
+	Query: "catalognumber:53476 institutioncode:ROM genus:Turdus" ; Times: 1
+	Query: "catalognumber:26.11.1.167 institutioncode:ROM genus:Cymbirhynchus" ; Times: 1
+	Query: "vntype:specimen genus:Cacicus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "polar bear" ; Times: 2
+	Query: "46746 institutioncode:ROM aves" ; Times: 1
+	Query: "catalognumber:57034 institutioncode:ROM genus:Emberiza" ; Times: 1
+	Query: "locality:Rio Blanco " ; Times: 1
+	Query: "Myadestes genibarbis" ; Times: 1
+	Query: "catalognumber:45908 institutioncode:ROM genus:Calyptomena" ; Times: 1
+	Query: "catalognumber:51991 institutioncode:ROM family:Troglodytidae" ; Times: 1
+	Query: "catalognumber:125852 institutioncode:ROM genus:Myrmotherula" ; Times: 1
+	Query: "petechia rhizophorae preparations:skel OR skeleton" ; Times: 1
+	Query: "catalognumber:48088 institutioncode:ROM family:Acanthisittidae" ; Times: 3
+	Query: "catalognumber:54694 institutioncode:ROM genus:Ficedula" ; Times: 1
+	Query: "Thryomanes AND Catalina Island" ; Times: 1
+	Query: "catalognumber:54341 institutioncode:ROM genus:Phylloscopus" ; Times: 1
+	Query: "UMMZ aves sandwichensis skel OR skeleton" ; Times: 1
+	Query: "54684 institutioncode:ROM aves" ; Times: 1
+	Query: "100760" ; Times: 1
+	Query: "catalognumber:48012 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "catalognumber:100445 institutioncode:ROM genus:Phoenicurus" ; Times: 1
+	Query: "catalognumber:98807 institutioncode:ROM genus:Elaenia" ; Times: 1
+	Query: "specificepithet:pictus genus:Myioborus institutioncode:ROM haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "catalognumber:60453 institutioncode:ROM genus:Chlorophanes" ; Times: 1
+	Query: "catalognumber:52121 institutioncode:ROM family:Troglodytidae" ; Times: 1
+	Query: "catalognumber:69693 institutioncode:ROM genus:Turdus" ; Times: 1
+	Query: "catalognumber:97848 institutioncode:ROM genus:Passer" ; Times: 1
+	Query: "catalognumber:30220 institutioncode:ROM family:Troglodytidae" ; Times: 1
+	Query: "catalognumber:52840 institutioncode:ROM genus:Oenanthe" ; Times: 1
+	Query: "petechia amnicola skel OR skeleton OR Skeleton OR Skel" ; Times: 1
+	Query: "catalognumber:82934 institutioncode:ROM genus:Tyrannus" ; Times: 1
+	Query: "148446" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; recordedby:Robertson" ; Times: 2
+	Query: "catalognumber:118720 institutioncode:ROM genus:Cyanerpes" ; Times: 1
+	Query: "vntype:specimen genus:Chlorophanes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:130967 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:81681 institutioncode:ROM genus:Ficedula" ; Times: 1
+	Query: "catalognumber:50586 institutioncode:ROM family:Corvidae" ; Times: 2
+	Query: "catalognumber:73322 institutioncode:ROM genus:Myrmotherula" ; Times: 1
+	Query: "catalognumber:147590 institutioncode:ROM genus:Tyrannus" ; Times: 1
+	Query: "vntype:specimen specificepithet:decumanus genus:psarocolius country:&#34;trinidad&#34;" ; Times: 1
+	Query: "catalognumber:64292 institutioncode:ROM genus:Carduelis" ; Times: 1
+	Query: "catalognumber:54325 institutioncode:ROM genus:Sylvia" ; Times: 1
+	Query: "catalognumber:45910 institutioncode:ROM genus:Calyptomena" ; Times: 1
+	Query: "catalognumber:46632 institutioncode:ROM family:Cotingidae" ; Times: 2
+	Query: "specificepithet:solitarius class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "catalognumber:46979 institutioncode:ROM genus:Schiffornis" ; Times: 1
+	Query: "catalognumber:47102 institutioncode:ROM genus:Colonia" ; Times: 1
+	Query: "111121" ; Times: 1
+	Query: "domesticus Passer" ; Times: 5
+	Query: "catalognumber:11.3.30.424 institutioncode:ROM genus:Frederickena" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:brown basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Grauer" ; Times: 1
+	Query: "catalognumber:60526 institutioncode:ROM genus:Tersina" ; Times: 1
+	Query: "Chlorophanes spiza institutioncode:ROM aves" ; Times: 2
+	Query: "catalognumber:90792 institutioncode:ROM genus:Platyrinchus" ; Times: 1
+	Query: "specificepithet:petechia genus:Dendroica institutioncode:ROM" ; Times: 2
+	Query: "Shan State Myanmar" ; Times: 1
+	Query: "catalognumber:112790 institutioncode:ROM genus:Hypocnemis" ; Times: 1
+	Query: "36.7.20.12 institutioncode:ROM aves" ; Times: 1
+	Query: "catalognumber:47265 institutioncode:ROM genus:Tyrannus" ; Times: 1
+	Query: "catalognumber:101383 institutioncode:ROM genus:Elaenia" ; Times: 1
+	Query: "catalognumber:98970 institutioncode:ROM genus:Colonia" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Irwin" ; Times: 1
+	Query: "catalognumber:33.9.1.622 institutioncode:ROM genus:Pseudocolopteryx" ; Times: 1
+	Query: "catalognumber:15400 institutioncode:ROM family:Motacillidae" ; Times: 2
+	Query: "catalognumber:112130 institutioncode:ROM genus:Attila" ; Times: 1
+	Query: "catalognumber:45885 institutioncode:ROM genus:Corydon" ; Times: 1
+	Query: "catalognumber:53467 institutioncode:ROM genus:Turdus" ; Times: 1
+	Query: "specificepithet:pectoralis genus:coracina" ; Times: 1
+	Query: "catalognumber:107437 institutioncode:ROM genus:Mionectes" ; Times: 1
+	Query: "catalognumber:63989 institutioncode:ROM genus:Fringilla" ; Times: 1
+	Query: "catalognumber:50458 institutioncode:ROM family:Corvidae" ; Times: 2
+	Query: "catalognumber:98792 institutioncode:ROM genus:Elaenia" ; Times: 1
+	Query: "asthenes dorbignyi" ; Times: 1
+	Query: "catalognumber:46741 institutioncode:ROM genus:Tityra" ; Times: 1
+	Query: "catalognumber:157543 institutioncode:ROM genus:Elaenia" ; Times: 1
+	Query: "petechia castaneiceps preparations:skeleton OR skel" ; Times: 1
+	Query: "genus:Pitta hastissue:1" ; Times: 2
+	Query: "KU vireo bellii" ; Times: 2
+	Query: "catalognumber:81686 institutioncode:ROM genus:Sturnus" ; Times: 1
+	Query: "catalognumber:125853 institutioncode:ROM genus:Myrmotherula" ; Times: 1
+	Query: "catalognumber:103517 institutioncode:ROM genus:Myrmotherula" ; Times: 1
+	Query: "Pomatorhinus vntype:specimen" ; Times: 1
+	Query: "catalognumber:91.11.1.1219 institutioncode:ROM genus:Passer" ; Times: 1
+	Query: "stateprovince:&#34;oregon&#34; recordedby:bendire basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:125921 institutioncode:ROM genus:Hylophilus" ; Times: 1
+	Query: "catalognumber:118766 institutioncode:ROM genus:Tachyphonus" ; Times: 1
+	Query: "catalognumber:111426 institutioncode:ROM genus:Tangara" ; Times: 1
+	Query: "catalognumber:125824 institutioncode:ROM genus:Percnostola" ; Times: 1
+	Query: "catalognumber:47840 institutioncode:ROM genus:Onychorhynchus" ; Times: 1
+	Query: "catalognumber:98791 institutioncode:ROM genus:Elaenia" ; Times: 1
+	Query: "kenya jackson aves" ; Times: 1
+	Query: "petechia rubiginosa skel OR skeleton OR Skeleton OR Skel" ; Times: 1
+	Query: "specificepithet:corvina genus:Terpsiphone institutioncode:ROM" ; Times: 1
+	Query: "class:Aves &#34;Alfred Russel&#34; institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:73352 institutioncode:ROM genus:Colonia" ; Times: 1
+	Query: "catalognumber:115097 institutioncode:ROM genus:Cyanerpes" ; Times: 1
+	Query: "catalognumber:111817 institutioncode:ROM family:Pipridae" ; Times: 2
+	Query: "107360 institutioncode:ROM aves" ; Times: 1
+	Query: "catalognumber:125831 institutioncode:ROM family:Formicariidae" ; Times: 2
+	Query: "catalognumber:48083 institutioncode:ROM family:Acanthisittidae" ; Times: 3
+	Query: "petechia flavida skel OR skeleton OR Skeleton OR Skel" ; Times: 1
+	Query: "125926 institutioncode:ROM aves" ; Times: 1
+	Query: "Parus ater" ; Times: 3
+	Query: "catalognumber:63122 institutioncode:ROM genus:Hylophilus" ; Times: 1
+	Query: "11.3.30.428 institutioncode:ROM aves" ; Times: 1
+	Query: "catalognumber:11.3.30.421 institutioncode:ROM genus:Myiobius" ; Times: 1
+	Query: "catalognumber:48884 institutioncode:ROM family:Motacillidae" ; Times: 2
+	Query: "catalognumber:73323 institutioncode:ROM genus:Myrmotherula" ; Times: 1
+	Query: "rom 3275" ; Times: 2
+	Query: "27833 aves" ; Times: 1
+	Query: "catalognumber:130750 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:60528 institutioncode:ROM genus:Tersina" ; Times: 1
+	Query: "specificepithet:citrina genus:Wilsonia institutioncode:ROM hassex:1 hasmass:1" ; Times: 1
+	Query: "catalognumber:48046 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "catalognumber:98793 institutioncode:ROM genus:Elaenia" ; Times: 1
+	Query: "specificepithet:pusilla genus:Wilsonia institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:791 institutioncode:ROM genus:Fringilla" ; Times: 1
+	Query: "catalognumber:104589 institutioncode:ROM haslifestage:1 hassex:1 hasmass:1" ; Times: 2
+	Query: "catalognumber:47260 institutioncode:ROM genus:Tyrannus" ; Times: 1
+	Query: "catalognumber:48014 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "witch" ; Times: 1
+	Query: "64072 institutioncode:ROM aves" ; Times: 1
+	Query: "preparations:skeleton petechia rubiginosa" ; Times: 1
+	Query: "catalognumber:111884 institutioncode:ROM family:Formicariidae" ; Times: 2
+	Query: "catalognumber:125888 institutioncode:ROM genus:Myiobius" ; Times: 1
+	Query: "catalognumber:136721 institutioncode:ROM" ; Times: 1
+	Query: "ummz aves vireo skel OR skeleton" ; Times: 1
+	Query: "vireo bellii hastissue:1" ; Times: 1
+	Query: "catalognumber:125869 institutioncode:ROM family:Pipridae" ; Times: 2
+	Query: "petechia oraria skel OR skeleton OR Skeleton OR Skel" ; Times: 1
+	Query: "110205" ; Times: 1
+	Query: "catalognumber:81771 institutioncode:ROM genus:Fringilla" ; Times: 1
+	Query: "catalognumber:48907 institutioncode:ROM family:Motacillidae" ; Times: 2
+	Query: "british columbia 1929 egg" ; Times: 1
+	Query: "catalognumber:136753 institutioncode:ROM genus:Passer" ; Times: 1
+	Query: "catalognumber:107685 institutioncode:ROM genus:Colonia" ; Times: 1
+	Query: "Vireo bellii arizonae" ; Times: 1
+	Query: "catalognumber:90888 institutioncode:ROM family:Corvidae" ; Times: 2
+	Query: "109716" ; Times: 1
+	Query: "catalognumber:125825 institutioncode:ROM genus:Percnostola" ; Times: 1
+	Query: "Dasyornis brachypterus" ; Times: 1
+	Query: "catalognumber:81652 institutioncode:ROM genus:Sitta" ; Times: 1
+	Query: "32.10.2.130 institutioncode:ROM aves" ; Times: 1
+	Query: "catalognumber:98604 institutioncode:ROM family:Formicariidae" ; Times: 2
+	Query: "year &gt;= 1890 year &lt;= 1895 institutioncode:ROM hastypestatus:1" ; Times: 1
+	Query: "catalognumber:59616 institutioncode:ROM genus:Tachyphonus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:anthony basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:51993 institutioncode:ROM family:Troglodytidae" ; Times: 1
+	Query: "catalognumber:103528 institutioncode:ROM genus:Myrmotherula" ; Times: 1
+	Query: "catalognumber:46217 institutioncode:ROM genus:Cymbilaimus" ; Times: 1
+	Query: "catalognumber:15389 institutioncode:ROM genus:Sylvia" ; Times: 1
+	Query: "catalognumber:47283 institutioncode:ROM genus:Tyrannus" ; Times: 1
+	Query: "specificepithet:canadensis class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "drepanornis bruijnii" ; Times: 3
+	Query: "petechia rufivertex skel OR skeleton OR Skeleton OR Skel" ; Times: 1
+	Query: "dasyornis brachypterus" ; Times: 1
+	Query: "chaetops" ; Times: 1
+	Query: "catalognumber:46639 institutioncode:ROM family:Cotingidae" ; Times: 2
+	Query: "UMMZ Myiarchus skel OR skeleton OR Skeleton OR Skel" ; Times: 1
+	Query: "catalognumber:33.9.1.546 institutioncode:ROM family:Eurylaimidae" ; Times: 2
+	Query: "catalognumber:52822 institutioncode:ROM genus:Oenanthe" ; Times: 1
+	Query: "catalognumber:95679 institutioncode:ROM genus:Sturnus" ; Times: 1
+	Query: "petechia Venezuela" ; Times: 1
+	Query: "catalognumber:46654 institutioncode:ROM genus:Attila" ; Times: 1
+	Query: "catalognumber:17.10.16.14 institutioncode:ROM family:Cotingidae" ; Times: 2
+	Query: "locality:Saybrook stateprovince:&#34;Connecticut&#34; recordedby:Clark" ; Times: 1
+	Query: "Erythrocercus mccallii vntype:specimen" ; Times: 1
+	Query: "catalognumber:90838 institutioncode:ROM family:Eurylaimidae" ; Times: 2
+	Query: "catalognumber:112861 institutioncode:ROM genus:Hylophilus" ; Times: 1
+	Query: "catalognumber:103538 institutioncode:ROM genus:Hylophylax" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Loveridge" ; Times: 1
+	Query: "catalognumber:97252 institutioncode:ROM genus:Tityra" ; Times: 1
+	Query: "petechia sonorana skel OR skeleton OR Skeleton OR Skel" ; Times: 1
+	Query: "Pipra erythrocephala" ; Times: 1
+	Query: "UMMZ Icterus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "catalognumber:115095 institutioncode:ROM genus:Cyanerpes" ; Times: 1
+	Query: "catalognumber:100438 institutioncode:ROM family:Troglodytidae" ; Times: 1
+	Query: "catalognumber:125866 institutioncode:ROM family:Pipridae" ; Times: 2
+	Query: "class:Aves country:India" ; Times: 1
+	Query: "catalognumber:60313 institutioncode:ROM genus:Tangara" ; Times: 1
+	Query: "catalognumber:48192 institutioncode:ROM family:Alaudidae" ; Times: 3
+	Query: "catalognumber:60348 institutioncode:ROM genus:Tangara" ; Times: 1
+	Query: "ROM-114324" ; Times: 1
+	Query: "ROM-114325" ; Times: 1
+	Query: "catalognumber:47106 institutioncode:ROM genus:Colonia" ; Times: 1
+	Query: "petechia sonorana preparations:skeleton" ; Times: 2
+	Query: "catalognumber:101482 institutioncode:ROM genus:Myiobius" ; Times: 1
+	Query: "Polioptila albiventris vntype:specimen" ; Times: 1
+	Query: "catalognumber:47923 institutioncode:ROM genus:Xenopsaris" ; Times: 1
+	Query: "catalognumber:33.9.1.550 institutioncode:ROM family:Eurylaimidae" ; Times: 2
+	Query: "catalognumber:147709 institutioncode:ROM genus:Cyanerpes" ; Times: 1
+	Query: "No. O.58135" ; Times: 1
+	Query: "catalognumber:60321 institutioncode:ROM genus:Tangara" ; Times: 1
+	Query: "parotia" ; Times: 2
+	Query: "catalognumber:82935 institutioncode:ROM genus:Tyrannus" ; Times: 1
+	Query: "116269" ; Times: 1
+	Query: "catalognumber:60310 institutioncode:ROM genus:Tangara" ; Times: 1
+	Query: "25.10.21.100 institutioncode:ROM aves" ; Times: 1
+	Query: "UMMZ Chondestes skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "dulus" ; Times: 1
+	Query: "12353" ; Times: 1
+	Query: "UMMZ Myiarchus crinitus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "class:Aves year &gt;= 1700 year &lt;= 1800 institutioncode:ROM" ; Times: 1
+	Query: "12356" ; Times: 1
+	Query: "turdus plumbeus" ; Times: 1
+	Query: "Thryomanes AND Catalina Island AND 1912" ; Times: 1
+	Query: "Xiphocolaptes promeropirhynchus" ; Times: 1
+	Query: "catalognumber:103603 institutioncode:ROM genus:Colonia" ; Times: 1
+	Query: "catalognumber:78269 institutioncode:ROM genus:Tyrannus" ; Times: 1
+	Query: "Gabrielson" ; Times: 1
+	Query: "catalognumber:27.5.2.176 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "catalognumber:52530 institutioncode:ROM genus:Phoenicurus" ; Times: 1
+	Query: "Oryzoborus crassirostris vntype:specimen" ; Times: 1
+	Query: "catalognumber:112554 institutioncode:ROM genus:Tachyphonus" ; Times: 1
+	Query: "UMMZ Empidonax skel OR skeleton OR Skeleton OR Skel" ; Times: 1
+	Query: "aves parulidae goldmani" ; Times: 1
+	Query: "catalognumber:111883 institutioncode:ROM family:Formicariidae" ; Times: 2
+	Query: "140174" ; Times: 1
+	Query: "catalognumber:55823 institutioncode:ROM family:Paridae" ; Times: 2
+	Query: "ummz aves sandwichensis skel OR skeleton" ; Times: 1
+	Query: "catalognumber:47930 institutioncode:ROM genus:Elaenia" ; Times: 1
+	Query: "34953" ; Times: 1
+	Query: "catalognumber:52117 institutioncode:ROM family:Troglodytidae" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:48875 institutioncode:ROM family:Motacillidae" ; Times: 2
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:gabrielson basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "catalognumber:50712 institutioncode:ROM family:Corvidae" ; Times: 2
+	Query: "catalognumber:89430 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:47933 institutioncode:ROM genus:Elaenia" ; Times: 1
+	Query: "87894" ; Times: 1
+	Query: "catalognumber:107354 institutioncode:ROM genus:Pithys" ; Times: 1
+	Query: "catalognumber:48058 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "36.7.20.13 institutioncode:ROM aves" ; Times: 1
+	Query: "catalognumber:118707 institutioncode:ROM genus:Tachyphonus" ; Times: 1
+	Query: "catalognumber:45899 institutioncode:ROM family:Eurylaimidae" ; Times: 2
+	Query: "catalognumber:45904 institutioncode:ROM genus:Calyptomena" ; Times: 1
+	Query: "25179" ; Times: 1
+	Query: "catalognumber:66606 institutioncode:ROM genus:Elaenia" ; Times: 1
+	Query: "catalognumber:52384 institutioncode:ROM genus:Erithacus" ; Times: 1
+	Query: "catalognumber:45878 institutioncode:ROM genus:Smithornis" ; Times: 1
+	Query: "catalognumber:48054 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "catalognumber:106955 institutioncode:ROM family:Troglodytidae" ; Times: 1
+	Query: "canadensis 1876" ; Times: 1
+	Query: "catalognumber:46736 institutioncode:ROM genus:Tityra" ; Times: 1
+	Query: "catalognumber:52383 institutioncode:ROM genus:Erithacus" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Currie" ; Times: 1
+	Query: "class:Aves country:&#34;Mexico&#34; year &gt;= 1990 year &lt;= 1995 hastissue:1" ; Times: 1
+	Query: "catalognumber:46649 institutioncode:ROM family:Cotingidae" ; Times: 2
+	Query: "catalognumber:94773 institutioncode:ROM genus:Hylophylax" ; Times: 1
+	Query: "catalognumber:109154 institutioncode:ROM genus:Schiffornis" ; Times: 1
+	Query: "Polioptila nelsoni vntype:specimen" ; Times: 2
+	Query: "catalognumber:52115 institutioncode:ROM family:Troglodytidae" ; Times: 1
+	Query: "catalognumber:111429 institutioncode:ROM genus:Tangara" ; Times: 1
+	Query: "catalognumber:48057 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "catalognumber:73408 institutioncode:ROM genus:Chlorophanes" ; Times: 1
+	Query: "catalognumber:104146 institutioncode:ROM genus:Tityra" ; Times: 1
+	Query: "catalognumber:25.10.21.100 institutioncode:ROM genus:Eurylaimus" ; Times: 1
+	Query: "Dasyornis broadbenti" ; Times: 1
+	Query: "catalognumber:65713 institutioncode:ROM genus:Chlorophanes" ; Times: 1
+	Query: "petechia petechia skel OR skeleton OR Skeleton OR Skel" ; Times: 1
+	Query: "catalognumber:55630 institutioncode:ROM family:Aegithalidae" ; Times: 3
+	Query: "Grallaria hypoleuca" ; Times: 8
+	Query: "catalognumber:46637 institutioncode:ROM family:Cotingidae" ; Times: 2
+	Query: "catalognumber:137050 institutioncode:ROM genus:Passer" ; Times: 1
+	Query: "catalognumber:60302 institutioncode:ROM genus:Tangara" ; Times: 1
+	Query: "catalognumber:70498 institutioncode:ROM genus:Emberiza" ; Times: 1
+	Query: "catalognumber:140229 institutioncode:ROM family:Prunellidae" ; Times: 2
+	Query: "catalognumber:98603 institutioncode:ROM family:Formicariidae" ; Times: 2
+	Query: "catalognumber:63119 institutioncode:ROM genus:Hylophilus" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 6
+	Query: "catalognumber:52382 institutioncode:ROM genus:Erithacus" ; Times: 1
+	Query: "23.9.21.341 institutioncode:ROM aves" ; Times: 1
+	Query: "catalognumber:36.7.20.11 institutioncode:ROM genus:Tyrannus" ; Times: 1
+	Query: "catalognumber:46631 institutioncode:ROM family:Cotingidae" ; Times: 2
+	Query: "locality:Saybrook stateprovince:&#34;Connecticut&#34;" ; Times: 1
+	Query: "catalognumber:48075 institutioncode:ROM family:Philepittidae" ; Times: 2
+	Query: "catalognumber:48053 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "catalognumber:60532 institutioncode:ROM genus:Tersina" ; Times: 1
+	Query: "catalognumber:48905 institutioncode:ROM family:Motacillidae" ; Times: 2
+	Query: "catalognumber:128008 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:53474 institutioncode:ROM genus:Turdus" ; Times: 1
+	Query: "116798" ; Times: 1
+	Query: "catalognumber:111425 institutioncode:ROM genus:Tangara" ; Times: 1
+	Query: "6702 institutioncode:ROM aves" ; Times: 1
+	Query: "catalognumber:140159 institutioncode:ROM genus:Gymnopithys" ; Times: 1
+	Query: "horsfieldii" ; Times: 1
+	Query: "catalognumber:104149 institutioncode:ROM genus:Tityra" ; Times: 1
+	Query: "catalognumber:109514 institutioncode:ROM genus:Myrmotherula" ; Times: 1
+	Query: "thamnophilus amazonicus" ; Times: 1
+	Query: "catalognumber:45900 institutioncode:ROM family:Eurylaimidae" ; Times: 2
+	Query: "catalognumber:33656 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:albicauda genus:mirafra country:&#34;kenya&#34;" ; Times: 1
+	Query: "catalognumber:111427 institutioncode:ROM genus:Tangara" ; Times: 1
+	Query: "107359 institutioncode:ROM aves" ; Times: 1
+	Query: "catalognumber:51994 institutioncode:ROM family:Troglodytidae" ; Times: 1
+	Query: "catalognumber:98625 institutioncode:ROM genus:Tersina" ; Times: 1
+	Query: "catalognumber:96429 institutioncode:ROM family:Pipridae" ; Times: 2
+	Query: "catalognumber:48073 institutioncode:ROM family:Philepittidae" ; Times: 2
+	Query: "catalognumber:48039 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "125836 institutioncode:ROM aves" ; Times: 1
+	Query: "catalognumber:111428 institutioncode:ROM genus:Tangara" ; Times: 1
+	Query: "catalognumber:45906 institutioncode:ROM genus:Calyptomena" ; Times: 1
+	Query: "aves parulidae nigrifrons skel OR skeleton" ; Times: 1
+	Query: "catalognumber:48015 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "catalognumber:94769 institutioncode:ROM genus:Tersina" ; Times: 1
+	Query: "catalognumber:125868 institutioncode:ROM family:Pipridae" ; Times: 2
+	Query: "vireo bellii kansas" ; Times: 1
+	Query: "catalognumber:48074 institutioncode:ROM" ; Times: 2
+	Query: "catalognumber:107436 institutioncode:ROM genus:Mionectes" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Kemp" ; Times: 1
+	Query: "107361 institutioncode:ROM aves" ; Times: 1
+	Query: "county:&#34;Delaware County&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "family:Meliphagidae hastissue:1" ; Times: 1
+	Query: "catalognumber:60525 institutioncode:ROM genus:Tersina" ; Times: 1
+	Query: "catalognumber:65345 institutioncode:ROM genus:Passer" ; Times: 1
+	Query: "catalognumber:53366 institutioncode:ROM genus:Turdus" ; Times: 1
+	Query: "catalognumber:46981 institutioncode:ROM genus:Schiffornis" ; Times: 1
+	Query: "Thryomanes AND Clemente Island AND 1908" ; Times: 1
+	Query: "catalognumber:91.11.1.1187 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:90634 institutioncode:ROM genus:Elaenia" ; Times: 1
+	Query: "15-2654" ; Times: 1
+	Query: "28634 institutioncode:ROM aves" ; Times: 1
+	Query: "catalognumber:60444 institutioncode:ROM genus:Chlorophanes" ; Times: 1
+	Query: "specificepithet:albicauda genus:mirafra" ; Times: 2
+	Query: "catalognumber:107391 institutioncode:ROM genus:Schiffornis" ; Times: 1
+	Query: "specificepithet:virens genus:Dendroica institutioncode:ROM" ; Times: 3
+	Query: "15397 institutioncode:ROM aves" ; Times: 1
+	Query: "catalognumber:45883 institutioncode:ROM family:Eurylaimidae" ; Times: 2
+	Query: "48995" ; Times: 1
+	Query: "catalognumber:94413 institutioncode:ROM family:Cotingidae" ; Times: 2
+	Query: "lanius egg saskatchewan" ; Times: 1
+	Query: "catalognumber:53466 institutioncode:ROM genus:Turdus" ; Times: 1
+	Query: "catalognumber:103963 institutioncode:ROM family:Troglodytidae" ; Times: 1
+	Query: "catalognumber:45886 institutioncode:ROM family:Eurylaimidae" ; Times: 2
+	Query: "catalognumber:108798 institutioncode:ROM genus:Elaenia" ; Times: 1
+	Query: "catalognumber:48056 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "116799" ; Times: 1
+	Query: "catalognumber:103606 institutioncode:ROM genus:Colonia" ; Times: 2
+	Query: "46414 institutioncode:ROM aves" ; Times: 1
+	Query: "catalognumber:54693 institutioncode:ROM genus:Ficedula" ; Times: 1
+	Query: "genus:setophaga institutioncode:ROM" ; Times: 6
+	Query: "black bear" ; Times: 1
+	Query: "catalognumber:103529 institutioncode:ROM genus:Myrmotherula" ; Times: 1
+	Query: "catalognumber:60492 institutioncode:ROM genus:Cyanerpes" ; Times: 1
+	Query: "mouhoti" ; Times: 1
+	Query: "specificepithet:pusilla institutioncode:ROM" ; Times: 1
+	Query: "class:Aves year &gt;= 1800 year &lt;= 1890 institutioncode:ROM hastypestatus:1" ; Times: 1
+	Query: "catalognumber:48837 institutioncode:ROM family:Motacillidae" ; Times: 2
+	Query: "catalognumber:48047 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "catalognumber:125842 institutioncode:ROM genus:Myrmotherula" ; Times: 1
+	Query: "Seicercus vntype:specimen (whistleri OR burkii)" ; Times: 1
+	Query: "genus:Anthoscopus family:Remizidae class:Aves continent:Africa" ; Times: 1
+	Query: "petechia eoa skel OR skeleton OR Skeleton OR Skel" ; Times: 1
+	Query: "90779 institutioncode:ROM aves" ; Times: 1
+	Query: "specificepithet:philadelphicus genus:vireo class:Aves year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "rom 97624" ; Times: 1
+	Query: "specificepithet:virens class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "catalognumber:26.11.1.167 institutioncode:ROM family:Eurylaimidae" ; Times: 2
+	Query: "catalognumber:147591 institutioncode:ROM genus:Tyrannus" ; Times: 1
+	Query: "Xiphocolaptes promeropirhynchus ROM" ; Times: 1
+	Query: "catalognumber:52843 institutioncode:ROM genus:Oenanthe" ; Times: 1
+	Query: "specificepithet:traillii genus:empidonax class:aves stateprovince:&#34;colorado&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Erythrocercus mccallii" ; Times: 1
+	Query: "catalognumber:111345 institutioncode:ROM genus:Hylophylax" ; Times: 1
+	Query: "catalognumber:53464 institutioncode:ROM genus:Turdus" ; Times: 1
+	Query: "catalognumber:140230 institutioncode:ROM family:Prunellidae" ; Times: 2
+	Query: "catalognumber:48834 institutioncode:ROM family:Motacillidae" ; Times: 2
+	Query: "catalognumber:45897 institutioncode:ROM family:Eurylaimidae" ; Times: 2
+	Query: "catalognumber:107461 institutioncode:ROM genus:Arremon" ; Times: 1
+	Query: "102707" ; Times: 1
+	Query: "lepidoptera" ; Times: 2
+	Query: "catalognumber:33.9.1.680 institutioncode:ROM family:Acanthisittidae" ; Times: 3
+	Query: "catalognumber:46738 institutioncode:ROM genus:Tityra" ; Times: 1
+	Query: "64074 institutioncode:ROM aves" ; Times: 1
+	Query: "class:Aves year &gt;= 1700 year &lt;= 1870 institutioncode:ROM hastypestatus:1" ; Times: 1
+	Query: "catalognumber:98971 institutioncode:ROM genus:Colonia" ; Times: 1
+	Query: "specificepithet:similis genus:anthus country:&#34;kenya&#34;" ; Times: 1
+	Query: "hemignathus lucidus" ; Times: 2
+	Query: "catalognumber:46739 institutioncode:ROM genus:Tityra" ; Times: 1
+	Query: "catalognumber:107353 institutioncode:ROM genus:Pithys" ; Times: 1
+	Query: "103549 institutioncode:ROM aves" ; Times: 1
+	Query: "11.3.30.427 institutioncode:ROM aves" ; Times: 1
+	Query: "Thamnophilus amazonicus" ; Times: 5
+	Query: "159630" ; Times: 2
+	Query: "catalognumber:23.9.21.328 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "catalognumber:23.9.21.341 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "catalognumber:57032 institutioncode:ROM genus:Emberiza" ; Times: 1
+	Query: "catalognumber:46219 institutioncode:ROM genus:Cymbilaimus" ; Times: 1
+	Query: "genus:Melidectes (melidectes)" ; Times: 2
+	Query: "catalognumber:82444 institutioncode:ROM genus:Tyrannus" ; Times: 1
+	Query: "47152 institutioncode:ROM aves" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Rand" ; Times: 1
+	Query: "stateprovince:&#34;oregon&#34; recordedby:corless basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "neodrepanis" ; Times: 1
+	Query: "moho nobilis" ; Times: 2
+	Query: "hasmass:1 Aves India" ; Times: 1
+	Query: "catalognumber:125887 institutioncode:ROM genus:Onychorhynchus" ; Times: 1
+	Query: "catalognumber:3110 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:48010 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "class:aves catalognumber:110000" ; Times: 1
+	Query: "143785" ; Times: 1
+	Query: "catalognumber:53362 institutioncode:ROM genus:Turdus" ; Times: 1
+	Query: "96429 institutioncode:ROM aves" ; Times: 1
+	Query: "54986" ; Times: 2
+	Query: "genus:Ammodramus stateprovince:&#34;California&#34; institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:51707 institutioncode:ROM family:Cinclidae" ; Times: 2
+	Query: "UMMZ Tyrannus verticalis skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "specificepithet:trichas genus:Geothlypis institutioncode:ROM hassex:1 hasmass:1" ; Times: 4
+	Query: "catalognumber:82445 institutioncode:ROM genus:Tyrannus" ; Times: 1
+	Query: "psaltriparus egg" ; Times: 1
+	Query: "catalognumber:48045 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "Anthony AND Isla Guadalupe" ; Times: 1
+	Query: "class:Aves country:&#34;israel&#34;" ; Times: 2
+	Query: "catalognumber:50760 institutioncode:ROM family:Corvidae" ; Times: 2
+	Query: "specificepithet:fusca class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "catalognumber:11.3.30.401 institutioncode:ROM genus:Tachyphonus" ; Times: 1
+	Query: "catalognumber:111860 institutioncode:ROM genus:Tersina" ; Times: 1
+	Query: "catalognumber:125886 institutioncode:ROM genus:Onychorhynchus" ; Times: 1
+	Query: "catalognumber:103711 institutioncode:ROM genus:Tangara" ; Times: 1
+	Query: "catalognumber:46429 institutioncode:ROM family:Formicariidae" ; Times: 2
+	Query: "catalognumber:49313 institutioncode:ROM genus:Sturnus" ; Times: 1
+	Query: "saltator striatipectus" ; Times: 2
+	Query: "Montifringilla nivalis" ; Times: 1
+	Query: "specificepithet:coronata genus:Dendroica institutioncode:ROM" ; Times: 2
+	Query: "Geositta cunicularia" ; Times: 1
+	Query: "catalognumber:89257 institutioncode:ROM" ; Times: 1
+	Query: "petechia rhizophorae skel OR skeleton OR Skeleton OR Skel" ; Times: 1
+	Query: "catalognumber:48052 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "catalognumber:45891 institutioncode:ROM family:Eurylaimidae" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Sitta haslength:1" ; Times: 1
+	Query: "catalognumber:103563 institutioncode:ROM family:Pipridae" ; Times: 2
+	Query: "catalognumber:69622 institutioncode:ROM genus:Sitta" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "catalognumber:47931 institutioncode:ROM genus:Elaenia" ; Times: 1
+	Query: "28635 institutioncode:ROM aves" ; Times: 1
+	Query: "catalognumber:54305 institutioncode:ROM genus:Sylvia" ; Times: 1
+	Query: "52543" ; Times: 1
+	Query: "specificepithet:flaviventris genus:empidonax institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:54295 institutioncode:ROM genus:Sylvia" ; Times: 1
+	Query: "catalognumber:32328 institutioncode:ROM" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Glen" ; Times: 1
+	Query: "64076 institutioncode:ROM aves" ; Times: 1
+	Query: "catalognumber:48044 institutioncode:ROM family:Pittidae" ; Times: 2
+	Query: "class:Aves continent:Africa recordedby:Williams" ; Times: 1
+	Query: "catalognumber:60312 institutioncode:ROM genus:Tangara" ; Times: 1
+	Query: "vntype:specimen genus:Hemithraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:46854 institutioncode:ROM family:Pipridae" ; Times: 2
+	Query: "catalognumber:53465 institutioncode:ROM genus:Turdus" ; Times: 1
+	Query: "sclerurus caudacutus" ; Times: 7
+	Query: "catalognumber:48816 institutioncode:ROM genus:Delichon" ; Times: 1
+	Query: "vntype:specimen specificepithet:guira genus:Hemithraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:152990 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:140174 institutioncode:ROM family:Pipridae" ; Times: 2
+	Query: "Cyanerpes caeruleus hellmayri institutioncode:ROM aves" ; Times: 1
+	Query: "catalognumber:48818 institutioncode:ROM genus:Delichon" ; Times: 1
+	Query: "Black Rail" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 1584 download events in this period)
+Total number of records downloaded: 7810
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: Cuba ; Times: 1
+	Country: France ; Times: 18
+	Country: United States ; Times: 24
+	Country: Sweden ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 1
+	Date: 2020-01-28 ; Times: 19
+	Date: 2020-01-08 ; Times: 4
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-21 ; Times: 3
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-25 ; Times: 4
+	Date: 2020-01-24 ; Times: 4
+	Date: 2020-01-27 ; Times: 7
+	Date: 2020-01-26 ; Times: 3
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-22 ; Times: 2
+	Date: 2020-01-31 ; Times: 2
+	Date: 2020-01-30 ; Times: 2
+	Date: 2020-01-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves country:&#34;Mexico&#34; year &gt;= 1990 year &lt;= 1995 hastissue:1" ; Times: 1
+	Query: "Seicercus vntype:specimen (whistleri OR burkii)" ; Times: 1
+	Query: "genus:Anthoscopus family:Remizidae class:Aves continent:Africa" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;California&#34; hastissue:1" ; Times: 2
+	Query: "class:Aves continent:Africa recordedby:Currie" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Someren" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Goodman" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "saltator striatipectus" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Vireo bellii arizonae" ; Times: 1
+	Query: "turdus plumbeus" ; Times: 1
+	Query: "specificepithet:canorus" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Smithers" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Kemp" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Grauer" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Irwin" ; Times: 1
+	Query: "class:Aves hastypestatus:1" ; Times: 1
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Dicrurus family:Dicruridae class:Aves continent:Africa" ; Times: 1
+	Query: "stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Ansorge" ; Times: 1
+	Query: "stateprovince:&#34;Oaxaca&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Campeche&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Tabasco&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Haemorhous mexicanus" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 2
+	Query: "drepanornis bruijnii" ; Times: 2
+	Query: "Sturnus" ; Times: 1
+	Query: "class:aves country:Mexico" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Archer" ; Times: 1
+	Query: "stateprovince:&#34;Yucatan&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Allen" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Bates" ; Times: 1
+	Query: "class:Aves country:&#34;Mexico&#34; year &gt;= 1991 year &lt;= 2000 hastissue:1" ; Times: 1
+	Query: "Thamnophilus amazonicus" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Boulton" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Glen" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Rand" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sitta haslength:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Arizona&#34; year &gt;= 1980 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Williams" ; Times: 1
+	Query: "aves hastissue:1 country:mexico" ; Times: 1
+	Query: "class:Aves country:Mexico" ; Times: 2
+	Query: "class:Aves country:India" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Loveridge" ; Times: 1
+	Query: "vntype:specimen country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "recordedby:Hume (Hume) year &gt;= 1800 year &lt;= 1900 basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
