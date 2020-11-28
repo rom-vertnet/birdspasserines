@@ -1,0 +1,209 @@
+Report for Institution Code ROM, Resource birdspass
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 148
+Number of records retrieved in searches: 1944
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: Canada ; Times: 15
+	Country: Australia ; Times: 2
+	Country: Peru ; Times: 4
+	Country: Mexico ; Times: 17
+	Country: Unknown ; Times: 10
+	Country: Uruguay ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: France ; Times: 6
+	Country: United States ; Times: 36
+	Country: Sweden ; Times: 21
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Ireland ; Times: 5
+	Country: Austria ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Bolivia ; Times: 3
+	Country: New Zealand ; Times: 3
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-05 ; Times: 6
+	Date: 2020-06-19 ; Times: 3
+	Date: 2020-06-08 ; Times: 11
+	Date: 2020-06-09 ; Times: 6
+	Date: 2020-06-06 ; Times: 4
+	Date: 2020-06-07 ; Times: 3
+	Date: 2020-06-04 ; Times: 29
+	Date: 2020-06-16 ; Times: 2
+	Date: 2020-06-02 ; Times: 13
+	Date: 2020-06-03 ; Times: 34
+	Date: 2020-06-01 ; Times: 6
+	Date: 2020-06-23 ; Times: 1
+	Date: 2020-06-27 ; Times: 1
+	Date: 2020-06-10 ; Times: 28
+	Date: 2020-06-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:113678" ; Times: 1
+	Query: "catalognumber:152733 institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "astrapia nigra" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "catalognumber:157836 institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 1
+	Query: "100499" ; Times: 1
+	Query: "82441" ; Times: 1
+	Query: "catalognumber:53248" ; Times: 1
+	Query: "specificepithet:ardens genus:Euplectes hastissue:1" ; Times: 2
+	Query: "Sialia currucoides mass OR weight" ; Times: 2
+	Query: "specificepithet:viridis genus:Tersina" ; Times: 1
+	Query: "specificepithet:pipra genus:Iodopleura" ; Times: 1
+	Query: "59011" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "catalognumber:55841" ; Times: 1
+	Query: "catalognumber:55845" ; Times: 1
+	Query: "batis minor" ; Times: 1
+	Query: "catalognumber:157835 institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "Drepanornis albertisi" ; Times: 3
+	Query: "Sialia mexicana mass OR weight" ; Times: 2
+	Query: "Paradigalla carunculata" ; Times: 1
+	Query: "pycnonotus" ; Times: 1
+	Query: "100499 aves" ; Times: 1
+	Query: "catalognumber:70280" ; Times: 1
+	Query: "genus:Chondestes county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:154993 institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "Progne subis hasmass:1" ; Times: 1
+	Query: "Progne subis mass OR weight" ; Times: 2
+	Query: "brava" ; Times: 1
+	Query: "Tachycineta bicolor hasmass:1" ; Times: 1
+	Query: "Hemithraupis guira" ; Times: 1
+	Query: "Meadowlark nest" ; Times: 2
+	Query: "genus:Pitangus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:105376" ; Times: 1
+	Query: "catalognumber:152734 institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "catalognumber:154994 institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "(10058)" ; Times: 1
+	Query: "specificepithet:superciliosus genus:Plocepasser" ; Times: 2
+	Query: "106073 institutioncode:ROM" ; Times: 2
+	Query: "genus:Orthogonys specificepithet:chloricterus" ; Times: 2
+	Query: "virgin islands" ; Times: 1
+	Query: "catalognumber:57338" ; Times: 1
+	Query: "country:&#34;Philippines&#34; year &gt;= 1800 year &lt;= 1880" ; Times: 2
+	Query: "Sialia sialis mass OR weight" ; Times: 2
+	Query: "specificepithet:ciris genus:Passerina county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Chiroxiphia specificepithet:caudata" ; Times: 3
+	Query: "Carduelis yarrellii" ; Times: 1
+	Query: "Tersina viridis" ; Times: 1
+	Query: "Tenasserim" ; Times: 1
+	Query: "hirundo tahitica" ; Times: 1
+	Query: "Epimachus" ; Times: 1
+	Query: "catalognumber:144379" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "catalognumber: 146659" ; Times: 1
+	Query: "93108" ; Times: 1
+	Query: "H. A. Edwards" ; Times: 1
+	Query: "Astrapia nigra" ; Times: 4
+	Query: "Tachycineta bicolor mass OR weight" ; Times: 2
+	Query: "class:aves country:&#34;somalia&#34; recordedby:archer" ; Times: 1
+	Query: "trichastoma celebense" ; Times: 1
+	Query: "Epimachus fastuosus" ; Times: 4
+	Query: "93995" ; Times: 1
+	Query: "Sialia sialis hasmass:1" ; Times: 1
+	Query: "drepanornis albertisi" ; Times: 6
+	Query: "ROM 106376" ; Times: 1
+	Query: "locality:Rossel country:&#34;Papua New Guinea&#34;" ; Times: 1
+	Query: "catalognumber:8660 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "Chinchilla chinchilla" ; Times: 3
+	Query: "catalognumber:152591 institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "Drepanornis albertisi albertisi" ; Times: 1
+	Query: "scrub jay" ; Times: 2
+	Query: "catalognumber: 49140" ; Times: 1
+	Query: "order:aves" ; Times: 1
+	Query: "locality:Sudest country:&#34;Papua New Guinea&#34;" ; Times: 1
+	Query: "catalognumber:61239" ; Times: 1
+	Query: "Chlorothraupis olivacea" ; Times: 1
+	Query: "catalognumber:122181" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo county:&#34;san diego&#34;" ; Times: 1
+	Query: "specificepithet:carolinus genus:Euphagus stateprovince:&#34;Nova Scotia&#34;" ; Times: 1
+	Query: "Elaenia chilensis" ; Times: 1
+	Query: "(101955 OR 105821) institutioncode:ROM" ; Times: 1
+	Query: "Sialia currucoides hasmass:1" ; Times: 1
+	Query: "class:Aves recordedby:Aiken" ; Times: 2
+	Query: "Parnell" ; Times: 3
+	Query: "Iodopleura pipra" ; Times: 1
+	Query: "xenicus longipes" ; Times: 1
+	Query: "class:aves country:&#34;eritrea&#34; recordedby:schrader" ; Times: 1
+	Query: "Sialia mexicana hasmass:1" ; Times: 1
+	Query: "catalognumber:109713" ; Times: 1
+	Query: "class:Aves recordedby:Aiken year &gt;= 1873 year &lt;= 1877" ; Times: 1
+	Query: "locality:Apache stateprovince:&#34;Arizona&#34; recordedby:Henshaw" ; Times: 1
+	Query: "vntype:specimen genus:Hypopyrrhus" ; Times: 2
+	Query: "Onychorhynchus swainsoni" ; Times: 1
+	Query: "catalognumber:30908 institutioncode:ROM" ; Times: 1
+	Query: "fmnh 18621" ; Times: 1
+	Query: "Pycnonotus sinensis" ; Times: 1
+	Query: "RT 286" ; Times: 2
+	Query: "21719" ; Times: 2
+	Query: "catalognumber:157837 institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; recordedby:Henshaw" ; Times: 2
+	Query: "catalognumber: 61436" ; Times: 1
+	Query: "Sturnella defilippii" ; Times: 1
+	Query: "catalognumber:114903 institutioncode:ROM" ; Times: 2
+	Query: "catalognumber:155012 institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "catalognumber:114902 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:mexicanus genus:cinclus country:&#34;costa rica&#34;" ; Times: 1
+	Query: "G. A. Fischer" ; Times: 1
+	Query: "catalognumber: 147946" ; Times: 1
+	Query: "Black Rail" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 474 download events in this period)
+Total number of records downloaded: 2592
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Brazil ; Times: 12
+	Country: Austria ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Uruguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-19 ; Times: 1
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-04 ; Times: 2
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-03 ; Times: 4
+	Date: 2020-06-12 ; Times: 1
+	Date: 2020-06-10 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:fuscescens genus:Catharus" ; Times: 1
+	Query: "class:aves country:&#34;eritrea&#34; recordedby:schrader" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "locality:Rossel country:&#34;Papua New Guinea&#34;" ; Times: 1
+	Query: "catalognumber:8660 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:rustica genus:Hirundo" ; Times: 1
+	Query: "genus:Passerina month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Onychorhynchus swainsoni" ; Times: 1
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "scrub jay" ; Times: 2
+	Query: "Florida" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga" ; Times: 1
+	Query: "specificepithet:viridis genus:Tersina" ; Times: 1
+	Query: "specificepithet:pipra genus:Iodopleura" ; Times: 1
+	Query: "locality:Sudest country:&#34;Papua New Guinea&#34;" ; Times: 1
+	Query: "Tersina viridis" ; Times: 1
+	Query: "Sturnella defilippii" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo county:&#34;san diego&#34;" ; Times: 1
+	Query: "Elaenia chilensis" ; Times: 1
+	Query: "(101955 OR 105821) institutioncode:ROM" ; Times: 1
+	Query: "Hirundo rustica" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+	Query: "Iodopleura pipra" ; Times: 1
+
+
+End of report.
