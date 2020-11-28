@@ -1,0 +1,391 @@
+Report for Institution Code ROM, Resource birdspass
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 396
+Number of records retrieved in searches: 3084
+Number of different countries where searches have been originated: 26
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 20
+	Country: Canada ; Times: 16
+	Country: Qatar ; Times: 1
+	Country: Bangladesh ; Times: 1
+	Country: Unknown ; Times: 7
+	Country: France ; Times: 5
+	Country: Peru ; Times: 23
+	Country: Laos ; Times: 1
+	Country: Ecuador ; Times: 21
+	Country: Australia ; Times: 4
+	Country: Germany ; Times: 8
+	Country: Spain ; Times: 2
+	Country: Ireland ; Times: 16
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 12
+	Country: United States ; Times: 143
+	Country: Sweden ; Times: 5
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 39
+	Country: India ; Times: 13
+	Country: United Kingdom ; Times: 24
+	Country: Malaysia ; Times: 1
+	Country: Austria ; Times: 5
+	Country: Colombia ; Times: 25
+	Country: Paraguay ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 5
+	Date: 2020-07-08 ; Times: 10
+	Date: 2020-07-21 ; Times: 28
+	Date: 2020-07-20 ; Times: 65
+	Date: 2020-07-27 ; Times: 17
+	Date: 2020-07-26 ; Times: 5
+	Date: 2020-07-22 ; Times: 15
+	Date: 2020-07-03 ; Times: 9
+	Date: 2020-07-02 ; Times: 14
+	Date: 2020-07-05 ; Times: 7
+	Date: 2020-07-04 ; Times: 5
+	Date: 2020-07-07 ; Times: 10
+	Date: 2020-07-06 ; Times: 18
+	Date: 2020-07-24 ; Times: 6
+	Date: 2020-07-23 ; Times: 4
+	Date: 2020-07-29 ; Times: 17
+	Date: 2020-07-18 ; Times: 8
+	Date: 2020-07-19 ; Times: 9
+	Date: 2020-07-12 ; Times: 2
+	Date: 2020-07-13 ; Times: 6
+	Date: 2020-07-10 ; Times: 9
+	Date: 2020-07-11 ; Times: 13
+	Date: 2020-07-30 ; Times: 13
+	Date: 2020-07-31 ; Times: 6
+	Date: 2020-07-14 ; Times: 18
+	Date: 2020-07-17 ; Times: 11
+	Date: 2020-07-15 ; Times: 28
+	Date: 2020-07-16 ; Times: 23
+	Date: 2020-07-28 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:108237 institutioncode:ROM" ; Times: 1
+	Query: "102105" ; Times: 1
+	Query: "long tailed weasel" ; Times: 1
+	Query: "78725" ; Times: 1
+	Query: "11825" ; Times: 1
+	Query: "lake whitefish" ; Times: 1
+	Query: "vntype:specimen genus:Pitylus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "58955" ; Times: 1
+	Query: "vntype:specimen specificepithet:maximus genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "human" ; Times: 1
+	Query: "UWBM Vermivora ruficapilla" ; Times: 1
+	Query: "Timalia pileata" ; Times: 4
+	Query: "101647" ; Times: 2
+	Query: "10347" ; Times: 1
+	Query: "specificepithet:pygmaeum genus:dicaeum country:&#34;philippines&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 15
+	Query: "genus:Antilophia institutioncode:ROM" ; Times: 1
+	Query: "Manucodia ater" ; Times: 2
+	Query: "elminia longicauda" ; Times: 1
+	Query: "ROM 32671" ; Times: 2
+	Query: "Costa Rica Boruca" ; Times: 2
+	Query: "52151" ; Times: 1
+	Query: "RIBS" ; Times: 2
+	Query: "wizard" ; Times: 3
+	Query: "vntype:specimen specificepithet:angolensis genus:Oryzoborus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Graminicola bengalensis india" ; Times: 1
+	Query: "32839" ; Times: 1
+	Query: "family:Pipridae institutioncode:ROM" ; Times: 1
+	Query: "27204" ; Times: 1
+	Query: "ROM 104302" ; Times: 1
+	Query: "Lanio leucothorax" ; Times: 2
+	Query: "101273" ; Times: 1
+	Query: "upucerthia serrana" ; Times: 2
+	Query: "vntype:specimen genus:Oryzoborus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "lobo" ; Times: 1
+	Query: "12348 aves" ; Times: 2
+	Query: "vntype:specimen specificepithet:similis genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:pulcherrima country:&#34;philippines&#34;" ; Times: 3
+	Query: "ROM 30060" ; Times: 2
+	Query: "ROM 30061" ; Times: 2
+	Query: "10347 aves" ; Times: 1
+	Query: "117348" ; Times: 1
+	Query: "Chlorophonia occipitalis" ; Times: 1
+	Query: "country:&#34;Trinidad and Tobago&#34; institutioncode:ROM" ; Times: 3
+	Query: "64731 aves" ; Times: 1
+	Query: "15110" ; Times: 1
+	Query: "specificepithet:striata genus:coracina country:&#34;philippines&#34;" ; Times: 1
+	Query: "myrmeciza ruficauda" ; Times: 1
+	Query: "ROM 97750" ; Times: 1
+	Query: "Matagalpa" ; Times: 2
+	Query: "country:&#34;Colombia&#34; Spiza americana" ; Times: 1
+	Query: "Jasper County Missouri" ; Times: 1
+	Query: "23686" ; Times: 2
+	Query: "ROM 34124" ; Times: 2
+	Query: "county:&#34;St. Lawrence&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "81530" ; Times: 1
+	Query: "hypocnemis cantator" ; Times: 1
+	Query: "115223 institutioncode:ROM" ; Times: 1
+	Query: "Costa Rica Buenos Aires" ; Times: 1
+	Query: "parus cinereus" ; Times: 2
+	Query: "vntype:specimen specificepithet:cela genus:Cacicus country:&#34;Peru&#34;" ; Times: 1
+	Query: "california (eggs or nest )" ; Times: 1
+	Query: "Anomalospiza" ; Times: 1
+	Query: "class:Aves country:&#34;Venezuela&#34; institutioncode:ROM" ; Times: 2
+	Query: "genus:Chondestes county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Calyptomena viridis continentis" ; Times: 1
+	Query: "ROM 30059" ; Times: 2
+	Query: "ROM 30058" ; Times: 2
+	Query: "vntype:specimen genus:saltator class:Aves country:&#34;Brazil&#34; institutioncode:ROM" ; Times: 1
+	Query: "sporophila minuta" ; Times: 1
+	Query: "56042" ; Times: 1
+	Query: "Ampeliceps coronatus india" ; Times: 1
+	Query: "Corvus corax" ; Times: 2
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Piranga flava" ; Times: 2
+	Query: "20502" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Geothlypis philadelphia" ; Times: 1
+	Query: "continent:africa year &gt;= 1924 year &lt;= 1924" ; Times: 2
+	Query: "A-101483" ; Times: 1
+	Query: "aegithalos concinnus" ; Times: 6
+	Query: "A-117563" ; Times: 1
+	Query: "ROM 30046" ; Times: 4
+	Query: "specificepithet:flagrans genus:aethopyga country:&#34;philippines&#34;" ; Times: 2
+	Query: "12348" ; Times: 1
+	Query: "46505" ; Times: 1
+	Query: "Ampeliceps coronatus" ; Times: 1
+	Query: "tachycineta albiventer" ; Times: 1
+	Query: "specificepithet:imitans genus:Euphonia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "chipping sparrow eggs" ; Times: 1
+	Query: "Prinia cinerascens" ; Times: 1
+	Query: "specificepithet:cunicularia genus:Geositta institutioncode:ROM" ; Times: 1
+	Query: "UWBM 5040" ; Times: 1
+	Query: "27204 aves" ; Times: 1
+	Query: "13222" ; Times: 1
+	Query: "Parnell" ; Times: 2
+	Query: "70414" ; Times: 1
+	Query: "115185 institutioncode:ROM" ; Times: 1
+	Query: "5867 aves" ; Times: 1
+	Query: "paradoxornis flavirostris" ; Times: 7
+	Query: "apalis collaris" ; Times: 1
+	Query: "genus:quelea country:&#34;somalia&#34;" ; Times: 1
+	Query: "ROM 34118" ; Times: 2
+	Query: "13364" ; Times: 1
+	Query: "class:aves country:&#34;somalia&#34; recordedby:archer" ; Times: 1
+	Query: "Sturnus vulgaris india" ; Times: 1
+	Query: "tachycineta leucorrhoa" ; Times: 1
+	Query: "class:aves stateprovince:&#34;jiangxi&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "85227" ; Times: 1
+	Query: "104302" ; Times: 1
+	Query: "101430" ; Times: 1
+	Query: "Boquete chiriqui" ; Times: 1
+	Query: "genus:loxia country:&#34;philippines&#34;" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "MVZ 138568" ; Times: 2
+	Query: "Acanthisitta chloris" ; Times: 1
+	Query: "Contopus virens Colombia" ; Times: 2
+	Query: "mana" ; Times: 1
+	Query: "apple" ; Times: 1
+	Query: "class:Aves country:&#34;Trinidad and Tobago&#34; institutioncode:ROM" ; Times: 2
+	Query: "ROM 29909" ; Times: 2
+	Query: "KU 8646" ; Times: 1
+	Query: "genus:dicrurus country:&#34;philippines&#34;" ; Times: 3
+	Query: "ROM 96643" ; Times: 1
+	Query: "Xenicus" ; Times: 1
+	Query: "family:Pipridae institutioncode:ROM skeleton" ; Times: 1
+	Query: "bondi -Australia" ; Times: 1
+	Query: "Bolivia Yungas" ; Times: 1
+	Query: "matagalpa nicaragua" ; Times: 1
+	Query: "A 117563" ; Times: 1
+	Query: "vntype:specimen genus:emberizoides class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "geositta cunicularia" ; Times: 1
+	Query: "10650" ; Times: 1
+	Query: "Fort Thorne" ; Times: 1
+	Query: "ROM 32437" ; Times: 2
+	Query: "austria" ; Times: 1
+	Query: "royal-ontario-museum" ; Times: 1
+	Query: "ROM 32433" ; Times: 2
+	Query: "ROM 32431" ; Times: 4
+	Query: "ROM 34090" ; Times: 4
+	Query: "aegithalos caudatus" ; Times: 2
+	Query: "vntype:specimen specificepithet:leucothorax genus:Lanio" ; Times: 1
+	Query: "47000" ; Times: 2
+	Query: "mohoua ochrocephala" ; Times: 2
+	Query: "catalognumber:512482" ; Times: 1
+	Query: "Conirostrum rufum" ; Times: 1
+	Query: "specificepithet:caroli genus:anthoscopus" ; Times: 1
+	Query: "specificepithet:hypoleucum genus:dicaeum country:&#34;philippines&#34;" ; Times: 6
+	Query: "country:&#34;Colombia&#34; Catharus minimus" ; Times: 1
+	Query: "myrmeciza ferruginea" ; Times: 1
+	Query: "wilsonia canadensis egg" ; Times: 2
+	Query: "Boquete Chiriqui" ; Times: 1
+	Query: "Wallace alfred institutioncode:ROM" ; Times: 1
+	Query: "ROM 29910" ; Times: 2
+	Query: "specificepithet:ludovicianus genus:lanius locality:santa rosa island county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:ROM" ; Times: 1
+	Query: "Cardellina egg" ; Times: 1
+	Query: "genus:quelea" ; Times: 1
+	Query: "Schulze vntype:specimen country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "31031" ; Times: 1
+	Query: "locality:Yungas" ; Times: 1
+	Query: "ROM 32428" ; Times: 4
+	Query: "ROM 34089" ; Times: 2
+	Query: "pipra mentalis" ; Times: 1
+	Query: "catalognumber:31031 institutioncode:ROM" ; Times: 1
+	Query: "ROM 105964" ; Times: 1
+	Query: "Pericrocotus solaris" ; Times: 1
+	Query: "ROM 31159" ; Times: 1
+	Query: "153035" ; Times: 1
+	Query: "locality:Kolkata stateprovince:&#34;West Bengal&#34; country:&#34;India&#34;" ; Times: 2
+	Query: "adamsi" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 4
+	Query: "specificepithet:poliocephalus genus:Phylloscopus class:Aves" ; Times: 1
+	Query: "genus:cardinalis hastissue:1" ; Times: 1
+	Query: "catalognumber:55271" ; Times: 1
+	Query: "specificepithet:olivaceus genus:vireo country:&#34;brazil&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34; institutioncode:ROM" ; Times: 1
+	Query: "saxicola jerdoni" ; Times: 1
+	Query: "phainoptila" ; Times: 1
+	Query: "13459" ; Times: 1
+	Query: "88053" ; Times: 1
+	Query: "ROM 112731" ; Times: 1
+	Query: "Regulus regulus india" ; Times: 1
+	Query: "35921" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Pheucticus ludovicianus" ; Times: 1
+	Query: "bequia" ; Times: 1
+	Query: "merida venezuela" ; Times: 1
+	Query: "locality:rocky ford stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "511790" ; Times: 1
+	Query: "101352" ; Times: 2
+	Query: "vntype:specimen specificepithet:THORACICA genus:Poospiza class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "101357" ; Times: 1
+	Query: "locality:Matagalpa country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "genus:buphagus institutioncode:ROM" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Tyrannus dominicensis" ; Times: 1
+	Query: "specificepithet:plateni country:&#34;philippines&#34;" ; Times: 1
+	Query: "112728" ; Times: 1
+	Query: "Tichodroma muraria" ; Times: 1
+	Query: "parus major ovary" ; Times: 1
+	Query: "ruffed grouse" ; Times: 1
+	Query: "country:&#34;India&#34; ovary" ; Times: 1
+	Query: "Tangara guttata" ; Times: 1
+	Query: "28567" ; Times: 1
+	Query: "MVZ 138570" ; Times: 3
+	Query: "21252" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Setophaga ruticilla" ; Times: 1
+	Query: "ROM 101364" ; Times: 2
+	Query: "specificepithet:clarae genus:Arachnothera country:&#34;philippines&#34;" ; Times: 1
+	Query: "Jamaica St. Andrew" ; Times: 1
+	Query: "23630" ; Times: 1
+	Query: "Cayenne guiana" ; Times: 1
+	Query: "thraupis episcopus" ; Times: 4
+	Query: "Euphonia imitans" ; Times: 3
+	Query: "KU 8646 aves" ; Times: 1
+	Query: "Quiscalus brachypterus" ; Times: 1
+	Query: "Almirante" ; Times: 1
+	Query: "hylexetastes" ; Times: 1
+	Query: "Indicator indicator" ; Times: 2
+	Query: "64731" ; Times: 2
+	Query: "Colombia Bonda" ; Times: 1
+	Query: "vntype:specimen genus:saltator class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "28078" ; Times: 2
+	Query: "101467" ; Times: 1
+	Query: "Noanamá" ; Times: 1
+	Query: "115187 institutioncode:ROM" ; Times: 2
+	Query: "genus:machetornis" ; Times: 2
+	Query: "Oenanthe deserti" ; Times: 1
+	Query: "ROM 32195" ; Times: 4
+	Query: "country:&#34;Colombia&#34; Contopus virens" ; Times: 1
+	Query: "ROM 108237" ; Times: 1
+	Query: "Costa Rica Pozo Azul" ; Times: 1
+	Query: "sylvia melanocephala" ; Times: 1
+	Query: "Valle Tumbaco" ; Times: 1
+	Query: "chipping sparrow nest and eggs" ; Times: 1
+	Query: "aegithalos concinnus india" ; Times: 1
+	Query: "mohoua albicilla" ; Times: 2
+	Query: "ROM 32444" ; Times: 2
+	Query: "country:&#34;Colombia&#34; Myiodynastes maculatus" ; Times: 3
+	Query: "ROM 31158" ; Times: 1
+	Query: "tachycineta albilinea" ; Times: 1
+	Query: "UWBM 5040 aves" ; Times: 1
+	Query: "polar bear" ; Times: 2
+	Query: "117361" ; Times: 1
+	Query: "vntype:specimen specificepithet:cela genus:Cacicus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "115188 institutioncode:ROM" ; Times: 1
+	Query: "Megalurus gramineus 1912" ; Times: 1
+	Query: "vntype:specimen genus:Poospiza class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "ROM 32427" ; Times: 4
+	Query: "27947" ; Times: 2
+	Query: "Zapotlan" ; Times: 1
+	Query: "21099" ; Times: 1
+	Query: "ROM 34109" ; Times: 1
+	Query: "ROM 105127" ; Times: 1
+	Query: "hastypestatus:1 inornatus" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Vireo olivaceus" ; Times: 2
+	Query: "institutioncode:rom" ; Times: 1
+	Query: "genus:sitta country:&#34;philippines&#34;" ; Times: 1
+	Query: "Utinga" ; Times: 1
+	Query: "catalognumber:63746" ; Times: 1
+	Query: "Zosterops meeki" ; Times: 2
+	Query: "vntype:specimen distance(location,geopoint(16.00309675035043,122.63482200511682))&lt;100000" ; Times: 1
+	Query: "11163" ; Times: 1
+	Query: "corvus splendens" ; Times: 1
+	Query: "Fluvicola atripennis" ; Times: 1
+	Query: "country:&#34;Colombia&#34; piranga flava" ; Times: 2
+	Query: "Mionectes assimilis" ; Times: 1
+	Query: "copsychus" ; Times: 1
+	Query: "Leiden" ; Times: 1
+	Query: "specificepithet:caroli genus:anthoscopus country:&#34;uganda&#34;" ; Times: 1
+	Query: "FMNH 5582" ; Times: 1
+	Query: "fasciatus costa rica" ; Times: 2
+	Query: "87481" ; Times: 1
+	Query: "genus:Arachnothera country:&#34;philippines&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 940 download events in this period)
+Total number of records downloaded: 1924
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Austria ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 2
+	Country: Sweden ; Times: 3
+	Country: Peru ; Times: 3
+	Country: South Korea ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-27 ; Times: 4
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34; institutioncode:ROM" ; Times: 1
+	Query: "class:aves stateprovince:&#34;jiangxi&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "geositta cunicularia" ; Times: 1
+	Query: "country:&#34;korea&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Tangara guttata" ; Times: 1
+	Query: "class:Aves country:&#34;Uganda&#34; continent:Africa" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+
+
+End of report.
