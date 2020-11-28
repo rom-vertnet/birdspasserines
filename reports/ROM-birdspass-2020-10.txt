@@ -1,0 +1,432 @@
+Report for Institution Code ROM, Resource birdspass
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 399
+Number of records retrieved in searches: 7635
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 41
+	Country: Canada ; Times: 32
+	Country: Netherlands ; Times: 3
+	Country: Colombia ; Times: 11
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 9
+	Country: Philippines ; Times: 2
+	Country: India ; Times: 14
+	Country: France ; Times: 15
+	Country: United States ; Times: 225
+	Country: Vietnam ; Times: 2
+	Country: Germany ; Times: 4
+	Country: United Kingdom ; Times: 20
+	Country: Chile ; Times: 1
+	Country: Denmark ; Times: 4
+	Country: Switzerland ; Times: 2
+	Country: Argentina ; Times: 3
+	Country: Russia ; Times: 2
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 11
+	Date: 2020-10-19 ; Times: 5
+	Date: 2020-10-08 ; Times: 29
+	Date: 2020-10-12 ; Times: 5
+	Date: 2020-10-13 ; Times: 37
+	Date: 2020-10-10 ; Times: 5
+	Date: 2020-10-11 ; Times: 4
+	Date: 2020-10-16 ; Times: 12
+	Date: 2020-10-31 ; Times: 3
+	Date: 2020-10-14 ; Times: 4
+	Date: 2020-10-15 ; Times: 18
+	Date: 2020-10-03 ; Times: 9
+	Date: 2020-10-23 ; Times: 9
+	Date: 2020-10-22 ; Times: 13
+	Date: 2020-10-21 ; Times: 8
+	Date: 2020-10-20 ; Times: 38
+	Date: 2020-10-27 ; Times: 8
+	Date: 2020-10-26 ; Times: 21
+	Date: 2020-10-25 ; Times: 2
+	Date: 2020-10-24 ; Times: 6
+	Date: 2020-10-01 ; Times: 30
+	Date: 2020-10-30 ; Times: 13
+	Date: 2020-10-29 ; Times: 15
+	Date: 2020-10-28 ; Times: 7
+	Date: 2020-10-05 ; Times: 4
+	Date: 2020-10-04 ; Times: 13
+	Date: 2020-10-07 ; Times: 21
+	Date: 2020-10-17 ; Times: 8
+	Date: 2020-10-06 ; Times: 7
+	Date: 2020-10-02 ; Times: 34
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:108235 institutioncode:ROM" ; Times: 2
+	Query: "wing chord specificepithet:calendula genus:Regulus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "M.G Palmer" ; Times: 2
+	Query: "catalognumber:107943 institutioncode:ROM" ; Times: 2
+	Query: "franciscanus" ; Times: 1
+	Query: "genus:Bubalornis institutioncode:ROM tissue" ; Times: 1
+	Query: "Turdus eunomus" ; Times: 1
+	Query: "scientificname:Corvus albus" ; Times: 3
+	Query: "Elaenia martinica" ; Times: 1
+	Query: "JAM 2819" ; Times: 1
+	Query: "clark county (wisconsin)" ; Times: 1
+	Query: "Apalis thoracica" ; Times: 2
+	Query: "genus:Copsychus institutioncode:ROM" ; Times: 1
+	Query: "human" ; Times: 1
+	Query: "genus:Mniotilta institutioncode:ROM tissue" ; Times: 3
+	Query: "Turdus cardis" ; Times: 1
+	Query: "genus:Sericulus institutioncode:ROM" ; Times: 1
+	Query: "wing chord specificepithet:cardinalis genus:Cardinalis continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Erithacus rubecula" ; Times: 3
+	Query: "Camaroptera brevicaudata" ; Times: 1
+	Query: "Turdus rufiventris" ; Times: 1
+	Query: "zosterops chloris" ; Times: 1
+	Query: "Ramphocelus flammigerus" ; Times: 1
+	Query: "specificepithet:aedon genus:troglodytes country:&#34;Belize&#34;" ; Times: 1
+	Query: "wizard" ; Times: 12
+	Query: "(saville)" ; Times: 1
+	Query: "Turdus chrysolaus" ; Times: 1
+	Query: "54851" ; Times: 1
+	Query: "prinia gracilis" ; Times: 1
+	Query: "specificepithet:albicollis genus:Zonotrichia continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:iris family:pipridae" ; Times: 1
+	Query: "milkweed" ; Times: 1
+	Query: "ROM 30246" ; Times: 1
+	Query: "catalognumber:157839 institutioncode:ROM" ; Times: 2
+	Query: "UWBM 52646" ; Times: 1
+	Query: "Sporophila lineola" ; Times: 1
+	Query: "Cisticola chiniana" ; Times: 2
+	Query: "Piranga bidentata" ; Times: 1
+	Query: "specificepithet:poliocephala genus:geothlypis country:&#34;Belize&#34;" ; Times: 1
+	Query: "anthus bogotensis" ; Times: 1
+	Query: "Pseudocolaptes boissonneautii" ; Times: 3
+	Query: "Graminicola bengalensis vntype:specimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:cardinalis genus:Cardinalis institutioncode:ROM" ; Times: 1
+	Query: "stateprovince:&#34;Missouri&#34; hasmass:1 haslength:1" ; Times: 1
+	Query: "gbifdatasetid:f6e21753-5129-498f-92bd-73710b0087e3 tachycineta thalassina" ; Times: 3
+	Query: "tropical birds" ; Times: 2
+	Query: "genus:Stenostira institutioncode:ROM" ; Times: 2
+	Query: "Garrulax cineraceus" ; Times: 1
+	Query: "BRADYPTERUS THORACICUS INDIA" ; Times: 1
+	Query: "Laniarius atrococcineus" ; Times: 1
+	Query: "kolkata" ; Times: 2
+	Query: "Batis molitor" ; Times: 2
+	Query: "specificepithet:pallens genus:Vireo institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "anthus correndera" ; Times: 1
+	Query: "class:aves county:&#34;hudspeth&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "50854" ; Times: 1
+	Query: "47132" ; Times: 1
+	Query: "genus:Spiza institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:rufifrons genus:basileuterus hasmass:1" ; Times: 2
+	Query: "erythrinus erythrinus" ; Times: 1
+	Query: "wing chord specificepithet:migratorius genus:Turdus continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "Turdus ruficollis" ; Times: 1
+	Query: "(12009)" ; Times: 1
+	Query: "Metabolus rugensis" ; Times: 1
+	Query: "mappable:1 scientificname:Passerina brissonii" ; Times: 12
+	Query: "ROM 113822" ; Times: 1
+	Query: "UWBM 52656" ; Times: 1
+	Query: "Dryoscopus cubla" ; Times: 1
+	Query: "Prinia burnesii vntype:specimen" ; Times: 1
+	Query: "saltator aurantiirostris" ; Times: 2
+	Query: "Turdus jamaicensis" ; Times: 1
+	Query: "100590" ; Times: 2
+	Query: "Telophorus sulfureopectus" ; Times: 1
+	Query: "specificepithet:swainsonii genus:limnothlypis" ; Times: 1
+	Query: "Turdus plumbeus" ; Times: 1
+	Query: "Sporopipes squamifrons" ; Times: 1
+	Query: "1896 Webster Canada" ; Times: 1
+	Query: "Quelea quelea" ; Times: 2
+	Query: "Lagonosticta senegala" ; Times: 2
+	Query: "Margarops fuscatus" ; Times: 1
+	Query: "catalognumber:106151 institutioncode:ROM" ; Times: 2
+	Query: "golden-winged warbler" ; Times: 1
+	Query: "parnell" ; Times: 1
+	Query: "UWBM 6391" ; Times: 1
+	Query: "10431" ; Times: 1
+	Query: "100552" ; Times: 1
+	Query: "Black Duck Ontario" ; Times: 1
+	Query: "&#34;JAM 3458&#34;" ; Times: 2
+	Query: "ROM 27276" ; Times: 1
+	Query: "stateprovince:&#34;Newfoundland&#34; institutioncode:ROM" ; Times: 3
+	Query: "stateprovince:&#34;Arusha&#34; continent:Africa" ; Times: 1
+	Query: "Pithys albifrons" ; Times: 2
+	Query: "137702" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "Tyrannus dominicensis" ; Times: 1
+	Query: "Turdus iliacus" ; Times: 1
+	Query: "Geospiza scandens" ; Times: 1
+	Query: "catalognumber:124639" ; Times: 1
+	Query: "Turdus merula" ; Times: 1
+	Query: "Certhidea olivacea" ; Times: 1
+	Query: "J.R. Hendrickson" ; Times: 1
+	Query: "Turdus naumanni" ; Times: 1
+	Query: "genus:myrmecocichla" ; Times: 1
+	Query: "Junco insularis" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Newfoundland&#34; institutioncode:ROM" ; Times: 3
+	Query: "tachycineta bicolor hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "locality:KERR WILDLIFE MANAGEMENT AREA" ; Times: 1
+	Query: "ROM 117057" ; Times: 2
+	Query: "genus:Ammodramus basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Acrocephalus baeticatus" ; Times: 1
+	Query: "macfarlane" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta hastissue:1" ; Times: 1
+	Query: "scientificname:Pipra pipra" ; Times: 1
+	Query: "erythrocercus francisi" ; Times: 2
+	Query: "specificepithet:caurinus genus:corvus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "wing chord specificepithet:cardinalis genus:Cardinalis continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "62511" ; Times: 1
+	Query: "UMMZ recordedby:Snyder" ; Times: 1
+	Query: "Sylvietta rufescens" ; Times: 1
+	Query: "genus:PHAENICOPHILUS institutioncode:ROM" ; Times: 1
+	Query: "Camarhynchus pallidus" ; Times: 1
+	Query: "Saxicola jerdoni vntype:specimen" ; Times: 1
+	Query: "Newfoundland specificepithet:minimus genus:Catharus" ; Times: 1
+	Query: "phylloscopus collybita india" ; Times: 1
+	Query: "genus:ANTHOCHAERA institutioncode:ROM" ; Times: 1
+	Query: "25126" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Karnataka&#34; country:&#34;India&#34; year &gt;= 1750 year &lt;= 1970" ; Times: 4
+	Query: "bellavista colombia" ; Times: 4
+	Query: "thoracica" ; Times: 1
+	Query: "specificepithet:gilvus genus:Vireo stateprovince:&#34;Baja California Sur&#34;" ; Times: 1
+	Query: "catalognumber:107857 institutioncode:ROM" ; Times: 2
+	Query: "139736" ; Times: 1
+	Query: "23783" ; Times: 2
+	Query: "catalognumber:118880 institutioncode:ROM" ; Times: 1
+	Query: "tachycineta bicolor hassex:1 hasmass:1" ; Times: 1
+	Query: "parus nuchalis vntype:specimen" ; Times: 1
+	Query: "Rhytipterna simplex" ; Times: 1
+	Query: "20582" ; Times: 1
+	Query: "Cisticola fulvicapilla" ; Times: 2
+	Query: "UWBM 12518" ; Times: 1
+	Query: "Pericrocotus erythropygius vntype:specimen" ; Times: 1
+	Query: "ROM 98384" ; Times: 1
+	Query: "wing chord specificepithet:albicollis genus:Zonotrichia continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "genus:Trochocercus institutioncode:ROM skeleton" ; Times: 2
+	Query: "Roraima Whitely" ; Times: 1
+	Query: "Turdus reevei" ; Times: 1
+	Query: "UWBM 433" ; Times: 1
+	Query: "mappable:1 scientificname:Erithacus rubecula" ; Times: 1
+	Query: "1906 osmaston" ; Times: 1
+	Query: "UWBM 35222" ; Times: 1
+	Query: "Emberiza tahapisi" ; Times: 1
+	Query: "Passerina rositae" ; Times: 1
+	Query: "20347" ; Times: 1
+	Query: "Cossypha dichroa" ; Times: 1
+	Query: "JAM 1672" ; Times: 1
+	Query: "Turdus philomelos" ; Times: 1
+	Query: "shufeldt" ; Times: 1
+	Query: "LSU 4523" ; Times: 1
+	Query: "Geospiza magnirostris" ; Times: 1
+	Query: "Buphagus" ; Times: 1
+	Query: "wing chord specificepithet:migratorius genus:Turdus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Pipilo class:Aves year &gt;= 1981 year &lt;= 1988" ; Times: 2
+	Query: "Myiarchus antillarum" ; Times: 1
+	Query: "wing chord specificepithet:calendula genus:Regulus continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "genus:ANTHOCHAERA institutioncode:ROM 1B" ; Times: 1
+	Query: "genus:ANTHOCHAERA institutioncode:ROM 76" ; Times: 1
+	Query: "53447" ; Times: 1
+	Query: "142864" ; Times: 2
+	Query: "Cymbilaimus lineatus" ; Times: 1
+	Query: "specificepithet:caroli genus:anthoscopus" ; Times: 1
+	Query: "catalognumber:108199 institutioncode:ROM" ; Times: 2
+	Query: "margarornis rubiginosus" ; Times: 1
+	Query: "Pithys" ; Times: 5
+	Query: "Steere Expedition" ; Times: 2
+	Query: "Gampsorhynchus rufulus" ; Times: 2
+	Query: "vntype:specimen specificepithet:serena family:pipridae" ; Times: 1
+	Query: "ROM 98383" ; Times: 1
+	Query: "saltator coerulescens vigorsii" ; Times: 1
+	Query: "129208" ; Times: 2
+	Query: "Tails" ; Times: 1
+	Query: "mappable:1 scientificname:Sarda sarda" ; Times: 3
+	Query: "genus:ANTHOCHAERA institutioncode:ROM carunculata" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanea genus:Passerina preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "genus:Spiza institutioncode:ROM scarborough" ; Times: 1
+	Query: "Turdoides bicolor" ; Times: 1
+	Query: "santander jimenez" ; Times: 4
+	Query: "&#34;JAM 3030&#34;" ; Times: 1
+	Query: "Foulehaio" ; Times: 1
+	Query: "(wisconsin clark)" ; Times: 1
+	Query: "institutioncode:ROM" ; Times: 4
+	Query: "vntype:specimen class:Aves country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "Passer diffusus" ; Times: 1
+	Query: "genus:PHYLIDONYRIS institutioncode:ROM 1B" ; Times: 1
+	Query: "ROM 118842" ; Times: 2
+	Query: "Pytilia melba" ; Times: 1
+	Query: "ploceus melanogaster" ; Times: 5
+	Query: "egg vntype:specimen specificepithet:migratorius genus:Turdus country:&#34;USA&#34; year &gt;= 1920 year &lt;= 2020 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "10766" ; Times: 1
+	Query: "107717" ; Times: 1
+	Query: "BRADYPTERUS THORACICUS" ; Times: 1
+	Query: "specificepithet:aedon genus:Troglodytes country:&#34;Belize&#34;" ; Times: 1
+	Query: "krauss" ; Times: 1
+	Query: "anthus lutescens" ; Times: 1
+	Query: "genus:passer year &gt;= 1800 year &lt;= 1870" ; Times: 1
+	Query: "wing chord specificepithet:albicollis genus:Zonotrichia continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "locality:frankford recordedby:miller" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Dumetella preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "Turdus nigrescens" ; Times: 1
+	Query: "scytalopus" ; Times: 2
+	Query: "Copsychus niger basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;Arusha&#34;" ; Times: 1
+	Query: "specificepithet:henslowii" ; Times: 1
+	Query: "Lagonosticta rubricata" ; Times: 6
+	Query: "arremon flavirostris" ; Times: 1
+	Query: "genus:Copsychus institutioncode:ROM 1008" ; Times: 1
+	Query: "catalognumber:13044 institutioncode:ROM" ; Times: 1
+	Query: "Camarhynchus parvulus" ; Times: 1
+	Query: "vntype:specimen specificepithet:coronata family:pipridae" ; Times: 1
+	Query: "chaetura Lawrencei" ; Times: 1
+	Query: "specificepithet:aedon genus:troglodytes stateprovince:&#34;texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Whitely 1883" ; Times: 2
+	Query: "moth" ; Times: 1
+	Query: "distance(location,geopoint(-23.36384358253802,-49.5530826012379))&lt;100000" ; Times: 1
+	Query: "Hirundo smithii" ; Times: 1
+	Query: "wing chord specificepithet:hyemalis genus:Junco continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "65634" ; Times: 1
+	Query: "genus:Mniotilta institutioncode:ROM" ; Times: 1
+	Query: "ROM 113250" ; Times: 1
+	Query: "ROM 127436" ; Times: 1
+	Query: "Miri is" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "127701" ; Times: 1
+	Query: "Gymnopithys rufigula" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "gbifdatasetid:f6e21753-5129-498f-92bd-73710b0087e3" ; Times: 3
+	Query: "genus:Elminia institutioncode:ROM" ; Times: 1
+	Query: "Tarapaca" ; Times: 1
+	Query: "Turdus pallidus" ; Times: 1
+	Query: "Turdus nigriceps" ; Times: 1
+	Query: "95097" ; Times: 2
+	Query: "Franklin 1888" ; Times: 1
+	Query: "Underwood year &gt;= 1895 year &lt;= 1895 month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "Bradypterus barratti" ; Times: 3
+	Query: "Pycnonotus tricolor" ; Times: 2
+	Query: "osmaston 1904" ; Times: 1
+	Query: "wing chord specificepithet:hyemalis genus:Junco continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 2
+	Query: "UWBM 52667" ; Times: 1
+	Query: "Tchagra australis" ; Times: 1
+	Query: "Uraeginthus angolensis" ; Times: 1
+	Query: "Turdus obscurus" ; Times: 1
+	Query: "passer domesticus oklahoma" ; Times: 1
+	Query: "specificepithet:poliocephala genus:Geothlypis country:&#34;Belize&#34;" ; Times: 1
+	Query: "ROM 116805" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 1
+	Query: "anthreptes iris" ; Times: 2
+	Query: "aves bolivia" ; Times: 1
+	Query: "122944" ; Times: 1
+	Query: "class:aves locality:indio" ; Times: 1
+	Query: "Geothlypis poliocephala" ; Times: 1
+	Query: "specificepithet:nitidula genus:mandingoa country:&#34;kenya&#34;" ; Times: 1
+	Query: "clark county wisconsin" ; Times: 1
+	Query: "22692" ; Times: 1
+	Query: "UWBM 6922" ; Times: 1
+	Query: "Mirafra sabota" ; Times: 1
+	Query: "12803" ; Times: 2
+	Query: "Turdus plebejus" ; Times: 1
+	Query: "junco insularis" ; Times: 1
+	Query: "specificepithet:coronata family:pipridae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ammodramus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "saltatricula multicolor" ; Times: 3
+	Query: "vntype:specimen genus:Foulehaio" ; Times: 1
+	Query: "nicobar" ; Times: 2
+	Query: "ROM 116835" ; Times: 1
+	Query: "genus:Culicicapa institutioncode:ROM" ; Times: 1
+	Query: "Lawas 1896" ; Times: 1
+	Query: "Phaenostictus mcleannani" ; Times: 2
+	Query: "103517" ; Times: 1
+	Query: "Zoothera aurea" ; Times: 1
+	Query: "egg vntype:specimen specificepithet:migratorius genus:turdus country:&#34;USA&#34; year &gt;= 1920 year &lt;= 2020 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "vntype:specimen specificepithet:isidorei family:pipridae" ; Times: 1
+	Query: "Ficedula hyperythra basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "class:Aves country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "specificepithet:caroli genus:anthoscopus country:&#34;uganda&#34;" ; Times: 1
+	Query: "Gymnopithys leucaspis" ; Times: 1
+	Query: "Geospiza fuliginosa" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 1521 download events in this period)
+Total number of records downloaded: 9497
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Netherlands ; Times: 3
+	Country: Mexico ; Times: 7
+	Country: Denmark ; Times: 1
+	Country: India ; Times: 6
+	Country: France ; Times: 1
+	Country: United States ; Times: 25
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 2
+	Date: 2020-10-22 ; Times: 6
+	Date: 2020-10-20 ; Times: 24
+	Date: 2020-10-26 ; Times: 4
+	Date: 2020-10-13 ; Times: 3
+	Date: 2020-10-03 ; Times: 3
+	Date: 2020-10-28 ; Times: 2
+	Date: 2020-10-05 ; Times: 1
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-07 ; Times: 1
+	Date: 2020-10-15 ; Times: 4
+	Date: 2020-10-23 ; Times: 1
+	Date: 2020-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "anthus lutescens" ; Times: 1
+	Query: "aves brazil" ; Times: 1
+	Query: "aves paraguay" ; Times: 1
+	Query: "genus:Catharus hasmass:1" ; Times: 1
+	Query: "wing chord specificepithet:migratorius genus:Turdus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ammodramus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "wing chord specificepithet:calendula genus:Regulus continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:coronata family:pipridae" ; Times: 1
+	Query: "wing chord specificepithet:cardinalis genus:Cardinalis continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:calendula genus:Regulus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 2
+	Query: "anthus correndera" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Passerina rositae" ; Times: 3
+	Query: "vntype:specimen specificepithet:serena family:pipridae" ; Times: 1
+	Query: "vntype:specimen (birds) hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "prinia gracilis" ; Times: 1
+	Query: "specificepithet:albicollis genus:Zonotrichia continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:iris family:pipridae" ; Times: 1
+	Query: "class:Aves country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:myrmecocichla" ; Times: 1
+	Query: "wing chord specificepithet:hyemalis genus:Junco continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "wing chord specificepithet:albicollis genus:Zonotrichia continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "tachycineta bicolor hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "anthus bogotensis" ; Times: 1
+	Query: "passer domesticus oklahoma" ; Times: 1
+	Query: "Graminicola bengalensis vntype:specimen" ; Times: 1
+	Query: "aves bolivia" ; Times: 1
+	Query: "wing chord specificepithet:cardinalis genus:Cardinalis continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "wing chord specificepithet:hyemalis genus:Junco continent:North America haslifestage:1 hassex:1" ; Times: 2
+	Query: "wing chord specificepithet:calendula genus:Regulus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Junco insularis" ; Times: 1
+	Query: "junco insularis" ; Times: 1
+	Query: "Saxicola jerdoni vntype:specimen" ; Times: 1
+	Query: "specificepithet:migratorius genus:Turdus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Karnataka&#34; country:&#34;India&#34; year &gt;= 1750 year &lt;= 1970" ; Times: 1
+	Query: "class:Aves country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "wing chord specificepithet:migratorius genus:Turdus continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "tachycineta bicolor hassex:1 hasmass:1" ; Times: 1
+	Query: "parus nuchalis vntype:specimen" ; Times: 1
+	Query: "Carpodacus mexicanus amplus" ; Times: 1
+	Query: "Pseudocolaptes boissonneautii" ; Times: 1
+	Query: "Pericrocotus erythropygius vntype:specimen" ; Times: 1
+	Query: "Prinia burnesii vntype:specimen" ; Times: 1
+	Query: "wing chord specificepithet:albicollis genus:Zonotrichia continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:isidorei family:pipridae" ; Times: 1
+
+
+End of report.
