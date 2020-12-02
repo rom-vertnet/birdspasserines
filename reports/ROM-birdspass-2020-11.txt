@@ -1,0 +1,417 @@
+Report for Institution Code ROM, Resource birdspass
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 396
+Number of records retrieved in searches: 4827
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 28
+	Country: Brazil ; Times: 50
+	Country: Italy ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 27
+	Country: France ; Times: 9
+	Country: Ireland ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: Germany ; Times: 6
+	Country: Belgium ; Times: 13
+	Country: Netherlands ; Times: 2
+	Country: Denmark ; Times: 5
+	Country: United States ; Times: 105
+	Country: Sweden ; Times: 4
+	Country: Vietnam ; Times: 2
+	Country: Switzerland ; Times: 19
+	Country: New Zealand ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 111
+	Country: Colombia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 22
+	Date: 2020-11-21 ; Times: 1
+	Date: 2020-11-22 ; Times: 5
+	Date: 2020-11-23 ; Times: 18
+	Date: 2020-11-24 ; Times: 3
+	Date: 2020-11-25 ; Times: 13
+	Date: 2020-11-26 ; Times: 15
+	Date: 2020-11-09 ; Times: 5
+	Date: 2020-11-06 ; Times: 28
+	Date: 2020-11-07 ; Times: 3
+	Date: 2020-11-04 ; Times: 8
+	Date: 2020-11-05 ; Times: 8
+	Date: 2020-11-02 ; Times: 78
+	Date: 2020-11-03 ; Times: 1
+	Date: 2020-11-01 ; Times: 8
+	Date: 2020-11-08 ; Times: 2
+	Date: 2020-11-27 ; Times: 5
+	Date: 2020-11-19 ; Times: 23
+	Date: 2020-11-18 ; Times: 5
+	Date: 2020-11-30 ; Times: 13
+	Date: 2020-11-15 ; Times: 13
+	Date: 2020-11-14 ; Times: 24
+	Date: 2020-11-17 ; Times: 6
+	Date: 2020-11-16 ; Times: 13
+	Date: 2020-11-11 ; Times: 5
+	Date: 2020-11-10 ; Times: 12
+	Date: 2020-11-13 ; Times: 56
+	Date: 2020-11-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "ROM 112569" ; Times: 1
+	Query: "genus:Leucopsar institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:107943 institutioncode:ROM" ; Times: 1
+	Query: "Royal Ontario Museum" ; Times: 1
+	Query: "recordedby: Fraser" ; Times: 2
+	Query: "specificepithet:petechia continent:Caribbean" ; Times: 1
+	Query: "mappable:1 scientificname:Tangara mexicana" ; Times: 1
+	Query: "mappable:1 scientificname:Philydor lichtensteini" ; Times: 1
+	Query: "catalognumber:122162 institutioncode:ROM" ; Times: 1
+	Query: "63396" ; Times: 1
+	Query: "myiagra feminina" ; Times: 1
+	Query: "Turdus cardis" ; Times: 1
+	Query: "mappable:1 scientificname:Hemitriccus orbitatus" ; Times: 1
+	Query: "151490" ; Times: 1
+	Query: "catalognumber:5627" ; Times: 1
+	Query: "catalognumber:114642" ; Times: 2
+	Query: "catalognumber:114639" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "catalognumber:122130 institutioncode:ROM" ; Times: 1
+	Query: "Turdus rufiventris" ; Times: 2
+	Query: "Aegithina tiphia septentrionalis" ; Times: 1
+	Query: "Pycnonotus jocosus" ; Times: 1
+	Query: "stateprovince:&#34;Casanare&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Procnias nudicollis" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "genus:Limnothlypis" ; Times: 1
+	Query: "ROM 115479" ; Times: 1
+	Query: "Calandrella cinerea" ; Times: 1
+	Query: "Dysithamnus occidentalis" ; Times: 1
+	Query: "catalognumber:137605" ; Times: 1
+	Query: "Piranga bidentata" ; Times: 2
+	Query: "genus:anthochaera institutioncode:ROM" ; Times: 1
+	Query: "50647" ; Times: 1
+	Query: "Melospiza melodia melodia rom" ; Times: 1
+	Query: "mappable:1 scientificname:Tangara seledon" ; Times: 1
+	Query: "mappable:1 scientificname:Mackenziaena leachii" ; Times: 1
+	Query: "Panurus biarmicus" ; Times: 1
+	Query: "46277" ; Times: 1
+	Query: "catalognumber:108235 institutioncode:ROM" ; Times: 1
+	Query: "mappable:1 scientificname:Phyllomyias virescens" ; Times: 1
+	Query: "146901" ; Times: 1
+	Query: "155417" ; Times: 1
+	Query: "specificepithet:cardinalis genus:cardinalis hastissue:1" ; Times: 1
+	Query: "mappable:1 scientificname:Ilicura militaris" ; Times: 1
+	Query: "Paroaria coronata" ; Times: 1
+	Query: "Turdus eunomus" ; Times: 1
+	Query: "Corvus splendens" ; Times: 1
+	Query: "catalognumber:47737 institutioncode:ROM" ; Times: 1
+	Query: "151488" ; Times: 1
+	Query: "51561" ; Times: 1
+	Query: "Megalurus punctatus" ; Times: 1
+	Query: "Criniger flaveolus" ; Times: 1
+	Query: "Lonchura castaneothorax" ; Times: 1
+	Query: "Bwamba" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "13603" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 3
+	Query: "catalognumber:51695" ; Times: 2
+	Query: "parus cyanus" ; Times: 4
+	Query: "catalognumber:122162 institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "119504" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "catalognumber:94206" ; Times: 1
+	Query: "ROM 104398" ; Times: 1
+	Query: "mappable:1 scientificname:Ramphocelus bresilius" ; Times: 1
+	Query: "Acrocephalus scirpaceus" ; Times: 1
+	Query: "Hippolais polyglotta" ; Times: 1
+	Query: "Moho bishopi" ; Times: 1
+	Query: "genus: Sericulus institutioncode:ROM" ; Times: 1
+	Query: "mappable:1 scientificname:Tangara cyanoptera" ; Times: 1
+	Query: "ROM 64983" ; Times: 1
+	Query: "genus:anthochaera institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "recordedby:A. T. Peterson" ; Times: 1
+	Query: "Acrocephalus arundinaceus" ; Times: 1
+	Query: "aves oenanthe cyprus" ; Times: 1
+	Query: "limnothlypis swainsonii" ; Times: 1
+	Query: "Dendronanthus indicus" ; Times: 1
+	Query: "emberizoides" ; Times: 1
+	Query: "Chrysomma sinense saturatius" ; Times: 1
+	Query: "Corvus corone" ; Times: 1
+	Query: "institutioncode:ROM" ; Times: 2
+	Query: "mappable:1 scientificname:Muscipipra vetula" ; Times: 1
+	Query: "mappable:1 scientificname:Tangara brasiliensis" ; Times: 1
+	Query: "13425" ; Times: 1
+	Query: "15255" ; Times: 1
+	Query: "20507" ; Times: 1
+	Query: "Oenanthe ssp" ; Times: 1
+	Query: "47889" ; Times: 1
+	Query: "Petroica goodenovii" ; Times: 1
+	Query: "Deep River Connecticut" ; Times: 1
+	Query: "ROM 120504" ; Times: 1
+	Query: "specificepithet:sandwichensis genus:Ammodramus county:&#34;Solano&#34; stateprovince:&#34;California&#34; institutioncode:ROM" ; Times: 1
+	Query: "genus:Dicrurus hastissue:1" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "Carpodacus erythrinus" ; Times: 1
+	Query: "ROM 30263" ; Times: 1
+	Query: "Turdus merula" ; Times: 1
+	Query: "Tachycineta leucopyga" ; Times: 1
+	Query: "Corvus monedula" ; Times: 2
+	Query: "mappable:1 scientificname:Myiornis auricularis" ; Times: 1
+	Query: "mappable:1 scientificname:Hypoedaleus guttatus" ; Times: 1
+	Query: "22086" ; Times: 1
+	Query: "Sylvia atricapilla" ; Times: 2
+	Query: "Phylloscopus fuscatus" ; Times: 1
+	Query: "145290" ; Times: 1
+	Query: "mappable:1 scientificname:Onychorhynchus coronatus" ; Times: 1
+	Query: "mappable:1 scientificname:Schiffornis virescens" ; Times: 1
+	Query: "sex:female year &gt;= 1940 year &lt;= 1945 institutioncode:ROM" ; Times: 1
+	Query: "Chaetura occidentalis" ; Times: 2
+	Query: "Myiagra rufiventris" ; Times: 1
+	Query: "Dendrocitta formosae" ; Times: 1
+	Query: "ROM 30282" ; Times: 1
+	Query: "ROM 118740" ; Times: 1
+	Query: "ROM 113698" ; Times: 1
+	Query: "specificepithet:mexicanus genus:cinclus country:&#34;costa rica&#34;" ; Times: 1
+	Query: "18186" ; Times: 1
+	Query: "ROM 77744" ; Times: 1
+	Query: "Phoenicurus auroreus" ; Times: 1
+	Query: "ROM 118842" ; Times: 2
+	Query: "46954" ; Times: 1
+	Query: "catalognumber:122087 institutioncode:ROM" ; Times: 1
+	Query: "mappable:1 scientificname:Chiroxiphia caudata" ; Times: 1
+	Query: "Hypergerus atriceps" ; Times: 1
+	Query: "Garrulus glandarius" ; Times: 4
+	Query: "aves cyprus cm birds" ; Times: 1
+	Query: "vntype:specimen specificepithet:celebense genus:Trichastoma" ; Times: 1
+	Query: "genus:Spiza institutioncode:ROM hastissue:1" ; Times: 2
+	Query: "Zosterops finschii" ; Times: 1
+	Query: "20227" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "Cisticola cantans" ; Times: 1
+	Query: "mappable:1 scientificname:Iodopleura pipra" ; Times: 1
+	Query: "mappable:1 scientificname:Arremon semitorquatus" ; Times: 1
+	Query: "Weevil" ; Times: 1
+	Query: "specificepithet:sandwichensis genus:Ammodramus year &gt;= 1980 year &lt;= 2020 institutioncode:ROM" ; Times: 1
+	Query: "Hirundo tahitica" ; Times: 1
+	Query: "Garrulax cineraceus" ; Times: 1
+	Query: "black bear" ; Times: 11
+	Query: "aves melanothorax cyprus" ; Times: 1
+	Query: "Reggio Emilia" ; Times: 1
+	Query: "mappable:1 scientificname:Hylophilus poicilotis" ; Times: 1
+	Query: "Tachycineta leucorrhoa" ; Times: 1
+	Query: "genus:Cinnycerthia institutioncode:ROM" ; Times: 1
+	Query: "genus:Phaenicophilus institutioncode:ROM" ; Times: 1
+	Query: "Petroica multicolor" ; Times: 1
+	Query: "Hirundo rustica" ; Times: 1
+	Query: "Acrocephalus dumetorum" ; Times: 1
+	Query: "60802" ; Times: 1
+	Query: "vntype:specimen genus:Toxorhamphus" ; Times: 1
+	Query: "Coracina macei" ; Times: 1
+	Query: "Lonchura cucullata" ; Times: 2
+	Query: "mappable:1 scientificname:Hemithraupis ruficapilla" ; Times: 1
+	Query: "mappable:1 scientificname:Euphonia pectoralis" ; Times: 1
+	Query: "specificepithet:pectoralis genus:Polystictus basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Corvus macrorhynchos" ; Times: 1
+	Query: "Pycnonotus xanthorrhous" ; Times: 1
+	Query: "Montifringilla adamsi" ; Times: 1
+	Query: "Tachycineta albiventer" ; Times: 1
+	Query: "Moho nobilis" ; Times: 1
+	Query: "Turdus philomelos" ; Times: 1
+	Query: "117168" ; Times: 1
+	Query: "ROM 108194" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis sex:female year &gt;= 1940 year &lt;= 1945 institutioncode:ROM" ; Times: 1
+	Query: "aves cyprus" ; Times: 17
+	Query: "Petroica macrocephala" ; Times: 1
+	Query: "ROM 77749" ; Times: 1
+	Query: "ROM 46962" ; Times: 1
+	Query: "Apalopteron familiare" ; Times: 2
+	Query: "(Oenanthe hispanica) year &gt;= 1900 year &lt;= 1940" ; Times: 1
+	Query: "catalognumber:108199 institutioncode:ROM" ; Times: 3
+	Query: "mappable:1 scientificname:Attila rufus" ; Times: 1
+	Query: "Acrocephalus orientalis" ; Times: 1
+	Query: "mappable:1 scientificname:Pyriglena leucoptera" ; Times: 1
+	Query: "14187" ; Times: 1
+	Query: "aves cyprus cypriaca" ; Times: 1
+	Query: "A-95097" ; Times: 1
+	Query: "Delichon urbica" ; Times: 1
+	Query: "ROM 97924" ; Times: 1
+	Query: "genus:sericulus institutioncode:ROM" ; Times: 1
+	Query: "46899" ; Times: 1
+	Query: "specificepithet:sandwichensis genus:Ammodramus year &gt;= 1995 year &lt;= 2000 institutioncode:ROM" ; Times: 1
+	Query: "mappable:1 scientificname:Herpsilochmus pileatus" ; Times: 1
+	Query: "Phylloscopus sibilatrix" ; Times: 1
+	Query: "genus: Anthochaera institutioncode:ROM" ; Times: 1
+	Query: "turdus nigriceps" ; Times: 1
+	Query: "mappable:1 scientificname:Dendrocincla turdina" ; Times: 2
+	Query: "mappable:1 scientificname:Conopophaga melanops" ; Times: 1
+	Query: "ROM 103412" ; Times: 1
+	Query: "peabody minnesota" ; Times: 1
+	Query: "griseus hasmass:1 haslength:1" ; Times: 1
+	Query: "pine warbler nest" ; Times: 1
+	Query: "Pycnonotus barbatus" ; Times: 1
+	Query: "53616" ; Times: 1
+	Query: "Prinia subflava" ; Times: 1
+	Query: "AVES CYPRUS" ; Times: 7
+	Query: "mappable:1 scientificname:Machaeropterus regulus" ; Times: 1
+	Query: "county:&#34;Nipissing&#34; stateprovince:&#34;ontario&#34; institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "110052" ; Times: 2
+	Query: "110051" ; Times: 1
+	Query: "51046" ; Times: 1
+	Query: "class:Aves institutioncode:ROM" ; Times: 3
+	Query: "Hypsipetes philippinus" ; Times: 1
+	Query: "mappable:1 scientificname:Philydor atricapillus" ; Times: 1
+	Query: "11258" ; Times: 1
+	Query: "class:Aves county:&#34;Nipissing&#34; stateprovince:&#34;ontario&#34; institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;ontario&#34; institutioncode:ROM hastissue:1" ; Times: 2
+	Query: "117175" ; Times: 1
+	Query: "fuscobrunneus" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo county:&#34;san diego&#34;" ; Times: 1
+	Query: "Hypsipetes amaurotis" ; Times: 1
+	Query: "Oenanthe cypriaca" ; Times: 1
+	Query: "Oenanthe isabellina" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Maine&#34; year &gt;= 1975 hastissue:1" ; Times: 1
+	Query: "ROM 113593" ; Times: 1
+	Query: "Oenanthe pleschanka" ; Times: 9
+	Query: "Ficedula albicollis" ; Times: 1
+	Query: "ROM 48716" ; Times: 1
+	Query: "118270" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer institutioncode:ROM" ; Times: 1
+	Query: "Criniger ochraceus" ; Times: 1
+	Query: "113593" ; Times: 1
+	Query: "brachypteryx montana" ; Times: 1
+	Query: "Kakamega forest" ; Times: 7
+	Query: "14872" ; Times: 1
+	Query: "ROM 80823" ; Times: 1
+	Query: "peabody vntype:specimen year &gt;= 1870 year &lt;= 1929" ; Times: 1
+	Query: "Phylloscopus inornatus" ; Times: 1
+	Query: "Turdus naumanni" ; Times: 1
+	Query: "mappable:1 scientificname:Myrmotherula axillaris" ; Times: 1
+	Query: "Zoothera aurea" ; Times: 1
+	Query: "Sitta europaea" ; Times: 2
+	Query: "ash tree" ; Times: 1
+	Query: "mappable:1 scientificname:Orthogonys chloricterus" ; Times: 1
+	Query: "aves cypriaca cyprus" ; Times: 1
+	Query: "genus:Copsychus institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "Tachycineta thalassina" ; Times: 1
+	Query: "Moho braccatus" ; Times: 1
+	Query: "House Wren" ; Times: 1
+	Query: "Montifringilla nivalis" ; Times: 1
+	Query: "birds skeletons" ; Times: 1
+	Query: "60-312" ; Times: 1
+	Query: "ROM 98714" ; Times: 1
+	Query: "stuttgart" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "ROM 120661" ; Times: 1
+	Query: "family:Alaudidae hastissue:1" ; Times: 1
+	Query: "enodes centralis" ; Times: 1
+	Query: "ROM 117095" ; Times: 1
+	Query: "specificepithet:sandwichensis genus:Ammodramus country:&#34;Mexico&#34; institutioncode:ROM" ; Times: 1
+	Query: "(Oenanthe hispanica) year &gt;= 1900 year &lt;= 1920" ; Times: 1
+	Query: "mappable:1 scientificname:Tangara cyanocephala" ; Times: 1
+	Query: "106376" ; Times: 1
+	Query: "specificepithet:mexicanus genus:cinclus stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "Phoenicurus phoenicurus" ; Times: 1
+	Query: "mappable:1 scientificname:Onychorhynchus swainsoni" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 3
+	Query: "genus: spiza institutioncode:ROM" ; Times: 1
+	Query: "Pycnonotus finlaysoni" ; Times: 1
+	Query: "Oenanthe hispanica" ; Times: 7
+	Query: "specificepithet:sandwichensis genus:Ammodramus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; institutioncode:ROM" ; Times: 2
+	Query: "Pycnonotus sinensis" ; Times: 1
+	Query: "limnothlypis swainsonii (sex)" ; Times: 1
+	Query: "&#34;Deep River&#34; Connecticut" ; Times: 1
+	Query: "62435" ; Times: 2
+	Query: "Oenanthe melanoleuca" ; Times: 1
+	Query: "ROM ROM 117179" ; Times: 1
+	Query: "distance(location,geopoint(0.3515004317455209,39.7848282935589))&lt;100000" ; Times: 1
+	Query: "147478" ; Times: 3
+	Query: "class:aves county:&#34;Dare&#34; stateprovince:&#34;North Carolina&#34; year &gt;= 1988 year &lt;= 1988" ; Times: 2
+	Query: "mappable:1 scientificname:Thraupis cyanoptera" ; Times: 1
+	Query: "catalognumber:107858 institutioncode:ROM" ; Times: 2
+	Query: "american kestrel" ; Times: 1
+	Query: "Hypsipetes leucocephalus" ; Times: 1
+	Query: "Prunella modularis" ; Times: 1
+	Query: "patagonicus hasmass:1" ; Times: 1
+	Query: "149319" ; Times: 1
+	Query: "155412" ; Times: 1
+	Query: "catalognumber:56576" ; Times: 1
+	Query: "Hypopyrrhus pyrohypogaster" ; Times: 2
+	Query: "catalognumber:122091 institutioncode:ROM" ; Times: 1
+	Query: "Spizixos semitorques" ; Times: 1
+	Query: "Melophus" ; Times: 1
+	Query: "mappable:1 scientificname:Phylloscartes eximius" ; Times: 2
+	Query: "12415" ; Times: 2
+	Query: "ROM 62543" ; Times: 1
+	Query: "mappable:1 scientificname:Tachyphonus coronatus" ; Times: 1
+	Query: "ROM 61948" ; Times: 1
+	Query: "mappable:1 scientificname:Cotinga maculata" ; Times: 1
+	Query: "ROM 104426" ; Times: 1
+	Query: "Guerrero El Salado" ; Times: 1
+	Query: "ROM 116887" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Phibalura flavirostris" ; Times: 1
+	Query: "specificepithet:baboecala country:&#34;Uganda&#34;" ; Times: 1
+	Query: "Chaetura schistacea" ; Times: 2
+	Query: "specificepithet:caroli genus:anthoscopus country:&#34;uganda&#34;" ; Times: 1
+	Query: "Bradypterus baboecala" ; Times: 2
+	Query: "ROM 117163" ; Times: 1
+	Query: "anthus bogotensis" ; Times: 1
+	Query: "mappable:1 scientificname:Tangara desmaresti" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 842 download events in this period)
+Total number of records downloaded: 34242
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-30 ; Times: 1
+	Date: 2020-11-23 ; Times: 2
+	Date: 2020-11-25 ; Times: 4
+	Date: 2020-11-09 ; Times: 3
+	Date: 2020-11-17 ; Times: 3
+	Date: 2020-11-05 ; Times: 1
+	Date: 2020-11-02 ; Times: 3
+	Date: 2020-11-10 ; Times: 1
+	Date: 2020-11-13 ; Times: 1
+	Date: 2020-11-03 ; Times: 1
+	Date: 2020-11-27 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:ruticilla genus:Setophaga" ; Times: 1
+	Query: "specificepithet:pectoralis genus:Polystictus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruticilla genus:setophaga" ; Times: 2
+	Query: "Moho nobilis" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer institutioncode:ROM" ; Times: 1
+	Query: "Moho braccatus" ; Times: 1
+	Query: "hassex:1 hasmass:1" ; Times: 1
+	Query: "carriker class:Aves country:&#34;colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:petechia continent:Caribbean" ; Times: 1
+	Query: "specificepithet:petechia" ; Times: 1
+	Query: "carriker country:&#34;colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "limnothlypis swainsonii (sex)" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer year &gt;= 1980 year &lt;= 2021" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer year &gt;= 1980 year &lt;= 1999" ; Times: 1
+	Query: "Bwamba" ; Times: 1
+	Query: "tabasco" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "specificepithet:sandwichensis genus:Ammodramus year &gt;= 1980 year &lt;= 2020 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:petechia hastissue:1" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "vntype:specimen genus:Toxorhamphus" ; Times: 1
+	Query: "Moho bishopi" ; Times: 1
+
+
+End of report.
